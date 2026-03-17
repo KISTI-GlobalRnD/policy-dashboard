@@ -1,7 +1,7 @@
 import { DashboardWorkbenchPage } from "../modules/dashboard-ui/DashboardWorkbenchPage";
 import { MappingWorkbenchPage } from "../modules/dashboard-ui/MappingWorkbenchPage";
 
-function getViewMode(): "dashboard" | "mapping-matrix" | "mapping-network" {
+function getViewMode(): "dashboard" | "mapping-matrix" | "mapping-network" | "mapping-ontology-network" {
   const params = new URLSearchParams(window.location.search);
   const view = params.get("view");
   const board = params.get("board");
@@ -12,6 +12,10 @@ function getViewMode(): "dashboard" | "mapping-matrix" | "mapping-network" {
 
   if (view === "network" || board === "network") {
     return "mapping-network";
+  }
+
+  if (board === "ontology-network" || board === "ontology") {
+    return "mapping-ontology-network";
   }
 
   if (view === "mapping") {
@@ -26,6 +30,10 @@ export function App() {
 
   if (viewMode === "mapping-network") {
     return <MappingWorkbenchPage initialMode="network" />;
+  }
+
+  if (viewMode === "mapping-ontology-network") {
+    return <MappingWorkbenchPage initialMode="ontology-network" />;
   }
 
   if (viewMode === "mapping-matrix") {

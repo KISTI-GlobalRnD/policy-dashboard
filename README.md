@@ -53,3 +53,14 @@
 - `docs/03_minimum-data-model.md`
 - `work/01_scope-and-ia/requirements/04_document-registry.csv`
 - `work/02_structured-extraction/manifests/00_extraction-spec.md`
+
+## 정적 배포
+
+- 위치: `work/05_dashboard/frontend`
+- 동작 방식: 데이터는 `frontend/public/data/*.json`을 브라우저에서 직접 읽습니다. 백엔드 API가 필요 없습니다.
+- 정적 번들 생성:
+  - `npm run build`
+  - 산출물: `work/05_dashboard/frontend/dist`
+- 배포:
+  - `dist/` 폴더를 정적 웹서버(예: Nginx, GitHub Pages, S3 + CloudFront)에 업로드합니다.
+  - 라우팅은 쿼리 파라미터(`?view=...`, `?board=...`)만 사용하므로 별도 서버 라우팅 규칙이 없습니다.

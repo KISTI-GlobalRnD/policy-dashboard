@@ -12,9 +12,11 @@ import { MappingHeader } from "./MappingHeader";
 import { PolicyLedgerPanel } from "./PolicyLedgerPanel";
 import { PolicyTechMatrixBoard } from "./PolicyTechMatrixBoard";
 import { PolicyTechNetworkMap } from "./PolicyTechNetworkMap";
+import { OntologyTechNetworkMap } from "./OntologyTechNetworkMap";
+import { useOntologyNetworkDataset } from "../dashboard-data/useOntologyNetworkDataset";
 import styles from "./MappingWorkbenchPage.module.css";
 
-type MappingBoardMode = "matrix" | "network";
+type MappingBoardMode = "matrix" | "network" | "ontology-network";
 
 type MappingWorkbenchPageProps = {
   initialMode?: MappingBoardMode;
@@ -22,6 +24,7 @@ type MappingWorkbenchPageProps = {
 
 export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenchPageProps) {
   const { data, error, isLoading } = useDashboardDataset();
+  const { data: ontologyNetworkData, error: ontologyNetworkError, isLoading: isOntologyNetworkLoading } = useOntologyNetworkDataset();
   const [isOverviewOpen, setOverviewOpen] = useState(false);
   const [isFilterOpen, setFilterOpen] = useState(false);
   const [boardMode, setBoardMode] = useState<MappingBoardMode>(initialMode);
@@ -202,13 +205,27 @@ export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenc
     return `${window.location.pathname}${query ? `?${query}` : ""}`;
   })();
 
-  if (isLoading) {
+  const isOntologyModeLoading = boardMode === "ontology-network" && isOntologyNetworkLoading;
+
+  if (isLoading || isOntologyModeLoading) {
     return (
       <main className={styles.shell}>
         <EmptyState
           eyebrow="Loading"
           title="매핑 워크벤치를 준비하는 중"
           body="정책과 기술 대분류 매트릭스를 만들기 위해 curated pack을 읽고 있습니다."
+        />
+      </main>
+    );
+  }
+
+  if (boardMode === "ontology-network" && (ontologyNetworkError || !ontologyNetworkData)) {
+    return (
+      <main className={styles.shell}>
+        <EmptyState
+          eyebrow="Load Error"
+          title="온톨로지 네트워크 데이터를 불러오지 못했습니다."
+          body={ontologyNetworkError?.message ?? "technology-lens projection 로딩에 실패했습니다."}
         />
       </main>
     );
@@ -270,6 +287,13 @@ export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenc
           >
             네트워크
           </button>
+          <button
+            type="button"
+            className={boardMode === "ontology-network" ? styles.tabButtonActive : styles.tabButton}
+            onClick={() => syncBoardModeToUrl("ontology-network")}
+          >
+            온톨로지 네트워크
+          </button>
         </div>
       </section>
 
@@ -326,6 +350,17 @@ export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenc
             <PolicyTechMatrixBoard
               rows={viewModel.matrixRows}
               domains={viewModel.matrixDomains}
+              selectedPolicyId={viewModel.suggestedInspectorPolicyId}
+              selectedDomainId={viewModel.suggestedInspectorTechDomainId}
+              onSelectPolicy={(policyId) => (policyId ? handleSelectPolicySummary(policyId) : clearInspector())}
+              onSelectDomain={(domainId) => (domainId ? handleSelectDomainSummary(domainId) : clearInspector())}
+              onSelectCell={selectCell}
+            />
+          ) : boardMode === "ontology-network" ? (
+            <OntologyTechNetworkMap
+              projection={ontologyNetworkData!}
+              search={search}
+              activePolicyId={viewModel.suggestedInspectorPolicyId}
               selectedPolicyId={viewModel.suggestedInspectorPolicyId}
               selectedDomainId={viewModel.suggestedInspectorTechDomainId}
               onSelectPolicy={(policyId) => (policyId ? handleSelectPolicySummary(policyId) : clearInspector())}

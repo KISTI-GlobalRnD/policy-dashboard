@@ -184,9 +184,15 @@ export function DashboardWorkbenchPage() {
     networkParams.set("board", "network");
     const mappingNetworkHref = `${window.location.pathname}?${networkParams.toString()}`;
 
+    const ontologyNetworkParams = new URLSearchParams(params);
+    ontologyNetworkParams.set("view", "mapping");
+    ontologyNetworkParams.set("board", "ontology-network");
+    const ontologyNetworkHref = `${window.location.pathname}?${ontologyNetworkParams.toString()}`;
+
     return {
       mappingWorkbenchHref,
       mappingNetworkHref,
+      ontologyNetworkHref,
     };
   })();
 
@@ -202,6 +208,7 @@ export function DashboardWorkbenchPage() {
         packId={data.sample_scope.pack_id}
         mappingWorkbenchUrl={dashboardLinks.mappingWorkbenchHref}
         mappingNetworkUrl={dashboardLinks.mappingNetworkHref}
+        mappingOntologyNetworkUrl={dashboardLinks.ontologyNetworkHref}
       />
       <PipelineStrip />
       <FilterBar

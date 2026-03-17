@@ -12,6 +12,7 @@ import {
   reviewStatusSchema,
   sampleScopeSchema,
   sourceAssetSchema,
+  technologyLensProjectionSchema,
   taxonomySchema,
 } from "./dashboard.schema";
 
@@ -28,6 +29,7 @@ export type SourceAssetDto = z.infer<typeof sourceAssetSchema>;
 export type TaxonomyDto = z.infer<typeof taxonomySchema>;
 export type ReviewStatus = z.infer<typeof reviewStatusSchema>;
 export type MappingSupportDto = z.infer<typeof mappingSupportSchema>;
+export type TechnologyLensProjection = z.infer<typeof technologyLensProjectionSchema>;
 
 export type ResourceCategoryId = "all" | "technology" | "infrastructure_institutional" | "talent";
 export type ProjectionStatus = "curated" | "provisional";

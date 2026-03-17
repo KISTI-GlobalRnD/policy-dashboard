@@ -12,6 +12,7 @@ type DashboardHeaderProps = {
   packId: string;
   mappingWorkbenchUrl: string;
   mappingNetworkUrl: string;
+  mappingOntologyNetworkUrl: string;
 };
 
 export function DashboardHeader({
@@ -24,6 +25,7 @@ export function DashboardHeader({
   packId,
   mappingWorkbenchUrl,
   mappingNetworkUrl,
+  mappingOntologyNetworkUrl,
 }: DashboardHeaderProps) {
   const signals = [
     {
@@ -73,6 +75,9 @@ export function DashboardHeader({
           </a>
           <a href={mappingNetworkUrl} className={styles.headerLink}>
             정책-기술 네트워크
+          </a>
+          <a href={mappingOntologyNetworkUrl} className={styles.headerLink}>
+            온톨로지 네트워크
           </a>
         </div>
       </div>
