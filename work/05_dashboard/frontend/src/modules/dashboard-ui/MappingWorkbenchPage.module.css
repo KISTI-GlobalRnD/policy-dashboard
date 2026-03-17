@@ -1,10 +1,10 @@
 .shell {
   display: grid;
-  gap: var(--space-5);
+  gap: var(--space-4);
   width: min(100%, 1760px);
   min-width: 0;
   margin: 0 auto;
-  padding: 28px;
+  padding: 22px;
 }
 
 .pageControls {
@@ -12,7 +12,7 @@
   flex-wrap: wrap;
   justify-content: space-between;
   gap: var(--space-4);
-  padding: 18px 22px;
+  padding: 14px 16px;
   border-radius: var(--radius-6);
   border: 1px solid rgba(15, 23, 42, 0.08);
   background: rgba(255, 253, 248, 0.9);
@@ -31,7 +31,7 @@
 
 .pageControlsTitle {
   margin: 0;
-  font-size: 1.35rem;
+  font-size: 1.28rem;
   line-height: 1.08;
 }
 
@@ -45,13 +45,13 @@
 
 .header {
   display: grid;
-  gap: var(--space-5);
+  gap: var(--space-4);
   min-width: 0;
 }
 
 .headerCopy {
   min-width: 0;
-  padding: 30px 32px;
+  padding: 24px 26px;
   border-radius: var(--radius-6);
   border: 1px solid rgba(15, 23, 42, 0.08);
   background:
@@ -245,20 +245,20 @@
 .workspace {
   display: grid;
   grid-template-columns: minmax(0, 1.3fr) minmax(360px, 0.74fr);
-  gap: var(--space-5);
+  gap: var(--space-4);
   align-items: start;
   min-width: 0;
 }
 
 .primaryColumn {
   display: grid;
-  gap: var(--space-5);
+  gap: var(--space-4);
   min-width: 0;
 }
 
 .detailColumn {
   display: grid;
-  gap: var(--space-5);
+  gap: var(--space-4);
   min-width: 0;
   align-content: start;
   position: sticky;
@@ -276,7 +276,7 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
   gap: var(--space-2);
-  max-height: 210px;
+  max-height: 172px;
   overflow: auto;
   padding-bottom: 4px;
 }
@@ -286,8 +286,8 @@
   display: grid;
   gap: 8px;
   width: 100%;
-  min-height: 82px;
-  padding: 10px 12px;
+  min-height: 74px;
+  padding: 8px 10px;
   border-radius: 14px;
   border: 1px solid rgba(15, 23, 42, 0.08);
   background: rgba(255, 255, 255, 0.84);
@@ -334,12 +334,12 @@
 .matrixPolicyButtonActive,
 .matrixCellButton,
 .matrixCellButtonActive {
-  min-height: 92px;
+  min-height: 82px;
 }
 
 .matrixPanel {
   min-width: 0;
-  padding: var(--space-5);
+  padding: var(--space-4);
 }
 
 .panelHead {
@@ -582,9 +582,9 @@
 
 .inspectorPanel {
   display: grid;
-  gap: var(--space-4);
+  gap: var(--space-3);
   min-width: 0;
-  padding: var(--space-5);
+  padding: var(--space-4);
   border: 1px solid var(--color-line);
   border-radius: var(--radius-6);
   background:
@@ -816,9 +816,9 @@
 
 .drawerPanel {
   display: grid;
-  gap: var(--space-4);
+  gap: var(--space-3);
   min-width: 0;
-  padding: var(--space-5);
+  padding: var(--space-4);
 }
 
 .drawerSection {
@@ -872,7 +872,7 @@
 
 .networkPanel {
   min-width: 0;
-  padding: var(--space-5);
+  padding: var(--space-4);
 }
 
 .networkHeader {

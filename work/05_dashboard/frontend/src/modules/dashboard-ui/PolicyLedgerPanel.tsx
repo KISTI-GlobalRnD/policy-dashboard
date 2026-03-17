@@ -1,5 +1,6 @@
 import { formatNumber } from "../../shared/lib/format";
 import { Panel } from "../../shared/ui/Panel";
+import { EmptyState } from "../../shared/ui/EmptyState";
 import type { PolicyTechMatrixRow, ReviewStateSummary } from "../dashboard-model/mappingWorkbenchSelectors";
 import { getReviewStateSummaryShortLabel } from "./reviewStatus";
 import styles from "./MappingWorkbenchPage.module.css";
@@ -28,6 +29,24 @@ function getReviewSummary(row: PolicyTechMatrixRow): ReviewStateSummary {
 
 export function PolicyLedgerPanel({ rows, selectedPolicyId, onSelectPolicy }: PolicyLedgerPanelProps) {
   const activeRows = rows.filter((row) => row.mappedContentCount > 0 || row.unmappedContentCount > 0);
+
+  if (activeRows.length === 0) {
+    return (
+      <Panel className={styles.policyLedgerPanel}>
+        <div className={styles.panelHead}>
+          <div>
+            <p className={styles.eyebrow}>정책 레일</p>
+            <h2 className={styles.sectionTitle}>정책 인덱스</h2>
+          </div>
+        </div>
+        <EmptyState
+          eyebrow="정책 레일"
+          title="조건에 맞는 정책이 없습니다."
+          body="필터를 완화하면 정책 인덱스를 다시 확인할 수 있습니다."
+        />
+      </Panel>
+    );
+  }
 
   return (
     <Panel className={styles.policyLedgerPanel}>
