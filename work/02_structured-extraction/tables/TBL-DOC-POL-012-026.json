@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-012-026",
+  "document_id": "DOC-POL-012",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 78,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "∎ (현장사례) 정부가 지원 중인 E분야 빅데이터 플랫폼은 GPU가 없는 환경이 많아 LLM기반 연구는 사실상 불가능(F위원회, 2025 국정감사 지적)"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2064893328",
+  "repeat_header": "1",
+  "treat_as_char": "0",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

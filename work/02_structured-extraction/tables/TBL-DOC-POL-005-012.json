@@ -1,0 +1,41 @@
+{
+  "table_id": "TBL-DOC-POL-005-012",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 40,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 4,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "구 분",
+      "주요 내용"
+    ],
+    [
+      "연구지원\n체계",
+      "‣ 대학 대상 블록펀딩 사업 등을 통해 기관 중심 연구지원체계로의 안정적 전환 유도\n‣ 기관이 주체가 되어 시설장비를 구축활용하고 연구지원인력을 양성고용하도록 법적 기반 마련"
+    ],
+    [
+      "공동활용",
+      "‣ GPU 등 고가 연구시설장비를 여러 과제에서 공동 구축활용 가능하도록 근거규정 마련\n‣ AI를 기반으로 필요한 연구장비를 검색활용할 수 있는 공동활용 플랫폼 구축"
+    ],
+    [
+      "장비도입",
+      "‣ '07년 이후 정체된 장비 도입 심의 기준 금액 현실화"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002033818",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

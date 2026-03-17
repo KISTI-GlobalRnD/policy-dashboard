@@ -1,0 +1,52 @@
+{
+  "table_id": "TBL-DOC-POL-008-024",
+  "document_id": "DOC-POL-008",
+  "page_no_or_sheet_name": "section6",
+  "block_order": 124,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 5,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "< 팁스 지역별 운영사 현황 >",
+      ""
+    ],
+    [
+      " (수도권) 킹고스프링(AC) 등 98개",
+      " (동남권) 선보엔젤파트너스(AC) 등 9개"
+    ],
+    [
+      " (대경권) 인라이트벤처스(VC) 등 7개",
+      " (중부권) 블루포인트파트너스(AC) 등 21개"
+    ],
+    [
+      " (호남권) 엑센트리(AC) 등 6개",
+      " (강원) 소풍벤처스(AC) 등 4개"
+    ],
+    [
+      " (전북) 아이디어파트너스(AC) 등 3개",
+      " (제주) 제주창조경제혁신센터 1개"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028036093",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

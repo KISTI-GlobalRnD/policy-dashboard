@@ -1,0 +1,37 @@
+{
+  "table_id": "TBL-DOC-POL-005-013",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 44,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "구 분",
+      "주요 내용"
+    ],
+    [
+      "PBS 폐지",
+      "‣ PBS를 단계적으로 폐지하고 ‘기본연구사업’과 ‘전략연구사업’으로 출연금 구조 체계화"
+    ],
+    [
+      "우수연구자\n확보",
+      "‣ 기관평가 결과와 연동한 전직원 대상 성과급 신설 등 연구자 보수체계 혁신\n‣ 블라인드 채용제도 탄력적 운영 및 Post-Doc 등에 대한 특별채용 확대"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002033820",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-005-043",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 174,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "☞ 연구개발 생태계를 구성하는 Player인 연구자와 연구기관, 그리고 이를 지원하는 정부까지 각각의 혁신을 위해 ❶연구자를 위한 연구몰입환경 구축, ❷연구기관을 위한 맞춤형 지원체계 마련, ❸정부의 투자 시스템 혁신 추진"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903636",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

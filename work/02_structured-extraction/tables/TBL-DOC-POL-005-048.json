@@ -1,0 +1,41 @@
+{
+  "table_id": "TBL-DOC-POL-005-048",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 191,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 4,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "구 분",
+      "예시(안)"
+    ],
+    [
+      "괄목할 만한\n성과",
+      "· 3대 학술지(네이쳐, 사이언스, 셀) 게재, 국제표준채택·수출·투자확보와 같은 사업화 관련 실적 등을 종합하여 사업별 특성에 맞게 정성적으로 평가"
+    ],
+    [
+      "의미있는 수행과정",
+      "· 타 연구로 이어질 수 있는 결과 또는 목표와 무관하나 부수적으로 의미있는 결과를 도출하였을 경우 등"
+    ],
+    [
+      "인센티브",
+      "· 단계평가 시 과제기간 연장 및 연구비 증액, 우수과제의 후속과제 연계 지원, 3책 5공 예외 허용 등 추가 인센티브 검토 中"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903256",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

@@ -1,0 +1,325 @@
+[
+  {
+    "evidence_id": "EVD-DOC-CTX-006-00001",
+    "document_id": "DOC-CTX-006",
+    "page_no_or_sheet_name": 1,
+    "block_order": 1,
+    "block_type": "text_block",
+    "text": "<세부 기술(정책) 분류체계>",
+    "bbox": [
+      207.60748291015625,
+      160.58946228027344,
+      384.7097473144531,
+      173.52236938476562
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-006-00002",
+    "document_id": "DOC-CTX-006",
+    "page_no_or_sheet_name": 1,
+    "block_order": 2,
+    "block_type": "text_block",
+    "text": "대분류\n중분류\n기술 개요",
+    "bbox": [
+      83.59469604492188,
+      187.5341033935547,
+      393.5995788574219,
+      198.551025390625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-006-00003",
+    "document_id": "DOC-CTX-006",
+    "page_no_or_sheet_name": 1,
+    "block_order": 3,
+    "block_type": "text_block",
+    "text": "인공위성을 설계, 제작, 발사, 운영하고 이를 다양한 목적으로",
+    "bbox": [
+      223.558837890625,
+      208.3913116455078,
+      523.6718139648438,
+      219.40823364257812
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-006-00004",
+    "document_id": "DOC-CTX-006",
+    "page_no_or_sheet_name": 1,
+    "block_order": 4,
+    "block_type": "text_block",
+    "text": "위성",
+    "bbox": [
+      164.7906951904297,
+      217.26161193847656,
+      186.73846435546875,
+      228.27853393554688
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-006-00005",
+    "document_id": "DOC-CTX-006",
+    "page_no_or_sheet_name": 1,
+    "block_order": 5,
+    "block_type": "text_block",
+    "text": "활용하는 데 필요한 과학 및 공학 기술",
+    "bbox": [
+      223.558837890625,
+      226.01205444335938,
+      409.93804931640625,
+      237.0289764404297
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-006-00006",
+    "document_id": "DOC-CTX-006",
+    "page_no_or_sheet_name": 1,
+    "block_order": 6,
+    "block_type": "text_block",
+    "text": "발사체\n인공위성, 우주선, 탐사선 등 탑재물을 지구 표면에서 우주",
+    "bbox": [
+      159.273681640625,
+      246.86924743652344,
+      523.5509033203125,
+      266.6366271972656
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-006-00007",
+    "document_id": "DOC-CTX-006",
+    "page_no_or_sheet_name": 1,
+    "block_order": 7,
+    "block_type": "text_block",
+    "text": "공간의 특정 궤도로 운반하는 데 필요한 공학기술",
+    "bbox": [
+      223.558837890625,
+      264.489990234375,
+      476.3815002441406,
+      275.5069274902344
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-006-00008",
+    "document_id": "DOC-CTX-006",
+    "page_no_or_sheet_name": 1,
+    "block_order": 8,
+    "block_type": "text_block",
+    "text": "우주",
+    "bbox": [
+      87.79241943359375,
+      274.6788330078125,
+      109.86045837402344,
+      285.6957702636719
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-006-00009",
+    "document_id": "DOC-CTX-006",
+    "page_no_or_sheet_name": 1,
+    "block_order": 9,
+    "block_type": "text_block",
+    "text": "지구 대기권 밖의 우주 공간과 천체를 탐험하고 연구하는데",
+    "bbox": [
+      223.558837890625,
+      287.0253601074219,
+      523.55126953125,
+      298.04229736328125
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-006-00010",
+    "document_id": "DOC-CTX-006",
+    "page_no_or_sheet_name": 1,
+    "block_order": 10,
+    "block_type": "text_block",
+    "text": "우주탐사",
+    "bbox": [
+      153.7566680908203,
+      295.8956604003906,
+      197.7724609375,
+      306.91259765625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-006-00011",
+    "document_id": "DOC-CTX-006",
+    "page_no_or_sheet_name": 1,
+    "block_order": 11,
+    "block_type": "text_block",
+    "text": "필요한 과학 및 공학기술",
+    "bbox": [
+      223.558837890625,
+      304.6460876464844,
+      349.9700012207031,
+      315.66302490234375
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-006-00012",
+    "document_id": "DOC-CTX-006",
+    "page_no_or_sheet_name": 1,
+    "block_order": 12,
+    "block_type": "text_block",
+    "text": "우주기반\n우주부품 국산화, 인력양성, 인프라 구축 등 우주산업 육성",
+    "bbox": [
+      153.7566680908203,
+      333.2947998046875,
+      519.6783447265625,
+      344.3117370605469
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-006-00013",
+    "document_id": "DOC-CTX-006",
+    "page_no_or_sheet_name": 1,
+    "block_order": 13,
+    "block_type": "text_block",
+    "text": "신항공\n미래항공 모빌리티(드론, UAM 등) 전환 촉진을 위해 기술·",
+    "bbox": [
+      159.273681640625,
+      360.38519287109375,
+      519.8049926757812,
+      380.1525573730469
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-006-00014",
+    "document_id": "DOC-CTX-006",
+    "page_no_or_sheet_name": 1,
+    "block_order": 14,
+    "block_type": "text_block",
+    "text": "산업 고도화, 인증·안전운용체계 및 인프라 등 구축",
+    "bbox": [
+      223.558837890625,
+      378.00592041015625,
+      481.1792297363281,
+      389.0228576660156
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-006-00015",
+    "document_id": "DOC-CTX-006",
+    "page_no_or_sheet_name": 1,
+    "block_order": 15,
+    "block_type": "text_block",
+    "text": "항공부품\n항공기 엔진 및 소재·부품의 설계·제조 등에 필요한 기술",
+    "bbox": [
+      153.7566680908203,
+      398.5035400390625,
+      508.64434814453125,
+      409.5204772949219
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-006-00016",
+    "document_id": "DOC-CTX-006",
+    "page_no_or_sheet_name": 1,
+    "block_order": 16,
+    "block_type": "text_block",
+    "text": "항공",
+    "bbox": [
+      87.79241943359375,
+      399.70220947265625,
+      109.86045837402344,
+      410.7191467285156
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-006-00017",
+    "document_id": "DOC-CTX-006",
+    "page_no_or_sheet_name": 1,
+    "block_order": 17,
+    "block_type": "text_block",
+    "text": "항공기 인증·안전운용체계, 항공보안, MRO 등 항공안전",
+    "bbox": [
+      223.558837890625,
+      420.1998291015625,
+      523.6708374023438,
+      431.2167663574219
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-006-00018",
+    "document_id": "DOC-CTX-006",
+    "page_no_or_sheet_name": 1,
+    "block_order": 18,
+    "block_type": "text_block",
+    "text": "항공기반",
+    "bbox": [
+      153.7566680908203,
+      429.07012939453125,
+      197.7724609375,
+      440.0870666503906
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-006-00019",
+    "document_id": "DOC-CTX-006",
+    "page_no_or_sheet_name": 1,
+    "block_order": 19,
+    "block_type": "text_block",
+    "text": "운항에 필요한 기술, 항공인재·산업 육성 등",
+    "bbox": [
+      223.558837890625,
+      437.820556640625,
+      442.6800842285156,
+      448.8374938964844
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  }
+]

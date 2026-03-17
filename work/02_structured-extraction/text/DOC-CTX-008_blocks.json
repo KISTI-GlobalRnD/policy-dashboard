@@ -1,0 +1,478 @@
+[
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00001",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 1,
+    "block_type": "text_block",
+    "text": "분야별 투자전략 : 분과별 작성 양식",
+    "bbox": [
+      112.07999420166016,
+      73.18631744384766,
+      387.9599914550781,
+      89.13035583496094
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00002",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 2,
+    "block_type": "text_block",
+    "text": "1\n 차세대통신",
+    "bbox": [
+      53.87999725341797,
+      113.19599914550781,
+      183.72000122070312,
+      131.17799377441406
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00003",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 3,
+    "block_type": "text_block",
+    "text": "<차세대통신 분류체계>(안)",
+    "bbox": [
+      213.72000122070312,
+      144.8990478515625,
+      358.7812805175781,
+      155.92799377441406
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00004",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 4,
+    "block_type": "text_block",
+    "text": "대분류\n중분류\n기술 개요(예시)",
+    "bbox": [
+      65.5199966430664,
+      165.60768127441406,
+      391.11572265625,
+      176.6366424560547
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00005",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 5,
+    "block_type": "text_block",
+    "text": "6G\n원천/상용화",
+    "bbox": [
+      122.15999603271484,
+      188.97430419921875,
+      176.27952575683594,
+      211.8843536376953
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00006",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 6,
+    "block_type": "text_block",
+    "text": "차세대\n유·무선통신",
+    "bbox": [
+      53.7599983215332,
+      201.93431091308594,
+      107.51951599121094,
+      224.8443603515625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00007",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 7,
+    "block_type": "text_block",
+    "text": "• 6G 시스템 비전, 핵심 부품 및 원천 기술 개발\n• Pre-6G 시연 및 상용화 준비, 표준 선점\n• Extreme Massive MIMO, 테라헤르츠(THz) 대역 기술\n5G 고도화",
+    "bbox": [
+      125.04000091552734,
+      182.4943084716797,
+      442.9195251464844,
+      232.8843536376953
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00008",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 8,
+    "block_type": "text_block",
+    "text": "(5G-Adv)",
+    "bbox": [
+      126.83999633789062,
+      235.89430236816406,
+      171.4946746826172,
+      245.84434509277344
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00009",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 9,
+    "block_type": "text_block",
+    "text": "• 5G-Advanced 융합 서비스 및 성능 고도화\n• 산업 현장(B2B) 확산을 위한 특화망 기술",
+    "bbox": [
+      188.63999938964844,
+      222.93431091308594,
+      398.3995056152344,
+      245.84434509277344
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00010",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 10,
+    "block_type": "text_block",
+    "text": "저궤도\n위성통신",
+    "bbox": [
+      129.239990234375,
+      256.8943176269531,
+      169.19952392578125,
+      279.9243469238281
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00011",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 11,
+    "block_type": "text_block",
+    "text": "위성통신",
+    "bbox": [
+      60.71999740600586,
+      276.4543151855469,
+      100.67951202392578,
+      286.40435791015625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00012",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 12,
+    "block_type": "text_block",
+    "text": "• 저궤도 군집 위성 통신 시스템 및 체계 종합\n• 위성통신 단말(지상국 포함) 및 탑재체 기술\n• 6G-Satellite 통합 표준(3GPP 기반) 기술\n국방/공공",
+    "bbox": [
+      127.07999420166016,
+      250.414306640625,
+      402.3595275878906,
+      300.9243469238281
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00013",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 13,
+    "block_type": "text_block",
+    "text": "위성",
+    "bbox": [
+      139.1999969482422,
+      303.9342956542969,
+      159.12001037597656,
+      313.88433837890625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00014",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 14,
+    "block_type": "text_block",
+    "text": "• 국방 전략 기술 연계 감시 정찰 및 통신 지원\n• 한국형 위성항법(KPS) 및 PNT 시스템 연계",
+    "bbox": [
+      188.63999938964844,
+      290.97430419921875,
+      407.27996826171875,
+      313.88433837890625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00015",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 15,
+    "block_type": "text_block",
+    "text": "O-RAN/",
+    "bbox": [
+      130.0800018310547,
+      324.9342956542969,
+      168.30447387695312,
+      334.88433837890625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00016",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 16,
+    "block_type": "text_block",
+    "text": "AI-RAN",
+    "bbox": [
+      131.52000427246094,
+      337.8943176269531,
+      166.92282104492188,
+      347.8443603515625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00017",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 17,
+    "block_type": "text_block",
+    "text": "네트워크·",
+    "bbox": [
+      58.79999923706055,
+      345.8143005371094,
+      102.4949951171875,
+      355.76434326171875
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00018",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 18,
+    "block_type": "text_block",
+    "text": "• 기지국 가상화(vRAN) 및 개방형 무선 접속망 기술\n• 다수 장비 호환성 확보 및 인터페이스 표준화\n• AI 기반 네트워크 최적화 (AI-RAN) 플랫폼 구축\n네트워크",
+    "bbox": [
+      129.239990234375,
+      318.4543151855469,
+      429.9599914550781,
+      368.7243347167969
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00019",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 19,
+    "block_type": "text_block",
+    "text": "전파\n기반강화",
+    "bbox": [
+      60.71999740600586,
+      358.7742919921875,
+      100.67951202392578,
+      381.8043518066406
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00020",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 20,
+    "block_type": "text_block",
+    "text": "지능화",
+    "bbox": [
+      134.16000366210938,
+      371.85430908203125,
+      164.15951538085938,
+      381.8043518066406
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00021",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 21,
+    "block_type": "text_block",
+    "text": "• AI 기반 주파수 간섭 분석 및 전파 예측\n• 클라우드 네이티브 네트워크 전환 기술\n전파\n핵심기술\n• 디지털 인프라 확장을 위한 전파 핵심 기술",
+    "bbox": [
+      129.239990234375,
+      358.7742919921875,
+      397.3199768066406,
+      409.1643371582031
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00022",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 22,
+    "block_type": "text_block",
+    "text": "핵심\n부품/장비",
+    "bbox": [
+      127.07999420166016,
+      421.654296875,
+      171.24000549316406,
+      444.6843566894531
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00023",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 23,
+    "block_type": "text_block",
+    "text": "• 통신용 화합물 반도체 및 RF 핵심 부품 자립화\n• 공급망 다변화를 위한 소부장 국산화 지원\n• 안테나, 필터 등 차세대 중점기술 직결 부품",
+    "bbox": [
+      188.63999938964844,
+      415.17431640625,
+      414.9595031738281,
+      451.1643371582031
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00024",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 24,
+    "block_type": "text_block",
+    "text": "생태계",
+    "bbox": [
+      65.63999938964844,
+      455.73431396484375,
+      95.63951110839844,
+      465.6843566894531
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00025",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 25,
+    "block_type": "text_block",
+    "text": "강화",
+    "bbox": [
+      70.68000030517578,
+      468.6943054199219,
+      90.5999984741211,
+      478.64434814453125
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00026",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 26,
+    "block_type": "text_block",
+    "text": "기반\n조성/인력",
+    "bbox": [
+      127.07999420166016,
+      463.654296875,
+      171.24000549316406,
+      486.6843566894531
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00027",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 27,
+    "block_type": "text_block",
+    "text": "• 시험망(Testbed) 구축 및 운영 지원\n• 차세대 통신 분야 혁신 인재 양성 (산학연 연계)\n• 법·제도적 기반 확대\n차세대 산업\n특화망·서비스",
+    "bbox": [
+      120.0,
+      457.17431640625,
+      419.8949890136719,
+      520.6443481445312
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-008-00028",
+    "document_id": "DOC-CTX-008",
+    "page_no_or_sheet_name": 1,
+    "block_order": 28,
+    "block_type": "text_block",
+    "text": "• 의료, 국방, 제조, 모빌리티 등 산업 도메인 차세대 특화망 및 서비스\n개발",
+    "bbox": [
+      188.63999938964844,
+      497.73431396484375,
+      520.6361694335938,
+      520.6443481445312
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  }
+]

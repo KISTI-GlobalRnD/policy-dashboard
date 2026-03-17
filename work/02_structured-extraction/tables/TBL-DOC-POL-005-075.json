@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-005-075",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 550,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◇ R&D기획관리는 방대한 자료를 토대로 객관적합리적 정책 결정 필요\n⇒ 빅데이터 기반 R&D 특화 AI를 도입,\nR&D 프로세스 효율화 및 정책 결정의 투명성전문성공정성 확보"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903509",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

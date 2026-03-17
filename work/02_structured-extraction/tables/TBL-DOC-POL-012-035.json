@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-012-035",
+  "document_id": "DOC-POL-012",
+  "page_no_or_sheet_name": "section3",
+  "block_order": 92,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "󰊱 (기획) 범정부 AX통합 관리 및 분야·수준별 AX사업 기획 지원"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2064893346",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

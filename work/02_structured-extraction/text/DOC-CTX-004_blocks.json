@@ -1,0 +1,495 @@
+[
+  {
+    "evidence_id": "EVD-DOC-CTX-004-00001",
+    "document_id": "DOC-CTX-004",
+    "page_no_or_sheet_name": 1,
+    "block_order": 1,
+    "block_type": "ocr_line",
+    "text": "양자",
+    "bbox": [
+      [
+        186.0,
+        125.0
+      ],
+      [
+        284.0,
+        127.0
+      ],
+      [
+        282.0,
+        175.0
+      ],
+      [
+        185.0,
+        172.0
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.999084860086441,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-004-00002",
+    "document_id": "DOC-CTX-004",
+    "page_no_or_sheet_name": 1,
+    "block_order": 2,
+    "block_type": "ocr_line",
+    "text": "<양자 분야 세부기술 분류체계>",
+    "bbox": [
+      [
+        374.0,
+        217.0
+      ],
+      [
+        768.0,
+        217.0
+      ],
+      [
+        768.0,
+        243.0
+      ],
+      [
+        374.0,
+        243.0
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9804878234863281,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-004-00003",
+    "document_id": "DOC-CTX-004",
+    "page_no_or_sheet_name": 1,
+    "block_order": 3,
+    "block_type": "ocr_line",
+    "text": "중분류",
+    "bbox": [
+      [
+        267.0,
+        265.0
+      ],
+      [
+        335.0,
+        265.0
+      ],
+      [
+        335.0,
+        298.0
+      ],
+      [
+        267.0,
+        298.0
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9959524869918823,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-004-00004",
+    "document_id": "DOC-CTX-004",
+    "page_no_or_sheet_name": 1,
+    "block_order": 4,
+    "block_type": "ocr_line",
+    "text": "기술 개요",
+    "bbox": [
+      [
+        665.0,
+        265.0
+      ],
+      [
+        761.0,
+        265.0
+      ],
+      [
+        761.0,
+        297.0
+      ],
+      [
+        665.0,
+        297.0
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9455249428749084,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-004-00005",
+    "document_id": "DOC-CTX-004",
+    "page_no_or_sheet_name": 1,
+    "block_order": 5,
+    "block_type": "ocr_line",
+    "text": "중첩읽힘 등 양자역학적 특성을 활용하여 방대한 양의 정보를 병렬 처리함으로써,",
+    "bbox": [
+      [
+        389.0,
+        353.0
+      ],
+      [
+        1038.0,
+        353.0
+      ],
+      [
+        1038.0,
+        379.0
+      ],
+      [
+        389.0,
+        379.0
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9307671022969622,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-004-00006",
+    "document_id": "DOC-CTX-004",
+    "page_no_or_sheet_name": 1,
+    "block_order": 6,
+    "block_type": "ocr_line",
+    "text": "양자컴퓨팅",
+    "bbox": [
+      [
+        250.0,
+        366.0
+      ],
+      [
+        354.0,
+        366.0
+      ],
+      [
+        354.0,
+        394.0
+      ],
+      [
+        250.0,
+        394.0
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.99982990026474,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-004-00007",
+    "document_id": "DOC-CTX-004",
+    "page_no_or_sheet_name": 1,
+    "block_order": 7,
+    "block_type": "ocr_line",
+    "text": "고전 컴퓨터를 능가하는 초고속 연산 성능을 구현하는 기술",
+    "bbox": [
+      [
+        389.0,
+        380.0
+      ],
+      [
+        848.0,
+        380.0
+      ],
+      [
+        848.0,
+        406.0
+      ],
+      [
+        389.0,
+        406.0
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9820467041384789,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-004-00008",
+    "document_id": "DOC-CTX-004",
+    "page_no_or_sheet_name": 1,
+    "block_order": 8,
+    "block_type": "ocr_line",
+    "text": "양자상태의 민감성과 비복제성 등을 활용하여 완벽한 물리적 보안 통신 및",
+    "bbox": [
+      [
+        388.0,
+        507.0
+      ],
+      [
+        1039.0,
+        507.0
+      ],
+      [
+        1039.0,
+        533.0
+      ],
+      [
+        388.0,
+        533.0
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9946689315331287,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-004-00009",
+    "document_id": "DOC-CTX-004",
+    "page_no_or_sheet_name": 1,
+    "block_order": 9,
+    "block_type": "ocr_line",
+    "text": "양자통신",
+    "bbox": [
+      [
+        258.0,
+        518.0
+      ],
+      [
+        344.0,
+        518.0
+      ],
+      [
+        344.0,
+        545.0
+      ],
+      [
+        258.0,
+        545.0
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9989421367645264,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-004-00010",
+    "document_id": "DOC-CTX-004",
+    "page_no_or_sheet_name": 1,
+    "block_order": 10,
+    "block_type": "ocr_line",
+    "text": "양자의 초고감도 특성을 기반으로 기존 센서의 측정 한계를 넘어서는",
+    "bbox": [
+      [
+        387.0,
+        659.0
+      ],
+      [
+        1037.0,
+        660.0
+      ],
+      [
+        1037.0,
+        686.0
+      ],
+      [
+        387.0,
+        685.0
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9850863648785485,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-004-00011",
+    "document_id": "DOC-CTX-004",
+    "page_no_or_sheet_name": 1,
+    "block_order": 11,
+    "block_type": "ocr_line",
+    "text": "초정밀 계측 기술",
+    "bbox": [
+      [
+        386.0,
+        684.0
+      ],
+      [
+        549.0,
+        686.0
+      ],
+      [
+        549.0,
+        713.0
+      ],
+      [
+        386.0,
+        711.0
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9543774922688802,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-004-00012",
+    "document_id": "DOC-CTX-004",
+    "page_no_or_sheet_name": 1,
+    "block_order": 12,
+    "block_type": "ocr_line",
+    "text": "양자기술 전반에 활용되는 핵심 소재·부품·장비와 기초 원천기술 연구,",
+    "bbox": [
+      [
+        387.0,
+        792.0
+      ],
+      [
+        1039.0,
+        793.0
+      ],
+      [
+        1039.0,
+        819.0
+      ],
+      [
+        387.0,
+        818.0
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9946032793898332,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-004-00013",
+    "document_id": "DOC-CTX-004",
+    "page_no_or_sheet_name": 1,
+    "block_order": 13,
+    "block_type": "ocr_line",
+    "text": "공통기반",
+    "bbox": [
+      [
+        259.0,
+        802.0
+      ],
+      [
+        345.0,
+        802.0
+      ],
+      [
+        345.0,
+        830.0
+      ],
+      [
+        259.0,
+        830.0
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.99943408370018,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-004-00014",
+    "document_id": "DOC-CTX-004",
+    "page_no_or_sheet_name": 1,
+    "block_order": 14,
+    "block_type": "ocr_line",
+    "text": "양자팬,양자컴퓨팅 클라우드,지역별 양자 연구거점 등 양자기술 개발 및",
+    "bbox": [
+      [
+        387.0,
+        817.0
+      ],
+      [
+        1040.0,
+        819.0
+      ],
+      [
+        1040.0,
+        846.0
+      ],
+      [
+        387.0,
+        844.0
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9575057304219196,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-004-00015",
+    "document_id": "DOC-CTX-004",
+    "page_no_or_sheet_name": 1,
+    "block_order": 15,
+    "block_type": "ocr_line",
+    "text": "()",
+    "bbox": [
+      [
+        233.0,
+        835.0
+      ],
+      [
+        372.0,
+        835.0
+      ],
+      [
+        372.0,
+        862.0
+      ],
+      [
+        233.0,
+        862.0
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.5708360373973846,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-004-00016",
+    "document_id": "DOC-CTX-004",
+    "page_no_or_sheet_name": 1,
+    "block_order": 16,
+    "block_type": "ocr_line",
+    "text": "국제협력",
+    "bbox": [
+      [
+        260.0,
+        952.0
+      ],
+      [
+        345.0,
+        952.0
+      ],
+      [
+        345.0,
+        980.0
+      ],
+      [
+        260.0,
+        980.0
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9999130219221115,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-004-00017",
+    "document_id": "DOC-CTX-004",
+    "page_no_or_sheet_name": 1,
+    "block_order": 17,
+    "block_type": "ocr_line",
+    "text": "국제 공동연구 및 기술교류 활동",
+    "bbox": [
+      [
+        389.0,
+        982.0
+      ],
+      [
+        651.0,
+        982.0
+      ],
+      [
+        651.0,
+        1008.0
+      ],
+      [
+        389.0,
+        1008.0
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9551436059615191,
+    "page_no": 1
+  }
+]

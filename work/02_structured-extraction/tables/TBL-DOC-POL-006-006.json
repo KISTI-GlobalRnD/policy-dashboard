@@ -1,0 +1,39 @@
+{
+  "table_id": "TBL-DOC-POL-006-006",
+  "document_id": "DOC-POL-006",
+  "page_no_or_sheet_name": 10,
+  "block_order": 257,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 12
+  },
+  "cell_matrix": [
+    [
+      "이",
+      "질",
+      "적",
+      "인 성격",
+      "의",
+      "과제로",
+      "구성된 경우,",
+      "별개",
+      "의",
+      "추진",
+      "단으로 운영(총 20개",
+      ")"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": [
+    102.63509902954101,
+    511.4800109863281,
+    515.9630126953125,
+    525.6612941196987
+  ],
+  "extraction_confidence": "medium",
+  "extraction_method": "pymupdf-find_tables"
+}

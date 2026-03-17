@@ -1,0 +1,71 @@
+{
+  "table_id": "TBL-DOC-POL-009-028",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 136,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "▪ 주요성과\n- (Nature 표지논문 게재) Three-Dimensional Electronic Microfliers Inspired by Wind-Dispersed Seeds(’21년 9월)",
+      "[참고 1] 기초연구 지원에 따른 대표 성과",
+      ""
+    ],
+    [
+      "- (의의) 인공위성이 증가함에 따라 위성 간 충돌 문제를 해결하기 위해 충돌 위험을 실시간으로 감지하고 대응하는 기술 개발\n- (내용) 기초 수학이론인 보로노이 다이어그램을 우주과학분야에 적용하여 움직이는 위성의 주변을 실시간으로 탐색하는 기술 개발 → “스페이스맵” 창업(‘21년)\n- (기대효과) 충돌 위험을 예측하는 데 수십 분에서 수 시간이 소요되는 기존 위성 탐색 기술의 한계를 극복하여, 실시간으로 예측하는 데 성공\n▪ 주요성과\n- 美 공군 우주 안전·효율 분야 연구비(4억2천만원) 수주(‘16년)\n- 美 항공우주국(NASA) 국제궤도잔해물회의(IOC Ⅱ) 발표(‘23년)",
+      "",
+      ""
+    ],
+    [
+      "◈ ERC인간친화복지로봇시스템연구센터 레인보우로보틱스 설립 (한국과학기술원/오준호)",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 3
+    },
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747712",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

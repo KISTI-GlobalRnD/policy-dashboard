@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-010-013",
+  "document_id": "DOC-POL-010",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 60,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "⇨ 임무수행체계, 평가·환류체계, 연구환경 등 구조적 문제를 해결하고, 시대적 임무에 부합하는 성과창출형 국가거점으로 재도약"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2022564311",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

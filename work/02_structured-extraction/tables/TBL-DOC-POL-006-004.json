@@ -1,0 +1,29 @@
+{
+  "table_id": "TBL-DOC-POL-006-004",
+  "document_id": "DOC-POL-006",
+  "page_no_or_sheet_name": 9,
+  "block_order": 235,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "※ 現 기재부 신성장전략기획추진단을 “초혁신경제추진단”으로 개편 예",
+      "정"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": [
+    71.19885962350028,
+    451.0669860839844,
+    473.385009765625,
+    463.0530090332031
+  ],
+  "extraction_confidence": "medium",
+  "extraction_method": "pymupdf-find_tables"
+}

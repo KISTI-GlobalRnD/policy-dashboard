@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-010-056",
+  "document_id": "DOC-POL-010",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 216,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 7,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "평가결과",
+      "환류방식"
+    ],
+    [
+      "매우우수",
+      "경상경비 증액, 성과급·상여급(매우우수)"
+    ],
+    [
+      "우수",
+      "경상경비 증액, 성과급·상여급(우수)"
+    ],
+    [
+      "양호",
+      "성과급·상여금(양호)"
+    ],
+    [
+      "보통",
+      "-"
+    ],
+    [
+      "미흡",
+      "경상경비 감액, 업무추진비 감액(5%)"
+    ],
+    [
+      "매우미흡",
+      "경상경비 감액, 업무추진비 감액(5%), 기관개선계획서 제출"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2022564463",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

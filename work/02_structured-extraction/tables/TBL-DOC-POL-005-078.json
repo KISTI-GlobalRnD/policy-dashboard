@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-005-078",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 639,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      ""
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2009574203",
+  "repeat_header": "1",
+  "treat_as_char": "0",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

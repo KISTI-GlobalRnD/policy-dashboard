@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-009-033",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 151,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "",
+      "< 기초연구 생태계 훼손에 따른 현장 목소리 >",
+      ""
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "▸R&D 예산삭감의 재발 방지를 기원하며, 연구자들이 연구비 삭감 또는 중단 걱정 없이 기초연구를 수행하도록 지원의 안정성 확보 필요\n▸풀뿌리 과제 폐지 및 과제 수 감소 방식은 신임 교원의 연구 기회를 박탈하고 경험자에게 몰아주는 구조로, 기초연구 생태계에 부정적 영향을 미칠 것을 우려\n▸생태계의 다양성 유지를 위해 선정률이 높은 소형 개인 과제의 확대를 요청",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 3
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747549",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

@@ -1,0 +1,29 @@
+{
+  "table_id": "TBL-DOC-POL-007-019",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 65,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "○ 그러나, AI 학습에 필수적인 GPU는 막대한 전력소비량·운영비용* 등으로 폭발적인 AI 서비스 수요 대응 한계",
+      ""
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654372",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

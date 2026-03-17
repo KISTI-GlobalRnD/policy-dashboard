@@ -1,0 +1,44 @@
+{
+  "table_id": "TBL-DOC-POL-012-043",
+  "document_id": "DOC-POL-012",
+  "page_no_or_sheet_name": "section4",
+  "block_order": 145,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "과학기술정보통신부 인공지능정책실\n인공지능정책기획관 인공지능정책기획과",
+      ""
+    ],
+    [
+      "담당자",
+      "이재호 사무관"
+    ],
+    [
+      "연락처",
+      "전 화 : 044-202-6271\nE-mail : jaeholee88@korea.kr"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2064306067",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

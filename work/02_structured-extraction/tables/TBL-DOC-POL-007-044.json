@@ -1,0 +1,29 @@
+{
+  "table_id": "TBL-DOC-POL-007-044",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 172,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "",
+      "◇ 공공선도의 NPU 도입을 통해 새로운 분야에 대한 수요 창출 유도 필요 <E 반도체社>\n◇ CSP 등 수요 기업의 NPU 도입을 위한 정부의 지원책 마련 시급 <F CSP社>\n◇ 엣지·서버별로 국산칩 사용시 혜택 제공 요청 <G 반도체社>\n◇ 국내시장만으로는 성장 한계, 동남아·중동 등 해외시장 PoC 필요 <H 반도체社>"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654441",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

@@ -1,0 +1,29 @@
+{
+  "table_id": "TBL-DOC-POL-007-036",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 130,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "○ 이 과정에서 다양한 분야(NPU, 인터페이스 등)의 스타트업이 기술 혁신을 주도하였으며, 특히 유망 스타트업은 유니콘 기업으로 성장",
+      ""
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654417",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

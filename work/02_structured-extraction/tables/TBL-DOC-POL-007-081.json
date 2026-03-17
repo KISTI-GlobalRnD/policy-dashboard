@@ -1,0 +1,50 @@
+{
+  "table_id": "TBL-DOC-POL-007-081",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 304,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 4
+  },
+  "cell_matrix": [
+    [
+      "구분",
+      "1단계(’25~’27)",
+      "⇒",
+      "2단계(’28~’30)"
+    ],
+    [
+      "통합관리\n시스템",
+      "▪500대 서버 규모 \n클러스터 자원 관리",
+      "",
+      "▪1,000대 서버 이상 대규모 \n클러스터 자원관리"
+    ],
+    [
+      "멀티벤더\n가상화기술",
+      "▪GPU+NPU(1종) 기반\nAI모델 서비스 검증",
+      "",
+      "▪GPU+NPU(2종 이상) 기반\n초거대 AI모델 운용 검증"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "row_span": 3,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654539",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

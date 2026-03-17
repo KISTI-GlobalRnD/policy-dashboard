@@ -1,0 +1,29 @@
+{
+  "table_id": "TBL-DOC-POL-007-043",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 165,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "□ (레퍼런스 부족) 신기술인 NPU를 도입하려는 수요기업은 소수이며, 특히 도입 리스크 등으로 기업 규모가 작을수록 소극적*",
+      ""
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654438",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

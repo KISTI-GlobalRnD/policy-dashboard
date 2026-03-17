@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-005-054",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 286,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◇ 現 분리 운영 중인 연구지원시스템(IRIS, Ezbaro, RCMS)의 정보차이로 인한 연구행정 비효율과 관리자 중심의 시스템 운영방식으로 현장 불편 지속\n* 정부R&D 수행 연구자 869명 중 700명(80.6%)이 시스템 분리 운영에 따른 불편 호소\n⇒ 연구자 중심의 연구비시스템 개편, 유관 시스템(연구개발기관, 전담기관 등) 간 정보연계 확대, 연구 편의기능 개선 등 연구 행정 업무 효율화"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903322",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

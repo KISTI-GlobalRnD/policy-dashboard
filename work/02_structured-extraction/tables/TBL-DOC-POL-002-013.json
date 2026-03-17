@@ -1,0 +1,60 @@
+{
+  "table_id": "TBL-DOC-POL-002-013",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 34,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 7,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "참여주체",
+      "",
+      "인센티브"
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "학계·연구계",
+      "",
+      "연구비, 인프라 활용, 성과 확산 등 지원"
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "기업",
+      "",
+      "뛰어난 연구그룹과의 공동연구, 투자연계, 시장진출 등 지원"
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "병원",
+      "",
+      "데이터 제공에 따른 위험부담 최소화 및 제도적 혜택 제공"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "0",
+  "source_table_id": "2023434429",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-010-055",
+  "document_id": "DOC-POL-010",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 208,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "▸ 계획 대비 달성도 중심 평가에서 국민체감형 대표성과 중심 평가로 전환"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2022564462",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

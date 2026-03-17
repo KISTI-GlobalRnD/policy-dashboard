@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-005-053",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 284,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "‣ 배정집행, 과제 공모선정, 연도별 협약 등 연초에 집중된 행정절차로 연구자들은 3월 이후에야 순차적으로 연구비 활용 가능\n→ 비정규직 인건비 지급지연, 연구착수 지연 등의 사례 발생 (연구실 보릿고개)\n‣ 신규과제 선정평가(매년 2~3만개)가 연초에 집중되며, 행정업무 집중으로 인한 평가 실효성 저해 및 평가자 섭외가 제한되어 평가의 전문성공정성 불만 증대\n‣ 충분한 과제공모 기간 설정이 불가(대형 과제인 경우에도 대부분 30일)하여, 일반 연구자들은 짧은 시간에 내실 있는 과제 준비 곤란"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903320",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

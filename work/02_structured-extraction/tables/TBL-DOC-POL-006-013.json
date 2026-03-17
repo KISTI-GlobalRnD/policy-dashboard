@@ -1,0 +1,30 @@
+{
+  "table_id": "TBL-DOC-POL-006-013",
+  "document_id": "DOC-POL-006",
+  "page_no_or_sheet_name": 24,
+  "block_order": 625,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "디지",
+      "털",
+      "헬스"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": [
+    349.5264248318142,
+    103.08000183105469,
+    412.02415974934894,
+    115.2992316025954
+  ],
+  "extraction_confidence": "medium",
+  "extraction_method": "pymupdf-find_tables"
+}

@@ -1,0 +1,58 @@
+{
+  "table_id": "TBL-DOC-CTX-003-CURATED-001",
+  "document_id": "DOC-CTX-003",
+  "page_no_or_sheet_name": 1,
+  "block_order": 1,
+  "table_title": "소재 분야 세부기술 분류체계",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 8,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "중분류",
+      "기술 개요"
+    ],
+    [
+      "금속소재",
+      "우수한 전기·열전도성과 높은 인장강도를 바탕으로 자동차, 조선, 에너지, 항공·방산, IT 등 핵심 산업에 활용되는 소재"
+    ],
+    [
+      "세라믹소재",
+      "산화물·질화물·탄화물·붕화물 등으로 구성되며 높은 경도, 내열성, 내식성, 전기절연성을 바탕으로 전자, 에너지, 건축, 의료 분야에 활용되는 소재"
+    ],
+    [
+      "화학소재",
+      "분자 구조와 조성에 따라 물성을 조절할 수 있으며 내열성, 내화학성, 절연성, 기능성을 기반으로 전자, 에너지, 바이오, 환경 분야에 활용되는 소재"
+    ],
+    [
+      "섬유소재",
+      "의류용 섬유 외에도 고강도, 내열성, 내화학성을 토대로 자동차, 토목·건축, 의료, 환경 분야에 활용되는 소재"
+    ],
+    [
+      "탄소소재",
+      "탄소를 주성분으로 하며 고강도, 내열성, 내화학성, 높은 전기전도성 등 물성을 바탕으로 첨단 산업 전반에 활용되는 소재"
+    ],
+    [
+      "나노소재",
+      "나노미터 수준에서 제어되는 구조를 바탕으로 전기·광학·기계적 특성을 고도화하는 소재"
+    ],
+    [
+      "첨단미래소재",
+      "미래 전략산업 수요에 대응하는 차세대 기능성·고성능 소재군"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "medium",
+  "extraction_method": "manual-curated-from-ocr-review-v1",
+  "candidate_source": "finalized_from_ocr_review",
+  "review_required": false,
+  "source_candidate_ids": [
+    "TBL-DOC-CTX-003-OCR-001"
+  ],
+  "tech_domain": "소재"
+}

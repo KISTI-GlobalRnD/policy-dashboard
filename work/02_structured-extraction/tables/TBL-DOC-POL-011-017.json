@@ -1,0 +1,37 @@
+{
+  "table_id": "TBL-DOC-POL-011-017",
+  "document_id": "DOC-POL-011",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 89,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 2,
+    "cols": 4
+  },
+  "cell_matrix": [
+    [
+      "",
+      "As-Is",
+      "중간 목표",
+      "최종 목표"
+    ],
+    [
+      "산업 육성",
+      "￭ 매출 1,000억 기업 10개\n￭ 5G 표준특허 점유율 26%(2위)\n￭ 글로벌 RAN시장 점유율 5~6%",
+      "￭ (’28) 매출 3,000억 기업 5개\n￭ (’28) 6G 표준특허 20% 선점\n￭ (‘28) AI-RAN시장 점유율 10%",
+      "￭ (’30) 매출 5,000억 기업 5개\n￭ (’30) 6G 표준특허 30% 점유\n￭ (‘30) AI-RAN시장 점유율 20%"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2026883418",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

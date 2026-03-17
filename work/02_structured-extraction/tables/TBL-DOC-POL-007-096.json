@@ -1,0 +1,40 @@
+{
+  "table_id": "TBL-DOC-POL-007-096",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 387,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "구분",
+      "➊계약 담보형",
+      "➋IP평가 보증형"
+    ],
+    [
+      "내용",
+      "▸ 제품 구매 계약 근거로 대출 지원",
+      "▸ 지재권 평가 결과 근거로 대출 지원"
+    ],
+    [
+      "대상",
+      "AI반도체 공급·수요기업",
+      "AI반도체 공급기업"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2031439905",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

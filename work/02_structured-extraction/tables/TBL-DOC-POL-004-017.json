@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-004-017",
+  "document_id": "DOC-POL-004",
+  "page_no_or_sheet_name": "section0",
+  "block_order": 59,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 7,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      ""
+    ],
+    [
+      "AI로 과학기술 패러다임 전환 가속화\n과학기술×AI 국가전략(안)"
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      "2025. 11. 24."
+    ],
+    [
+      ""
+    ],
+    [
+      "관계부처 합동"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "0",
+  "source_table_id": "2007248574",
+  "repeat_header": "1",
+  "treat_as_char": "0",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

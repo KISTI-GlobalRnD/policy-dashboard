@@ -1,0 +1,41 @@
+{
+  "table_id": "TBL-DOC-POL-007-071",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 254,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 4,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "구 분",
+      "참여 기관(안)"
+    ],
+    [
+      "[공급처] 팹리스",
+      "∎ 퓨리오사AI, 리벨레온, 하이퍼엑셀 등"
+    ],
+    [
+      "[수요처] CSP, AI개발사 등",
+      "∎ (CSP·SI 기업) 네이버클라우드, KT클라우드, 카카오엔터프라이즈, NHN클라우드, SKT, LG CNS, 삼성SDS 등\n∎(AI·SW 기업) LG AI연구원, 모레 등"
+    ],
+    [
+      "[자문단] 학계, 유관기관 등",
+      "∎ 대학, TTA, IITP, NIPA 등"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2031439858",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

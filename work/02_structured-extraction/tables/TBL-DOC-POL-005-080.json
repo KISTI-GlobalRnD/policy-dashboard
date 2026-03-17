@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-005-080",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 671,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◇ ｢연구개발 생태계 혁신방안｣의 충실한 이행과 연구현장 착근을 위해 R&D를 수행하는 정부 부처 간 범부처 추진체계 구축 필요\n⇒ 범부처 이행점검조정과학기술관계장관회의 운영, 전문성기반 정책수립조정국가과학기술자문회의 기능강화를 통해 R&D 생태계 혁신 정책 실행력 강화"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903571",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

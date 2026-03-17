@@ -1,0 +1,40 @@
+{
+  "table_id": "TBL-DOC-POL-002-052",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 215,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 2,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "< (사례) 데이비드 싱클레어 하버드대 교수 노화역전 연구 >",
+      ""
+    ],
+    [
+      "▶ 체세포로부터 유도만능줄기세포를 만들어내는 유전자(야마나카 인자)를 발현시켜 조로증 생쥐의 노화 속도를 늦추거나 (Nature, 2020) 손상된 시신경을 회복(Cell, 2022)",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971423",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

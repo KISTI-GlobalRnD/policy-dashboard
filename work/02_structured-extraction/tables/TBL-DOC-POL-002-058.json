@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-002-058",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 228,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "",
+      "✔ AI 기반 질환예측 기술 예시",
+      ""
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "• Tempus社의 ’Tempus xO 플랫폼’은 조직의 병리 이미지, EMR 및 유전체 데이터를 수집하고 데이터 융합분석을 통해 항암치료 효과성을 제시하는 기술 개발",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 3
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971432",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

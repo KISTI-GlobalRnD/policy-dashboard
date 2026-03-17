@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-005-065",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 404,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◇ 충분한 연구역량과 인적자원을 갖춘 대학들은 연구 중심으로 운영될 수 있도록 대학단위 지원사업(블록펀딩) 등을 통해 연구기반 확보 지원"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903410",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

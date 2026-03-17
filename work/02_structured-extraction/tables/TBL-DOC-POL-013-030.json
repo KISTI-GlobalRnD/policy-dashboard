@@ -1,0 +1,80 @@
+{
+  "table_id": "TBL-DOC-POL-013-030",
+  "document_id": "DOC-POL-013",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 99,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 6,
+    "cols": 5
+  },
+  "cell_matrix": [
+    [
+      "국가전략기술\n육성법\n(국가전략기술)",
+      "",
+      "조세특례제한법\n(국가전략/\n신성장원천기술)",
+      "",
+      "국가첨단전략\n산업법\n(국가첨단전략기술)"
+    ],
+    [
+      "사이버보안",
+      "바이오",
+      "로봇",
+      "육상 모빌리티",
+      "우주·항공"
+    ],
+    [
+      "조선·해양",
+      "이차전지",
+      "원자력",
+      "수소",
+      "에너지·환경 기반"
+    ],
+    [
+      "소재·부품",
+      "기계·장비",
+      "방위산업",
+      "콘텐츠 기술",
+      "-"
+    ],
+    [
+      "▼",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "범주별 세부기술 도출, 기술별 특징, 부처별 역할분담을 고려하여 체계별 배치\n(부처간 사전 논의·공유 → 체계별 법령·거버넌스에 따라 선정)\n국가전략기술\n육성법\n(국가전략기술)\n조세특례제한법\n(국가전략/\n신성장원천기술)\n국가첨단전략\n산업법\n(국가첨단전략기술)\n산업기술보호법\n(국가핵심기술)\n...\n적용대상\n확대",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 5
+    },
+    {
+      "row_index": 5,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 5
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2099487384",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

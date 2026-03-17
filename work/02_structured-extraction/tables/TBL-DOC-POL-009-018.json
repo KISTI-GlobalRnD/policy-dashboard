@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-009-018",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 94,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "☞ R&D 예산삭감으로 인해 위축된 기초연구 생태계를 되살리고\n세계적 성과를 창출하는 생태계로 한 단계 도약하기 위한 방안 마련"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747684",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

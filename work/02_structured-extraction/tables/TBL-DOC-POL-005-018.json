@@ -1,0 +1,49 @@
+{
+  "table_id": "TBL-DOC-POL-005-018",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 60,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 6,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "구 분",
+      "주요 내용"
+    ],
+    [
+      "기술-수요 연계",
+      "‣ 연구성과와 수요기업 간 예측매칭을 지원하는 AI기반 성과확산 플랫폼 도입"
+    ],
+    [
+      "기술이전",
+      "‣ 기술료를 주식지분 등으로 분배하는 제도적 유인책 마련 등 공공연구성과 기술이전 활성화"
+    ],
+    [
+      "플래그십",
+      "‣ 민관 협력 R&D + 사업화를 통합 지원하는 범부처 메가프로젝트(예: K-Moonshot) 추진"
+    ],
+    [
+      "연구데이터",
+      "‣ 정부R&D를 통해 생성된 연구데이터를 축적확산하기 위한 근거법 마련 등 체계 구축"
+    ],
+    [
+      "지역자율R&D",
+      "‣ 블록펀딩형 지역자율 R&D 사업 추진 등 지역 주도적 R&D 체계로 전환"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002033826",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

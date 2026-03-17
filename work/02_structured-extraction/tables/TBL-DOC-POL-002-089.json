@@ -1,0 +1,74 @@
+{
+  "table_id": "TBL-DOC-POL-002-089",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 387,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 7,
+    "cols": 5
+  },
+  "cell_matrix": [
+    [
+      "구분",
+      "",
+      "보안 가상클라우드(1단계, ’25~’28)",
+      "",
+      "통합활용플랫폼(2단계, ’28~)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "제공 기능",
+      "",
+      "민감데이터 활용\n가상보안클라우드 분석 환경",
+      "",
+      "다양한 AI모델 활용 대규모 분석,\nAI모델 개발 학습 지원 등"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "GPU 수(누적)",
+      "",
+      "약 500개(H200, H100)",
+      "",
+      "약 2,500개*(H200이상, H200, H100)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "구축범위",
+      "",
+      "K-BDS",
+      "",
+      "K-BDS, 각부처 데이터센터 등"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971521",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

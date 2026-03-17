@@ -1,0 +1,240 @@
+[
+  {
+    "evidence_id": "EVD-DOC-CTX-010-00001",
+    "document_id": "DOC-CTX-010",
+    "page_no_or_sheet_name": 1,
+    "block_order": 1,
+    "block_type": "text_block",
+    "text": "국가연구개발 중장기 투자전략 : 생명·의료 분야",
+    "bbox": [
+      92.70975494384766,
+      77.5912094116211,
+      502.04791259765625,
+      95.55358123779297
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-010-00002",
+    "document_id": "DOC-CTX-010",
+    "page_no_or_sheet_name": 1,
+    "block_order": 2,
+    "block_type": "text_block",
+    "text": "□ 생명·의료 분야 정부 R&D 투자 분류체계",
+    "bbox": [
+      65.96424865722656,
+      121.27745819091797,
+      378.1550598144531,
+      136.24609375
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-010-00003",
+    "document_id": "DOC-CTX-010",
+    "page_no_or_sheet_name": 1,
+    "block_order": 3,
+    "block_type": "text_block",
+    "text": "중분류\n기술 개요",
+    "bbox": [
+      136.24615478515625,
+      436.14239501953125,
+      407.6590576171875,
+      447.1593322753906
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-010-00004",
+    "document_id": "DOC-CTX-010",
+    "page_no_or_sheet_name": 1,
+    "block_order": 4,
+    "block_type": "text_block",
+    "text": "바이오·의료기술",
+    "bbox": [
+      112.97876739501953,
+      477.2574462890625,
+      192.37539672851562,
+      488.2743835449219
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-010-00005",
+    "document_id": "DOC-CTX-010",
+    "page_no_or_sheet_name": 1,
+    "block_order": 5,
+    "block_type": "text_block",
+    "text": "‣ 생물학적 원리에 기반해 의료·산업에 응용되어 임상·보건\n분야의 새로운 패러다임을 창출하는 기술\n‣ 중증·만성질환과 감염병의 예방·진단·치료·관리를 통해 주요\n질환 극복을 목표로 하는 기술",
+    "bbox": [
+      241.78895568847656,
+      456.4743347167969,
+      524.85107421875,
+      508.6761169433594
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-010-00006",
+    "document_id": "DOC-CTX-010",
+    "page_no_or_sheet_name": 1,
+    "block_order": 6,
+    "block_type": "text_block",
+    "text": "의약품",
+    "bbox": [
+      136.24615478515625,
+      533.7157592773438,
+      169.22793579101562,
+      544.732666015625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-010-00007",
+    "document_id": "DOC-CTX-010",
+    "page_no_or_sheet_name": 1,
+    "block_order": 7,
+    "block_type": "text_block",
+    "text": "‣ 혁신신약(바이오·합성), 차세대 모달리티 및 재생의료 기술\n기반의 유전자·세포치료제 등\n‣ mRNA 등 차세대 백신 및 기존 플랫폼 기반의 백신 기술",
+    "bbox": [
+      241.78895568847656,
+      520.0049438476562,
+      516.3361206054688,
+      558.1819458007812
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-010-00008",
+    "document_id": "DOC-CTX-010",
+    "page_no_or_sheet_name": 1,
+    "block_order": 8,
+    "block_type": "text_block",
+    "text": "의료기기",
+    "bbox": [
+      130.72914123535156,
+      582.382568359375,
+      174.74496459960938,
+      593.3994750976562
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-010-00009",
+    "document_id": "DOC-CTX-010",
+    "page_no_or_sheet_name": 1,
+    "block_order": 9,
+    "block_type": "text_block",
+    "text": "‣ 의료용 진단/분석/치료기기 및 로봇\n‣ 임상 의사결정 지원 및 비대면 진료 관련 기술\n‣ 그 외 환자·사용자 중심의 디지털헬스케어 제품 및 서비스",
+    "bbox": [
+      241.78895568847656,
+      568.5518798828125,
+      506.4853515625,
+      606.7289428710938
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-010-00010",
+    "document_id": "DOC-CTX-010",
+    "page_no_or_sheet_name": 1,
+    "block_order": 10,
+    "block_type": "text_block",
+    "text": "디지털 바이오(AI 바이오)\n‣ 바이오·의료 데이터의 수집·통합과 표준화·고도화 등 지원\n‣ 빅데이터 및 AI 기반 기술/제품/서비스 개발",
+    "bbox": [
+      89.23163604736328,
+      616.139892578125,
+      511.1634521484375,
+      640.412109375
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-010-00011",
+    "document_id": "DOC-CTX-010",
+    "page_no_or_sheet_name": 1,
+    "block_order": 11,
+    "block_type": "text_block",
+    "text": "바이오제조",
+    "bbox": [
+      125.2121353149414,
+      663.5338745117188,
+      180.261962890625,
+      674.55078125
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-010-00012",
+    "document_id": "DOC-CTX-010",
+    "page_no_or_sheet_name": 1,
+    "block_order": 12,
+    "block_type": "text_block",
+    "text": "‣ 생명체 구성요소·시스템 설계·제작·합성기술, 합성생물학 연구\n과정을 표준화·고속화·자동화하는 인프라\n‣ 바이오 공정 기반 친환경·고기능성 소재와 원료·부자재·장비 등",
+    "bbox": [
+      241.78895568847656,
+      649.7031860351562,
+      523.4117431640625,
+      687.8802490234375
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-010-00013",
+    "document_id": "DOC-CTX-010",
+    "page_no_or_sheet_name": 1,
+    "block_order": 13,
+    "block_type": "text_block",
+    "text": "혁신 생태계",
+    "bbox": [
+      122.4536361694336,
+      719.9921875,
+      182.90054321289062,
+      731.0090942382812
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-010-00014",
+    "document_id": "DOC-CTX-010",
+    "page_no_or_sheet_name": 1,
+    "block_order": 14,
+    "block_type": "text_block",
+    "text": "‣ 글로벌연구협력 및 글로벌 진출 지원\n‣ 바이오·의료 분야 핵심인력양성 및 교육훈련 지원\n‣ 규제 역량 강화를 위한 안전성·품질평가 및 제품화 규제지원\n‣ 연구 및 제품 개발 지원을 위한 인프라",
+    "bbox": [
+      241.78895568847656,
+      699.2091064453125,
+      514.0570678710938,
+      751.4108276367188
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  }
+]

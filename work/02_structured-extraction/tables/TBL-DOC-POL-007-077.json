@@ -1,0 +1,116 @@
+{
+  "table_id": "TBL-DOC-POL-007-077",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 285,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 4,
+    "cols": 7
+  },
+  "cell_matrix": [
+    [
+      "기업",
+      "PIM R&D 개발 목표",
+      "",
+      "",
+      "",
+      "해외 상용 온디바이스 AI반도체",
+      ""
+    ],
+    [
+      "",
+      "고려대(대학)-\n네메시스(기업)",
+      "KAIST(대학)-\n코아솔(기업)",
+      "IHW(기업)",
+      "딥엑스(기업)",
+      "엔비디아(GPU)\nJetson AGX Orin",
+      "퀄컴(AP)\n스냅드래곤 X Elite"
+    ],
+    [
+      "전성비",
+      "수십TOPS/W 수준",
+      "",
+      "30TOPS/W\n(eFLASH)",
+      "20TOPS/W\n(SRAM)",
+      "16.5TOPS/W",
+      "4.5TOPS/W"
+    ],
+    [
+      "",
+      "(eNAND)",
+      "(eMRAM)",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 1,
+      "col_span": 4
+    },
+    {
+      "row_index": 0,
+      "col_index": 5,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 4,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 5,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 6,
+      "row_span": 2,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654527",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

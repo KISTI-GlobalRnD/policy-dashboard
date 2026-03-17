@@ -1,0 +1,206 @@
+[
+  {
+    "evidence_id": "EVD-DOC-CTX-012-00001",
+    "document_id": "DOC-CTX-012",
+    "page_no_or_sheet_name": 1,
+    "block_order": 1,
+    "block_type": "text_block",
+    "text": "인공지능",
+    "bbox": [
+      56.720001220703125,
+      13.542041778564453,
+      112.76065826416016,
+      27.568002700805664
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-012-00002",
+    "document_id": "DOC-CTX-012",
+    "page_no_or_sheet_name": 1,
+    "block_order": 2,
+    "block_type": "text_block",
+    "text": "□ 현 AI 모델 한계를 극복하는 차세대 범용AI 및 AI Safety 등 미래 AI 시장을",
+    "bbox": [
+      11.479999542236328,
+      36.7020378112793,
+      482.008056640625,
+      50.727996826171875
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-012-00003",
+    "document_id": "DOC-CTX-012",
+    "page_no_or_sheet_name": 1,
+    "block_order": 3,
+    "block_type": "text_block",
+    "text": "선도하기 위한 핵심기술 및 AI컴퓨팅 경쟁력 제고 등 신시장 창출 지원\n ○ (원천기술) 세계 최고 수준의 AGI 기술 선점 및 온디바이스AI 핵심기술 개발을",
+    "bbox": [
+      11.479999542236328,
+      55.54203414916992,
+      482.248046875,
+      88.52799987792969
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-012-00004",
+    "document_id": "DOC-CTX-012",
+    "page_no_or_sheet_name": 1,
+    "block_order": 4,
+    "block_type": "text_block",
+    "text": "지원하고, AI의 기술적 한계 및 오용 등 잠재 위험을 극복한 AI 기술 개발",
+    "bbox": [
+      36.43999481201172,
+      96.94204711914062,
+      471.2002258300781,
+      110.96800231933594
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-012-00005",
+    "document_id": "DOC-CTX-012",
+    "page_no_or_sheet_name": 1,
+    "block_order": 5,
+    "block_type": "text_block",
+    "text": "※ △과기차세대생성AI기술개발 40억원, △과기사람중심인공지능핵심원천기술개발 429억원,",
+    "bbox": [
+      11.479999542236328,
+      117.3836669921875,
+      481.6520080566406,
+      131.1999969482422
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-012-00006",
+    "document_id": "DOC-CTX-012",
+    "page_no_or_sheet_name": 1,
+    "block_order": 6,
+    "block_type": "text_block",
+    "text": "△과기인간지향적차세대도전형AI기술개발 61억원, △과기공존가능한신뢰AI를위한AISafety 80억원\n ○ (기반확충) AI 구현을 위한 네트워크 및 고성능 컴퓨팅 핵심기술과 AI 학습·적용에",
+    "bbox": [
+      11.479999542236328,
+      136.58367919921875,
+      482.1280517578125,
+      171.68798828125
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-012-00007",
+    "document_id": "DOC-CTX-012",
+    "page_no_or_sheet_name": 1,
+    "block_order": 7,
+    "block_type": "text_block",
+    "text": "필수적인 데이터 수집·분석 기술을 개발하고 K-클라우드 기반 AI서비스 확산",
+    "bbox": [
+      36.43999481201172,
+      180.10203552246094,
+      482.12823486328125,
+      194.12799072265625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-012-00008",
+    "document_id": "DOC-CTX-012",
+    "page_no_or_sheet_name": 1,
+    "block_order": 8,
+    "block_type": "text_block",
+    "text": "※ △과기AI연구용컴퓨팅지원프로젝트 90억원,",
+    "bbox": [
+      11.479999542236328,
+      200.66366577148438,
+      283.6520080566406,
+      214.47998046875
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-012-00009",
+    "document_id": "DOC-CTX-012",
+    "page_no_or_sheet_name": 1,
+    "block_order": 9,
+    "block_type": "text_block",
+    "text": "△과기AI반도체를활용한K-클라우드기술개발 366억원\n ○ (AX) 산업·공공분야 AI 적용·내제화를 통해 난제해결 및 효율성·생산성 혁신을",
+    "bbox": [
+      11.479999542236328,
+      219.86367797851562,
+      482.129150390625,
+      254.96800231933594
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-012-00010",
+    "document_id": "DOC-CTX-012",
+    "page_no_or_sheet_name": 1,
+    "block_order": 10,
+    "block_type": "text_block",
+    "text": "위한 핵심기술을 개발하고, AI 기술의 확산·활용성 향상 지원을 강화",
+    "bbox": [
+      36.43999481201172,
+      263.26202392578125,
+      436.7602233886719,
+      277.2879943847656
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-012-00011",
+    "document_id": "DOC-CTX-012",
+    "page_no_or_sheet_name": 1,
+    "block_order": 11,
+    "block_type": "text_block",
+    "text": "※ △해수‧산업자율운항선박기술개발 96억원, △중기‧과기스마트제조혁신기술개발 686억원, △경찰사이버범죄",
+    "bbox": [
+      11.479999542236328,
+      283.5856018066406,
+      477.1999816894531,
+      297.6399841308594
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-012-00012",
+    "document_id": "DOC-CTX-012",
+    "page_no_or_sheet_name": 1,
+    "block_order": 12,
+    "block_type": "text_block",
+    "text": "수사단서통합분석및추론시스템개발 36억원, △기상기후위기대응국가기후예측시스템개발 48억원",
+    "bbox": [
+      44.839996337890625,
+      303.023681640625,
+      477.3199768066406,
+      316.8399963378906
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  }
+]

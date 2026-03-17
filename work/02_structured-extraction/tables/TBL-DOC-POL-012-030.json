@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-012-030",
+  "document_id": "DOC-POL-012",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 85,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "∎ (현장사례) C부처는 교량·터널·댐 등 노후 기반시설의 안전점검 효율화를 위해 드론 영상과 AI분석을 결합하여 위험도를 평가하는 시스템 개발\n→ 후속 상용화 예산 삭감, 현행법 상 안전점검은 전문가 직접 수행 원칙으로 AI개발결과물 활용 한계 등으로 관련기술 사장"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2064893332",
+  "repeat_header": "1",
+  "treat_as_char": "0",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

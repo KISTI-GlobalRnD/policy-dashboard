@@ -1,0 +1,28 @@
+{
+  "document_id": "DOC-CTX-014",
+  "registry_id": "DOC-CTX-014",
+  "source_rel_path": "data/2026-03-17_missing-context-raw-sources/DOC-CTX-014__pacst-68-4-page-232.pdf",
+  "internal_path": "",
+  "source_format": "pdf",
+  "extraction_run_id": "pilot-gs-002-v3",
+  "page_count_or_sheet_count": 1,
+  "processing_status": "completed",
+  "quality_notes": [
+    "Primary pure-text path uses PyMuPDF4LLM page chunks in reading order.",
+    "Auxiliary PyMuPDF text blocks preserve bounding boxes for later layout-aware processing.",
+    "OCR disabled because the document exposes an embedded text layer.",
+    "PyMuPDF4LLM layout ONNX stack was not enabled in this phase because pure-text extraction is the current priority.",
+    "Cropped PACST section pages were post-processed from PyMuPDF block text to remove placeholder 2-column markdown table artifacts."
+  ],
+  "text_path": "work/02_structured-extraction/text/DOC-CTX-014_blocks.json",
+  "page_text_path": "work/02_structured-extraction/text/DOC-CTX-014_pages.json",
+  "markdown_path": "work/02_structured-extraction/text/DOC-CTX-014.md",
+  "layout_path": "work/02_structured-extraction/layout/DOC-CTX-014_layout.json",
+  "counts": {
+    "page_chunks": 1,
+    "evidence_units": 12,
+    "pages_with_tables_markdown": 0,
+    "pages_with_images_markdown": 0,
+    "page_text_fallback_pages": 1
+  }
+}

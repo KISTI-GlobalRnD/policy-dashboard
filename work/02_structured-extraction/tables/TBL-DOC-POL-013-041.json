@@ -1,0 +1,30 @@
+{
+  "table_id": "TBL-DOC-POL-013-041",
+  "document_id": "DOC-POL-013",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 184,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "붙임 2",
+      "",
+      "기술관리체계별 운영 현황"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2099487448",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

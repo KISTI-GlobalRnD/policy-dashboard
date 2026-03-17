@@ -1,0 +1,58 @@
+{
+  "table_id": "TBL-DOC-POL-009-053",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 234,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 4,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "구분",
+      "도약형(유형1)",
+      "도약형(유형2)"
+    ],
+    [
+      "지원대상",
+      "신진연구(B), 핵심연구(A)",
+      "핵심연구(B·C)"
+    ],
+    [
+      "",
+      "기초연구 Y-1년도 종료 및 Y년도 종료 예정 연구자",
+      ""
+    ],
+    [
+      "지원규모/기간",
+      "2억원 이내 / 3년",
+      "3.5억원 이내 / 3년"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "row_span": 1,
+      "col_span": 2
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747573",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

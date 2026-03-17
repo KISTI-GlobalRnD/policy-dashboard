@@ -1,0 +1,80 @@
+{
+  "table_id": "TBL-DOC-POL-009-072",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 308,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 4,
+    "cols": 7
+  },
+  "cell_matrix": [
+    [
+      "",
+      "",
+      "기초연구실\n(BRL)",
+      "",
+      "선도연구센터\n(SRC, ERC, MRC)",
+      "",
+      "세계 선도연구센터\n(자립화 단계)"
+    ],
+    [
+      "목표",
+      "⇨",
+      "집단연구의 기반(BASE) 형성",
+      "⇨",
+      "학문 분야별 선도연구그룹 육성",
+      "⇨",
+      "정부 지원 종료 이후 지속가능성을 확보, 세계적 연구그룹으로 성장"
+    ],
+    [
+      "그룹 규모",
+      "",
+      "전임 교원 3~4인의 연구그룹",
+      "",
+      "8인 이상 연구그룹",
+      "",
+      "전임연구원, 신진연구자(포닥 등) 등 다양한 계층으로 구성된 연구그룹"
+    ],
+    [
+      "지원 내용",
+      "",
+      "• 5억원 이내 / 3년",
+      "",
+      "• 15~22억원 / 7년",
+      "",
+      "• 기술 라이센싱, 위탁연구 등 산·학 협력 활성화 지원 → 민간 투자 확보\n• 글로벌 대형 연구프로젝트 참여, 해외 선도기관 협력 등 지원 → 해외 연구비 수주"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "row_span": 3,
+      "col_span": 1
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "row_span": 3,
+      "col_span": 1
+    },
+    {
+      "row_index": 1,
+      "col_index": 5,
+      "row_span": 3,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747607",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

@@ -1,0 +1,35 @@
+{
+  "table_id": "TBL-DOC-POL-002-007",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 19,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 2,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "규제",
+      "정책\n▪ 바이오 분야 AI 활용 확산에 총력\n▪ 정부투자만으로 AI 바이오 연구개발 수요 충족에 한계",
+      "데이터·인프라\n▪ 바이오데이터 규모·개방성 ·활용성 측면에 한계\n▪ 바이오 분야에 활용가능한 컴퓨팅 인프라 부족"
+    ],
+    [
+      "인재\n▪ AI 바이오 융합인재 수요 대비 공급 부족\n▪ AI 분야 대비 상대적 저임금으로 인재 이탈",
+      "산업생태계\n▪ AI 바이오 스타트업의 활발한 혁신\n▪ 글로벌 대비 부족한 공공-민간 협력연구",
+      "규제\n▪ 기술 발전 속도에 못 미치는 규제 개선 속도\n▪ 보건의료데이터 규제로 활용 제약"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971554",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

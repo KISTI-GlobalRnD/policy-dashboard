@@ -1,0 +1,74 @@
+{
+  "table_id": "TBL-DOC-POL-008-023",
+  "document_id": "DOC-POL-008",
+  "page_no_or_sheet_name": "section6",
+  "block_order": 118,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 6,
+    "cols": 5
+  },
+  "cell_matrix": [
+    [
+      "(단위 : 억원)",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "구분",
+      "2022",
+      "2023",
+      "2024",
+      "2025.6"
+    ],
+    [
+      "수도권",
+      "49,485",
+      "36,053",
+      "45,435",
+      "20,049"
+    ],
+    [
+      "5대 광역시",
+      "6,691",
+      "6,313",
+      "8,423",
+      "3,015"
+    ],
+    [
+      "그 외 지역",
+      "5,200",
+      "6,835",
+      "6,474",
+      "2,141"
+    ],
+    [
+      "합계",
+      "61,376",
+      "49,203",
+      "60,331",
+      "25,207"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 5
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028036034",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

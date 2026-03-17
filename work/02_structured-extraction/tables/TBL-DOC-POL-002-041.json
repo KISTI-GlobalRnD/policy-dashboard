@@ -1,0 +1,143 @@
+{
+  "table_id": "TBL-DOC-POL-002-041",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 161,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 11,
+    "cols": 7
+  },
+  "cell_matrix": [
+    [
+      "구분",
+      "",
+      "필요요소",
+      "",
+      "추진방향",
+      "",
+      "활용"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "바이오 파운데이션 모델",
+      "",
+      "분자 수준\n(Multi-modal\nMolecular FM)",
+      "",
+      "• 기개발된 싱글·멀티모달 FM 적극 활용\n• 여러종류 데이터(예: 다중오믹스, 단백질-화합물 구조 등)가 함께 인코딩되어 서로 유추가 가능한 멀티모달 FM 개발",
+      "",
+      "• 분자 구조·기능 분석\n• 결합력 예측\n• 약물 설계"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "세포 수준\n(Multi-modal\nCellular FM)",
+      "",
+      "• 세포 수준의 멀티스케일-멀티모달(분자-회로-네트워크-오믹스-세포 수준) FM 모델 구축",
+      "",
+      "• 약물 유효성 평가\n• 세포 수준 독성 예측"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "조직/장기\n/개체수준",
+      "",
+      "• 국가차원의 장기·대규모 투자로 시계열 임상의료기관 및 비임상제약회사 등 데이터를 활용한 개체 수준 FM 구축",
+      "",
+      "• ADMET 예측\n• 독성/부작용 예측\n• 임상 설계 최적화"
+    ],
+    [
+      "+",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "에이전틱\nAI",
+      "",
+      "Agent Toolbox",
+      "",
+      "• 기개발된 특화 모델 활용\n• FM 기반 공백영역 특화 모델 개발",
+      "",
+      "• 신약개발에 필요한 개별과제 수행"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "Control Agent/\nOrchestration Agent",
+      "",
+      "• 합성신약, 바이오신약 모달리티별 전주기 신약개발 에이전틱 AI 플랫폼 구축\n• Agentic AI workflow와 자율실험실을 연계하여 신약 설계-실험-검증 고속·자동화",
+      "",
+      "• 사용자가 요구하는 역할을 자연어 입력 기반으로 수행할 수 있도록 통합·조정"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 5,
+      "col_span": 1
+    },
+    {
+      "row_index": 7,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 7
+    },
+    {
+      "row_index": 8,
+      "col_index": 0,
+      "row_span": 3,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971403",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

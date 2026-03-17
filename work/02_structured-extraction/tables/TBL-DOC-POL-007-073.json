@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-007-073",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 263,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "□ 측정 데이터 공개 양식(안)\n○ (1단계) 측정 조건 및 지표별 세부 데이터 확보\n○ (2단계) 최적화된 측정값 시각화를 통한 객관적 평가 기반 제공\n< 측정 시각화(예시, 라마3-8B모델, Output 1,024) >"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654515",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-003-018",
+  "document_id": "DOC-POL-003",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 53,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "￭ (고품질 데이터) 각 업종을 대표하고 있는 앵커 기업들이 선도 사업에 대거 참여\n￭ (연 결 데이터) 업종 내 공급망의 대·중견·중소 기업간 AI를 수직적으로 확산"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2009609946",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

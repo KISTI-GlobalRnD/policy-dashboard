@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-010-009",
+  "document_id": "DOC-POL-010",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 48,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◈ 출연(연), 혁신과 변화의 물결에 직면"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "0",
+  "source_table_id": "2022564307",
+  "repeat_header": "1",
+  "treat_as_char": "0",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

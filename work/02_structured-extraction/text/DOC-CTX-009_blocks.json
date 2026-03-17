@@ -1,0 +1,886 @@
+[
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00001",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 1,
+    "block_type": "text_block",
+    "text": "Ⅰ. 개념",
+    "bbox": [
+      465.0,
+      45.023277282714844,
+      512.4005737304688,
+      57.85043716430664
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00002",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 2,
+    "block_type": "text_block",
+    "text": "<세부 기술(정책) 분류체계>",
+    "bbox": [
+      156.7886505126953,
+      55.65763473510742,
+      263.3204345703125,
+      63.445613861083984
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00003",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 3,
+    "block_type": "text_block",
+    "text": "대분류\n중분류\n기술 개요",
+    "bbox": [
+      56.33843231201172,
+      72.68840789794922,
+      323.7550048828125,
+      80.47638702392578
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00004",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 4,
+    "block_type": "text_block",
+    "text": "◈ 스마트 모빌리티",
+    "bbox": [
+      462.1199951171875,
+      83.03999328613281,
+      561.0595703125,
+      94.43999481201172
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00005",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 5,
+    "block_type": "text_block",
+    "text": "소프트웨어 중심 차량과",
+    "bbox": [
+      247.2897491455078,
+      103.89620971679688,
+      339.5793151855469,
+      112.40308380126953
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00006",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 6,
+    "block_type": "text_block",
+    "text": "자율주행 기술을 바탕으로 AI와",
+    "bbox": [
+      247.2897491455078,
+      117.44886016845703,
+      367.2691345214844,
+      125.95573425292969
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00007",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 7,
+    "block_type": "text_block",
+    "text": "○\n개념SDV(Software-Defined Vehicle)*와 자율주행 기술을 기반으로\nAI·센서·통신을 활용해 차량과 교통체계를 지능화하는 모빌리티",
+    "bbox": [
+      466.44000244140625,
+      107.4000015258789,
+      808.6204223632812,
+      136.41600036621094
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00008",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 8,
+    "block_type": "text_block",
+    "text": "스마트",
+    "bbox": [
+      98.2925796508789,
+      131.1214599609375,
+      125.9727783203125,
+      139.62832641601562
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00009",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 9,
+    "block_type": "text_block",
+    "text": "센서, 네트워크가 유기적으로",
+    "bbox": [
+      247.2897491455078,
+      131.1214599609375,
+      357.5595703125,
+      139.62832641601562
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00010",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 10,
+    "block_type": "text_block",
+    "text": "* 기능과 성능을 소프트웨어로 정의·제어하고 업데이트로 지속적으로 고도화되는 자동차",
+    "bbox": [
+      461.1600036621094,
+      143.55252075195312,
+      800.4005126953125,
+      152.06399536132812
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00011",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 11,
+    "block_type": "text_block",
+    "text": "모빌리티",
+    "bbox": [
+      94.21703338623047,
+      144.79405212402344,
+      127.0606689453125,
+      153.30091857910156
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00012",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 12,
+    "block_type": "text_block",
+    "text": "결합되어 교통 시스템 자체를",
+    "bbox": [
+      247.2897491455078,
+      144.79405212402344,
+      359.837158203125,
+      153.30091857910156
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00013",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 13,
+    "block_type": "text_block",
+    "text": "스스로 판단·진화하게 하는",
+    "bbox": [
+      247.2897491455078,
+      158.34671020507812,
+      349.5281066894531,
+      166.85357666015625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00014",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 14,
+    "block_type": "text_block",
+    "text": "스마트 모빌리티",
+    "bbox": [
+      247.2897491455078,
+      172.01930236816406,
+      308.3033142089844,
+      180.5261688232422
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00015",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 15,
+    "block_type": "text_block",
+    "text": "○중요성교통사고 감소와 이동 효율 향상을 동시에 달성하며 미래 모빌리티\n산업 전반의 기술 경쟁력과 부가가치를 좌우하는 핵심 분야",
+    "bbox": [
+      466.44000244140625,
+      159.86399841308594,
+      808.6200561523438,
+      187.4951934814453
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00016",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 16,
+    "block_type": "text_block",
+    "text": "◈ 친환경 모빌리티",
+    "bbox": [
+      462.1199951171875,
+      208.9199981689453,
+      561.0595703125,
+      220.3199920654297
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00017",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 17,
+    "block_type": "text_block",
+    "text": "전기와 수소 기반의 차세대",
+    "bbox": [
+      247.2897491455078,
+      222.27206420898438,
+      351.6867980957031,
+      230.7789306640625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00018",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 18,
+    "block_type": "text_block",
+    "text": "파워트레인을 중심으로, 이동의",
+    "bbox": [
+      247.2897491455078,
+      235.9446563720703,
+      365.71075439453125,
+      244.45152282714844
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00019",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 19,
+    "block_type": "text_block",
+    "text": "친환경",
+    "bbox": [
+      98.2925796508789,
+      242.78094482421875,
+      125.9727783203125,
+      251.28781127929688
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00020",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 20,
+    "block_type": "text_block",
+    "text": "시작부터 끝까지 환경 부담을",
+    "bbox": [
+      247.2897491455078,
+      249.6172332763672,
+      359.837158203125,
+      258.12408447265625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00021",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 21,
+    "block_type": "text_block",
+    "text": "○개념전기차·수소차 등 저탄소·무공해 동력원을 적용해 이동 전 과정에서\n탄소배출을 획기적으로 줄이는 지속 가능한 이동 기술",
+    "bbox": [
+      466.44000244140625,
+      233.90399169921875,
+      808.6199951171875,
+      261.65521240234375
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00022",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 22,
+    "block_type": "text_block",
+    "text": "모빌리티",
+    "bbox": [
+      94.21703338623047,
+      256.3335876464844,
+      127.0606689453125,
+      264.8404541015625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00023",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 23,
+    "block_type": "text_block",
+    "text": "최소화하며 탄소 없는 모빌리티",
+    "bbox": [
+      247.2897491455078,
+      263.1698913574219,
+      367.86871337890625,
+      271.6767578125
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00024",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 24,
+    "block_type": "text_block",
+    "text": "생태계를 구현하는 기술",
+    "bbox": [
+      247.2897491455078,
+      276.84246826171875,
+      336.5924987792969,
+      285.3493347167969
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00025",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 25,
+    "block_type": "text_block",
+    "text": "○\n중요성탄소중립 목표 달성과 강화되는 글로벌 환경규제에 대응하고\n지속가능한 교통·산업 구조 전환을 실현하기 위한 필수 요소",
+    "bbox": [
+      466.44000244140625,
+      270.7440185546875,
+      808.6195068359375,
+      299.0159912109375
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00026",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 26,
+    "block_type": "text_block",
+    "text": "첨단",
+    "bbox": [
+      58.735809326171875,
+      300.3497314453125,
+      75.39720153808594,
+      308.8565979003906
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00027",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 27,
+    "block_type": "text_block",
+    "text": "모빌리티",
+    "bbox": [
+      50.704586029052734,
+      314.0223083496094,
+      83.42906951904297,
+      322.5291748046875
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00028",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 28,
+    "block_type": "text_block",
+    "text": "◈ 모빌리티 인프라",
+    "bbox": [
+      462.1199951171875,
+      319.79998779296875,
+      561.0599975585938,
+      331.1999816894531
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00029",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 29,
+    "block_type": "text_block",
+    "text": "도로와 신호, 충전 인프라부터",
+    "bbox": [
+      247.2897491455078,
+      327.0952453613281,
+      361.6351318359375,
+      335.60211181640625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00030",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 30,
+    "block_type": "text_block",
+    "text": "V2X 기반 디지털 네트워크까지",
+    "bbox": [
+      247.2897491455078,
+      340.767822265625,
+      366.1897277832031,
+      349.2746887207031
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00031",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 31,
+    "block_type": "text_block",
+    "text": "모빌리티",
+    "bbox": [
+      94.21703338623047,
+      354.4403991699219,
+      130.0479278564453,
+      362.947265625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00032",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 32,
+    "block_type": "text_block",
+    "text": "하나의 플랫폼으로 통합해,",
+    "bbox": [
+      247.2897491455078,
+      354.4403991699219,
+      349.1693420410156,
+      362.947265625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00033",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 33,
+    "block_type": "text_block",
+    "text": "○개념도로·신호·충전시설·V2X* 등 다양한 물리·디지털 요소를 연계해 모빌리티\n기술과 서비스가 안정적으로 작동하도록 지원하는 기반 체계",
+    "bbox": [
+      466.44000244140625,
+      341.82586669921875,
+      808.6209106445312,
+      372.5351867675781
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00034",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 34,
+    "block_type": "text_block",
+    "text": "인프라",
+    "bbox": [
+      98.2925796508789,
+      367.9930725097656,
+      122.98551940917969,
+      376.49993896484375
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00035",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 35,
+    "block_type": "text_block",
+    "text": "모빌리티가 스스로 연결되고",
+    "bbox": [
+      247.2897491455078,
+      367.9930725097656,
+      355.761962890625,
+      376.49993896484375
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00036",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 36,
+    "block_type": "text_block",
+    "text": "* 차량이 다른 차량, 인프라, 보행자 등과 통신해 교통 안전성과 효율성을 높이는 기술",
+    "bbox": [
+      461.1600036621094,
+      380.3125,
+      800.6395874023438,
+      388.8240051269531
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00037",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 37,
+    "block_type": "text_block",
+    "text": "원활히 작동하는 지능형 기반",
+    "bbox": [
+      247.2897491455078,
+      381.6656494140625,
+      359.83685302734375,
+      390.1725158691406
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00038",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 38,
+    "block_type": "text_block",
+    "text": "구조",
+    "bbox": [
+      247.2897491455078,
+      395.21832275390625,
+      263.9511413574219,
+      403.7251892089844
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00039",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 39,
+    "block_type": "text_block",
+    "text": "○중요성자율주행과 스마트 교통 서비스의 안전한 운영과 대규모 확산을\n가능하게 하여 모빌리티 산업 생태계의 성장을 뒷받침",
+    "bbox": [
+      466.44000244140625,
+      396.5039978027344,
+      808.6195678710938,
+      424.25518798828125
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00040",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 40,
+    "block_type": "text_block",
+    "text": "MaaS를 중심으로 여러 이동",
+    "bbox": [
+      247.2897491455078,
+      442.3527526855469,
+      355.76202392578125,
+      450.859619140625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00041",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 41,
+    "block_type": "text_block",
+    "text": "◈ 모빌리티 서비스",
+    "bbox": [
+      462.1199951171875,
+      445.67999267578125,
+      561.0599975585938,
+      457.0799865722656
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00042",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 42,
+    "block_type": "text_block",
+    "text": "수단과 실시간 교통 데이터를",
+    "bbox": [
+      247.2897491455078,
+      456.0253601074219,
+      359.8374938964844,
+      464.5322265625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00043",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 43,
+    "block_type": "text_block",
+    "text": "모빌리티",
+    "bbox": [
+      94.21703338623047,
+      469.5780029296875,
+      130.0479278564453,
+      478.0848693847656
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00044",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 44,
+    "block_type": "text_block",
+    "text": "하나로 엮어, 이용자의 상황과",
+    "bbox": [
+      247.2897491455078,
+      469.5780029296875,
+      361.63519287109375,
+      478.0848693847656
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00045",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 45,
+    "block_type": "text_block",
+    "text": "서비스",
+    "bbox": [
+      98.2925796508789,
+      483.2506103515625,
+      122.98551940917969,
+      491.7574768066406
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00046",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 46,
+    "block_type": "text_block",
+    "text": "목적을 스스로 이해하고 최적의",
+    "bbox": [
+      247.2897491455078,
+      483.2506103515625,
+      367.868408203125,
+      491.7574768066406
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00047",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 47,
+    "block_type": "text_block",
+    "text": "○개념MaaS* 등을 통해 다양한 이동수단과 교통 정보를 통합·연계하고\n이용자 맞춤형 이동 경험을 제공하는 지능형 서비스",
+    "bbox": [
+      466.44000244140625,
+      467.7058410644531,
+      808.6213989257812,
+      498.2951965332031
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00048",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 48,
+    "block_type": "text_block",
+    "text": "이동을 설계하는 차세대",
+    "bbox": [
+      247.2897491455078,
+      496.9231872558594,
+      339.5793151855469,
+      505.4300537109375
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00049",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 49,
+    "block_type": "text_block",
+    "text": "* 다양한 이동수단을 하나의 플랫폼에서 통합·연결해 이용자 중심 이동 서비스를 제공",
+    "bbox": [
+      461.1600036621094,
+      506.072509765625,
+      801.959716796875,
+      514.583984375
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00050",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 50,
+    "block_type": "text_block",
+    "text": "모빌리티 서비스",
+    "bbox": [
+      247.2897491455078,
+      510.4758605957031,
+      308.3030090332031,
+      518.9827270507812
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00051",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 51,
+    "block_type": "text_block",
+    "text": "○중요성이동 편의성과 접근성을 크게 향상시켜 모빌리티 기술의 사회적\n수용성과 새로운 서비스 시장 창출을 촉진",
+    "bbox": [
+      466.44000244140625,
+      522.3839721679688,
+      808.6195678710938,
+      550.01513671875
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-009-00052",
+    "document_id": "DOC-CTX-009",
+    "page_no_or_sheet_name": 1,
+    "block_order": 52,
+    "block_type": "text_block",
+    "text": "- 1 -",
+    "bbox": [
+      622.719482421875,
+      569.69482421875,
+      640.3994140625,
+      576.77099609375
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  }
+]

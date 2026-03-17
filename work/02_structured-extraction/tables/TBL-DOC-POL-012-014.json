@@ -1,0 +1,29 @@
+{
+  "table_id": "TBL-DOC-POL-012-014",
+  "document_id": "DOC-POL-012",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 57,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "* “AI혁신의 3대 필수조건인 SW, 과학기술 역량, 제조능력을 모두 갖춘 나라는 극소수인데, 한국은 그중 하나이며, AI로봇 공장, 자율주행, 의료로봇 등에서 한국이 선도적 역할을 할 것”(엔비디아 젠슨황 CEO, ‘25.10.)",
+      ""
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2064893313",
+  "repeat_header": "1",
+  "treat_as_char": "0",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

@@ -1,0 +1,40 @@
+{
+  "table_id": "TBL-DOC-POL-002-051",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 207,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 2,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "< (사례) 해마의 위치‧격자세포 원리 → 공간탐색 및 강화학습 AI 개발 >",
+      ""
+    ],
+    [
+      "▶ 해마가 공간정보를 탐색·기억하는 원리를 알고리즘으로 구현하여 자율주행로봇, 드론, 게임 등에 응용가능한 탐색 AI 개발",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971420",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

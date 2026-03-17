@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-009-027",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 135,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "[ 진 단 ]\n 기초연구 투자가 지속 증가하였음에도 과제 수 감소로 인해 기초연구 수혜율 감소 → 저변 및 다양성 축소\n 상위 10%, 1% 논문 등 우수 학술성과는 지속 증가하고 있지만, \n투자 금액당 실적은 하락하고 있어 연구 생산성 정체 중\n 세계 최고 권위의 학술상 수상자, 주요 단체의 석학회원, HCR 연구자 등 최상위 연구자 규모는 기초과학 선진국 대비 부족한 수준\n 연구기관의 글로벌 경쟁력이 정체되어 있고 세계 최상위 기관도 부재"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747711",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

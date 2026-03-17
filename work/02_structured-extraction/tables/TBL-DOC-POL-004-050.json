@@ -1,0 +1,30 @@
+{
+  "table_id": "TBL-DOC-POL-004-050",
+  "document_id": "DOC-POL-004",
+  "page_no_or_sheet_name": "section1",
+  "block_order": 261,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "붙임1",
+      "",
+      "「ASK 2026 : AI Co-Scientist Challenge Korea」 계획(안)"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "0",
+  "source_table_id": "2005509179",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

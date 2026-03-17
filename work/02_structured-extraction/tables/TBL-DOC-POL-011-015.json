@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-011-015",
+  "document_id": "DOC-POL-011",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 72,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "“6G는 표준기술 경쟁, AI네트워크는 각국의 독자적 AI기술 기반 초격차 기술 경쟁”\n⇒ 6G·AI네트워크 연구 성과를 결집, 全영역 완전자율·지능형 네트워크 기술력 확보"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2026883404",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

@@ -1,0 +1,240 @@
+[
+  {
+    "evidence_id": "EVD-DOC-CTX-001-00001",
+    "document_id": "DOC-CTX-001",
+    "page_no_or_sheet_name": 1,
+    "block_order": 1,
+    "block_type": "text_block",
+    "text": "Ⅰ. 국방분야 개요",
+    "bbox": [
+      62.03999710083008,
+      63.51599884033203,
+      209.75999450683594,
+      81.49800109863281
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-001-00002",
+    "document_id": "DOC-CTX-001",
+    "page_no_or_sheet_name": 1,
+    "block_order": 2,
+    "block_type": "text_block",
+    "text": "◈ (개념) 국방분야 연구개발은무기체계 개발과국방기술개발로 구분",
+    "bbox": [
+      58.07999801635742,
+      110.87999725341797,
+      535.5599975585938,
+      129.07199096679688
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-001-00003",
+    "document_id": "DOC-CTX-001",
+    "page_no_or_sheet_name": 1,
+    "block_order": 3,
+    "block_type": "text_block",
+    "text": "○무기체계 개발 : 유도무기, 항공기, 함정 등의 무기와 이를 운영",
+    "bbox": [
+      64.08000183105469,
+      148.1999969482422,
+      538.5599975585938,
+      166.1999969482422
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-001-00004",
+    "document_id": "DOC-CTX-001",
+    "page_no_or_sheet_name": 1,
+    "block_order": 4,
+    "block_type": "text_block",
+    "text": "최적화해구현",
+    "bbox": [
+      410.03997802734375,
+      174.31500244140625,
+      508.3199768066406,
+      189.3000030517578
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-001-00005",
+    "document_id": "DOC-CTX-001",
+    "page_no_or_sheet_name": 1,
+    "block_order": 5,
+    "block_type": "text_block",
+    "text": "하는데 필요한 장비‧",
+    "bbox": [
+      87.1199951171875,
+      172.1999969482422,
+      229.6199951171875,
+      190.1999969482422
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-001-00006",
+    "document_id": "DOC-CTX-001",
+    "page_no_or_sheet_name": 1,
+    "block_order": 6,
+    "block_type": "text_block",
+    "text": "부품‧",
+    "bbox": [
+      229.67999267578125,
+      172.1999969482422,
+      267.17999267578125,
+      190.1999969482422
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-001-00007",
+    "document_id": "DOC-CTX-001",
+    "page_no_or_sheet_name": 1,
+    "block_order": 7,
+    "block_type": "text_block",
+    "text": "시설‧",
+    "bbox": [
+      267.1199951171875,
+      172.1999969482422,
+      304.6199951171875,
+      190.1999969482422
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-001-00008",
+    "document_id": "DOC-CTX-001",
+    "page_no_or_sheet_name": 1,
+    "block_order": 8,
+    "block_type": "text_block",
+    "text": "SW 등을 통합‧",
+    "bbox": [
+      304.67999267578125,
+      172.1999969482422,
+      409.97998046875,
+      190.1999969482422
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-001-00009",
+    "document_id": "DOC-CTX-001",
+    "page_no_or_sheet_name": 1,
+    "block_order": 9,
+    "block_type": "text_block",
+    "text": "※ 세부사업으로는 지휘정찰, 기동화력, 항공기, 함정, 유도무기 5가지로 구분",
+    "bbox": [
+      56.63999938964844,
+      200.65199279785156,
+      481.55999755859375,
+      212.63998413085938
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-001-00010",
+    "document_id": "DOC-CTX-001",
+    "page_no_or_sheet_name": 1,
+    "block_order": 10,
+    "block_type": "text_block",
+    "text": "○국방기술 개발 : 무기체계에적용하거나 신개념 무기체계 소요를",
+    "bbox": [
+      64.08000183105469,
+      226.55999755859375,
+      546.0599975585938,
+      244.55999755859375
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-001-00011",
+    "document_id": "DOC-CTX-001",
+    "page_no_or_sheet_name": 1,
+    "block_order": 11,
+    "block_type": "text_block",
+    "text": "창출하기 위한 기초, 응용, 시험개발또는 민간의 시제품 개발 및 실증",
+    "bbox": [
+      87.23999786376953,
+      250.55999755859375,
+      536.760009765625,
+      268.54498291015625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-001-00012",
+    "document_id": "DOC-CTX-001",
+    "page_no_or_sheet_name": 1,
+    "block_order": 12,
+    "block_type": "text_block",
+    "text": "※ 세부사업으로는 기초연구, 개별핵심기술, 패키지핵심기술, 부품국산화개발지원,",
+    "bbox": [
+      65.4000015258789,
+      279.0119934082031,
+      530.8919677734375,
+      291.0
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-001-00013",
+    "document_id": "DOC-CTX-001",
+    "page_no_or_sheet_name": 1,
+    "block_order": 13,
+    "block_type": "text_block",
+    "text": "미래도전국방기술개발, 신속시범사업, 민군기술협력사업 등으로 구분",
+    "bbox": [
+      100.07999420166016,
+      298.21197509765625,
+      477.3599853515625,
+      310.1999816894531
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-001-00014",
+    "document_id": "DOC-CTX-001",
+    "page_no_or_sheet_name": 1,
+    "block_order": 14,
+    "block_type": "text_block",
+    "text": "- 3 -",
+    "bbox": [
+      284.9655456542969,
+      802.0567016601562,
+      309.8734130859375,
+      812.0057983398438
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  }
+]

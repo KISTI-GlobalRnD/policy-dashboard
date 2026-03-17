@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-005-077",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 605,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "",
+      "< AI 기반 성과 확산 플랫폼(Apollo) 개발(안) >",
+      ""
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "‣ (연구자) 연구성과의 사업화에 적합한 유망 수요기업 예측\n‣ (수요기업) 기업 사업화 수요와 매칭되는 유망 정부 R&D 과제 예측",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 3
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903534",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

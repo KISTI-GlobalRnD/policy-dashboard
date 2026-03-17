@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-005-038",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 154,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◆ “R&D 기획이 현장의 수요와 동떨어져 있어 성과의 확산에 한계가 있으며, 보다 개방적이고 민간주도적인 실질적 수요자 기반 R&D 기획 필요”\n< 민간 전문가 자문단 단체토론방 민간위원 발언 中 >\n◆ “우리나라의 기술개발 성과가 경제적 성과로 이어지지 않는 근본적 이유는 정부 R&D 지원대상에서 실증 및 상용화 단계가 소외된 것에서 비롯”\n< R&D 혁신을 위한 산업계 현장 간담회(산기협, 9.4) 민간 기업 참여자 발언 中 >"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903223",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

@@ -1,0 +1,60 @@
+{
+  "table_id": "TBL-DOC-POL-002-090",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 392,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 5,
+    "cols": 5
+  },
+  "cell_matrix": [
+    [
+      "활용사례",
+      "",
+      "양자컴퓨터의 역할",
+      "",
+      "효과"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "분자 구조와 상호작용 계산",
+      "",
+      "전자 상태를 양자비트(qubit)로 표현할 수 있어, 기존 슈퍼컴퓨터 대비 분자의 전자구름 분포나 결합 에너지를 정확하게 계산 가능",
+      "",
+      "단백질-후보물질 결합 시 구조변화를 실시간으로 계산하여 후보물질 최적화 속도 수백~수천배 향상 가능"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "후보물질 탐색 효율성 향상",
+      "",
+      "분자 간 상호작용을 정밀 계산하여 가상 스크리닝의 오차를 줄이고 후보 수 대폭 압축",
+      "",
+      "수백만~수억개의 물질 중 상위 수십~수백개만 선별하여 실험 비용·시간 90% 이상 절감 가능"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971522",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

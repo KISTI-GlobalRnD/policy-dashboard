@@ -1,0 +1,71 @@
+{
+  "table_id": "TBL-DOC-POL-009-077",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 336,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 7
+  },
+  "cell_matrix": [
+    [
+      "추진 방향",
+      "",
+      "지원 대상",
+      "",
+      "지원 방식",
+      "",
+      "성과 공유"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "▪ IBS 해외 지사 (Branch) 설립\n▪ 글로벌 인재 발굴 및 연구비 지원",
+      "",
+      "▪ 세계적 석학으로 성장할 잠재력 큰 차세대 연구리더\n▪ 연구단장 선정 방식 참고, 지원 대상 선정",
+      "",
+      "▪ 현지 연구기관과의 전략적 협력(겸직 등) 기반의 연구 지원\n▪ 글로벌 수준의 연구 관리",
+      "",
+      "▪ 논문 공동 출판\n▪ 지식재산권 배분\n▪ 국내 연구그룹과의 연구 교류·협력 강화"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 3,
+      "col_span": 1
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "row_span": 3,
+      "col_span": 1
+    },
+    {
+      "row_index": 0,
+      "col_index": 5,
+      "row_span": 3,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747616",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

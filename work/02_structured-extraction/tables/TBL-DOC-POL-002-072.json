@@ -1,0 +1,74 @@
+{
+  "table_id": "TBL-DOC-POL-002-072",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 306,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 6,
+    "cols": 4
+  },
+  "cell_matrix": [
+    [
+      "부처명",
+      "역할",
+      "부처명",
+      "역할"
+    ],
+    [
+      "과기\n정통부",
+      "바이오 파운데이션 모델 개발 지원, AI 바이오 인프라 구축, 연구데이터 확보·개방 등",
+      "산업부",
+      "혁신기술 사업화 지원"
+    ],
+    [
+      "",
+      "",
+      "중기부",
+      "제약벤처-AI벤처 협업 R&D 지원"
+    ],
+    [
+      "복지부",
+      "의료데이터 연계 지원,\n데이터 활용 관련 제도적 지원",
+      "농식품부",
+      "그린바이오분야 특화 지원\n인·허가(동물용의약품) 패스트트랙 마련, 데이터(수의생명자원 등) 연계 등"
+    ],
+    [
+      "식약처",
+      "인‧허가 패스트트랙 마련",
+      "지재처",
+      "특허 기반 R&D 전략 제공, 특허 우선심사, 해외특허확보 및 분쟁대응 지원"
+    ],
+    [
+      "개인\n정보위",
+      "데이터 활용 관련 규제 개선 지원",
+      "금융위, 기재부",
+      "펀딩 지원, 세금 감면"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971487",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

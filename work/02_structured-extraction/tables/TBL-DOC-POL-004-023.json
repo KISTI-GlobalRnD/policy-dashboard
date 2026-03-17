@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-004-023",
+  "document_id": "DOC-POL-004",
+  "page_no_or_sheet_name": "section1",
+  "block_order": 78,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◇ 과학기술 AI 글로벌 주도권을 확보할 전략적 골든타임"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "0",
+  "source_table_id": "2003528100",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

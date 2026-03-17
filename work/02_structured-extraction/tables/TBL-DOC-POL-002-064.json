@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-002-064",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 250,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "",
+      "✔ 해외 사례",
+      ""
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "• (미국) 바이오의약 제조의 효율 향상을 위한 7개 디지털 트윈 프로젝트에 600만 달러 투입(NSF-NIH-FDA 공동지원 프로그램, ’24)\n• (EU) 생명과학 글로벌리더가 되기 위한 전략의 하나로, 디지털·AI 공정기술을 바이오제조의 경제성 확보 수단으로 제시(유럽연합 생명과학전략, ‘25)",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 3
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971440",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

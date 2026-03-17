@@ -1,0 +1,66 @@
+{
+  "table_id": "TBL-DOC-POL-005-049",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 195,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 4,
+    "cols": 5
+  },
+  "cell_matrix": [
+    [
+      "구 분",
+      "",
+      "기존(AS-IS)",
+      "➡",
+      "개선(TO-BE)"
+    ],
+    [
+      "평가등급 분류",
+      "",
+      "· 우수-보통-미흡-극히불량",
+      "",
+      "· 성실수행에 따른 완료 여부만 판단\n※ 우수 과제는 별도 선별지원"
+    ],
+    [
+      "우수 과제 조치",
+      "",
+      "· 일부 사업의 경우에만\n후속과제 가산점 부여",
+      "",
+      "· 후속과제 연계 지원(안)\n· 3책 5공 예외 사유 허용(안)"
+    ],
+    [
+      "목표 미달성 과제",
+      "",
+      "· 미흡·극히불량 처분",
+      "",
+      "· 수행과정이 성실했다면 ‘완료’처리, 목표 外 성과 도출 시 인센티브 부여"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 4,
+      "col_span": 1
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "row_span": 4,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903259",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

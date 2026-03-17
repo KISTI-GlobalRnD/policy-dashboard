@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-009-059",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 251,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◈ 연구생태계의 묘목인 청년 연구자가 원활하게 정착·성장하고, 최우수 석학이 세계 최고 성과를 지속 창출할 수 있도록 맞춤형 지원을 강화\n◈ 학문 분야별 특성을 반영한 최적의 지원체계를 마련하고, 기존에 없던 新 학문 분야 개척을 지원하여 성과 극대화"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747581",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

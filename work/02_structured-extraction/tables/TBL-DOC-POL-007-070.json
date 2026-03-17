@@ -1,0 +1,85 @@
+{
+  "table_id": "TBL-DOC-POL-007-070",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 246,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 5,
+    "cols": 5
+  },
+  "cell_matrix": [
+    [
+      "설계 SW",
+      "⇨",
+      "제품 제작",
+      "⇨",
+      "검증"
+    ],
+    [
+      "▪ 고비용 EDA 설계SW 바우처 제공(연 15개社)",
+      "",
+      "▪시제품 MPW 지원(연 10개社)\n▪보드/서버단위 양산품 구현(3개社)",
+      "",
+      "▪NPU 성능·신뢰성 검증\n▪보드/서버단위 검증"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "전 주기 활용 지원",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "▪고비용 IP 활용 지원(CPU, 메모리 컨트롤러, 인터페이스 등) 등",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 5
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 5
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654507",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

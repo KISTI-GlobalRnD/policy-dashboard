@@ -1,0 +1,92 @@
+{
+  "table_id": "TBL-DOC-POL-008-021",
+  "document_id": "DOC-POL-008",
+  "page_no_or_sheet_name": "section6",
+  "block_order": 115,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 8,
+    "cols": 4
+  },
+  "cell_matrix": [
+    [
+      "구분",
+      "트랙 구분",
+      "지원조건",
+      "지원한도(기간)"
+    ],
+    [
+      "팁스",
+      "-\n(800개)",
+      "민간 선투자 2억원 이상",
+      "2년 8억원"
+    ],
+    [
+      "스케일업 팁스",
+      "일반형\n(200개)",
+      "민간 선투자 10억원 이상",
+      "3년 20억원"
+    ],
+    [
+      "",
+      "정책지정형\n(100개)",
+      "민간 선투자 10억원 이상",
+      "3년 30억원"
+    ],
+    [
+      "글로벌 팁스",
+      "일반형\n(90개)",
+      "민간 선투자 15억원 이상 + 해외투자",
+      "4년 50억원"
+    ],
+    [
+      "",
+      "정책지정형\n(10개)",
+      "민간 선투자 15억원 이상 + 해외투자",
+      "4년 60억원"
+    ],
+    [
+      "DCP",
+      "기술도전형\n(35개)",
+      "민간 선투자 20억원 이상",
+      "3년 50억원"
+    ],
+    [
+      "",
+      "생태계혁신형\n(5개)",
+      "민간 선투자 30억원 이상",
+      "4년 200억원"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 6,
+      "col_index": 0,
+      "row_span": 2,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028035975",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

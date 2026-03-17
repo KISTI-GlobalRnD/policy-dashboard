@@ -1,0 +1,41 @@
+{
+  "table_id": "TBL-DOC-POL-006-014",
+  "document_id": "DOC-POL-006",
+  "page_no_or_sheet_name": 24,
+  "block_order": 625,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 4,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "병원정보시스템\n(Hospital Information\nSystem)",
+      "병원에서 의료, 행정, 재정 등 모든 운영 정보를 통합적으로\n관리하는 시스템, 전자의무기록(EMR), 전자처방시스템(OCS),\n의료영상저장전송시스템(PACS) 등"
+    ],
+    [
+      "원격의료시스템\n(Telemedicine System)",
+      "정보통신기술(ICT)을 활용 지리적으로 떨어진 환자와 의료진\n또는 의료기관 간에 의료서비스를 제공하는 시스템\n(원격모니터링, 원격진료, 원격협진 등)"
+    ],
+    [
+      "AI 진단 보조 시스템\n(AI-powered Diagnostic\nAssistance System)",
+      "인공지능(AI) 기술을 활용하여 의료 데이터(영상, 생체 정보 등)를\n분석하고, 의료진의 진단 결정을 보조하는 시스템"
+    ],
+    [
+      "모바일 헬스 시스템\n(M-Health System)",
+      "스마트폰, 웨어러블 기기 등 모바일 장치를 활용하여 건강관리\n및 의료서비스를 제공하는 시스템"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": [
+    74.16786600748698,
+    641.7780151367188,
+    520.259999593099,
+    780.1069946289062
+  ],
+  "extraction_confidence": "medium",
+  "extraction_method": "pymupdf-find_tables"
+}

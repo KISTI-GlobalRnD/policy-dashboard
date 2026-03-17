@@ -1,0 +1,35 @@
+{
+  "table_id": "TBL-DOC-POL-002-022",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 76,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 2,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "과거",
+      "",
+      "현재"
+    ],
+    [
+      "AI 응용의 초기 단계(특정 연구, 특정 단계)\n부분적 자동화(HTS, 이미지 분석 등)\n연구자 중심의 분산적 데이터 관리\n(표준화 미흡, 상호운용성 제한)\n개별 연구팀별 독립 운영 체계\nHuman-in-the-Loop의 높은 의존도\n도메인별 독립적 AI 모델 개발(ML 기반)",
+      "☞",
+      "LLM 기반 R&D 전주기 통합 시스템\nAgentic AI 기반 프로세스 자동화\n전사적·제도적 데이터 통합·활용\nSelf-Driving Lab/Lab-in-the-Loop 구축\nAI-Driven Ecosystem 고도화\n멀티모달 기초모델 기반 통합 지능화"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971259",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

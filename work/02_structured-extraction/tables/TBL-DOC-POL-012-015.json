@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-012-015",
+  "document_id": "DOC-POL-012",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 59,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "⇨ 범정부 차원의 AX 협업체계를 구축하여, 全 부처가 대규모 AX예산과 보유 자원·역량을 효과적으로 연계·활용함으로써, 분야별 AX 성공사례를 조기에 창출하고 AI 기반의 성장과 혁신 주도 필요"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2064893316",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

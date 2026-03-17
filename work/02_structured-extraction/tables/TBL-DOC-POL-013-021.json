@@ -1,0 +1,62 @@
+{
+  "table_id": "TBL-DOC-POL-013-021",
+  "document_id": "DOC-POL-013",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 68,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 6,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "기술명",
+      "법령/주무부처",
+      "목적 (현황)"
+    ],
+    [
+      "국가전략기술",
+      "「국가전략기술육성법」,\n과기정통부",
+      "범부처 R&D 지원, 신흥기술 발굴, 유망기업 지원 등\n(12대 분야 50개 기술)"
+    ],
+    [
+      "조특법 국가전략기술\n신성장원천기술",
+      "「조세특례제한법」,\n재정경제부",
+      "기업R&D·시설투자 세액공제\n(국가전략 8대 분야 81개, 신성장원천 14개 구분 284개)"
+    ],
+    [
+      "국가첨단전략기술",
+      "「국가첨단전략산업법」,\n산업통상부",
+      "입지·기금 지원, 기술개발, 기술유출 방지(사전승인, 처벌)\n(6대 분야 19개 기술)"
+    ],
+    [
+      "국가핵심기술",
+      "「산업기술보호법」,\n산업통상부",
+      "기술유출 방지(사전승인, 처벌)\n(13대 분야 79개 기술)"
+    ],
+    [
+      "해당 법령 외에도 기술분야별·정책목적별 법령 및 정책이 다수 운영 중(예: 소부장, 방산 등)",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 5,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 3
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2099487373",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

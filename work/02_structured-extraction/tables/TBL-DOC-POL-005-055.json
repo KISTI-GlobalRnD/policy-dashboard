@@ -1,0 +1,67 @@
+{
+  "table_id": "TBL-DOC-POL-005-055",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 298,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 5,
+    "cols": 5
+  },
+  "cell_matrix": [
+    [
+      "",
+      "",
+      "As-is",
+      "",
+      "To-be"
+    ],
+    [
+      "대학 등 시스템 연계",
+      "",
+      "IRIS → 기관 간 단방향 연계",
+      "",
+      "한쪽만 입력해도 정보가 연동되도록 IRIS ↔ 기관 간 양방향 연계"
+    ],
+    [
+      "성과물 등록",
+      "",
+      "전담기관 등록 → IRIS 연계 재입력",
+      "",
+      "전담기관 등록 후 연계 \n+ IRIS 직접 등록 모두 가능"
+    ],
+    [
+      "과도한 접수 정보",
+      "",
+      "관행적으로 불필요한 정보 수집\n(예) 인건비 계상률, 연봉 금액 등",
+      "",
+      "선정 평가 시 필요 없는 정보는 삭제 혹은 협약 이후에 입력하도록 조정"
+    ],
+    [
+      "과도한 증빙 요청",
+      "",
+      "소관 사이트에서 증빙자료 출력 요구 (예) 사업자등록증, 건강보험자격득실 등",
+      "",
+      "시스템 연계로 자격 여부 확인"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "row_span": 4,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903329",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

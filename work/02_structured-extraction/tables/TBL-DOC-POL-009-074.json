@@ -1,0 +1,86 @@
+{
+  "table_id": "TBL-DOC-POL-009-074",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 318,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 6,
+    "cols": 5
+  },
+  "cell_matrix": [
+    [
+      "권역",
+      "",
+      "현재",
+      "",
+      "향후계획(안)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "①부산/울산/경남",
+      "",
+      "•5개 센터 (3개 지자체)",
+      "",
+      "•권역별 8개 수준으로\n센터 규모 확대\n* ‘26년 4개 센터 종료 예정"
+    ],
+    [
+      "②대구/경북/강원",
+      "",
+      "•5개 센터 (2개 지자체)",
+      "",
+      ""
+    ],
+    [
+      "③광주/전북/전남/제주",
+      "",
+      "•8개 센터 (4개 지자체)",
+      "",
+      ""
+    ],
+    [
+      "④대전/세종/충북/충남",
+      "",
+      "•7개 센터 (4개 지자체)",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "row_span": 4,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "row_span": 4,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 4,
+      "row_span": 4,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747611",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

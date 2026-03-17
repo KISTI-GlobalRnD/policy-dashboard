@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-004-007",
+  "document_id": "DOC-POL-004",
+  "page_no_or_sheet_name": "section0",
+  "block_order": 23,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "☞ (추진방향) ➊ 기술·인재‧인프라‧산업을 아우르는 전 주기 지원\n+ ➋ 정부-산업-연구계 원팀으로 국가적 역량 결집"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "0",
+  "source_table_id": "2007248636",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

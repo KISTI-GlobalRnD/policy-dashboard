@@ -1,0 +1,52 @@
+{
+  "table_id": "TBL-DOC-POL-004-040",
+  "document_id": "DOC-POL-004",
+  "page_no_or_sheet_name": "section1",
+  "block_order": 160,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 2,
+    "cols": 5
+  },
+  "cell_matrix": [
+    [
+      "➊ 기초역량",
+      "+",
+      "➋ 독립연구",
+      "+",
+      "➌ 생태계 순환"
+    ],
+    [
+      "▪ 과학기술 AI 융합 커리큘럼 및 교재 개발, 교육 제공",
+      "",
+      "▪ AI 기반 과학난제 연구, 글로벌 연구 지원 등",
+      "",
+      "▪ 졸업생-재학생 멘토링 및 진로설계 지원 등"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "row_span": 2,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "0",
+  "source_table_id": "1996639232",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

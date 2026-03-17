@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-005-071",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 504,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◇ R&D의 적시성유연성 제고*를 위해 R&D 예타 제도를 폐지하고 R&D 특성에 맞는 맞춤형 사전점검체계로 전환\n* (예타) 기획~착수에 평균 4년 이상 소요, 예타 통과 후 사업추진도 경직적\n⇒ 1천억원 이상의 대규모 R&D는 연구형신속하면서도 내실있게 추진하고, 구축형현장수요 기반의 대형 연구 인프라를 체계적으로 구축"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903481",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

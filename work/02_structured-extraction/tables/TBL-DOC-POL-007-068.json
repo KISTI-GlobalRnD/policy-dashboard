@@ -1,0 +1,33 @@
+{
+  "table_id": "TBL-DOC-POL-007-068",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 234,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 2,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "HW 성능",
+      "▪(연산성능) 1.6PF(FP8) / (전력 효율성) 0.85TPS/W\n▪(LLM 지원) 독자 AI모델 수준의 대형 모델 최적 지원"
+    ],
+    [
+      "시스템SW",
+      "▪(유효 성능) 수요처 요구 수준(SLO)의 NPU 유효성능* 확보\n* 실제 AI모델 구동 평균 연산량 / 이론(스펙) 상 연산성능\n▪(활용 환경) 글로벌 AI추론 도구 연동·최적화"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654503",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

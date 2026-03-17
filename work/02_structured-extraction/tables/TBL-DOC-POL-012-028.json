@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-012-028",
+  "document_id": "DOC-POL-012",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 82,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "∎ (현장사례) 기보유한 데이터를 AI Agent 서비스 개발·제공 목적으로 활용할 수 있는 범위 등 법적 불확실성 한계로 사업 수행 고민"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2064893330",
+  "repeat_header": "1",
+  "treat_as_char": "0",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

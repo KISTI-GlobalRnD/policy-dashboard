@@ -1,0 +1,155 @@
+{
+  "table_id": "TBL-DOC-POL-010-044",
+  "document_id": "DOC-POL-010",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 181,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 9,
+    "cols": 9
+  },
+  "cell_matrix": [
+    [
+      "< 현행(‘24년) >",
+      "",
+      "",
+      "",
+      "",
+      "< PBS 폐지 후 (‘30년) >",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "기관출연금\n(55%)",
+      "",
+      "",
+      "기본사업 (7,480억원)",
+      "",
+      "ㅇ 기본연구사업\nㅇ 전략연구사업",
+      "",
+      "",
+      "기관출연금\n(100%)"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "외부수탁\n(45%)",
+      "",
+      "",
+      "정부수탁 (5,370억원, 39%)",
+      "⇒",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "민간수탁 등 (860억원, 6%)",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 4
+    },
+    {
+      "row_index": 0,
+      "col_index": 5,
+      "row_span": 1,
+      "col_span": 4
+    },
+    {
+      "row_index": 2,
+      "col_index": 5,
+      "row_span": 7,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 8,
+      "row_span": 7,
+      "col_span": 1
+    },
+    {
+      "row_index": 5,
+      "col_index": 0,
+      "row_span": 4,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2022564424",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

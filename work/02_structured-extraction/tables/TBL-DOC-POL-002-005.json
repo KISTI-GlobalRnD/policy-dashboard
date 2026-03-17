@@ -1,0 +1,73 @@
+{
+  "table_id": "TBL-DOC-POL-002-005",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section0",
+  "block_order": 6,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 5,
+    "cols": 5
+  },
+  "cell_matrix": [
+    [
+      "제 출 자",
+      "기획재정부장관",
+      "구윤철",
+      "과학기술정보통신부장관",
+      "배경훈"
+    ],
+    [
+      "",
+      "농림축산식품부장관",
+      "송미령",
+      "산업통상부장관",
+      "김정관"
+    ],
+    [
+      "",
+      "보건복지부장관",
+      "정은경",
+      "개인정보보호위원회위원장",
+      "송경희"
+    ],
+    [
+      "",
+      "식품의약품안전처장",
+      "오유경",
+      "지식재산처장",
+      "김용선"
+    ],
+    [
+      "제출 연월일",
+      "2025. 12. 18.",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 4,
+      "col_span": 1
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "row_span": 1,
+      "col_span": 4
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "1998584826",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

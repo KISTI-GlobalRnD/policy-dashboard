@@ -1,0 +1,30 @@
+{
+  "table_id": "TBL-DOC-POL-002-014",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 35,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "3",
+      "",
+      "데이터 접근·활용성 제고 및 AI 컴퓨팅 인프라 구축·지원"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971549",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

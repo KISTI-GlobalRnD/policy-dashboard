@@ -1,0 +1,27 @@
+{
+  "document_id": "DOC-TAX-001",
+  "registry_id": "DOC-TAX-001",
+  "source_rel_path": "data/260312_중장기투자전략_세부기술분야별_중분류.xlsx",
+  "internal_path": "",
+  "source_format": "xlsx",
+  "extraction_run_id": "pilot-gs-004-v1",
+  "page_count_or_sheet_count": 1,
+  "processing_status": "completed",
+  "quality_notes": [
+    "Workbook extracted via ZIP/XML parser.",
+    "Merged-cell metadata preserved separately.",
+    "Domain-subdomain pairs flattened for downstream processing."
+  ],
+  "sheets": [
+    {
+      "sheet_name": "Sheet1",
+      "worksheet_path": "xl/worksheets/sheet1.xml",
+      "table_id": "TBL-DOC-TAX-001-001",
+      "table_json_path": "work/02_structured-extraction/tables/DOC-TAX-001__Sheet1.json",
+      "table_csv_path": "work/02_structured-extraction/tables/DOC-TAX-001__Sheet1.csv",
+      "rows": 16,
+      "cols": 11,
+      "merged_ranges": 2
+    }
+  ]
+}

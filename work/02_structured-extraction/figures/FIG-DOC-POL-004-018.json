@@ -1,0 +1,19 @@
+{
+  "figure_id": "FIG-DOC-POL-004-018",
+  "document_id": "DOC-POL-004",
+  "page_no": null,
+  "page_no_or_sheet_name": "section1",
+  "block_order": 106,
+  "figure_type": "image",
+  "caption": "그림입니다.\n원본 그림의 이름: CLP00004d2444c1.bmp\n원본 그림의 크기: 가로 2308pixel, 세로 837pixel",
+  "legend_text": "",
+  "summary": "CLP00004d2444c1.bmp",
+  "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-004/image19.bmp",
+  "source_bbox": null,
+  "extraction_confidence": "medium",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "parent_table_id": "TBL-DOC-POL-004-032",
+  "binary_item_id": "image19",
+  "internal_asset_path": "BinData/image19.bmp"
+}

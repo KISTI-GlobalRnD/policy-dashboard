@@ -1,0 +1,35 @@
+{
+  "table_id": "TBL-DOC-POL-004-036",
+  "document_id": "DOC-POL-004",
+  "page_no_or_sheet_name": "section1",
+  "block_order": 129,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 2,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "바이오",
+      "",
+      "재료·화학"
+    ],
+    [
+      "▲감염병 연구, ▲유전자‧세포 치료제 설계, ▲저분자 약물 합성설계 등 분야별 구축\n※ ‘26년 6개 → ’27년 이후 100개 확대 목표",
+      "",
+      "▲화학소재(화학연, ‘26~’30), ▲금속소재(재료연, ‘26~’30)를 설계-합성-물성평가 및 분석 등 전주기를 반복·개선하는 지능형 실험실 구축"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002238148",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

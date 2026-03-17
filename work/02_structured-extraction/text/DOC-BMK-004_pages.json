@@ -1,0 +1,1056 @@
+[
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 1,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 1
+    },
+    "toc_items": [],
+    "tables": [],
+    "images": [
+      {
+        "number": 2,
+        "bbox": "Rect(28.449922561645508, 73.55006408691406, 246.14991760253906, 134.50006103515625)",
+        "transform": [
+          217.6999969482422,
+          0.0,
+          -0.0,
+          60.94999694824219,
+          28.449922561645508,
+          73.55006408691406
+        ],
+        "width": 665,
+        "height": 186,
+        "colorspace": 1,
+        "cs-name": "Indexed(1,DeviceRGB)",
+        "xres": 96,
+        "yres": 96,
+        "bpc": 8,
+        "size": 8304,
+        "has-mask": true
+      },
+      {
+        "number": 3,
+        "bbox": "Rect(54.85007858276367, 684.300048828125, 315.00006103515625, 733.7500610351562)",
+        "transform": [
+          260.1499938964844,
+          0.0,
+          -0.0,
+          49.44999694824219,
+          54.85007858276367,
+          684.300048828125
+        ],
+        "width": 795,
+        "height": 151,
+        "colorspace": 3,
+        "cs-name": "DeviceRGB",
+        "xres": 96,
+        "yres": 96,
+        "bpc": 8,
+        "size": 109203,
+        "has-mask": true
+      }
+    ],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## **U.S. DEPARTMENT OF ENERGY**\n# Genesis Mission National Science and Technology Challenges",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 2,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 2
+    },
+    "toc_items": [],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n### Contents\n\n\nReenvisioning Advanced Manufacturing and Industrial Productivity ..................................................................... 1\nReimagining Construction and Operation of Buildings ................................................................................................. 2\nScaling the Biotechnology Revolution .................................................................................................................................... 3\nSecuring America’s Critical Minerals Supply ....................................................................................................................... 4\nDelivering Nuclear Energy that is Faster, Safer, Cheaper ............................................................................................ 5\nAccelerating Delivery of Fusion Energy ................................................................................................................................. 6\nTransforming Nuclear Cleanup and Restoration ................................................................................................................ 7\nDiscovering Quantum Algorithms with AI ............................................................................................................................ 8\nRealizing Quantum Systems for Discovery .......................................................................................................................... 9\nRecentering Microelectronics in America .......................................................................................................................... 10\nSecuring U.S. Leadership in Data Centers .......................................................................................................................... 11\nAccelerating Materials Discovery, Production, and Qualification for Strategic Deterrence .................... 12\nAchieving AI-Driven Autonomous Laboratories .............................................................................................................. 13\nDesigning Materials with Predictable Functionality ...................................................................................................... 14\nEnhancing Particle Accelerators for Discovery ............................................................................................................... 15\nUnifying Physics from Quarks to the Cosmos .................................................................................................................. 16\nPredicting U.S. Water for Energy ............................................................................................................................................. 17\nScaling the Grid to Power the American Economy ....................................................................................................... 18\nUnleashing Subsurface Strategic Energy Assets ............................................................................................................ 19\nAccelerating Nuclear Threat Assessment, Preparedness, and Response ........................................................ 20\nHarnessing America’s Historic Nuclear Data and Research ...................................................................................... 21\nIncreasing Experimental Capacity at Nuclear Research Facilities ....................................................................... .22\nIntegrating Design and Production Operations for Nuclear Deterrence ........................................................... 23\nSafeguarding Nuclear Materials from Proliferation Threats ..................................................................................... 24\nStreamlining Production, Removing Red Tape, and Ensuring Safety in the Nuclear Enterprise ........... 25\nStrengthening Deterrence Through Attribution of Nuclear and Radiological Signatures ........................ 26",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 3,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 3
+    },
+    "toc_items": [
+      [
+        1,
+        "Reenvisioning Advanced Manufacturing and Industrial Productivity",
+        3
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Reenvisioning Advanced Manufacturing and Industrial Productivity\n\n\n**Challenge:** Bridging the gap between scientific discovery and commercially viable products and\nprocesses, known as the “valley of death”, remains the biggest challenge in industrial\nmanufacturing. The scaling, modification, or deployment of innovative materials and processes\ndepends on a vast and complex parameter space, requiring the uncovering and integration of\nunderlying physical and chemical principles that hold the key to the next United States (U.S.)\nmanufacturing revolution.\n\n\n**AI Solution:** Recent advancements in agentic and generative artificial intelligence (AI) present\nopportunities to accelerate discovery and translational science. These new tools could navigate\nmulti-scale and high-dimensional dynamic systems to find hidden relationships and uncover new\nmanufacturing routes and products. AI can also enable end-to-end digital transformation of\nindustrial manufacturing through integration of real-time data from machines, products, processes,\nand supply chains into digital twins for continuous human-in-the-loop automated decision support\nand deployment of emerging advanced manufacturing technologies.\n\n\n**Justification:** The U.S. Department of Energy (DOE) National Laboratories co-locate world-leading\nexpertise in the discovery, optimization, and scale-up of novel chemistry and materials for energy\napplications and in smart manufacturing, as well as operate cutting edge synthesis and\ncharacterization facilities and high-performance computing (HPC) resources. At the same time,\nDOE has a long history of partnering with industry, which has helped cultivate data from industrial\nfacilities. This creates an ideal environment to advance AI-driven manufacturing for U.S. industries\ntoday and in the future.\n\n\n**National Impact:** Delivering innovations through an efficient, distributed, and adaptive platform\ncapable of real-time decision making and end-to-end intelligence will profoundly transform how we\ncreate chemicals and materials foundational to industrial products and advanced energy\ntechnologies while strengthening supply chain resilience and competitiveness of American industry\nto create jobs and economic growth.\n\n\n1",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 4,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 4
+    },
+    "toc_items": [
+      [
+        1,
+        "Reimagining Construction and Operation of Buildings",
+        4
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Reimagining Construction and Operation of Buildings\n\n\n**Challenge:** Building construction faces high costs and long timelines due to fragmented permitting\nand poor data interoperability. Then, when buildings are operational, sometimes faulty building\ncontrols can cause increased energy bills.\n\n\n**AI Solution:** AI can transform the entire building lifecycle from design through operation by\nenabling breakthroughs in automated design, physics-based modeling, rapid permitting, and\noptimized maintenance. DOE will partner with machine learning and agentic platform developers,\nand collaborate with building owners, laboratories, construction companies, and others with data\nthat can help validate and accelerate learning.\n\n\n**Justification:** DOE's buildings expertise and national laboratory building science capabilities, along\nwith its integrated building research infrastructure and public-private partnerships, make it uniquely\nsuited to tackle this challenge.\n\n\n**National Impact:** This effort will reduce construction timelines and costs, increasing housing\navailability and affordability while making homes and commercial buildings less costly to operate.\n\n\n2",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 5,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 5
+    },
+    "toc_items": [
+      [
+        1,
+        "Scaling the Biotechnology Revolution",
+        5
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Scaling the Biotechnology Revolution\n\n\n**Challenge** : Designing biology on demand to innovate in biotechnology and re-establish U.S.\nleadership will require accurately defining the essential governing principles—from atoms to\nmolecules to organisms to ecosystems and back. However, the nonlinear complexity of biological\nsystems and long, costly development cycles hinder biotechnological innovations, impeding the\ndelivery of crucial biofuels, biochemicals, and bioproducts vital for American economic prosperity\nand energy independence.\n\n\n**AI Solution** : AI will integrate and interpret genomics, multi-omics, imaging, dynamics, and\nphenomics data into embedded models to establish genotype–phenotype relationships, identify\ncausal control points, and guide autonomous experimentation. This will advance AI’s ability to\nreason about long causal chains under uncertainty, integrate across multiple scales, and learn from\nsparse, noisy data. Tools like digital twins could be used to derisk process development,\noptimization, integration, and scale-up, thereby speeding up industrial production of biofuels,\nbiochemicals, and bioproducts by orders of magnitude.\n\n\n**Justification:** DOE is uniquely positioned to leverage its world-class molecular and genomic\ncapabilities of the Lawrence Berkeley National Laboratory’s (LBNL) Joint Genome Institute, the\nPacific Northwest National Laboratory’s Environmental Molecular Sciences Laboratory, the\nspecialized feedstock and conversion capabilities of the Idaho National Laboratory’s (INL) Biomass\nFeedstock National User Facility, the National Laboratory of the Rockies’ (NLR) Integrated\nBiochemical Refinement Facility & Process Development Unit, and the LBNL Advanced\nBiofuels/Bioproducts Process Development Unit facilities and HPC. These DOE assets, combined\nwith AI tools and digital twins, will enable predictive design of biological processes, products, and\nsystems and rapid scale-up of biomanufacturing.\n\n\n**National Impact:** Accelerating AI-driven biotechnology will position the U.S. to establish leadership\nin the biotechnology revolution by rapidly advancing the continuum from discovery to\nbiomanufacturing scale-up, in areas spanning energy, bio-based domestic sources of critical\nminerals and materials (CMM), health, agriculture, and biosecurity, and will drive economic growth\nand job creation across the nation.\n\n\n3",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 6,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 6
+    },
+    "toc_items": [
+      [
+        1,
+        "Securing America’s Critical Minerals Supply",
+        6
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Securing America’s Critical Minerals Supply\n\n\n**Challenge:** America's dependence on foreign supply chains for CMM threatens national security,\neconomic competitiveness, and the deployment of technologies essential for energy\nindependence. Domestic critical mineral production is expensive, complex, and time-consuming, in\npart because of the many steps to identify, extract, refine, and concentrate from complex,\nheterogeneous sources across critical mineral supply chains.\n\n\n**AI Solution:** AI will revolutionize the entire critical minerals supply chain and development of\nalternative materials by integrating geophysical data, other fundamental science data, process\noptimization, cost estimation, and economic modeling into one connected system. Solving this\nchallenge demands an AI that can reason scientifically, can understand complex structure-property\nrelationships, and can design alternatives with different compositions. Physics-based AI offers\nadvanced predictive capabilities to identify alternatives and understand processes underlying\ncritical mineral availability, recovery, refinement, and replacement.\n\n\n**Justification:** DOE's existing minerals characterization datasets (e.g., METALLIC, Critical Materials\nInnovation Hub), combined with DOE national laboratory expertise and DOE-supported efforts in\nmaterials science, chemistry, geosciences, biology, process engineering, and economic modeling,\ncould enable acceleration from the years-long mineral development timelines to rapid resource\nassessment and production optimization. Further, use of AI could reveal new strategies to replace\nand/or eliminate the need for CMMs in some materials and chemical processes.\n\n\n**National Impact:** This effort will reduce reliance on adversarial nations, expand America's mineral\nresource base, maximize production profitability, and strengthen supply chain resilience for\ntechnologies essential to national security and economic prosperity.\n\n\n4",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 7,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 7
+    },
+    "toc_items": [
+      [
+        1,
+        "Delivering Nuclear Energy That is Faster, Safer, Cheaper",
+        7
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Delivering Nuclear Energy That is Faster, Safer, Cheaper\n\n\n**Challenge:** Nuclear power plants have historically been challenged by long development timelines\nand burgeoning costs, limiting America’s ability to deliver affordable, resilient, and reliable energy as\ndemand continues to grow—particularly from AI data centers.\n\n\n**AI Solution:** This initiative will accelerate nuclear energy deployment by using AI to design, license,\nmanufacture, construct, and operate reactors with human-in-the-loop workflows, enabling at least\n2x schedule acceleration and greater than 50% operational cost reductions. To meet these goals,\nwe are using a suite of explainable AI solutions including surrogate models, agentic workflows,\nautonomous labs, and digitals twins. For example, for reactor operations, we will use digital twin\nsystems with AI components that will interpret complex operational data in real time.\n\n\n**Justification:** DOE's combination of national laboratory nuclear expertise, test facilities (e.g., INL’s\nAdvanced Test Reactor, Transient Reactor Test Facility, Fuel Conditioning Facility, Hot Fuel\nExamination Facility, and Collaborative Computing Center; Oak Ridge National Laboratory's High\nFlux Isotope Reactor; Argonne National Laboratory’s Mechanisms Engineering Test Loop Facility),\ndecades of operational data, regulatory partnerships, industry partners, and extensive\ncomputational ecosystem uniquely position it to accelerate reactor deployment.\n\n\n**National Impact:** This challenge will provide Americans more affordable energy while reducing\nhuman error, strengthening national security, and directly supporting U.S. energy dominance with\nmulti-billion-dollar cost savings per gigawatt of generating capacity.\n\n\n5",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 8,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 8
+    },
+    "toc_items": [
+      [
+        1,
+        "Accelerating Delivery of Fusion Energy",
+        8
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Accelerating Delivery of Fusion Energy\n\n\n**Challenge:** Realizing fusion energy on the grid requires coordinated progress across six tightly\ncoupled challenge areas defined in the Fusion Science and Technology Roadmap. [1] Isolated, devicespecific trial-and-error approaches cannot manage these interdependencies at the scale,\ncomplexity, or pace required to meet national energy objectives.\n\n\n**AI Solution:** AI enables physics-constrained digital twins that integrate plasma, nuclear, materials,\nand system behavior within a unified predictive framework, allowing performance and engineering\ntrade-offs, failure modes, and design margins to be evaluated consistently in simulation and\nexperiment. An AI-Fusion Digital Convergence Platform (DCP) will integrate novel algorithms in\nHPC codes, foundation models for plasma and materials science, physics- and chemistry-informed\nneural networks, surrogate models, and digital twins for whole-facility modeling and real-time\ncontrol across the six Roadmap challenge areas. The DCP will accelerate infrastructure\ndevelopment, shorten innovation cycles, and support a competitive U.S. fusion ecosystem.\n\n\n**Justification:** DOE uniquely brings together fusion facilities, national laboratories, leadership-class\ncomputing, data stewardship, and public-private partnerships to build and operate a trusted,\nnational-scale AI platform that integrates data, models, and experiments across the fusion\necosystem. That platform will leverage large-scale domestic and international fusion facilities and\nfusion materials and technology infrastructure including high-heat-flux testbeds, tritium and\nblanket test stands and loops, irradiation facilities, and in situ and in operando materials\ncharacterization capabilities across both public and private sectors to meet fusion roadmap\nmilestones.\n\n\n**National Impact:** The DCP would accelerate delivery of fusion energy as a source of firm, scalable\nbaseload power, strengthening U.S. energy security and competitiveness.\n\n\n1 The Fusion Science and Technology Roadmap is available at energy.gov/fusion-energy.\n\n\n6",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 9,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 9
+    },
+    "toc_items": [
+      [
+        1,
+        "Transforming Nuclear Cleanup and Restoration",
+        9
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Transforming Nuclear Cleanup and Restoration\n\n\n**Challenge:** DOE's environmental cleanup mission faces an estimated $540 billion liability over eight\ndecades with ~90 million gallons of highly radioactive tank waste requiring treatment that impedes\nsite remediation and restoration crucial for American energy, security, and innovation.\n\n\n**AI Solution:** A multimodal AI foundation model will be trained on DOE Office of Environmental\nManagement's (EM) unparalleled 30+ years of operational data from unique nuclear processing\nfacilities to predict scale-dependent behavior across lab, pilot, and full-scale systems. National\nlaboratory experts will leverage Equinox supercomputing capabilities for accelerated simulation\narchitecture in development of the AI models. The goal is to use AI to enable mission acceleration\nto meet EM’s 2040 vision with significant liability reduction.\n\n\n**Justification:** DOE EM's unique data assets from designing and operating large-scale facilities at\ncomplex sites (e.g., the Defense Waste Processing Facility and the Salt Waste Processing Facility at\nthe Savannah River Site (SRS)), combined with the capabilities provided by the industry partners,\nwill enable development of scale-bridging AI models that safely and efficiently address deployment\nchallenges (e.g., the Waste Treatment and Immobilization Plant at the Hanford Site) no other\ninstitutions can leverage.\n\n\n**National Impact:** This transformation will compress deployment timelines and accelerate nuclear\nremediation, thereby enabling renewed use of nuclear materials (for energy and medical\napplications) and infrastructure for American energy dominance.\n\n\n7",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 10,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 10
+    },
+    "toc_items": [
+      [
+        1,
+        "Discovering Quantum Algorithms with AI",
+        10
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Discovering Quantum Algorithms with AI\n\n\n**Challenge:** Discovering new quantum algorithms is an exceptionally difficult challenge due to the\nnumber of potential quantum operations and is highly counter-intuitive for human researchers to\nnavigate. U.S. leadership in the emerging quantum computing revolution will require accelerating\nthe design and development of quantum algorithms (including those that capitalize on the\nconvergence of classical HPC, AI, and quantum computers) that demonstrate scientific utility and a\nprovable quantum advantage.\n\n\n**AI Solution:** Novel AI could discover new quantum algorithms by automating and optimizing their\ndesign and translating them into applications without requiring prior domain knowledge.\nFurthermore, AI-powered platforms can translate high-level problem descriptions in natural\nlanguage into executable quantum circuits, making algorithm design more accessible to researchers\nfrom various fields. AI could help establish scientific workflows that leverage the interplay of\nclassical and quantum resources, managing data flow and executing complex computations across\nplatforms.\n\n\n**Justification:** There is strong evidence that quantum computers and algorithms will offer solutions\nto computational problems with high impact to the scientific community, beyond the limits of\nclassical HPC and AI. DOE hosts the most complete suite of scientific computing capabilities and\nthese advances in quantum capability will enable computations that are classically intractable.\n\n\n**National Impact:** The discovery of new quantum algorithms will have broad applications to science\ndomains, such as fusion sciences, high energy physics, nuclear physics, materials science, and\nchemistry, with proposed commercial applications for the acceleration of drug, material, and\nchemical discovery. This technological leap would not only bolster the nation's economy and\nsecurity but also provide tools to address some of the most challenging scientific and societal\nproblems.\n\n\n8",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 11,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 11
+    },
+    "toc_items": [
+      [
+        1,
+        "Realizing Quantum Systems for Discovery",
+        11
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Realizing Quantum Systems for Discovery\n\n\n**Challenge:** Quantum systems for quantum computing, quantum sensing, and quantum\ncommunication are poised to revolutionize discovery science by enabling unprecedented\ncapabilities in modeling, simulation, and measurement. The use of current quantum systems is\nseverely limited by their fragility, scalability, and integration into existing infrastructure. The\ninherent challenge is the lack of understanding and control of the complex cause-and-effect\nrelationships within a quantum system.\n\n\n**AI Solution:** AI has shown its ability to process vast amounts of multimodal data, to recognize\ncomplex patterns and relationships, and to learn adaptively how to handle dynamic and\nunpredictable environments. This ability makes AI uniquely suited to help understand and control\nthe delicate nature of complex quantum systems. In quantum computing, AI will assist in real-time\nnoise mitigation, adaptive error detection and correction, and system optimization and design. In\nquantum sensing, AI will optimize quantum entanglement, increase sensitivity, and control multisensor quantum networks. In quantum communication, AI will dynamically optimize multi-node\nquantum network design and control. New AI approaches are needed for making real-time\ndecisions under quantum uncertainty, learning control policies when observation is costly and\ndestructive, predicting behavior from incomplete information, and adapting to drift in real-time.\n\n\n**Justification:** DOE is home to five National Quantum Information Research Centers in the U.S.\nworking on overcoming limitations in quantum computing, quantum sensing, and quantum\ncommunication. The existing ecosystem is ideally suited to develop AI solutions to enable full\nquantum control.\n\n\n**National Impact:** The AI enabled understanding and control of complex quantum systems will\naccelerate the deployment of quantum technologies and accelerate their utilization for currently\nintractable challenges in scientific discovery and technology development.\n\n\n9",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 12,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 12
+    },
+    "toc_items": [
+      [
+        1,
+        "Recentering Microelectronics in America",
+        12
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Recentering Microelectronics in America\n\n\n**Challenge:** Microelectronics powers all aspects of our lives, including AI, but America faces intense\nglobal competition in critical microelectronics applications, including ultra-efficient semiconductors\nfor AI computing, power electronics, and communication networks. Microelectronics faces a\ntremendous scientific and technological challenge: designing and engineering the next generation\nof microelectronic devices and platforms that push the boundaries of miniaturization, processing\nspeed, power consumption, thermal management, and operations environment.\n\n\n**AI Solution:** An AI-driven full-stack co-design ecosystem will enable faster innovation cycles, derisk new ultra-efficient manufacturing processes and component designs, and accelerate materials\nand manufacturing research and development (R&D), thereby leapfrogging foreign semiconductor\ntechnology. Frontier AI coupled with heterogenous and multiscale data that is accessible via\nfederated learning techniques will accelerate microelectronics research by revealing the critical\nrelationships and tradeoffs between materials, devices, and workflows.\n\n\n**Justification:** For decades, DOE has been at the leading edge of microelectronics research, both as\na consumer and as an engine of scientific innovation with expertise in advanced materials,\nnanofabrication, and quantum-related technologies such as cryogenics, enabling many of the\ntechnological breakthroughs adopted by industry.\n\n\n**National Impact:** Microelectronics continues to be at the heart of technological innovation, and\nevery American will benefit from recentering leadership of the industry in the U.S. This effort will\nensure sustained U.S. leadership in the global semiconductor landscape, enabling the rapid growth\nof domestic data centers, advancing beyond Moore's law for AI computing and national security\napplications, and securing other technological advantages—such as global leadership in 6G\ncommunication networks essential for economic prosperity and national security.\n\n\n10",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 13,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 13
+    },
+    "toc_items": [
+      [
+        1,
+        "Securing U.S. Leadership in Data Centers",
+        13
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Securing U.S. Leadership in Data Centers\n\n\n**Challenge:** Winning the AI race will require accelerating the process of developing and deploying\nnew data center technologies and energy management strategies to provide the extreme compute\npower for AI advancements, while ensuring secure, reliable, and affordable energy for consumers.\n\n\n**AI Solution:** By leveraging AI/machine learning (ML), digital twins, and cyber-physical testbeds, we\ncan rapidly de-risk advanced data center technologies and their grid integration, accelerating the\ntime to deployment and supporting stakeholder needs including data center operators, equipment\nproviders, communities, and utilities. AI/ML can accelerate physics-based models to enable realtime digital twins, explore millions of deployment scenarios, and optimize under a unique constraint\nsurface.\n\n\n**Justification:** This project leverages DOE's capacity to convene data center and utility\nstakeholders, the national laboratories’ research expertise in both load flexibility and computing, and\ntheir unique cyber-physical testbed facilities. Specifically, the DOE already supports the Center of\nExpertise for Data Center Energy at LBNL, which can provide resources, including a variety of data\nsets on data center energy use, to aid this effort.\n\n\n**National Impact:** By ensuring a robust capacity to develop cutting edge data center technologies\nand load management strategies, we will solidify U.S. intellectual and economic leadership in AI,\ndriving prosperity and security while maintaining secure, reliable, and affordable energy for\nconsumers.\n\n\n11",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 14,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 14
+    },
+    "toc_items": [
+      [
+        1,
+        "Accelerating Materials Discovery, Production, and Qualification for Strategic Deterrence",
+        14
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Accelerating Materials Discovery, Production, and Qualification for Strategic Deterrence\n\n\n**Challenge:** The nuclear security enterprise faces significant hurdles in discovering, manufacturing,\nand qualifying mission-critical nuclear and non-nuclear materials. This challenge will develop a\ndigital, AI-accelerated workflow that connects the entire lifecycle of critical materials,\nfrom initial formulation to final production. This approach will incorporate real-time anomaly\ndetection and in-process corrections to significantly reduce the need for extensive qualification\ntesting and improve the safety and reliability of these critical materials. It will\nalso expedite new materials development, enabling opportunities to meet evolving military\nrequirements.\n\n\n**AI Solution:** Develop an AI-driven workflow that links material design, automated testing, and\nqualification into a single, data-driven process by using physics-based simulations on\nhigh-performance computers to screen and optimize material candidates, directing robotic labs and\nin-line sensors to run experiments, feed results back, and refine virtual performance models, and\nautomatically assembling risk-based qualification packages that can be shared across sites for fast,\ncoordinated approvals. This workflow also includes automated AI agents that invent and test new\nplutonium purification methods and deliver only the best options to scientists for review,\ncompressing a months-long development process into just days.\n\n\n**Justification:** The National Nuclear Security Administration (NNSA) uniquely combines\nsupercomputing power, specialized test facilities, and decades of mission data. By uniting these\nassets in an AI-managed pipeline, we can shrink discovery-to-qualification times, improve\nmanufacturing reliability, and build a stronger domestic supply of critical materials—without\nsacrificing safety or oversight,\n\n\n**National Impact:** Accelerating material development and certification will ensure the timely\ndelivery of strategic components for deterrence, reduce reliance on fragile supply chains while\nlowering overall program costs, and provide a scalable model for safer, more efficient\nmanufacturing in civilian sectors such as energy, chemicals, and aerospace.\n\n\n12",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 15,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 15
+    },
+    "toc_items": [
+      [
+        1,
+        "Achieving AI-Driven Autonomous Laboratories",
+        15
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Achieving AI-Driven Autonomous Laboratories\n\n\n**Challenge:** The pace of scientific discovery is influenced by the traditional, human-driven\nexperimental process and the availability of non-deterministic AI-driven control tools to implement\ncomplex experimental designs in combinatorially large design parameter spaces. These bottlenecks\nslow the cycle of hypothesis, experimentation, and discovery, leading to inefficient use of critical\nnational assets and delaying scientific breakthroughs. Automating at least some parts of the\nscientific experimental scheme will both increase the volume of data produced for improved AI\nmodels and improve the repeatability of experiments.\n\n\n**AI Solution:** Artificial intelligence will be integrated directly into the experimental workflow and\ndata analysis, combining robotics, edge AI, real-time analysis and intelligent feedback, hypothesis\ngeneration, and data curation/sharing.\n\n\n**Justification:** These AI-driven laboratories will allow scientists to explore complex phenomena at\nan unprecedented rate and scale and are critical to achieving the Genesis Mission goals. DOE’s user\nfacilities and long-standing national laboratories have the infrastructure, capabilities, and expertise\nto serve as the nucleus for innovation with this type of high throughput discovery.\n\n\n**National Impact:** Accelerating discovery through AI-driven laboratories will directly advance U.S.\nscientific leadership and economic competitiveness. This capability will speed up the development\nof novel materials and molecules for energy, next-generation computing, national security, and\nbiotechnology. Like other challenges, it will also solidify the nation's position at the forefront of AI\nand scientific innovation, create a new paradigm for 21st-century research, and train a future\nworkforce fluent in the integration of AI, data science, and experimentation.\n\n\n13",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 16,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 16
+    },
+    "toc_items": [
+      [
+        1,
+        "Designing Materials with Predictable Functionality",
+        16
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Designing Materials with Predictable Functionality\n\n\n**Challenge:** Accelerating materials innovation will enable rapid deployment of advanced energy and\nindustrial technologies that are essential for American competitiveness, from structural materials to\nmaterials for energy storage to other functional materials for advanced technologies. The\nidentification and commercialization of new materials with transformative properties that\ndramatically improve performance, energy efficiency, reliability, and resilience, however, is a timeand resource-intensive process due to the inherent complexity of materials science and the\npractical limitations of traditional simulations, synthesis, and characterization techniques that still\nrequire significant trial and error.\n\n\n**AI Solution:** The convergence of current and emerging AI technology with the growing availability\nof large, curated datasets may be a tipping point for materials discovery, design, and qualification.\nThe development of physics-aware AI frameworks that exploit the complementary strengths of\nfoundation models, deep learning, computer vision, generative AI, and agentic AI will enable entirely\nnew capabilities for materials design that iteratively couple prediction, synthesis, characterization,\nand analysis to yield closed-loop learning systems that are interpretable, trustworthy, and capable\nof bridging large scales in space and time. The ultimate goal of inverse design (designing materials\nfor given property specifications) requires advanced experimental and simulation capabilities as\nwell as AI reasoning and explainability.\n\n\n**Justification:** DOE’s suite of world leading and unique experimental and computational capabilities\nfor materials research, including X-ray light sources, neutron scattering facilities (and their\nassociated characterization equipment), nanoscale science research centers, materials databases,\nand exascale computers, is collectively the most comprehensive and performant in the world.\nThese capabilities, along with the availability of very large materials data sets coupled with\nsustained investments in the development of AI-enabled physics-informed models, has positioned\nDOE to take a leadership role in implementing the materials by design vision.\n\n\n**National Impact:** Tight integration of AI into the materials discovery-to-product workflow could\nsignificantly reduce time to market in manufacturing—from many years to decades down to\nmonths to a few years. This acceleration will dramatically reduce development timelines for critical\ntechnologies including batteries, energy systems, structural and functional materials, strengthening\nAmerican technological leadership and enabling faster deployment of innovations that create jobs\nand strengthen economic and national security.\n\n\n14",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 17,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 17
+    },
+    "toc_items": [
+      [
+        1,
+        "Enhancing Particle Accelerators for Discovery",
+        17
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Enhancing Particle Accelerators for Discovery\n\n\n**Challenge:** Modern particle accelerators are complex, requiring extensive human intervention that\nleads to high operating costs, operational variability, suboptimal experiment optimization, and\ninadequate data integration. Further, the physical limitations of existing accelerator technologies\nslow progress in pushing the limits of resolution in space, time, and energy. Transforming\naccelerator-based facilities into highly efficient, autonomous, and more productive capabilities\nrequires a tight integration of AI with design and operation.\n\n\n**AI Solution:** Predicting chaotic beam dynamics, in which small perturbations cascade into major\nproblems, could push AI to develop new capabilities in multi-scale temporal reasoning, physicsconstrained learning, and robust uncertainty quantification. AI-driven digital twins that simulate\ncomplete beam dynamics in real time could dramatically reduce tuning time. Collectively, facilitybased AI will become adaptive and self-updating, significantly boosting performance, efficiency,\nand scientific output.\n\n\n**Justification:** DOE stewards one of the largest suites of accelerator-based experimental facilities\nin the world, with extensive operational data and a large, highly skilled workforce. The optimization\nof the nation’s large-scale scientific infrastructure through AI-enabled design and the elimination of\noperational bottlenecks and cost inefficiencies will maximize the nation’s return on current and\nfuture infrastructure investments, revealing entirely new paradigms for scientific research through\nhuman-AI teaming and accelerating discovery.\n\n\n**National Impact:** Accelerator-based facilities have been central to many of the most important\ndiscoveries of the 20 [th] and 21 [st] centuries. Integrating AI into accelerator design and optimization\nwill increase the pace of future breakthroughs, enabling a deeper understanding of the universe,\nthe development of new energy and computing technologies, and the creation of new techniques\nfor the diagnosis and treatment of disease.\n\n\n15",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 18,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 18
+    },
+    "toc_items": [
+      [
+        1,
+        "Unifying Physics from Quarks to the Cosmos",
+        18
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Unifying Physics from Quarks to the Cosmos\n\n\n**Challenge:** The universe obeys only one set of rules, and scientists have hundreds of experiments\ntargeting parts of that one set. Experiments range over distance scale (31 orders of magnitude),\ncost ($100k to $B), duration (fractions of a section to decades), and human investment (few to\nthousands). We need a way to integrate the disparate experimental results with theoretical\nknowledge to accelerate discovery.\n\n\n**AI Solution:** High-energy physics and nuclear physics form a unique foundation to build AI\nreasoning models at unprecedented scale. Developing AI that simultaneously learns from particle\ncollisions, nuclear decays, and cosmological surveys will require breakthroughs in multi-modal\nlearning and the ability to derive insights rather than merely recognize patterns. An AI that\ninternalizes the Standard Model could accelerate analysis by orders of magnitude, identify\nanomalies pointing to new physics, and propose theoretical extensions consistent with all data—a\nleap from pattern matching to physics reasoning.\n\n\n**Justification:** DOE uniquely possesses the confluence of world-class scientific talent, stewardship\nof cutting-edge facilities, unparalleled access to experimental data, and a critical national mission to\neffectively address this challenge. These facilities, alongside a broad portfolio of programs that\nexplore the fundamental constituents and forces of the universe and delve into the nature of\natomic nuclei, underscore DOE's singular ability to conduct large-scale, long-term, and high-impact\nscientific research.\n\n\n**National Impact:** The acceleration of discovery, particularly in areas involving vast datasets from\ncutting-edge experiments, means we could reach breakthroughs much faster than previously\npossible, impacting our technological capabilities and quality of life in unforeseen ways. Questions\nsuch as why is there more matter than antimatter, what is the nature of dark matter, and how do\nprotons generate mass and spin address the nature of reality, and answering questions through\nadvanced AI could have profound shifts in our philosophical and scientific understanding of the\ncosmos and our place within it.\n\n\n16",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 19,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 19
+    },
+    "toc_items": [
+      [
+        1,
+        "Predicting U.S. Water for Energy",
+        19
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Predicting U.S. Water for Energy\n\n\n**Challenge:** Water availability is essential for expanding production and utilization of energy, as well\nas the nation’s health and security. However, there are fundamental scientific gaps in our\nunderstanding of terrestrial and atmospheric systems that limit our ability to predict water\nresources, especially on the time scale of weeks to years.\n\n\n**AI Solution:** AI capable of multi-scale temporal reasoning could tackle three inter-related grand\nchallenges: cloud physics, surface and subsurface water flows, and the broader hydrologic cycle. AI\ncould improve, accelerate, and couple exascale-class modeling systems through advances in model\ninitialization, and develop surrogates trained on DOE’s atmospheric and terrestrial observations and\nlaboratory data, at a fraction of the computational cost of existing models. AI-based model\ndiagnostics for enhanced analysis could refine a model-observational system aligned with decisionmaking needs.\n\n\n**Justification:** DOE is the only agency with AI expertise, advanced computing, and integrated\nmodeling capabilities (e.g., the DOE Energy Exascale Earth System Model, or E3SM), and\ninfrastructure for field research necessary to meet the challenge of providing accurate information\non surface and ground-water availability on the time scales of weeks to years.\n\n\n**National Impact:** Solutions to these longstanding science challenges will radically improve\nAmerica’s ability to anticipate water supply in the context of changing water availability, demands,\nenergy technologies, and ambitions for energy expansion.\n\n\n17",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 20,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 20
+    },
+    "toc_items": [
+      [
+        1,
+        "Scaling the Grid to Power the American Economy",
+        20
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Scaling the Grid to Power the American Economy\n\n\n**Challenge:** The electric grid faces reliability challenges and infrastructure limitations to\naccommodate dramatic increases in electricity demand from data centers, manufacturing, and\nelectrification while maintaining affordable power for Americans.\n\n\n**AI Solution:** AI, using deep and reinforcement learning techniques on newly integrated big data\nsources, will reduce uncertainty, improve insights, and speed processes in grid planning,\ninterconnection, operations, and security. This effort aims to enable 20-100x faster decisionmaking and at least 10% improvement in electricity cost and reliability.\n\n\n**Justification:** The utility sector has critical grid data but a low risk tolerance, limited ability to\ndevelop new technology, and regional focus. DOE can bring integrated energy system expertise,\ncomputational facilities, and testbed infrastructure like the Critical Infrastructure Test Range\nComplex (CITRC) at INL and the Advanced Research on Integrated Energy Systems (ARIES)\nplatform at NLR. The Department’s strong partnerships with grid operators can bring utility data\ntogether with these DOE capabilities to develop validated, deployable AI solutions.\n\n\n**National Impact:** This modernization will deliver lower-cost, more reliable power to American\nhomes and businesses while strengthening energy security through faster deployment of grid\ncapabilities and improved resilience against threats.\n\n\n18",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 21,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 21
+    },
+    "toc_items": [
+      [
+        1,
+        "Unleashing Subsurface Strategic Energy Assets",
+        21
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Unleashing Subsurface Strategic Energy Assets\n\n\n**Challenge:** Delivering cost-effective energy from the Earth’s subsurface entails the use of\nheterogeneous reservoirs, dominated by fractures. Tools capable of predicting reservoir behavior\nand the interactions of complex biogeochemical, mechanical, and hydrologic processes are critical\nto the development of innovative, cost-effective extraction of subsurface energy sources, including\nunconventional oil and gas, geothermal, and coal bed methane.\n\n\n**AI Solution:** Developing AI capable of reasoning under extreme uncertainty, integrating\nheterogeneous data types (i.e., seismic, geochemical, biological, hydrologic), and building predictive\nmodels of systems that cannot be directly observed has broad applicability to any domain requiring\ninference from indirect evidence. For subsurface science, AI that connects molecular-scale\nmechanisms to field-scale resource availability will transform the field from descriptive to\npredictive. DOE’s vast biological, geochemical, geomechanical, and hydrologic data sets can be\ncombined with high performance modeling capabilities, laboratory analytics, and a suite of AI\ntechnologies, including surrogate models, physics-informed machine learning, and digital twins to\nenhance engineering evaluation and control of the subsurface during characterization, drilling,\nstimulation, and production.\n\n\n**Justification:** DOE’s laboratory complex includes a vast array of data, modeling, and analytical\ncapabilities (e.g., Science-informed Machine Learning for Accelerating Real-Time Decisions in\nSubsurface Applications (SMART) Initiative suite of tools and machine learning-based surrogate\nmodels; National Energy Technology Laboratory’s Energy Data eXchange (EDX) Discover; LBNL’s\nTransport Of Unsaturated Groundwater and Heat (TOUGH) simulation suite; Los Alamos National\nLaboratory’s (LLNL) GeoDTi design tool; LLNL’s GEOS software; and PFLOTRAN and ATS models),\nthat supports extensive research and operational activities in subsurface environments, and are\nuniquely positioned to apply AI to accelerate development of models that emulate microbial,\nmineral, and fluid interactions across molecular to field scales. Efforts will assemble, train, and\nanalyze information from vast data libraries, experiments, and operational sensors, to produce\nsubsurface transport models and digital twins to enhance reservoir characterization, enable realtime reservoir simulation, and address uncertainty to increase hydrocarbon resource recovery and\nunlock geothermal resources.\n\n\n**National Impact:** Understanding subsurface complexities and stored energy sources is key to\nsecuring the nation’s energy future and will reduce the costs of recovery for oil, gas, and heat,\nreduce costs of power to U.S. consumers, re-shore manufacturing, and enhance U.S.\ncompetitiveness.\n\n\n19",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 22,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 22
+    },
+    "toc_items": [
+      [
+        1,
+        "Accelerating Nuclear Threat Assessment, Preparedness, and Response",
+        22
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Accelerating Nuclear Threat Assessment, Preparedness, and Response\n\n\n**Challenge:** Rapid and effective response to nuclear and radiological events demands detailed\nanalysis of vast and varied data, from radiation detectors and environmental sensors to intelligence\nreports and simulation outputs. Today, our Nuclear Emergency Support Teams (NEST) rely on\nmanual review and static AI models that cannot sufficiently adapt as new data streams in, creating\ndelays in detection, assessment, and response. This leaves decision-makers without real-time\nsituational awareness or clear risk metrics when addressing threat assessments and event response.\n\n\n**AI Solution:** Deploy a continuously learning, multimodal AI fusion system that integrates\nradiation/environmental sensors, simulations, and intelligence reporting to deliver real-time decision\nsupport with scenario modeling and uncertainty-aware risk metrics on crisis timelines.\n\n\nTo accelerate progress, we must develop cross-classification data governance and trusted\ndeployment patterns (edge-capable compute, rigorous red-teaming, and auditable human-approval\nworkflows) so the system can be used operationally without sacrificing reliability.\n\n\n**Justification:** NNSA uniquely combines nuclear science expertise, secure facilities, and HPC\nresources. This effort will embed physics-informed models for transparent, auditable AI in missioncritical environments, replace brittle, hand-tuned workflows with a single scalable solution cutting\ndevelopment time and cost, and leverage existing archives and platforms for rapid deployment and\nscaling.\n\n\n**National Impact:** This system will shrink detection-to-response times from days to hours,\nenhancing public safety and national security. It will improve decision confidence and reduce false\nalarms through clear, quantified risk assessments, strengthen deterrence by embedding AI into\ncritical decision loops and supporting interagency coordination, and deliver cost-efficient\ncapabilities that can be adapted by civilian emergency responders and international partners.\n\n\n20",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 23,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 23
+    },
+    "toc_items": [
+      [
+        1,
+        "Harnessing America’s Historic Nuclear  Data and Research",
+        23
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Harnessing America’s Historic Nuclear Data and Research\n\n\n**Challenge:** The United States possesses a vast and unparalleled archive of classified scientific\nexperiments and nuclear weapon tests, as well as unclassified historical work in nuclear science\nthat spans more than eight decades. However, much of this vital information exists only in written\nnotes, printed materials, or photographs, and has yet to be digitized and adequately labeled,\nhindering its accessibility and usability for continued research, design, and production. This\nchallenge is significant because it addresses the urgent need to modernize historical information\nand convert it into usable data for enhanced security and research by AI tools. The challenge also\naddresses the call expressed in the President’s Executive Order to make federally owned data sets a\nkey component of the Genesis Mission.\n\n\n**AI Solution:** Build an AI digitization-and-reconstruction pipeline (optical character recognition +\nvision + information extraction + 3D/geometry inference) that converts analog reports, imagery,\nand drawings into searchable, simulation-ready datasets, including automated meshing and crossreferencing to historic test outcomes. To accelerate progress, we must establish a secure\ncentralized archive with durable metadata/ontology standards, triage workflows that prioritize the\nhighest-value records, and end-to-end access controls and quality assurance processes that\nfunction across classification levels.\n\n\n**Justification:** The project is critical for preserving valuable historical records and enhancing data\nmanagement capabilities. It will preserve eight decades of at-risk physical records before\ndegradation or loss, leverage NNSA’s secure computing, classification expertise, and specialized\narchives, and cut manual cataloging effort by an order of magnitude and ensures consistent data\nquality. Finally, it establishes a compliant, scalable system for ongoing data ingestion and\ngovernance.\n\n\n**National Impact:** The outcomes of this initiative will significantly enhance research capabilities and\nsupport informed decision-making in nuclear stewardship. This initiative will accelerate research\nand decision-making by unlocking historical test insights, safeguard institutional memory and\ninforms future policy, safety, and treaty verification, and enhance transparency and accountability\nin nuclear stewardship. This project lays groundwork for broader scientific and security applications\nof legacy data.\n\n\n21",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 24,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 24
+    },
+    "toc_items": [
+      [
+        1,
+        "Increasing Experimental Capacity at  Nuclear Research Facilities",
+        24
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Increasing Experimental Capacity at Nuclear Research Facilities\n\n\n**Challenge:** The NNSA is confronted with increasing demand for optimized experiments,\nconducted at limited-capacity facilities. Current processes to design, document, and analyze\nexperiments are often slow and inefficient, leading to backlogs in experimental campaigns and\nreduced facility capacity.\n\n\n**AI Solution:** Deliver an AI “facility operating system” that uses agentic workflows to plan/schedule\nexperiments, steer execution in real time, and fuse live diagnostics with multi-fidelity simulation so\neach shot/test yields maximum information with minimal turnaround.\n\n\nTo accelerate progress, we must build interoperable facility digital twins and streaming\ndata/provenance standards, plus transparent approval gates, audit logs, and uncertainty-aware\nanalytics that operators can trust in high-consequence environments.\n\n\n**Justification:** NNSA’s integration of advanced technologies and resources uniquely positions it to\naddress important challenges in nuclear security. NNSA combines limited-capacity, highconsequence experimental facilities and test sites with supercomputing, advanced simulation, and\nautomated labs under a secure framework, enabling real-time inference by uniting diverse physics\nmodels, uncertainty quantification, and robotic execution. This produces a scalable, reusable\narchitecture (facility models, data standards, and assurance methods) that meets strict safety,\nsecurity, and quality controls.\n\n\n**National Impact:** The outcomes of this initiative extend beyond NNSA, providing broader benefits\nto nation by increasing experimental throughput and cutting the number of costly physical\ntests required, speeding time-sensitive stockpile stewardship and deterrence decisions with higherconfidence results, and creating a transferable model for AI-driven R&D and automated operations\nacross aerospace, energy, microelectronics, pharmaceuticals, and other strategic industries.\n\n\n22",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 25,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 25
+    },
+    "toc_items": [
+      [
+        1,
+        "Integrating Design and Production Operations for Nuclear Deterrence",
+        25
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Integrating Design and Production Operations for Nuclear Deterrence\n\n\n**Challenge:** Deterring America’s adversaries from using strategic weapons has never been more\nurgent or more complex. Answering that threat requires greater flexibility and innovation in our\nnuclear weapons production capabilities. The current handoff of weapons systems between Design\nAgencies (DAs) and Production Agencies (PAs) is slow and inefficient, hindering our deterrence\nmission. This initiative will develop an AI-accelerated, model-based systems engineering platform\nthat spans and integrates design and production processes. By leveraging multiscale physics,\ndigital twins, and AI capabilities, NNSA will enhance decision-making, reduce rework, and improve\nproduction efficiency to provide new weapons systems to warfighters in a fraction of the\ntraditional time and cost.\n\n\n**AI Solution:** Deliver an AI-powered “nuclear security enterprise twin” that couples physicsconstrained surrogates, production digital twins, and agentic workflows to co-optimize designs and\nmanufacturing in a closed loop—dramatically shrinking DA/PA iteration time while preserving\ntraceability and decision quality.\n\n\nTo accelerate progress, we must build secure cross-site data interoperability (schemas, provenance,\nand governance), validated and uncertainty-aware models, and human-in-the-loop orchestration\nwith auditable controls that work across required classification environments.\n\n\n**Justification:** This initiative is particularly suited to the NNSA because it leverages secure access\nto extensive historical design and production data, HPC capabilities for developing and validating\nadvanced models, and reliable AI systems that can function across various network classifications.\n\n\nThe result will be nothing short of a revolution in weapons design and production. By creating an\nAI-integrated Certification Environment, NNSA can shift from traditional document-based\nprocesses to agile, model-driven decision-making. This transformation will streamline operations,\nreduce rework, and ensure alignment between design intentions and production realities as\nrequirements evolve.\n\n\n**National Impact:** This initiative aims to enhance national security by revolutionizing collaboration\nbetween DAs and PAs, ensuring timely and cost-effective modernization programs. It strengthens\nnational security by accelerating modernization programs on time and within budget, with high\nconfidence in outcomes; provides scalable capabilities and technologies that can be applied to\nlarge-scale American industries, including automakers, shipbuilders, aerospace, and\nmicroelectronics; and minimizes waste of valuable resources, bolsters domestic manufacturing\ncapabilities, and decreases manufacturing ramp times.\n\n\n23",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 26,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 26
+    },
+    "toc_items": [
+      [
+        1,
+        "Safeguarding Nuclear Materials from Proliferation Threats",
+        26
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Safeguarding Nuclear Materials from Proliferation Threats\n\n\n**Challenge:** Preventing nuclear materials and information from falling into the hands of rogue and\ndangerous actors (non-proliferation) is central to America’s national security. Against the backdrop\nof a global surge in demand for civilian nuclear power, the challenge of monitoring and enforcing\nnon-proliferation commitments is growing rapidly. To effectively investigate and prosecute\npotential threats, we integrate vast amounts of complex data from diverse sources using AI. This\nchallenge will develop and deploy advanced AI technologies that can analyze these growing data\nstreams in real time, identifying anomalies that indicate potential proliferation activities. This will\nnot only enhance and speed our enforcement against proliferation activities but will further\nstrengthen America’s deterrent by discouraging bad actors from even attempting to circumvent\nand defeat international controls of nuclear materials and information.\n\n\n**AI Solution:** Develop multimodal foundation models and analytic agents that fuse satellite imagery,\nsensing, open-source, and government data to detect subtle proliferation-relevant anomalies in\nnear real time and generate analyst-ready evidence packages with confidence scoring.\n\n\nTo accelerate progress, we must build secure multi-network data-sharing and governance, domain\nontologies and knowledge graphs for the fuel cycle, continuous testing and red-teaming, and\nhuman-AI teaming interfaces that scale across classified and unclassified environments.\n\n\n**Justification:** The project leverages NNSA's unique capabilities to address the challenges of\nmodern data analysis in nonproliferation efforts. NNSA is the only organization with the nuclear\nfuel cycle domain expertise required to aggregate global nonproliferation-relevant data sources.\nManual analysis cannot keep pace with the volume and variety of modern data streams; automated,\ntrustworthy AI shortens detection timelines, increases efficacy of detection activities, and improves\nuse of technical subject matter experts. This effort will leverage existing and planned NNSA\nplatforms and partnerships for rapid deployment.\n\n\n**National Impact:** The outcomes of this initiative will significantly enhance U.S. national security\nand global nonproliferation efforts by accelerating threat detection and decision cycles,\nstrengthening U.S. deterrence posture. It will provide policymakers with timely, credible\nintelligence to guide diplomatic and enforcement actions, enhance global nonproliferation\ncooperation by sharing standardized, auditable insights, enhance the perceived and real value of\ncooperation with America on civilian nuclear activities, and establish a model for AI-driven\nmonitoring in other critical security domains.\n\n\n24",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 27,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 27
+    },
+    "toc_items": [
+      [
+        1,
+        "Streamlining Production, Removing Red Tape, and Ensuring Safety in the Nuclear Enterprise",
+        27
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Streamlining Production, Removing Red Tape, and Ensuring Safety in the Nuclear Enterprise\n\n\n**Challenge:** Not all challenges to our nuclear deterrence are external; some are directly within our\nown walls. Current regulatory processes in high-hazard facilities are slow and fragmented, leading\nto inefficiencies that can compromise safety and operational effectiveness. These mostly wellintended policies are no longer compatible with the urgency of NNSA’s modernization and\nproduction mission. This challenge is significant as it directly impacts the ability to respond to\nnuclear threats as well as to maintain safety standards efficiently. AI-driven facility and process\nmodels can optimize operations with real-time data to streamline schedules, allocate resources, and\neliminate bottlenecks.\n\n\n**AI Solution:** Deploy auditable, policy-grounded AI (large language models + agents) that can digest\nsafety-basis requirements, automate safety analyses and documentation, and continuously generate\nrisk-aware work plans while autonomously configuring and running large simulation campaigns.\n\n\nTo move faster safely, we must establish a trusted digital regulatory corpus with provenance,\ndevelop verification and testing harnesses for AI outputs, and integrate these tools into\nfacility/operations data systems with robust access controls and end-to-end audit logs.\n\n\n**Justification:** The project is designed to enhance safety and efficiency by providing transparent,\nauditable AI solutions that support expert oversight in critical operations. It transforms compliance\ninto a strategic advantage; by digitizing and AI-enabling regulatory documents in situ, we create a\nverifiable, fully auditable record of every search, analysis, and decision, turning safety basis\nnavigation from a bottleneck into a transparent trust-building capability. The effort ensures datadriven efficiency, unifying engineering, safety, and operational data to cut planning and\ndocumentation time by over 50%. Finally, it leverages existing strengths by building on secure data\nnetworks and in-house expertise to rapidly deploy and validate advanced AI tools.\n\n\n**National Impact:** The outcomes of this initiative will significantly benefit national security and the\nbroader American industry by improving operational efficiency and reducing costs. It will provide\nfaster delivery of manufactured components by accelerating planning and safety reviews while\nmaintaining rigorous safety standards, relevant for NNSA and American industry more broadly. This\ninitiative will also save costs and reduce waste with fewer rework cycles and lower documentation\noverhead that save taxpayer dollars and conserve critical materials. Finally, it will serve as a scalable\nmodel for industry by leveraging transferable methods that boost efficiency and safety in civilian\nnuclear energy, chemical processing, and aerospace.\n\n\n25",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 28,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 28
+    },
+    "toc_items": [
+      [
+        1,
+        "Strengthening Deterrence Through Attribution of  Nuclear and Radiological Signatures",
+        28
+      ]
+    ],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n## Strengthening Deterrence Through Attribution of Nuclear and Radiological Signatures\n\n\n**Challenge:** Every nuclear material has a signature. Through a combination of radiological and\nmaterial characterization analysis, the provenance of loose or employed nuclear materials (like with\na weapon of mass distruction or a dirty bomb) can be positively determined. Deterrence is only\npossible if the very real threat of American retaliation can hold adversaries accountable for their\nactions. Therefore, the challenge of attributing nuclear materials outside of controlled\nenvironments is critical for national security. This effort will dramatically improve the speed and\naccuracy of nuclear forensics analyses by removing uncertainty or anonymity from the misuse of\nnuclear materials, thereby enhancing deterrence against potential nuclear threats. This initiative\naims to leverage AI to drastically accelerate nuclear forensics in off-normal, uncontrolled, and novel\nenvironments.\n\n\n**AI Solution:** Field multimodal forensic AI (vision + spectroscopy + morphology + inverse modeling)\nthat can rapidly characterize samples and debris, infer likely process history/origin, and support\ndevice/material reconstruction while enabling portable, on-site triage tools.\n\n\nTo accelerate progress, we must build curated and shareable signature libraries with ground-truth\nlinks, standardized lab-to-field workflows with calibration and uncertainty quantification, and\nvalidated deployment pipelines that preserve chain-of-custody, auditability, and expert oversight.\n\n\n**Justification:** The project capitalizes on NNSA's unique resources and expertise to enhance the\nspeed and accuracy of nuclear threat attribution. It builds on NNSA’s unique combination of\nnuclear test archives, specialized labs, and expert staff, eliminates current multi-day bottlenecks in\nsample processing and reporting, resulting in more efficient use of existing resources, directly\nsupports the deterrence of nuclear threats by enabling fast, credible attribution, and leverages\nexisting infrastructure investment for rapid implementation without compromising quality.\n\n\n**National Impact:** The outcomes of this initiative will significantly improve national security and\npublic safety by accelerating threat assessment processes. It will shrink the timeline from material\ncollection to attribution, accelerating policy and response decisions; reinforce deterrence by\nshowing adversaries that misuse of nuclear materials will be traced swiftly leading to decisive\nAmerican retribution; enhance public safety through faster, more reliable threat assessments and\ndisaster response; and create AI-based forensic methods that can be adapted to other critical\nsecurity and industrial domains.\n\n\n26",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  },
+  {
+    "document_id": "DOC-BMK-004",
+    "page_no": 29,
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "Kinney, Adam",
+      "subject": "",
+      "keywords": "",
+      "creator": "Acrobat PDFMaker 25 for Word",
+      "producer": "Adobe PDF Library 25.1.159",
+      "creationDate": "D:20260210155137-05'00'",
+      "modDate": "D:20260309121834-04'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-BMK-004.pdf",
+      "page_count": 29,
+      "page": 29
+    },
+    "toc_items": [],
+    "tables": [],
+    "images": [
+      {
+        "number": 4,
+        "bbox": "Rect(199.44989013671875, 632.8997802734375, 412.469482421875, 692.5498046875)",
+        "transform": [
+          213.01959228515625,
+          0.0,
+          -0.0,
+          59.649993896484375,
+          199.44989013671875,
+          632.8997802734375
+        ],
+        "width": 651,
+        "height": 182,
+        "colorspace": 1,
+        "cs-name": "Indexed(1,DeviceRGB)",
+        "xres": 96,
+        "yres": 96,
+        "bpc": 8,
+        "size": 7983,
+        "has-mask": true
+      },
+      {
+        "number": 5,
+        "bbox": "Rect(180.0, 678.8998413085938, 431.75897216796875, 727.099853515625)",
+        "transform": [
+          251.75897216796875,
+          0.0,
+          -0.0,
+          48.19999694824219,
+          180.0,
+          678.8998413085938
+        ],
+        "width": 770,
+        "height": 147,
+        "colorspace": 3,
+        "cs-name": "DeviceRGB",
+        "xres": 96,
+        "yres": 96,
+        "bpc": 8,
+        "size": 78429,
+        "has-mask": true
+      }
+    ],
+    "graphics": [],
+    "words": [],
+    "text": "U.S. Department of Energy | Genesis Mission National Science and Technology Challenges\n\n\n27",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high"
+  }
+]

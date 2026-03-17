@@ -1,0 +1,30 @@
+{
+  "table_id": "TBL-DOC-POL-007-092",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 375,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "3",
+      "",
+      "(기반 강화) 대규모 투자 및 인재 육성으로 성장동력 확보"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2031439901",
+  "repeat_header": "0",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

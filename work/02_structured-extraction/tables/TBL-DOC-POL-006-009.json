@@ -1,0 +1,29 @@
+{
+  "table_id": "TBL-DOC-POL-006-009",
+  "document_id": "DOC-POL-006",
+  "page_no_or_sheet_name": 15,
+  "block_order": 368,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "약",
+      "품"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": [
+    175.85166761610242,
+    454.0599873860677,
+    202.1099853515625,
+    464.6539764404297
+  ],
+  "extraction_confidence": "medium",
+  "extraction_method": "pymupdf-find_tables"
+}

@@ -1,0 +1,30 @@
+{
+  "table_id": "TBL-DOC-POL-004-014",
+  "document_id": "DOC-POL-004",
+  "page_no_or_sheet_name": "section0",
+  "block_order": 48,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "4",
+      "",
+      "과학기술 AI 산업 생태계 고도화"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "0",
+  "source_table_id": "2007248633",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

@@ -1,0 +1,41 @@
+{
+  "table_id": "TBL-DOC-POL-005-010",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 34,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 4,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "구 분",
+      "주요 내용"
+    ],
+    [
+      "도전성",
+      "‣ 실패를 걱정하지 않도록 과제 평가등급(현행:우수보통미흡극히불량) 폐지\n‣ 의미있는 수행과정을 거친 연구는 목표미달인 경우에도 인센티브 부여\n‣ 정량지표 단계적 폐지 및 도전적 목표를 평가 가능하도록 합숙평가 등 다양한 평가방식 도입"
+    ],
+    [
+      "전문성",
+      "‣ 국내외 우수평가위원 풀 확충 및 평가위원 실명제, 개별 평가의견 공개로 전문성책임성 제고\n‣ 평가위원 수당 현실화로 전문성책임성에 상응하는 보상체계 마련"
+    ],
+    [
+      "효율성",
+      "‣ 연차보고서계획서의 불필요 항목 삭제 및 분량상한 도입 등 작성 부담 완화\n‣ 간략한 제안서 기반 1차 평가 통과 시에만 세부평가를 진행하는 방식 시범도입확대\n‣ 소규모과제 단계평가 면제, 일부 최종 평가는 학회세미나 등 공개발표로 대체"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002033816",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

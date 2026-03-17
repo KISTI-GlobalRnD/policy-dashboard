@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-002-081",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 361,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◈ 현황 및 한계\nㅇ 각 부처, 공공기관, 민간기관이 보유한 데이터가 각기 다른 데이터 플랫폼(K-BDS, CODA 등)에 산재되어 있어 통합 검색·활용 곤란\nㅇ 보건의료데이터의 경우, 데이터 활용을 위한 심의체계(DRB/IRB 심의)가 기관별로 상이\n< 보건의료데이터 활용을 위한 심의체계(DRB/IRB 심의) >"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971509",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

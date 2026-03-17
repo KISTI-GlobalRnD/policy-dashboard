@@ -1,0 +1,28 @@
+{
+  "document_id": "DOC-POL-001",
+  "registry_id": "DOC-POL-001",
+  "source_rel_path": "data/이재명정부_123대_국정과제_2025-09.pdf",
+  "internal_path": "",
+  "source_format": "pdf",
+  "extraction_run_id": "pilot-gs-002-v3",
+  "page_count_or_sheet_count": 195,
+  "processing_status": "completed",
+  "quality_notes": [
+    "Primary pure-text path uses PyMuPDF4LLM page chunks in reading order.",
+    "Auxiliary PyMuPDF text blocks preserve bounding boxes for later layout-aware processing.",
+    "OCR disabled because the document exposes an embedded text layer.",
+    "PyMuPDF4LLM layout ONNX stack was not enabled in this phase because pure-text extraction is the current priority.",
+    "PyMuPDF4LLM page text was replaced with PyMuPDF block-order fallback on sparse/empty pages: 1, 3, 5, 7, 11, 19, 29, 35, 45, 53, 59, 62, 63, 71, 75, 81, 85, 87, 89, 91, 97, 99, 104, 107, 109, 113, 118, 119, 121, 125, 127, 135, 141, 149, 155, 159, 165, 172, 173, 181, 189"
+  ],
+  "text_path": "work/02_structured-extraction/text/DOC-POL-001_blocks.json",
+  "page_text_path": "work/02_structured-extraction/text/DOC-POL-001_pages.json",
+  "markdown_path": "work/02_structured-extraction/text/DOC-POL-001.md",
+  "layout_path": "work/02_structured-extraction/layout/DOC-POL-001_layout.json",
+  "counts": {
+    "page_chunks": 195,
+    "evidence_units": 3686,
+    "pages_with_tables_markdown": 6,
+    "pages_with_images_markdown": 1,
+    "page_text_fallback_pages": 41
+  }
+}

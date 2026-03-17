@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-005-030",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 109,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◈ ‘과학기술자가 다시 꿈이 될 수 있는 나라’를 위한 네 가지 질문\n 왜 우리는 늘 성공하는 R&D만 하고 있는가?\n 왜 연구자들이 연구 외적인 것에 시간을 낭비하고 있는가?\n 왜 대학과 출연연은 필요한 연구를 못 하는가?\n 왜 기술개발이 경제적 성과로 이어지지 못하는가?"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903212",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

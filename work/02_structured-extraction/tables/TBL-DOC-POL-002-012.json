@@ -1,0 +1,70 @@
+{
+  "table_id": "TBL-DOC-POL-002-012",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 32,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 9,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "구분",
+      "",
+      "지원내용"
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "R&D",
+      "",
+      "• 대학, 출연연, 병원, 기업 등 혁신주체 간 장벽을 허물고 도전적 연구를 수행할 수 있도록 자유로운 과제 기획·수행 권한 부여"
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "인프라",
+      "",
+      "• AI 바이오 컴퓨팅 인프라 및 자율 실험·검증 인프라(Lab-in-the-Loop) 구축"
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "데이터",
+      "",
+      "• 인체유래물데이터, 의료데이터 등을 안전하게 활용할 수 있는 폐쇄망 클라우드를 구축하고, 데이터 활용규제 특례 적용 추진"
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "인재양성",
+      "",
+      "• 세계적 수준의 해외 석학 초빙\n• 대학원-전문과정에 이르는 AI 바이오 융합 교육 트랙 개설"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "0",
+  "source_table_id": "2023434427",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

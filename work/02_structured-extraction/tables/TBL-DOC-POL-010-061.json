@@ -1,0 +1,40 @@
+{
+  "table_id": "TBL-DOC-POL-010-061",
+  "document_id": "DOC-POL-010",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 225,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "",
+      "통합평가 성과급",
+      "우수 연구진(STAR) 상여금"
+    ],
+    [
+      "대상",
+      "양호등급 이상 기관 全 직원",
+      "양호등급 이상 기관 소속 연구진 100명(팀) 이내"
+    ],
+    [
+      "규모",
+      "매우우수 기관 기준 평균 3백만 원",
+      "매우우수 기관 기준 최대 1.2억원 (6천만 원 + α)"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2022564469",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

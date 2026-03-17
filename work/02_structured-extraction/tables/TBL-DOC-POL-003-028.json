@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-003-028",
+  "document_id": "DOC-POL-003",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 98,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "󰊲 AI 제조 서비스 : AI 산업 표준 선점 및 AI 디자인 개발"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2009609956",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

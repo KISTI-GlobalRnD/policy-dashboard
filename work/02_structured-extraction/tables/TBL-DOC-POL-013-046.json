@@ -1,0 +1,80 @@
+{
+  "table_id": "TBL-DOC-POL-013-046",
+  "document_id": "DOC-POL-013",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 211,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 6,
+    "cols": 5
+  },
+  "cell_matrix": [
+    [
+      "국가전략",
+      "반도체",
+      "이차전지",
+      "백신",
+      "디스플레이"
+    ],
+    [
+      "",
+      "수소",
+      "미래형 운송·이동수단",
+      "바이오의약품",
+      "인공지능"
+    ],
+    [
+      "신성장·원천",
+      "미래형 자동차",
+      "지능정보",
+      "차세대SW·보안",
+      "콘텐츠"
+    ],
+    [
+      "",
+      "차세대 전자정보 디바이스",
+      "차세대 방송통신",
+      "바이오·헬스",
+      "에너지·환경"
+    ],
+    [
+      "",
+      "융복합 소재",
+      "로봇",
+      "항공·우주",
+      "첨단 소재부품장비"
+    ],
+    [
+      "",
+      "탄소중립",
+      "방위산업",
+      "-",
+      "-"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 4,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2099487453",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

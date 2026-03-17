@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-010-023",
+  "document_id": "DOC-POL-010",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 106,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "□ 출연(연)의 경쟁력 저하는 PBS(연구과제중심제도)와 R&D예타, 공공기관 지정 등 여러 정책/제도가 복합적으로 상호작용하여 발생한 문제\n⇒ 출연(연) 경쟁력 강화를 위해 PBS 단계적 폐지(재정구조 개편)에 더해 인센티브 개편, 연구행정역량 강화 등을 패키지로 추진 필요\n※ 공공기관 지정 해제(’24년), R&D 예타 폐지(예정)와 시너지 창출 가능"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2022564391",
+  "repeat_header": "1",
+  "treat_as_char": "0",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

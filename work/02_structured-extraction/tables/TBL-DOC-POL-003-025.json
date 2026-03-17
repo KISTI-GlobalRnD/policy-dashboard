@@ -1,0 +1,29 @@
+{
+  "table_id": "TBL-DOC-POL-003-025",
+  "document_id": "DOC-POL-003",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 87,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "분야 1",
+      "생산성 혁신 : 제조 全주기 AI 전환으로 기초체력 강화"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2009609953",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

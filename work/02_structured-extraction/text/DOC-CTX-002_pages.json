@@ -1,0 +1,11 @@
+[
+  {
+    "document_id": "DOC-CTX-002",
+    "page_no": 1,
+    "text": "융 :\n어Y\n중분류\n대분류\n기술 개요(예시)\n양자 내성 암호(PQC),동형 암호 등 차세대 암호 기술,DD(분산\n신원증명),FIDO 등 차세대 인증 기술\n1공통기반\n데이터 비식별화,프라이버시 강화 기술(PET),데이터 무결성 검\nIYHAI02\n증 기술\n5G/6G 통신망 보안, 클라우드 네이티브 보안(CNAPP),네트워크\n클라우드\n/2②\n( C) 위\n보안\n플랫폼\nY\n서버,PC,모바일,IoT 엣지 디바이스 보안, 운영체제(OS)및 펌\nAl 모델 보호(Adversarial Attack 방어),Al 활용 탐지,학습 데이\n③신기술융\n블록체인\n스마트 컨트랙트 보안, 디지털 자산 보호,탈중앙화 서비스 보안\n2롬\n지능형 CCTV,생체 인식 출입 통제,무인 경비 시스템 등\n2롬\n/\nUC능 릉Y'매 운운\n수사 지원\n글로벌정책\n제로트러스트,SW공급망 보안,사이버 회복력 등 정책적 관점의 요소기술\n늘/\n(국제협력포함)\n응\nHAIOIY\nA모델 포렌식,사이버 범죄(딥페이크,보이스피싱 등)대응 기술\n정보보호(사이버보안, 개인정보보호 등) 전문인력양성",
+    "line_count": 37,
+    "average_confidence": 0.8846711676945352,
+    "extraction_method": "rapidocr-korean-v5-line-aggregation",
+    "extraction_confidence": "medium"
+  }
+]

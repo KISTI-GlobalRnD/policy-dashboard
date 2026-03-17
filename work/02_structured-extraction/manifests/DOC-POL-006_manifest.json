@@ -1,0 +1,28 @@
+{
+  "document_id": "DOC-POL-006",
+  "registry_id": "DOC-POL-006",
+  "source_rel_path": "data/260312_12개 정책 문헌 자료/251216_(안건) 초혁신경제 15대 프로젝트 추진계획 IV.pdf",
+  "internal_path": "",
+  "source_format": "pdf",
+  "extraction_run_id": "pilot-gs-002-v3",
+  "page_count_or_sheet_count": 38,
+  "processing_status": "completed",
+  "quality_notes": [
+    "Primary pure-text path uses PyMuPDF4LLM page chunks in reading order.",
+    "Auxiliary PyMuPDF text blocks preserve bounding boxes for later layout-aware processing.",
+    "OCR disabled because the document exposes an embedded text layer.",
+    "PyMuPDF4LLM layout ONNX stack was not enabled in this phase because pure-text extraction is the current priority.",
+    "PyMuPDF4LLM page text was replaced with PyMuPDF block-order fallback on sparse/empty pages: 1, 5, 17, 23, 37"
+  ],
+  "text_path": "work/02_structured-extraction/text/DOC-POL-006_blocks.json",
+  "page_text_path": "work/02_structured-extraction/text/DOC-POL-006_pages.json",
+  "markdown_path": "work/02_structured-extraction/text/DOC-POL-006.md",
+  "layout_path": "work/02_structured-extraction/layout/DOC-POL-006_layout.json",
+  "counts": {
+    "page_chunks": 38,
+    "evidence_units": 1026,
+    "pages_with_tables_markdown": 10,
+    "pages_with_images_markdown": 6,
+    "page_text_fallback_pages": 5
+  }
+}

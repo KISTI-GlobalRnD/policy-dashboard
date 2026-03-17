@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-005-063",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 369,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "󰋻(기본연구사업) 기관 고유임무 달성을 위한 중장기 기본연구로서 일정 규모를 유지하여 안정적 장기연구 기획수행 보장\n※ 기관의 중장기 역량 확보, 국가거점으로서 정책지원 등 장기간 기능 유지 필요 분야, 우수연구자 유치 및 청년·여성 등 인재양성, 연구성과의 스케일업 등\n󰋻(전략연구사업) ①정부 등의 수요를 반영하여 ②임무 달성을 목표로 ③출연연이 자율적으로 기획하는 ④산학연 협력형 연구사업"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903383",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

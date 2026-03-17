@@ -1,0 +1,46 @@
+{
+  "table_id": "TBL-DOC-POL-009-036",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 170,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 5
+  },
+  "cell_matrix": [
+    [
+      "구분",
+      "리더연구",
+      "중견연구",
+      "신진연구",
+      "기본연구"
+    ],
+    [
+      "상위 10% 저널",
+      "4.54",
+      "3.97",
+      "3.70",
+      "3.17"
+    ],
+    [
+      "NSP 저널",
+      "0.18",
+      "0.04",
+      "0.04",
+      "0.03"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747552",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

@@ -1,0 +1,43 @@
+{
+  "table_id": "TBL-DOC-POL-011-013",
+  "document_id": "DOC-POL-011",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 64,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 4
+  },
+  "cell_matrix": [
+    [
+      "",
+      "As-Is",
+      "중간 목표",
+      "최종 목표"
+    ],
+    [
+      "6G\n상용화",
+      "￭ 5G 非단독모드(NSA) 위주 전국망 구축",
+      "￭ (‘26) 5G SA 확산, 6G 주요기술 선제시연\n￭ (’28) LA올림픽 연계 시범서비스",
+      "￭ (‘30) 상용서비스 개시"
+    ],
+    [
+      "AI-RAN",
+      "￭ 국내 실증·구축사례 無",
+      "￭ (‘26) 2개소 선제 구축(개념검증)\n￭ (’28) 산업·서비스 현장 100개 구축",
+      "￭ (‘30) 500개 이상\n전국 구축·확산"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2026883402",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

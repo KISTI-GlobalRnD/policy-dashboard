@@ -1,0 +1,9 @@
+document_id,title,doc_role,scope_track,include_status,source_format,source_file,extraction_mode,run_status,page_count,text_layer_pages,evidence_units,tables,figures,notes
+DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,phase2,hold,hwp,data/260312_12개 정책 문헌 자료/260305 (4호) 범부처 기술관리체계 정비 및 협업 강화 방향(안)_0305 1130.hwp,existing,skipped_existing,10,,582,0,0,보류; 재구성 초안 직접 대상 여부 확인 필요
+DOC-POL-014,더불어민주당 정책공약집,policy_source,phase2,hold,pdf,data/260312_12개 정책 문헌 자료/[별첨2] 민주당_중앙공약_제21대_대통령선거_더불어민주당_정책공약집_중앙공약_배포용 (3).pdf,existing,skipped_existing,187,,469,0,,보류; 성격이 정책 문헌과 다름
+DOC-BMK-001,일본 통합혁신전략 2025 본문 영어본,benchmark_source,phase2,hold,pdf,data/260312_해외 정책(원문)/일본_통합혁신전략2025_본문_영어.pdf,existing,skipped_existing,35,,1259,0,,해외 비교용
+DOC-BMK-002,EU Horizon Europe Regulation,benchmark_source,phase2,hold,pdf,data/260312_해외 정책(원문)/EU_horizon europe_regulation.pdf,existing,skipped_existing,68,,1121,3,,해외 비교용
+DOC-BMK-003,EU Horizon Europe Strategic Plan 2025-2027,benchmark_source,phase2,hold,pdf,data/260312_해외 정책(원문)/EU_horizon europe strategic plan 2025-2027.pdf,existing,skipped_existing,140,,1331,0,,해외 비교용
+DOC-BMK-004,미국 Genesis Mission,benchmark_source,phase2,hold,pdf,data/260312_해외 정책(원문)/미국_Genesis Mission_원문.pdf,existing,skipped_existing,29,,198,0,,해외 비교용
+DOC-BMK-005,중국 제15차 5개년 규획 초안,benchmark_source,phase2,hold,pdf,data/260312_해외 정책(원문)/중국_제15차 5개년 규획_원문_초안.pdf,existing,skipped_existing,141,,3237,2,,해외 비교용
+DOC-BMK-006,일본 통합혁신전략 2025 원문,benchmark_source,phase2,hold,pdf,data/260312_해외 정책(원문)/일본_통합혁신전략2025_원문.pdf,existing,skipped_existing,184,,5324,94,,해외 비교용

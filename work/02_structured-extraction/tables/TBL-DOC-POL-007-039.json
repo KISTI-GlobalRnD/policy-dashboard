@@ -1,0 +1,29 @@
+{
+  "table_id": "TBL-DOC-POL-007-039",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 156,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "",
+      "◇ 클라우드 구축‧운영 측면에서 전성비가 우수한 NPU를 더욱 선호 <A CSP社>\n◇ 국산AI반도체 기반의 디바이스(CCTV 등)를 활용한 온디바이스AI 실증 요구 <B 반도체社>\n◇ 기술애로 해소와 서비스 맞춤 최적화를 위한 지원 요구 <C 반도체社>\n◇ 국산 AI반도체 도입을 위해서는 객관적인 성능 검증이 필요 <D CSP社>"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654430",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

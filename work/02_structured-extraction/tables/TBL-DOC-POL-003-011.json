@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-003-011",
+  "document_id": "DOC-POL-003",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 35,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "⇒ 단순한 기술 도입을 넘어서, AI를 활용하여 우리 제조업의 DNA를 근본적으로 혁신하는 ‘제조AX(M.AX)’를 통해 미래 경쟁력 확보 필요"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2009609937",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

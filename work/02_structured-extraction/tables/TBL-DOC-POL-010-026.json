@@ -1,0 +1,46 @@
+{
+  "table_id": "TBL-DOC-POL-010-026",
+  "document_id": "DOC-POL-010",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 126,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 5
+  },
+  "cell_matrix": [
+    [
+      "",
+      "연구수당",
+      "연구개발능률성과급",
+      "기술이전 보상금",
+      "능률성과급"
+    ],
+    [
+      "재원",
+      "수탁·기본과제(직접비)",
+      "수탁과제(간접비)",
+      "기술료",
+      "결산잉여금"
+    ],
+    [
+      "지급대상",
+      "과제참여 연구자",
+      "과제 관련 행정인력",
+      "기술이전 기여자",
+      "전 직원"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2022564396",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

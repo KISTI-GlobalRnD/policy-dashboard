@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-011-016",
+  "document_id": "DOC-POL-011",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 75,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 5
+  },
+  "cell_matrix": [
+    [
+      "“기존 통신망을 활용한 소규모 AI서비스(법률·행정 등), 가상 공간 중심 실증을 탈피\n→ 초지능·초성능(Hyper) ‘AI네트워크’ 인프라 기반, 종합적·물리적 대규모 AI실증”",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "제조·항만\n(Productivity)",
+      "의료\n(Healthcare)",
+      "교육\n(Youth&Talent)",
+      "재난·안전\n(Emergency)",
+      "미디어\n(Recreation)"
+    ],
+    [
+      "물류·운반·정밀제조, 자율주행차량",
+      "원격수술·응급환자 정보공유",
+      "몰입형 교육서비스",
+      "AI·디지털트윈·위성통신 기반 실시간 감시",
+      "고품질 XR·초실감 컨텐츠 제작·체험"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 5
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2026883407",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

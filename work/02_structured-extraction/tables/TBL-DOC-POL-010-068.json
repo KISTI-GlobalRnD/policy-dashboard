@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-010-068",
+  "document_id": "DOC-POL-010",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 263,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "▸ (현황·문제점) 각 출연연·개별 연구자별로 GPU를 구매·활용하여 활용성 저하 및 ‘부품’이라는 특성상 보유현황 관리 미비\n▸ (GPU 공동활용) 모든 기관의 고사양 GPU를 통합 관리 → 기관별 GPU 지분율에 따라 집적된 GPU 자원 우선할당, 미활용 자원(야간시간 등)은 타기관에서 활용"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028691941",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

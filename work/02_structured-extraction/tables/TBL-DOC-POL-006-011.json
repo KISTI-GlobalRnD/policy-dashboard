@@ -1,0 +1,29 @@
+{
+  "table_id": "TBL-DOC-POL-006-011",
+  "document_id": "DOC-POL-006",
+  "page_no_or_sheet_name": 21,
+  "block_order": 544,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "글",
+      "로벌"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": [
+    112.43826880821815,
+    437.9880004882813,
+    147.65026052374589,
+    448.7166052425609
+  ],
+  "extraction_confidence": "medium",
+  "extraction_method": "pymupdf-find_tables"
+}

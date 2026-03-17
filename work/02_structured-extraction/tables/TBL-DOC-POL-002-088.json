@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-002-088",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 382,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◈ 현황 및 한계\nㅇ 민감데이터의 안전한 활용, 바이오 분야 AI 분석모델 등을 지원하는 바이오 전용 고성능(GPU) 컴퓨팅 인프라가 절대적으로 부족\nㅇ 양자컴퓨터는 상용화 초기 단계이나, ‘기존 슈퍼컴퓨터로도 어려운 분자 수준의 복잡한 계산’을 해결할 수 있어 신약개발 분야에서 주목"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971520",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

@@ -1,0 +1,56 @@
+{
+  "table_id": "TBL-DOC-POL-005-056",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 303,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 6,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "이용자 편의 개선 방향 예시",
+      ""
+    ],
+    [
+      "맞춤형\n서비스",
+      "‣ 사용자 정보 메뉴*(마이R&D) 전면 개편 및 사용 방식 개인화로, 연구자/연구기관실무자/전문기관담당자 등 이용자 맞춤형 서비스 지원\n* (연구자) 연구 실적, 수행 이력, 연구 진행 상황 안내 및 알림\n(연구기관 실무자) 기관 내 과제, 성과 현황 열람, 행정관리 기능 등"
+    ],
+    [
+      "입력 편의",
+      "‣ 기존 연구개발계획서 및 과제정보 불러오기 기능 등을 통해\n연구자 정보 입력 편의성 개선"
+    ],
+    [
+      "권한 조정",
+      "‣ 주관연구개발기관 연구책임자에 집중된 정보 수정 권한을\n공동연구개발기관 및 실무 담당자로 확대"
+    ],
+    [
+      "모바일 활용",
+      "‣ 평가위원 섭외 시 모바일 SNS를 통한 평가 정보(일시, 장소, 평가자료 등) 확인 및 응답 기능 개발"
+    ],
+    [
+      "해외연구자\n편의 개선",
+      "‣ 해외연구자 전용 화면(공고접수, 평가, 연구관리 등 영문화), 회원가입 절차 개선(신분 확인 방식시점 개선 등), 첨부형식 다양화(MS-office 등)"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903336",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

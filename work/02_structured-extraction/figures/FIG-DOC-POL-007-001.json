@@ -1,0 +1,19 @@
+{
+  "figure_id": "FIG-DOC-POL-007-001",
+  "document_id": "DOC-POL-007",
+  "page_no": null,
+  "page_no_or_sheet_name": "section2",
+  "block_order": 25,
+  "figure_type": "image",
+  "caption": "그림입니다.\n원본 그림의 이름: 비전표(반페이지)v4.jpg\n원본 그림의 크기: 가로 1532pixel, 세로 785pixel",
+  "legend_text": "",
+  "summary": "비전표(반페이지)v4.jpg",
+  "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-007/image2.jpg",
+  "source_bbox": null,
+  "extraction_confidence": "medium",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "0",
+  "parent_table_id": "TBL-DOC-POL-007-007",
+  "binary_item_id": "image2",
+  "internal_asset_path": "BinData/image2.jpg"
+}

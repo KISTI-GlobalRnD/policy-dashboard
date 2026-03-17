@@ -1,0 +1,50 @@
+{
+  "table_id": "TBL-DOC-POL-005-060",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 356,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 5,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "구축비용",
+      "기존",
+      "개선"
+    ],
+    [
+      "3천만원 미만",
+      "<자체> 심의 미적용",
+      "좌동"
+    ],
+    [
+      "3천만원 이상 1억원 미만\n* 65% 비중('20~'24)",
+      "<자체>\n과제평가단 / 기관자체 심의",
+      "<자체>\n심의 미적용"
+    ],
+    [
+      "1억원 이상 3억원 미만\n* 20% 비중('20~'24)",
+      "<국가연구시설장비심의위원회>\n서면 평가(심의기준 간소화)",
+      "<자체>\n과제평가단 / 기관자체 심의"
+    ],
+    [
+      "3억원 이상",
+      "<국가연구시설장비심의위원회>\n대면 평가",
+      "좌동"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903371",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

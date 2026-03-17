@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-011-007",
+  "document_id": "DOC-POL-011",
+  "page_no_or_sheet_name": "section3",
+  "block_order": 39,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 7,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      ""
+    ],
+    [
+      "AI시대 대한민국\n네트워크 전략(안)"
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      "2025. 12. 18."
+    ],
+    [
+      ""
+    ],
+    [
+      "과학기술정보통신부"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "0",
+  "source_table_id": "2026883425",
+  "repeat_header": "1",
+  "treat_as_char": "0",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

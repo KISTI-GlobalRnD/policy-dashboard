@@ -1,0 +1,830 @@
+{
+  "table_id": "TBL-DOC-POL-007-067",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 228,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 22,
+    "cols": 19
+  },
+  "cell_matrix": [
+    [
+      "구분",
+      "",
+      "",
+      "`25년",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "`26년",
+      "",
+      "",
+      "",
+      "`27년",
+      "",
+      "",
+      "",
+      "",
+      "`28년~"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "독자 AI파운데이션 모델",
+      "",
+      "",
+      "",
+      "",
+      "독자 AI모델 개발·고도화",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "K-AI+NPU\n패키지\n확산·고도화"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "↕독자 AI모델+국산 NPU 연계 지원",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "K-NPU\n프로젝트",
+      "➊ NPU 성능 확보",
+      "",
+      "",
+      "",
+      "LLM向 성능 고도화·SW최적화",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "󰀻개발 성과 실증",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "➋ 실증·사업화",
+      "",
+      "",
+      "",
+      "대규모 국산 NPU 테스트베드 구축(155PF)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "K-AI+NPU 패키지 실증·최적화",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "피드백체계 구축",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "↕평가·피드백"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "➌ 평가·피드백",
+      "",
+      "",
+      "",
+      "공동성능평가지표(K-Perf) 발굴·고도화 → 공공+민간 분야 적용",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "row_span": 1,
+      "col_span": 6
+    },
+    {
+      "row_index": 0,
+      "col_index": 9,
+      "row_span": 1,
+      "col_span": 4
+    },
+    {
+      "row_index": 0,
+      "col_index": 13,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 0,
+      "col_index": 15,
+      "row_span": 1,
+      "col_span": 3
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "row_span": 1,
+      "col_span": 3
+    },
+    {
+      "row_index": 1,
+      "col_index": 6,
+      "row_span": 1,
+      "col_span": 4
+    },
+    {
+      "row_index": 1,
+      "col_index": 11,
+      "row_span": 1,
+      "col_span": 3
+    },
+    {
+      "row_index": 1,
+      "col_index": 15,
+      "row_span": 1,
+      "col_span": 3
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 3,
+      "col_span": 2
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "row_span": 3,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "row_span": 3,
+      "col_span": 2
+    },
+    {
+      "row_index": 2,
+      "col_index": 5,
+      "row_span": 3,
+      "col_span": 10
+    },
+    {
+      "row_index": 2,
+      "col_index": 16,
+      "row_span": 2,
+      "col_span": 2
+    },
+    {
+      "row_index": 2,
+      "col_index": 18,
+      "row_span": 17,
+      "col_span": 1
+    },
+    {
+      "row_index": 3,
+      "col_index": 15,
+      "row_span": 8,
+      "col_span": 1
+    },
+    {
+      "row_index": 4,
+      "col_index": 16,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 4,
+      "col_index": 17,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 5,
+      "col_index": 0,
+      "row_span": 3,
+      "col_span": 1
+    },
+    {
+      "row_index": 5,
+      "col_index": 1,
+      "row_span": 3,
+      "col_span": 1
+    },
+    {
+      "row_index": 5,
+      "col_index": 2,
+      "row_span": 3,
+      "col_span": 1
+    },
+    {
+      "row_index": 5,
+      "col_index": 3,
+      "row_span": 3,
+      "col_span": 2
+    },
+    {
+      "row_index": 5,
+      "col_index": 5,
+      "row_span": 3,
+      "col_span": 10
+    },
+    {
+      "row_index": 7,
+      "col_index": 16,
+      "row_span": 12,
+      "col_span": 2
+    },
+    {
+      "row_index": 8,
+      "col_index": 0,
+      "row_span": 14,
+      "col_span": 1
+    },
+    {
+      "row_index": 8,
+      "col_index": 1,
+      "row_span": 5,
+      "col_span": 1
+    },
+    {
+      "row_index": 8,
+      "col_index": 2,
+      "row_span": 5,
+      "col_span": 1
+    },
+    {
+      "row_index": 8,
+      "col_index": 3,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 8,
+      "col_index": 5,
+      "row_span": 5,
+      "col_span": 10
+    },
+    {
+      "row_index": 10,
+      "col_index": 3,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 10,
+      "col_index": 4,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 11,
+      "col_index": 15,
+      "row_span": 7,
+      "col_span": 1
+    },
+    {
+      "row_index": 12,
+      "col_index": 3,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 13,
+      "col_index": 3,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 13,
+      "col_index": 5,
+      "row_span": 1,
+      "col_span": 10
+    },
+    {
+      "row_index": 14,
+      "col_index": 1,
+      "row_span": 5,
+      "col_span": 1
+    },
+    {
+      "row_index": 14,
+      "col_index": 2,
+      "row_span": 5,
+      "col_span": 1
+    },
+    {
+      "row_index": 14,
+      "col_index": 3,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 14,
+      "col_index": 5,
+      "row_span": 1,
+      "col_span": 10
+    },
+    {
+      "row_index": 15,
+      "col_index": 3,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 15,
+      "col_index": 5,
+      "row_span": 1,
+      "col_span": 10
+    },
+    {
+      "row_index": 16,
+      "col_index": 3,
+      "row_span": 1,
+      "col_span": 4
+    },
+    {
+      "row_index": 16,
+      "col_index": 8,
+      "row_span": 3,
+      "col_span": 7
+    },
+    {
+      "row_index": 17,
+      "col_index": 3,
+      "row_span": 2,
+      "col_span": 4
+    },
+    {
+      "row_index": 17,
+      "col_index": 7,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 19,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 19,
+      "col_index": 2,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 19,
+      "col_index": 3,
+      "row_span": 1,
+      "col_span": 5
+    },
+    {
+      "row_index": 19,
+      "col_index": 8,
+      "row_span": 1,
+      "col_span": 4
+    },
+    {
+      "row_index": 19,
+      "col_index": 12,
+      "row_span": 2,
+      "col_span": 3
+    },
+    {
+      "row_index": 19,
+      "col_index": 15,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 19,
+      "col_index": 16,
+      "row_span": 2,
+      "col_span": 2
+    },
+    {
+      "row_index": 19,
+      "col_index": 18,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 20,
+      "col_index": 3,
+      "row_span": 1,
+      "col_span": 5
+    },
+    {
+      "row_index": 20,
+      "col_index": 8,
+      "row_span": 1,
+      "col_span": 4
+    },
+    {
+      "row_index": 21,
+      "col_index": 3,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 21,
+      "col_index": 5,
+      "row_span": 1,
+      "col_span": 14
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654502",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

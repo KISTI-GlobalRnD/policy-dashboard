@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-002-029",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 99,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "",
+      "✔ AI 신약개발을 위한 전략적 파트너십 사례",
+      ""
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "• 일라이 릴리(Eli Lilly)와 엔비디아(NVIDIA)는 AI 팩토리 및 슈퍼컴퓨터 구축을 통해 후보물질 탐색, 질병 영상 분석, 바이오마커 발굴, 맞춤형 치료 전략 개발 추진(‘25)\n• IBM과 모더나는 양자 컴퓨팅과 생성형 AI를 활용해 mRNA 치료제·백신 개발 가속화(’23)\n• 아스트라제네카는 알젠 바이오테크놀로지스와 CRISPR 유전자 편집 치료제 개발 착수(‘25)",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 3
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2016579805",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

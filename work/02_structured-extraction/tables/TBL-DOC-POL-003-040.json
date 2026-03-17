@@ -1,0 +1,104 @@
+{
+  "table_id": "TBL-DOC-POL-003-040",
+  "document_id": "DOC-POL-003",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 176,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 4,
+    "cols": 7
+  },
+  "cell_matrix": [
+    [
+      "온디바이스\nAI반도체\n풀스택",
+      "수요 맞춤형 온디바이스 AI 반도체, AI SW, 모듈 등 개발 · 실증",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "⇩ 탑재",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "첨단제품",
+      "자율주행차",
+      "스마트가전",
+      "",
+      "",
+      "",
+      "무인기"
+    ],
+    [
+      "",
+      "",
+      "",
+      "협동로봇",
+      "휴머노이드",
+      "무인농작업 로봇",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 1,
+      "col_span": 6
+    },
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "row_span": 1,
+      "col_span": 6
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "row_span": 1,
+      "col_span": 3
+    },
+    {
+      "row_index": 2,
+      "col_index": 6,
+      "row_span": 2,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2009609974",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

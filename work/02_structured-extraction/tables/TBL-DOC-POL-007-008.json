@@ -1,0 +1,30 @@
+{
+  "table_id": "TBL-DOC-POL-007-008",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 26,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "1",
+      "",
+      "(기술혁신) 국산 AI반도체 상용화 및 미래도전 기술 확보"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "0",
+  "source_table_id": "2028654132",
+  "repeat_header": "0",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

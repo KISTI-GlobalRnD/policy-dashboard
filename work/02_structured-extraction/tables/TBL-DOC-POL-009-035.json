@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-009-035",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 165,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "",
+      "< 청년연구자들의 목소리 >",
+      ""
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "▸대학의 초기 정착금 등으로는 실험에 필요한 연구장비 세팅이 불가능하여 신규 임용 이후, 일정 규모 이상의 과제 수주까지 연구 공백이 발생(A대학 조교수)\n▸대학원생은 교내 장학금 등 혜택이 많으나, 포닥을 위한 기본적인 지원은 부족하며, 직접 수주한 연구비가 없는 경우, 고용 연장도 불안정한 현실(B대학 포닥)",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 3
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747551",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

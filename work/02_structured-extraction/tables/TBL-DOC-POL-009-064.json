@@ -1,0 +1,47 @@
+{
+  "table_id": "TBL-DOC-POL-009-064",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 289,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 2,
+    "cols": 9
+  },
+  "cell_matrix": [
+    [
+      "2026년",
+      "",
+      "2027년",
+      "",
+      "2028년",
+      "",
+      "2029년",
+      "",
+      "2030년"
+    ],
+    [
+      "세부\n추진전략 수립",
+      "⇨",
+      "특정 학문분야 시범 도입\n(예. 수학)",
+      "⇨",
+      "기초과학 분야 적용\n(자연과학, 생명과학)",
+      "⇨",
+      "의약학 분야\n확대 적용",
+      "⇨",
+      "全 분야 적용\n(공학, ICT·융합)"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747593",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

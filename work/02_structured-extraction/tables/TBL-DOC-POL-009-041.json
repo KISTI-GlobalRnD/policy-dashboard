@@ -1,0 +1,45 @@
+{
+  "table_id": "TBL-DOC-POL-009-041",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 200,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 5,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "불만족 사유",
+      "비중"
+    ],
+    [
+      "제공되는 자원량이 부족함",
+      "42.5%"
+    ],
+    [
+      "2. 서비스 이용에 긴 대기 시간이 요구됨",
+      "18.4%"
+    ],
+    [
+      "3. 사용자 인터페이스(CLI)의 불편함",
+      "10.9%"
+    ],
+    [
+      "4. 연구 분야에 적합한 타입의 자원이 제공되지 않음",
+      "9.2%"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747561",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

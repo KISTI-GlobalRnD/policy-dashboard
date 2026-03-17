@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-012-008",
+  "document_id": "DOC-POL-012",
+  "page_no_or_sheet_name": "section0",
+  "block_order": 29,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 7,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "GPU",
+      "· 정부가 확보한 첨단GPU 1만장 중 일정량 할당 및 활용 지원"
+    ],
+    [
+      "데이터",
+      "· 미개방 공공데이터셋(데이터 소관부처 협의 통한 제공 검토), 법령·연구·행정업무 등 공통 학습데이터셋(범정부 AI공통기반 內) 등 활용 지원"
+    ],
+    [
+      "AI모델",
+      "· 「독자AI 파운데이션 모델」 프로젝트를 통해 확보한 국산 AI모델, 범정부 AI공통기반 AI모델(현재 2개 플랫폼 6개 모델) 등 활용 지원"
+    ],
+    [
+      "인재",
+      "· AI인재 프로그램(AI/AX대학원 연구실) 세부정보 제공, 정부 AX사업 참여 등"
+    ],
+    [
+      "클라우드",
+      "· 국정자원 대구센터 민간협력 클라우드(PPP)존 활용 지원"
+    ],
+    [
+      "평가·검증",
+      "· AI평가 데이터셋 지원, AI 신뢰성 검증 지원 등"
+    ],
+    [
+      "기획\n컨설팅",
+      "· AI모델 개발사, 분야별 AX전문기업 Pool(AX자문단) 지원 등"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2064893254",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

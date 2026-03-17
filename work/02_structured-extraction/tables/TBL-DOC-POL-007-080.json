@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-007-080",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 297,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◇ 국산 AI반도체로 독자 AI모델 기반 대규모 서비스 제공을 위한 ①인프라 및 HW, ②컴퓨팅SW, ③클라우드 등 AI컴퓨팅 인프라 독자운용 기술 확보"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654536",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

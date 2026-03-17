@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-005-036",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 140,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◆ “R&D 예산 삭감의 여파로 기초연구 생태계가 심각하게 훼손 되었으며, 생태계의 유지를 위해 기초연구 지원의 안정적 유지관리가 중요”\n< R&D 혁신을 위한 1차 연구현장 간담회(IBS, 7.17) 시 연구자 발언 中 >\n◆ “PBS 제도로 인해 출연(연) 연구자들이 인건비 확보 및 평가체제에 맞는 개인 과제 수주에 집중, 국가 임무를 위한 도전적 연구에 나서지 못하고 있는 실정”\n< 온라인 플랫폼 ˈ모두의 R&D’ 접수 의견(7.18.) >"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903220",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

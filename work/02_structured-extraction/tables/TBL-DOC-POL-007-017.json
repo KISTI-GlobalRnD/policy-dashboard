@@ -1,0 +1,29 @@
+{
+  "table_id": "TBL-DOC-POL-007-017",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 60,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "○ 특히, 클라우드·온디바이스AI 등 AI 서비스 본격화로, AI 모델 학습을 넘어 서비스를 위한 추론용 AI반도체가 시장 확대를 견인할 전망",
+      ""
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654368",
+  "repeat_header": "0",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

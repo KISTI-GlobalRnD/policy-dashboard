@@ -1,0 +1,33 @@
+{
+  "table_id": "TBL-DOC-POL-007-101",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 399,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 2,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "Arm 스쿨",
+      "▪Arm과의 MoU를 바탕으로 ‘Arm 스쿨*’을 설치하여 석·박사 및 재직자 대상 AI반도체 핵심 IP 교육(’26~)으로 5년간 1,400명 양성 추진\n* (Arm) 교육과정 개발ㆍSW 제공ㆍ강사 파견 \n(정부) 예산 지원 / (대학) 교육ㆍ연구 전용공간 확보"
+    ],
+    [
+      "글로벌\n파견교육",
+      "▪美 일리노이대와 연계한 AI반도체 파견교육(’25~) 운영을 착수(6개월, 30명 이내)하여 총 150명 이내 양성(~’30)"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654575",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

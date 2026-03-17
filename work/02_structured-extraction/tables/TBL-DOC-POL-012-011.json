@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-012-011",
+  "document_id": "DOC-POL-012",
+  "page_no_or_sheet_name": "section0",
+  "block_order": 43,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 7,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      ""
+    ],
+    [
+      "성공적 국가 AI대전환을 위한\n정부 AX사업 全주기\n원스톱 지원방안(안)"
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      "2026. 1. 28."
+    ],
+    [
+      ""
+    ],
+    [
+      "관계부처 합동"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "0",
+  "source_table_id": "1998584809",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

@@ -1,0 +1,29 @@
+{
+  "table_id": "TBL-DOC-POL-011-011",
+  "document_id": "DOC-POL-011",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 48,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "□ 네트워크 진화미래 AI에이전트·피지컬AI의 발전과 확산은 이전과 차원이 다른 네트워크를 요구\n• 혼합현실(XR)글래스·AI에이전트: 대규모·지속적 트래픽 발생 • 피지컬AI: 정밀제어를 위해 대용량 데이터 실시간·초저지연 통신\n☞ 국내 백본망 용량은 ‘29년 이후 포화 예상",
+      "< 국내 무선백본망 트래픽 예측 >"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2026883396",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

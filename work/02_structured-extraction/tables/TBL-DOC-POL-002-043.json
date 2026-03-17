@@ -1,0 +1,33 @@
+{
+  "table_id": "TBL-DOC-POL-002-043",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 179,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 2,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "유전자 편집",
+      "세포 치료제"
+    ],
+    [
+      "AI는 유전자 편집 대상이 되는 특정 유전자 표적 위치를 정확하게 예측하고, 비표적(off-target)을 미리 감지하여 안전성을 높이는데 기여",
+      "AI 기반 네오항원 면역원성 예측, TCR 결합도 예측, MHC-항원 결합부위 예측 등을 통해 타겟팅 정확성↑, 부작용↓, 치료효능↑"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971406",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

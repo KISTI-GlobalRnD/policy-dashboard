@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-008-017",
+  "document_id": "DOC-POL-008",
+  "page_no_or_sheet_name": "section6",
+  "block_order": 73,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "➌ 범부처 협력체계를 바탕으로 ABCDEF 전략분야 혁신성과 창출"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "0",
+  "source_table_id": "2028760725",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

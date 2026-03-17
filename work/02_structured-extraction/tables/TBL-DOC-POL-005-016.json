@@ -1,0 +1,37 @@
+{
+  "table_id": "TBL-DOC-POL-005-016",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 54,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "구 분",
+      "주요 내용"
+    ],
+    [
+      "투자시스템",
+      "‣ 매년 정부 총지출 대비 5% 수준으로 R&D 예산확대 노력\n‣ 첨단과학 연구와 원천기술 개발을 구분하고 개별 특성에 맞는 맞춤형 투자심의"
+    ],
+    [
+      "대형R&D",
+      "‣ 속도감을 저해하지 않도록 당락 결정없이 기획보완 중심 사전기획점검 실시\n‣ 시설장비 등 개발구축 사업은 과학계 의견 반영절차를 강화하고 전주기단계적 점검 체계 구축"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002033824",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

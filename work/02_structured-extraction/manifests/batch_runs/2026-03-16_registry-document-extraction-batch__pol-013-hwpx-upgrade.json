@@ -1,0 +1,28 @@
+{
+  "run_date": "2026-03-16",
+  "registry_path": "work/01_scope-and-ia/requirements/04_document-registry.csv",
+  "target_count": 1,
+  "completed_like_count": 1,
+  "skipped_existing_count": 0,
+  "failed_count": 0,
+  "missing_source_count": 0,
+  "documents": [
+    {
+      "document_id": "DOC-POL-013",
+      "title": "범부처 기술관리체계 정비 및 협업 강화 방향",
+      "doc_role": "policy_source",
+      "scope_track": "phase2",
+      "include_status": "hold",
+      "source_format": "hwpx",
+      "source_file": "data/260312_12개 정책 문헌 자료/260305 (4호) 범부처 기술관리체계 정비 및 협업 강화 방향(안)_0305 1130.hwpx",
+      "extraction_mode": "hwpx",
+      "run_status": "completed",
+      "page_count": 10,
+      "text_layer_pages": "",
+      "evidence_units": 163,
+      "tables": 54,
+      "figures": 30,
+      "notes": "보류; 재구성 초안 직접 대상 여부 확인 필요; 2026-03-16 companion HWPX로 구조 추출 전환"
+    }
+  ]
+}

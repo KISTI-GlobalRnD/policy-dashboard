@@ -1,0 +1,41 @@
+{
+  "table_id": "TBL-DOC-POL-005-015",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 50,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 4,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "구 분",
+      "주요 내용"
+    ],
+    [
+      "혁신역량 진단",
+      "‣ 기업부설연구소 R&D 역량 진단 모델 고도화\n‣ 맞춤기술인력지원과 성과 사업화에 이르는 토탈케어 추진"
+    ],
+    [
+      "맞춤형 지원",
+      "‣ 기업부설연구소 역량진단모델을 고도화하고, 특성에 따라 경쟁형역매칭형 등 지원방식 다양화"
+    ],
+    [
+      "실증 지원",
+      "‣ 수요자 참여형 실증 R&D 지원 확대 및 제도 마련\n‣ 혁신제품 조달 연계, 실증환경 제공, 제품 고도화 연계"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002033822",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

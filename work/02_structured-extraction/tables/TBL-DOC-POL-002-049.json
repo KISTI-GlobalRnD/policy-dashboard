@@ -1,0 +1,40 @@
+{
+  "table_id": "TBL-DOC-POL-002-049",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 195,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "",
+      "구조적 뇌 지도",
+      "구조+기능 지도"
+    ],
+    [
+      "추진 전략",
+      "단일 스케일 + 단일 기술 →\n전체 뇌 영역",
+      "멀티스케일* + 복합 기술** → \n특정 뇌 영역·질환군"
+    ],
+    [
+      "예시",
+      "뇌 신경세포의 전체 연결망(커넥텀)",
+      "뇌 시각기능 지도"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971412",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

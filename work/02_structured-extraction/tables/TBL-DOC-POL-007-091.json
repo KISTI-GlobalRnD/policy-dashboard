@@ -1,0 +1,37 @@
+{
+  "table_id": "TBL-DOC-POL-007-091",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 374,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "유형",
+      "주요 지원내용"
+    ],
+    [
+      "초기 진출기업",
+      "▪한-미 AI반도체 센터’, ‘해외 IT 지원센터(미국, 싱가포르, UAE, 인도, 베트남)’ 등 해외 현지 거점을 통한 현지 시장 맞춤형 지원\n▪주요 해외거점에 ‘K-반도체 마케팅·컨설팅 센터’ 구축으로 글로벌 쇼케이스, 데모데이 등 해외 전시·홍보 지원 등 초기 판로 개척"
+    ],
+    [
+      "글로벌 성장기업",
+      "▪해외법인 설립 등에 필요한 현지 법률·제도 맞춤형 컨설팅 지원\n▪관세·비관세 장벽 등 해소를 위한 수출지원 체계 구축\n◾해외특허 확보 비용 및 컨설팅, 맞춤형 특허분쟁 대응전략 등 지원"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2031439873",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

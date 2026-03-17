@@ -1,0 +1,49 @@
+{
+  "table_id": "TBL-DOC-POL-003-022",
+  "document_id": "DOC-POL-003",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 82,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 6,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "구 분",
+      "내 용"
+    ],
+    [
+      "예 산",
+      "⦁정부 예산(안)에 각 얼라이언스가 제안한 프로젝트를 우선 반영 검토"
+    ],
+    [
+      "금 융",
+      "⦁얼라이언스가 발굴·기획한 유망 프로젝트는 정책금융(예: 국민성장펀드)에 제안"
+    ],
+    [
+      "인 재",
+      "⦁산업도메인 지식과 AI 전문성을 갖춘 M.AX 전문인력(석·박사급, 재직자) 양성"
+    ],
+    [
+      "인프라",
+      "⦁각 얼라이언스가 필요한 제조데이터, 인프라(컴퓨팅 등) 등 전폭적으로 지원"
+    ],
+    [
+      "제 도",
+      "⦁관련 규제 등 의견을 수렴하고 대정부 건의·개선(규제샌드박스, 규제합리화회의 등)"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2009609950",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

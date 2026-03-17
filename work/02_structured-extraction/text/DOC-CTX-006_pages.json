@@ -1,0 +1,34 @@
+[
+  {
+    "document_id": "DOC-CTX-006",
+    "page_no": 1,
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "User-PC",
+      "subject": "",
+      "keywords": "",
+      "creator": "Hwp 2024 13.0.0.3379",
+      "producer": "Hancom PDF 1.3.0.550",
+      "creationDate": "D:20260313103839+09'00'",
+      "modDate": "D:20260313103839+09'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-CTX-006.pdf",
+      "page_count": 1,
+      "page": 1
+    },
+    "toc_items": [],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "<세부 기술(정책) 분류체계>\n\n대분류\n중분류\n기술 개요\n\n인공위성을 설계, 제작, 발사, 운영하고 이를 다양한 목적으로\n\n위성\n\n활용하는 데 필요한 과학 및 공학 기술\n\n발사체\n인공위성, 우주선, 탐사선 등 탑재물을 지구 표면에서 우주\n\n공간의 특정 궤도로 운반하는 데 필요한 공학기술\n\n우주\n\n지구 대기권 밖의 우주 공간과 천체를 탐험하고 연구하는데\n\n우주탐사\n\n필요한 과학 및 공학기술\n\n우주기반\n우주부품 국산화, 인력양성, 인프라 구축 등 우주산업 육성\n\n신항공\n미래항공 모빌리티(드론, UAM 등) 전환 촉진을 위해 기술·\n\n산업 고도화, 인증·안전운용체계 및 인프라 등 구축\n\n항공부품\n항공기 엔진 및 소재·부품의 설계·제조 등에 필요한 기술\n\n항공\n\n항공기 인증·안전운용체계, 항공보안, MRO 등 항공안전\n\n항공기반\n\n운항에 필요한 기술, 항공인재·산업 육성 등",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high",
+    "primary_text": "",
+    "text_fallback_applied": true,
+    "text_fallback_source": "pymupdf-text-dict-sort",
+    "text_fallback_reason": "empty_primary_text"
+  }
+]

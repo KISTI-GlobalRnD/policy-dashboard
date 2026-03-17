@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-010-032",
+  "document_id": "DOC-POL-010",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 148,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◈ PBS 단계적 폐지와 같이 추진되었으면 하는 정책\n“우수인재를 유인할 수 있는 인센티브 체계를 설계할 필요”\n“연구근접지원 인력을 확대하여 연구몰입 환경 조성 필요”\n“과기정출연법 개정을 통해 연구 환경 개선 필요”"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2022564403",
+  "repeat_header": "1",
+  "treat_as_char": "0",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

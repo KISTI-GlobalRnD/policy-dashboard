@@ -1,0 +1,58 @@
+{
+  "table_id": "TBL-DOC-POL-007-051",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 201,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 4,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "내부역량",
+      "강점(S)",
+      "약점(W)"
+    ],
+    [
+      "",
+      "∎세계 최고 메모리·제조 역량\n∎NPU 개발 성공 경험\n∎독자 AI생태계 완비",
+      "∎AI모델 진화에 뒤처지는 NPU 성능\n∎시스템SW 역량 미흡\n∎인재·수요기반 등 취약"
+    ],
+    [
+      "외부환경",
+      "기회(O)",
+      "위협(T)"
+    ],
+    [
+      "",
+      "∎고전력·고비용 등 GPU 한계 직면\n∎피지컬 AI‧추론서비스 시장 확대\n∎TPU 등 특화 AI반도체에 대한 관심 고조",
+      "∎엔비디아의 막강한 GPU 지배력\n∎AMD·화웨이 등 팹리스 시장 확장\n∎해외 AI반도체 스타트업 가세"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 2,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654456",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

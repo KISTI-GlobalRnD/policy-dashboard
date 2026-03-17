@@ -1,0 +1,140 @@
+{
+  "table_id": "TBL-DOC-POL-004-026",
+  "document_id": "DOC-POL-004",
+  "page_no_or_sheet_name": "section1",
+  "block_order": 84,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 6,
+    "cols": 6
+  },
+  "cell_matrix": [
+    [
+      "",
+      "• AlphaFold 3(’24.5.), AlphaEvolve(’25.5.), AI Co-Scientist(’25.2.)",
+      "강점(S)\n▪ 바이오, 재료·화학, 반도체 등 강점분야 연구‧산업 역량 보유\n※ (첨단바이오) 특허 증가율 세계１위, 논문 증가율 2위, 논문 영향력 3위,\n(소재‧나노) 미국 대비 기술 수준 \n(‘20) 80.8% → (’22) 83.3%로 향상\n(‘22, 기술수준평가, KISTEP)\n▪ 세계적 수준의 AI 경쟁력\n※ 글로벌 AI 경쟁력 세계 6위(3위권 그룹)\n(英 토터스미디어, ’24.9.)",
+      "",
+      "약점(W)\n▪ 과학기술+AI 융합인재 부족\n※ 연구자의 77.0%가 과학기술×AI 융합형 전문인력 양성이 중요하다고 응답(‘25.2, KIST)\n▪ 연구데이터 공유·활용 체계 미흡\n※ 데이터가 충분하다고 응답한 연구자는 4.4%에 불과(‘25.2, KIST)\n※ 23개 출연연 중 연구데이터 통합 플랫폼(DataON) 연계율 30.4%로 저조(‘25)",
+      ""
+    ],
+    [
+      "",
+      "• MatterGen(’25.1.), 글로벌 연구 프로젝트 AI4Science 이니셔티브 추진",
+      "기회(O)\n▪ 글로벌 경쟁 초기 단계, \n경쟁력 확보의 “골든타임”\n▪ 국가 차원의 GPU 확충 등 인프라 여건 개선\n※ GPU 26만장 확보(~’30), 슈퍼컴 6호기 GPU 8,500장 서비스 개시(‘26~) 등",
+      "",
+      "위기(T)\n▪ 美·中, 빅테크의 폭발적 속도, 기술격차 심화 우려\n• AlphaFold 3(’24.5.), AlphaEvolve(’25.5.), AI Co-Scientist(’25.2.)\n• MatterGen(’25.1.), 글로벌 연구 프로젝트 AI4Science 이니셔티브 추진\n• 단백질, DNA 예측 및 생성 모델 개발을 지원하는 BioNeMo 클라우드 서비스 제공",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "추진\n방향\n(to-be)",
+      "",
+      "◈ ① 기술·인재·인프라·산업을 아우르는 전 주기 지원 + \n② 정부 - 산업 - 연구계 원팀으로 국가적 역량 결집",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "세계 1등 기술\n강점 분야 중심 파운데이션 모델\n조기 확보",
+      "양손잡이 인재\n과학기술×AI\n융합 인재 양성",
+      "개방형 인프라\n연구자 누구나\n쉽게 접근 가능한 환경 조성",
+      "연구성과 사업화\n기술사업화, 스타트업 스케일업 지원 등\n혁신 파이프라인 구축"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 0,
+      "col_index": 4,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 1,
+      "col_index": 2,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 1,
+      "col_index": 4,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "row_span": 1,
+      "col_span": 4
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "row_span": 3,
+      "col_span": 1
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 3,
+      "col_index": 2,
+      "row_span": 1,
+      "col_span": 4
+    },
+    {
+      "row_index": 4,
+      "col_index": 2,
+      "row_span": 1,
+      "col_span": 4
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2005274868",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

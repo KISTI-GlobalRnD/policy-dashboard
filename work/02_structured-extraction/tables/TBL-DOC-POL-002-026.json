@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-002-026",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 93,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "",
+      "✔ 주요국의 과학기술 X AI 전략",
+      ""
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "• (EU) ‘AI in Science’ 전략을 발표하고, 첨단소재 설계 및 생명공학을 핵심 분야로 선정(‘25.10월)\n• (英) ’AI for Science’ 전략을 통해 ‘신약개발 가속화’를 첫 번째 미션으로 발표(‘25.11월)\n• (美) 트럼프 대통령의 행정명령을 통해 국가 차원의 AI 기반 과학혁신 프로젝트인 ’Genesis Mission’을 공식 출범하고, 생명공학을 6대 우선 영역 중 하나로 포함(‘25.11월)",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 3
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2016579802",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

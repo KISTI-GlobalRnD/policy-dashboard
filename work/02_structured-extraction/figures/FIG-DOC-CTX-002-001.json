@@ -1,0 +1,14 @@
+{
+  "figure_id": "FIG-DOC-CTX-002-001",
+  "document_id": "DOC-CTX-002",
+  "page_no": 1,
+  "figure_type": "pdf_page_image",
+  "caption": "Rendered page 1",
+  "legend_text": "",
+  "summary": "Rendered page image for OCR/manual review. text_layer=False",
+  "asset_path": "work/02_structured-extraction/figures/assets/DOC-CTX-002/page_001.png",
+  "source_bbox": null,
+  "extraction_confidence": "low",
+  "extraction_method": "pymupdf-page-render",
+  "text_layer_detected": false
+}

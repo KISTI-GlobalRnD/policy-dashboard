@@ -1,0 +1,37 @@
+{
+  "table_id": "TBL-DOC-POL-007-099",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 395,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "AI반도체 대학원",
+      "▪AI반도체 및 관련 SW 설계 역량 제고에 특화된 AI반도체대학원 3개교*(’23~)를 통해 총 270명 이상 양성 추진(~’28)\n* (’23) 서울대, KAIST, 한양대"
+    ],
+    [
+      "반도체 특성화대학원",
+      "▪반도체 특성화대학원(現 6개*→‘30년 목표 10개)을 단계적으로 확대, 특성화대학 교육과정 내실화\n* (‘23) 성균관대, KAIST, UNIST, (’24) 경북대, 포항공대, 한양대"
+    ],
+    [
+      "반도체대학원\n대학",
+      "▪민·관 합동으로 반도체만 교육·연구하는 전문 대학원대학*을 설립해 AI반도체 등 반도체 全주기 교육 운영\n* 기업이 ▲커리큘럼 설계, ▲특임교수 파견, ▲현장실습 강화, ▲장학 및 채용연계 등 대학 설립·운영 全 과정에 참여, 연간 약 300여명 배출 목표"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654573",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

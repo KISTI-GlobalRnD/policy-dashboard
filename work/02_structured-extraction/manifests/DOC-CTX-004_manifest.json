@@ -1,0 +1,46 @@
+{
+  "document_id": "DOC-CTX-004",
+  "registry_id": "DOC-CTX-004",
+  "source_rel_path": "data/260313_기술분야 개요/기술분야_개요_양자.pdf",
+  "internal_path": "",
+  "source_format": "pdf",
+  "extraction_run_id": "pilot-gs-001-korean-ocr-v2",
+  "page_count_or_sheet_count": 1,
+  "processing_status": "completed",
+  "quality_notes": [
+    "Page images were rendered and then OCRed using RapidOCR with a Korean recognition model.",
+    "Text blocks are line-level OCR outputs with bounding boxes and confidence scores.",
+    "Page-level OCR text and markdown were aggregated from line blocks for manual review.",
+    "OCR line blocks were grouped into a coarse table candidate for manual review.",
+    "OCR line candidates were manually normalized into a finalized structured table."
+  ],
+  "page_records": [
+    {
+      "page_no": 1,
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-CTX-004/page_001.png",
+      "text_layer_detected": false
+    }
+  ],
+  "text_output_path": "work/02_structured-extraction/text/DOC-CTX-004_blocks.json",
+  "figure_output_paths": [
+    "work/02_structured-extraction/figures/FIG-DOC-CTX-004-001.json"
+  ],
+  "text_block_count": 17,
+  "page_text_path": "work/02_structured-extraction/text/DOC-CTX-004_pages.json",
+  "markdown_path": "work/02_structured-extraction/text/DOC-CTX-004.md",
+  "layout_output_path": "work/02_structured-extraction/layout/DOC-CTX-004_ocr_layout.json",
+  "tables": [
+    {
+      "table_id": "TBL-DOC-CTX-004-CURATED-001",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-CTX-004-CURATED-001.json",
+      "csv_path": "work/02_structured-extraction/tables/TBL-DOC-CTX-004-CURATED-001.csv",
+      "page_no": 1,
+      "rows": 6,
+      "cols": 2,
+      "candidate_source": "finalized_from_ocr_review"
+    }
+  ],
+  "counts": {
+    "tables": 1
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "table_id": "TBL-DOC-POL-005-011",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 37,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 5,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "구 분",
+      "주요 내용"
+    ],
+    [
+      "집행정산\n간소화",
+      "‣ 간접비 사용용도 전체에 네거티브 규제 방식 전면 도입\n‣ 회의비, 연구실운영비 등은 직접비 일정비율(예: 10%) 이내에서 자율적으로 활용\n‣ 소액 연구비 사용 건 증빙 최소화 및 소액과제(연구비 5천만원 미만) 샘플정산 도입\n‣ 위반 적발 시에는 최대 20~30배까지 제재부가금 부과 등 제재 강화 검토"
+    ],
+    [
+      "현장체감\n강화",
+      "‣ 각종 행종서식을 필수자료로 최소화, 그 외의 자료 요구를 엄격히 관리\n‣ 현장 점검단 등을 통해 현장 착근 저해요소 파악 및 보완"
+    ],
+    [
+      "예산 관리체계",
+      "‣ R&D 사업과제의 회계연도 일치제도를 폐지하고 연구자 중심 과제관리로 전환"
+    ],
+    [
+      "연구지원\n시스템",
+      "‣ IRIS를 중심으로 All-in-One 연구지원시스템을 구축하여 연구행정 부담 해소\n‣ UI/UX 개선, 해외연구자용 기능 보완 등 사용자 중심으로 편의성 개선"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002033817",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

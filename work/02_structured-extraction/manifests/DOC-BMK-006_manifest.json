@@ -1,0 +1,28 @@
+{
+  "document_id": "DOC-BMK-006",
+  "registry_id": "DOC-BMK-006",
+  "source_rel_path": "data/260312_해외 정책(원문)/일본_통합혁신전략2025_원문.pdf",
+  "internal_path": "",
+  "source_format": "pdf",
+  "extraction_run_id": "pilot-gs-002-v3",
+  "page_count_or_sheet_count": 184,
+  "processing_status": "completed",
+  "quality_notes": [
+    "Primary pure-text path uses PyMuPDF4LLM page chunks in reading order.",
+    "Auxiliary PyMuPDF text blocks preserve bounding boxes for later layout-aware processing.",
+    "OCR disabled because the document exposes an embedded text layer.",
+    "PyMuPDF4LLM layout ONNX stack was not enabled in this phase because pure-text extraction is the current priority.",
+    "PyMuPDF4LLM page text was replaced with PyMuPDF block-order fallback on sparse/empty pages: 1, 34, 44, 48, 50, 55, 58, 59, 65, 66, 69, 71, 93, 94, 107, 117, 119, 120, 121, 140, 141, 142, 143, 144, 145, 146, 147, 149, 150, 152, 153, 155, 157, 158, 160, 161, 162, 163, 164, 166, 167, 168, 169, 171, 172, 174, 175, 176, 177, 178"
+  ],
+  "text_path": "work/02_structured-extraction/text/DOC-BMK-006_blocks.json",
+  "page_text_path": "work/02_structured-extraction/text/DOC-BMK-006_pages.json",
+  "markdown_path": "work/02_structured-extraction/text/DOC-BMK-006.md",
+  "layout_path": "work/02_structured-extraction/layout/DOC-BMK-006_layout.json",
+  "counts": {
+    "page_chunks": 184,
+    "evidence_units": 5324,
+    "pages_with_tables_markdown": 94,
+    "pages_with_images_markdown": 0,
+    "page_text_fallback_pages": 50
+  }
+}

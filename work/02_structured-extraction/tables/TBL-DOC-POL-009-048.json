@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-009-048",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 214,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◈ 소규모 장기 기본연구 복원, 연구기간 확대 및 후속연구 연계를 강화하여 연구자가 걱정 없이 장기·안정적으로 다양한 연구를 할 수 있는 환경 조성\n◈ 기초연구 과제 수를 점진적으로 확대하고 기초연구에 대한 안정적 투자를 법제화하여 더 많은 연구자에게 실질적인 지원이 되도록 수혜율 제고"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747568",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

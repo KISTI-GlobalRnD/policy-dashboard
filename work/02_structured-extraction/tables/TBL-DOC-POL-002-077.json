@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-002-077",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 350,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "",
+      "< 민간데이터 공유활용 지원 사업 개요(’26년 착수) >",
+      ""
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "◉ (수요기반) 민간데이터 활용 연구 수요 발굴·지원(데이터공유 컨소시엄 구성)\n◉ (K-BDS 연계) 연구분야 특화 데이터셋 마련, 연구성과·데이터 K-BDS 등록 및 개방\n◉ (인센티브) K-BDS 내 GPU 기반 데이터 분석 환경 및 저장공간 지원 등",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 3
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971503",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

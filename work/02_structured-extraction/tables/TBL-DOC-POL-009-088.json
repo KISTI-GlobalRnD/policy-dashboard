@@ -1,0 +1,43 @@
+{
+  "table_id": "TBL-DOC-POL-009-088",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 390,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 4
+  },
+  "cell_matrix": [
+    [
+      "등급",
+      "초급(담당자)",
+      "중급(관리자)",
+      "고급(리더)"
+    ],
+    [
+      "개념",
+      "연구자 행정 부담을 줄이고 연구 수행을 지원하는 실무 인력",
+      "연구과제 全주기(기획–집행–성과) 관리와 연구자 컨설팅을 담당하는 전문 관리자",
+      "기관 연구행정 전략 수립 및 조직 내 연구행정 총괄 책임자"
+    ],
+    [
+      "주요 업무",
+      "연구비 집행·증빙·보고, 연구 윤리·보안 관리, 행정시스템 운영 및 연구자 지원 등",
+      "과제 공고 분석 및 제안서 지원, 예산·성과 관리, IP·계약 검토, 리스크 관리 등",
+      "전략·내규 수립, 성과·평가 관리, 오픈 사이언스 설계 및 국제협력, 인력 역량개발 등"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747629",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

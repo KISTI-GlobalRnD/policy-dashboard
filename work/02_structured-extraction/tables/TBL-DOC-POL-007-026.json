@@ -1,0 +1,29 @@
+{
+  "table_id": "TBL-DOC-POL-007-026",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 82,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "○ 엔비디아는 GPU의 범용성과 성능\n우위, SW경쟁력을 바탕으로 급성장, 글로벌 AI반도체 생태계를 주도",
+      ""
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2029487506",
+  "repeat_header": "0",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

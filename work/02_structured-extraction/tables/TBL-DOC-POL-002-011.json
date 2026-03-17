@@ -1,0 +1,47 @@
+{
+  "table_id": "TBL-DOC-POL-002-011",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 30,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "’26년",
+      "⇨",
+      "’27년 이후"
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "합성신약* 분야 1개 시범거점 선정\n(’26.上 공모 예정)\n* 가장 빠른 성공사례 창출이 예상되는 분야",
+      "",
+      "AI 적용가능성·파급효과 고려하여 2개 분야로 거점 확대\n(사업 기획 및 예산확보 추진)"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 3,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971545",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

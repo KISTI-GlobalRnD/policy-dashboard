@@ -1,0 +1,44 @@
+{
+  "table_id": "TBL-DOC-POL-011-019",
+  "document_id": "DOC-POL-011",
+  "page_no_or_sheet_name": "section6",
+  "block_order": 93,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "과학기술정보통신부 네트워크정책실\n정보보호네트워크정책관 네트워크정책과",
+      ""
+    ],
+    [
+      "담당자",
+      "황원준 사무관"
+    ],
+    [
+      "연락처",
+      "전 화 : 044-202-6423\nE-mail : yellowj@korea.kr"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2014744565",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

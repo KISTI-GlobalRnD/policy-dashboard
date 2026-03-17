@@ -1,0 +1,245 @@
+{
+  "table_id": "TBL-DOC-POL-012-034",
+  "document_id": "DOC-POL-012",
+  "page_no_or_sheet_name": "section3",
+  "block_order": 91,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 19
+  },
+  "cell_matrix": [
+    [
+      "GPU",
+      "· 정부가 확보한 첨단GPU 1만장 중 일정량 할당 및 활용 지원",
+      "󰊱기획",
+      "",
+      "",
+      "",
+      "󰊲수행",
+      "",
+      "",
+      "추진방향(안)",
+      "",
+      "",
+      "",
+      "",
+      "󰊳확산",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "데이터",
+      "· 미개방 공공데이터셋(데이터 소관부처 협의 통한 제공 검토), 법령·연구·행정업무 등 공통 학습데이터셋(범정부 AI공통기반 內) 등 활용 지원",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "AI모델",
+      "· 「독자AI 파운데이션 모델」 프로젝트를 통해 확보한 국산 AI모델, 범정부 AI공통기반 AI모델(현재 2개 플랫폼 6개 모델) 등 활용 지원",
+      "AX\n기획",
+      "➡",
+      "주요AX 프로젝트AI민주정부 30대 핵심과제\n공공AI서비스 지원사업\n기타 부처·지자체 자체사업",
+      "➡",
+      "AX 수행",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "➡",
+      "분야별\nAX 확산",
+      "",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 9,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 19
+    },
+    {
+      "row_index": 0,
+      "col_index": 2,
+      "row_span": 1,
+      "col_span": 3
+    },
+    {
+      "row_index": 0,
+      "col_index": 6,
+      "row_span": 1,
+      "col_span": 7
+    },
+    {
+      "row_index": 1,
+      "col_index": 6,
+      "row_span": 1,
+      "col_span": 3
+    },
+    {
+      "row_index": 1,
+      "col_index": 10,
+      "row_span": 1,
+      "col_span": 3
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 4,
+      "row_span": 6,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 5,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 6,
+      "row_span": 1,
+      "col_span": 7
+    },
+    {
+      "row_index": 2,
+      "col_index": 13,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 14,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 3,
+      "col_index": 7,
+      "row_span": 1,
+      "col_span": 4
+    },
+    {
+      "row_index": 3,
+      "col_index": 11,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 4,
+      "col_index": 6,
+      "row_span": 1,
+      "col_span": 3
+    },
+    {
+      "row_index": 4,
+      "col_index": 10,
+      "row_span": 1,
+      "col_span": 3
+    },
+    {
+      "row_index": 5,
+      "col_index": 6,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 5,
+      "col_index": 8,
+      "row_span": 1,
+      "col_span": 4
+    },
+    {
+      "row_index": 5,
+      "col_index": 14,
+      "row_span": 3,
+      "col_span": 1
+    },
+    {
+      "row_index": 6,
+      "col_index": 6,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 6,
+      "col_index": 8,
+      "row_span": 1,
+      "col_span": 4
+    },
+    {
+      "row_index": 7,
+      "col_index": 6,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 7,
+      "col_index": 8,
+      "row_span": 1,
+      "col_span": 4
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2064893336",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

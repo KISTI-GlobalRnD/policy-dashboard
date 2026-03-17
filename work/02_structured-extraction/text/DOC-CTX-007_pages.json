@@ -1,0 +1,34 @@
+[
+  {
+    "document_id": "DOC-CTX-007",
+    "page_no": 1,
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "User-PC",
+      "subject": "",
+      "keywords": "",
+      "creator": "Hwp 2024 13.0.0.3379",
+      "producer": "Hancom PDF 1.3.0.550",
+      "creationDate": "D:20260313103351+09'00'",
+      "modDate": "D:20260313103351+09'00'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "tmp/DOC-CTX-007.pdf",
+      "page_count": 1,
+      "page": 1
+    },
+    "toc_items": [],
+    "tables": [],
+    "images": [],
+    "graphics": [],
+    "words": [],
+    "text": "<세부 기술(정책) 분류체계>\n\n대분류\n중분류\n기술 개요\n\n리튬이온전지\n\n▪ 현재 리튬이온전지의 에너지밀도 350 Wh/kg급 극대화\n▪ 가격경쟁력·공정 친환경화 확보를 위한 리튬이온전지용 소재·공정\n\n기술 개발\n\n▪ 전고체·리튬금속·리튬황(400 Wh/kg 목표), 나트륨이온(220 Wh/kg\n\n차세대\n이차전지\n\n목표) 등 차세대 전지 소재 개발\n▪ 고에너지밀도·고안전성·가격경쟁력 확보와 응용분야별 맞춤형 특\n\n성 구현을 위한 소재·전지제조 기술\n\n이차전지\n\n▪ 전기모빌리티·ESS의 성능·안전·수명 향상을 위한 모듈·팩·시스템 기\n\n이차전지\n모듈·시스템\n\n술 및 지능형 관리(BMS) 기술 개발\n\n▪ 사용후 배터리의 고안전·고효율 재사용, 고순도·친환경 자원회수·재\n\n이차전지\n재사용·재활용\n\n활용 기술 확보",
+    "extraction_method": "pymupdf4llm-to_markdown-page_chunks",
+    "extraction_confidence": "high",
+    "primary_text": "",
+    "text_fallback_applied": true,
+    "text_fallback_source": "pymupdf-text-dict-sort",
+    "text_fallback_reason": "empty_primary_text"
+  }
+]

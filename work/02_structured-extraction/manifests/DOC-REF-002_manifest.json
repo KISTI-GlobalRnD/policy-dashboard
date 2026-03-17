@@ -1,0 +1,64 @@
+{
+  "document_id": "DOC-REF-002",
+  "registry_id": "DOC-REF-002",
+  "source_rel_path": "data/260312_정책기술분야별 재구성(안).pdf",
+  "internal_path": "",
+  "source_format": "pdf",
+  "extraction_run_id": "pilot-gs-001-korean-ocr-v2",
+  "page_count_or_sheet_count": 1,
+  "processing_status": "completed",
+  "quality_notes": [
+    "Page images were rendered and then OCRed using RapidOCR with a Korean recognition model.",
+    "Text blocks are line-level OCR outputs with bounding boxes and confidence scores.",
+    "Page-level OCR text and markdown were aggregated from line blocks for manual review.",
+    "OCR line blocks were grouped into a coarse table candidate for manual review.",
+    "OCR board candidate was manually normalized into curated structured tables aligned with canonical reference rows."
+  ],
+  "page_records": [
+    {
+      "page_no": 1,
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-REF-002/page_001.png",
+      "text_layer_detected": false
+    }
+  ],
+  "text_output_path": "work/02_structured-extraction/text/DOC-REF-002_blocks.json",
+  "figure_output_paths": [
+    "work/02_structured-extraction/figures/FIG-DOC-REF-002-001.json"
+  ],
+  "text_block_count": 199,
+  "page_text_path": "work/02_structured-extraction/text/DOC-REF-002_pages.json",
+  "markdown_path": "work/02_structured-extraction/text/DOC-REF-002.md",
+  "layout_output_path": "work/02_structured-extraction/layout/DOC-REF-002_ocr_layout.json",
+  "tables": [
+    {
+      "table_id": "TBL-DOC-REF-002-CURATED-001",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-REF-002-CURATED-001.json",
+      "csv_path": "work/02_structured-extraction/tables/TBL-DOC-REF-002-CURATED-001.csv",
+      "page_no": 1,
+      "rows": 16,
+      "cols": 3,
+      "candidate_source": "finalized_from_canonical_reference"
+    },
+    {
+      "table_id": "TBL-DOC-REF-002-CURATED-002",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-REF-002-CURATED-002.json",
+      "csv_path": "work/02_structured-extraction/tables/TBL-DOC-REF-002-CURATED-002.csv",
+      "page_no": 1,
+      "rows": 16,
+      "cols": 3,
+      "candidate_source": "finalized_from_canonical_reference"
+    },
+    {
+      "table_id": "TBL-DOC-REF-002-CURATED-003",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-REF-002-CURATED-003.json",
+      "csv_path": "work/02_structured-extraction/tables/TBL-DOC-REF-002-CURATED-003.csv",
+      "page_no": 1,
+      "rows": 16,
+      "cols": 3,
+      "candidate_source": "finalized_from_canonical_reference"
+    }
+  ],
+  "counts": {
+    "tables": 3
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-009-086",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 385,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "⇒ ｢기초연구 정책센터｣ 중심으로 기초연구 정책이 나아갈 방향을 제시하는 AI·데이터 기반 ‘기초연구 네비게이션 시스템’ 구축\n※ 기초연구사업 內 기초연구 정책형 과제 지원(핵심연구, BRL 등) 및 관련 RB 신설"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747627",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

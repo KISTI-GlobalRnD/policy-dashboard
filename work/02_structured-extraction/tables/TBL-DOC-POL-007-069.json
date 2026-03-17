@@ -1,0 +1,33 @@
+{
+  "table_id": "TBL-DOC-POL-007-069",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 237,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 2,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "AI기업",
+      "▪(개발) 국산 NPU 활용을 고려한 독자 AI 모델 개발 지원\n▪(평가) 독자 AI모델 단계평가 시 NPU 등 국산 AI반도체 연계 계획 등 반영"
+    ],
+    [
+      "NPU 팹리스",
+      "▪(고도화) 독자 AI 모델 맞춤형 설계 고도화 지원\n▪(특화트랙) 정부 실증·사업화 과제에 독자 AI모델 연계 트랙 신설"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654504",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

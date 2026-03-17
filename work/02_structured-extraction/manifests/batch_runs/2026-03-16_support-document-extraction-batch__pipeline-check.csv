@@ -1,0 +1,2 @@
+document_id,title,doc_role,source_format,source_file,extraction_mode,run_status,page_count,text_layer_pages,evidence_units,tables,figures,notes
+DOC-CTX-004,기술분야 개요 양자,context_note,pdf,data/260313_기술분야 개요/기술분야_개요_양자.pdf,ocr_pdf,partial_table_pending,1,0,17,1,1,기술분야 설명 자료

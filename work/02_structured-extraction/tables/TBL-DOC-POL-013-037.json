@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-013-037",
+  "document_id": "DOC-POL-013",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 130,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◈ 선정된 기술에 대해서는 정책·투자를 강력하게 연계하고,\n누구든지 혜택·의무·대상을 쉽게 알 수 있도록 기술 코디네이팅 기능 강화"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2099487396",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

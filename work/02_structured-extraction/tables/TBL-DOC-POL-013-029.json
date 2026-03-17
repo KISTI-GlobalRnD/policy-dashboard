@@ -1,0 +1,29 @@
+{
+  "table_id": "TBL-DOC-POL-013-029",
+  "document_id": "DOC-POL-013",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 95,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "도출 과정\n(’26.1.~2.)",
+      "▸범부처 기술관리체계 협업을 위한 관계부처·운영기관* Kick-Off 회의\n(1.8., 1.15. / 재경부, 과기정통부, 산업부, KISTEP, KIAT, KEIT, 조세재정연)\n→ 분석대상 체계(4개 법령, 5개 체계, 513개 기술) 및 ‘공통 기술분야’ 초안 도출\n▸‘공통 기술분야’별 관계부처·기관 및 산학연 전문가 검토회의 개최\n(1.26. ~ 2.5. / 19개 분야, 총 104명 전문가 참여)\n→ 수요자가 쉽게 확인할 수 있는 분야별 명칭 및 하위범주화 구성\n→ 4개 법령에서 지정 중인 세부 기술을 특징·수준을 토대로 계층화\n※ 향후 체계별 개편시 고려할 시사점 · 제언도 함께 청취\n▸과학기술 법 전문가 및 산·학·연 현장연구자 대상 간담회(1.30., 2.6.)"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2099487383",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

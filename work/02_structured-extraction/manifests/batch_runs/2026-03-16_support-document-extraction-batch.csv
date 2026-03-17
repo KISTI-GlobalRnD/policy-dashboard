@@ -1,0 +1,14 @@
+document_id,title,doc_role,source_format,source_file,extraction_mode,run_status,page_count,text_layer_pages,evidence_units,tables,figures,notes
+DOC-REF-001,정책-항목 구성(안),working_note,pdf,data/260312_정책-항목 구성(안).pdf,existing,skipped_existing,12,,1099,,12,정책별 항목 정리 초안; 이미지형 페이지 비중 높음
+DOC-REF-002,정책기술분야별 재구성(안),working_note,pdf,data/260312_정책기술분야별 재구성(안).pdf,existing,skipped_existing,1,,199,,1,15개 전략 축 재구성 초안
+DOC-CTX-001,기술분야 개요 국방,context_note,pdf,data/260313_기술분야 개요/기술분야_개요_국방.pdf,existing,skipped_existing,1,,14,0,,기술분야 설명 자료
+DOC-CTX-002,기술분야 개요 사이버보안,context_note,pdf,data/260313_기술분야 개요/기술분야_개요_사이버보안_편집.pdf,existing,skipped_existing,1,,37,,1,기술분야 설명 자료
+DOC-CTX-003,기술분야 개요 소재,context_note,pdf,data/260313_기술분야 개요/기술분야_개요_소재.pdf,existing,skipped_existing,1,,42,,1,기술분야 설명 자료
+DOC-CTX-004,기술분야 개요 양자,context_note,pdf,data/260313_기술분야 개요/기술분야_개요_양자.pdf,existing,skipped_existing,1,,17,,1,기술분야 설명 자료
+DOC-CTX-005,기술분야 개요 에너지,context_note,pdf,data/260313_기술분야 개요/기술분야_개요_에너지.pdf,existing,skipped_existing,1,,22,0,,기술분야 설명 자료
+DOC-CTX-006,기술분야 개요 우주항공,context_note,pdf,data/260313_기술분야 개요/기술분야_개요_우주항공.pdf,existing,skipped_existing,1,,19,0,,기술분야 설명 자료
+DOC-CTX-007,기술분야 개요 이차전지,context_note,pdf,data/260313_기술분야 개요/기술분야_개요_이차전지.pdf,existing,skipped_existing,1,,16,0,,기술분야 설명 자료
+DOC-CTX-008,기술분야 개요 차세대통신,context_note,pdf,data/260313_기술분야 개요/기술분야_개요_차세대통신.pdf,existing,skipped_existing,1,,28,1,,기술분야 설명 자료
+DOC-CTX-009,기술분야 개요 첨단모빌리티,context_note,pdf,data/260313_기술분야 개요/기술분야_개요_첨단모빌리티.pdf,existing,skipped_existing,1,,52,1,,기술분야 설명 자료
+DOC-CTX-010,기술분야 개요 첨단바이오,context_note,pdf,data/260313_기술분야 개요/기술분야_개요_첨단바이오.pdf,existing,skipped_existing,1,,14,0,,기술분야 설명 자료
+DOC-CTX-011,기술분야 개요 해양,context_note,pdf,data/260313_기술분야 개요/기술분야_개요_해양.pdf,existing,skipped_existing,1,,16,0,,기술분야 설명 자료

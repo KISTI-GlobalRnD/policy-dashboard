@@ -1,0 +1,19 @@
+{
+  "figure_id": "FIG-DOC-POL-010-020",
+  "document_id": "DOC-POL-010",
+  "page_no": null,
+  "page_no_or_sheet_name": "section7",
+  "block_order": 81,
+  "figure_type": "image",
+  "caption": "그림입니다.\n원본 그림의 이름: KIMM_logo.jpg\n원본 그림의 크기: 가로 1244pixel, 세로 236pixel",
+  "legend_text": "",
+  "summary": "KIMM_logo.jpg",
+  "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-010/image21.jpg",
+  "source_bbox": null,
+  "extraction_confidence": "medium",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "parent_table_id": "TBL-DOC-POL-010-015",
+  "binary_item_id": "image21",
+  "internal_asset_path": "BinData/image21.jpg"
+}

@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-003-019",
+  "document_id": "DOC-POL-003",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 55,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "￭ (유통·물류) 무인매장, 매장자동화, AI기반 수요예측 등 ‘플래그십 프로젝트’ 추진\n￭ (디 자 인) 기획, 컨셉 디자인, 생산 연동 등 全주기 AI 기술개발·서비스 제공"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2009609947",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

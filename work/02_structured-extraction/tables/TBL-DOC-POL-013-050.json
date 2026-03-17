@@ -1,0 +1,47 @@
+{
+  "table_id": "TBL-DOC-POL-013-050",
+  "document_id": "DOC-POL-013",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 227,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 2,
+    "cols": 9
+  },
+  "cell_matrix": [
+    [
+      "수요조사",
+      "➡",
+      "사전 검토",
+      "➡",
+      "심의･조정",
+      "➡",
+      "심의･의결",
+      "➡",
+      "고시"
+    ],
+    [
+      "산업통상부\n한국산업기술진흥윈",
+      "",
+      "기술소위원회\n(분야별 전문분과)",
+      "",
+      "첨단전략산업\n조정위원회",
+      "",
+      "국가첨단전략산업\n위원회",
+      "",
+      "산업통상부 장관"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2099487460",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

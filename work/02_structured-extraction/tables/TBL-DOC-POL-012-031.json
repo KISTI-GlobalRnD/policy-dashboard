@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-012-031",
+  "document_id": "DOC-POL-012",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 87,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "∎ (현장사례) D부처는 AI 구급활동 통합지원 플랫폼을 개발, 일부 지자체 시범 실증\n→ 기술적 완성도는 높았으나, 기존 119시스템과 연동 미비로 현장 확산 한계"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2064893333",
+  "repeat_header": "1",
+  "treat_as_char": "0",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

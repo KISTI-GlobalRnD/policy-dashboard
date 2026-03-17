@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-005-032",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 111,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◆ “국가 연구에서 성공률을 따지지 말자... 성공률은 기업이 따지는 것”\n< VIP 주재 충청권 타운홀 미팅(7.4) 시 VIP 발언 中 >\n◆ “선정평가를 가면 항상 듣는 ‘목표 달성을 못하면 어떻게 할 것인가?’라는 질문”\n< R&D 혁신을 위한 3차 연구현장 간담회(UNIST, 8.6) 시 연구자 발언 中 >\n◆ “전문성 높은 교수들은 바쁜 일정으로 평가 참여를 꺼리며, 섭외 용이성 위주로 평가위원이 채워져 평가 전문성이 제한되는 등 평가체계의 개선 필요”\n< 민간 전문가 자문단 1차 회의(7.28) 시 민간위원 발언 中 >"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903214",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

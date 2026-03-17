@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-002-056",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 223,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "",
+      "✔ AI 기반 치료 의료기기 개발 사례",
+      ""
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "• (국내) 고영테크놀로지 수술로봇 ‘카이메로’는 임상의가 수술하기 어려운 1mm 이하의 뇌전증 발생 부위를 절개하는 환자 맞춤형 정밀수술 성공\n• (해외) 존스홉킨스 연구진은 스스로 생각하고, 조정하며 절개할 수 있는 자율 의료용 로봇을 통해 돼지 사체의 담낭을 제거하는 수술을 성공",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 3
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971430",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

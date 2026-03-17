@@ -1,0 +1,19 @@
+{
+  "figure_id": "FIG-DOC-POL-010-018",
+  "document_id": "DOC-POL-010",
+  "page_no": null,
+  "page_no_or_sheet_name": "section7",
+  "block_order": 79,
+  "figure_type": "image",
+  "caption": "그림입니다.\n원본 그림의 이름: KRISS_로고_C타입.jpg\n원본 그림의 크기: 가로 3900pixel, 세로 600pixel\n사진 찍은 날짜: 2012년 06월 15일 오후 3:52\n프로그램 이름 : Adobe Photoshop CS3 Windows\n색 대표 : sRGB",
+  "legend_text": "",
+  "summary": "KRISS_로고_C타입.jpg",
+  "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-010/image19.jpg",
+  "source_bbox": null,
+  "extraction_confidence": "medium",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "parent_table_id": "TBL-DOC-POL-010-015",
+  "binary_item_id": "image19",
+  "internal_asset_path": "BinData/image19.jpg"
+}

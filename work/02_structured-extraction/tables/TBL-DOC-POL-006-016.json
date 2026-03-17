@@ -1,0 +1,36 @@
+{
+  "table_id": "TBL-DOC-POL-006-016",
+  "document_id": "DOC-POL-006",
+  "page_no_or_sheet_name": 26,
+  "block_order": 698,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 9
+  },
+  "cell_matrix": [
+    [
+      "국\n내",
+      "연구개발",
+      "시험검사 사용",
+      "적합성평가",
+      "허가 전 허가\n임상시험 (기술",
+      "·심사\n문서)",
+      "신의료기술\n평가",
+      "보험등재\n*요양급여결정신청(신의료\n기술평가 통과필요)",
+      "사후관리"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": [
+    77.64266798231337,
+    542.2869873046875,
+    516.5197773809018,
+    578.6367340087891
+  ],
+  "extraction_confidence": "medium",
+  "extraction_method": "pymupdf-find_tables"
+}

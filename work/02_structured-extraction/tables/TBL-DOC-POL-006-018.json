@@ -1,0 +1,33 @@
+{
+  "table_id": "TBL-DOC-POL-006-018",
+  "document_id": "DOC-POL-006",
+  "page_no_or_sheet_name": 36,
+  "block_order": 973,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 2,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "25년",
+      "12월"
+    ],
+    [
+      "26년",
+      "상반기"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": [
+    72.3076655069987,
+    134.85198974609375,
+    149.02000427246094,
+    781.905029296875
+  ],
+  "extraction_confidence": "medium",
+  "extraction_method": "pymupdf-find_tables"
+}

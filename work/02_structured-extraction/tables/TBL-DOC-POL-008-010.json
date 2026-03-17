@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-008-010",
+  "document_id": "DOC-POL-008",
+  "page_no_or_sheet_name": "section6",
+  "block_order": 29,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "TIPS(Tech Incubator Program for Startup) : AC, VC 등 민간투자사가 혁신기업의 R&D 과제를 발굴, 先 투자하는 경우 정부는 R&D 출연금을 매칭 지원 (‘13년 도입)\n⇨ 정부 출연금 대비 약 10배(21.3조원)의 민간투자 유인, IPO 48개社, M&A 96개社 등"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "0",
+  "source_table_id": "2028760697",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

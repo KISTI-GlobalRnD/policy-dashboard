@@ -1,0 +1,41 @@
+{
+  "table_id": "TBL-DOC-POL-003-007",
+  "document_id": "DOC-POL-003",
+  "page_no_or_sheet_name": "section0",
+  "block_order": 16,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 4,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "전 략",
+      "내 용"
+    ],
+    [
+      "➊ 제조AX 생태계 구축",
+      "산업간 단절을 해소, 함께 문제를 푸는 ‘협업의 판’ 조성"
+    ],
+    [
+      "➋ AI 기반의 공정 혁신",
+      "AI 팩토리 등을 통해 압도적인 제조 생산성을 확보"
+    ],
+    [
+      "➌ AI 기반의 제품 혁신",
+      "AI를 제품에 탑재(embodied)한 혁신 제품 신시장 창출"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2009609874",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

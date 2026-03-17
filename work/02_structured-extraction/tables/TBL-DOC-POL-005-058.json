@@ -1,0 +1,45 @@
+{
+  "table_id": "TBL-DOC-POL-005-058",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 341,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 4,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "주체",
+      "역할",
+      "비고"
+    ],
+    [
+      "거점시설",
+      "· 수요가 높은 공동활용 연구장비의 도입·업그레이드\n· 공동활용 지원을 위한 장비 전문인력 증원",
+      "· 매년 2개 시설 지정(시설 당 10년 간\n총 120억원 가량 지원)"
+    ],
+    [
+      "협력시설",
+      "· 거점시설 연계를 통해 보유 장비의 원스톱 공동활용 (상태 확인-예약-활용까지 단일 플랫폼에서 구현)",
+      "· 1개 거점 당 최소 3개 이상의 협력 시설 연계"
+    ],
+    [
+      "과기정통부·NFEC",
+      "· 원스톱 공동활용 시스템 운영, 협의체 운영, 장비 집적 지원 등",
+      "-"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903361",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

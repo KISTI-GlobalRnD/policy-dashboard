@@ -1,0 +1,68 @@
+{
+  "table_id": "TBL-DOC-POL-013-035",
+  "document_id": "DOC-POL-013",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 121,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 4,
+    "cols": 4
+  },
+  "cell_matrix": [
+    [
+      "구 분",
+      "",
+      "예 시",
+      "역할 분담"
+    ],
+    [
+      "➊",
+      "기술관리체계 큰 틀\n(공통 기술분야 변경)",
+      "#20. (신규분야) 추가 (기존 4개 체계에서 지원하지 않던 신규 분야를 발굴·추가할 계획)",
+      "(논의)\n과기장관회의"
+    ],
+    [
+      "➋\n⇩\n➌",
+      "체계별 분야·범주 운영",
+      "#1. 반도체를 A체계에 추가\n#1-1. 메모리반도체를 B체계 범주에 반영",
+      "(논의·공유)\n상설협의체(실무WG)\n(심의·확정)\n법령별 심의기구"
+    ],
+    [
+      "",
+      "체계별 세부 기술 지정\n(+ 정책수단)",
+      "“15nm 이하 DRAM 설계/제조”를 신설\n기존 지원대상(##nm) 요구스펙 · 범위 변경",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "row_span": 2,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2099487394",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

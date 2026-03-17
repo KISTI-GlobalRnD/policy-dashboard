@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-004-025",
+  "document_id": "DOC-POL-004",
+  "page_no_or_sheet_name": "section1",
+  "block_order": 83,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◈ 강점 분야 연구역량, AI 경쟁력, 인프라 확충 등 기초 체력과 잠재력 보유\n- 다만, 핵심 인프라 접근성 및 과학기술×AI 융합인재 육성, 산·학·연 연계 미흡 등으로 혁신적 연구성과 창출과 산업 성장은 초기 단계"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2005274867",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

@@ -1,0 +1,2 @@
+document_id,title,doc_role,source_format,source_file,extraction_mode,run_status,page_count,text_layer_pages,evidence_units,tables,figures,notes
+DOC-CTX-005,기술분야 개요 에너지,context_note,pdf,data/260313_기술분야 개요/기술분야_개요_에너지.pdf,existing,skipped_existing,1,,22,0,,기술분야 설명 자료

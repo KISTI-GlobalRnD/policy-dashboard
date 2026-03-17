@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-007-098",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 392,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◇ 국산 AI반도체 기술 혁신을 선도할 석·박사급 고급인재 및 현장 맞춤형 실전형 실무인재를 양성하고, 산·학·연 연계를 위한 R&BD 혁신허브 조성"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654572",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

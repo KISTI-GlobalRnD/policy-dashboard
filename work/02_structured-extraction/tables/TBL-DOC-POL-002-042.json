@@ -1,0 +1,35 @@
+{
+  "table_id": "TBL-DOC-POL-002-042",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 176,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 2,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "RNA 구조 예측-설계",
+      "mRNA 설계",
+      "RNA 변형 스크리닝"
+    ],
+    [
+      "AI기반 RNA 구조 예측-설계를 통해 효능을 높이고 Undruggable 표적의 RNA 치료제 개발 가능",
+      "AI는 mRNA 염기서열,\n구조를 최적화하여 단백질\n번역 효율과 안정성, 면역 제어, 전달 효율성 개선 가능",
+      "AI는 다양한 RNA 화학적 변형을 탐지하고, RNA 화학변형의 안전성, 면역원성, 발현, 약물 전달 등에 미치는 영향을 예측할 수 있음"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971405",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

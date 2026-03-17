@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-012-023",
+  "document_id": "DOC-POL-012",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 72,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "∎ (현장사례1) 정부 AX사업 전담 A기관은 AX를 위한 학습데이터 구축부터 어려운 상황(대부분 데이터가 아날로그)으로, 사업 기획 시, 타부처 AX성공사례 벤치마킹 원하나 정보 접근이 어려움\n∎ (현장사례2) 정부 AX사업 전담 B기관은 AX사업기획에 큰 어려움이 있으며, 관련전문가·기업의 자문을 받는 것도 어려운 상황, 사업 추진과정에서의 AI적용가능성, 사업성 등에 대한 평가도 우려"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2064893325",
+  "repeat_header": "1",
+  "treat_as_char": "0",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

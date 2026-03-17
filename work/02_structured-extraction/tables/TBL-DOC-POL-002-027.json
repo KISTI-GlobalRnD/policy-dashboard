@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-002-027",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 95,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "",
+      "✔ 주요국의 AI 바이오 투자 동향",
+      ""
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "• (美) DARPA, AI-Biomanufacturing\" 프로그램 확대('24-'28년 $2B+), 전장 유전체 분석 프로그램 개발 등을 통한 세계적 수준의 데이터셋 구축(‘25)\n• (中) 상하이·심천·항저우 \"AI-바이오 산업 벨트\" 구축 중(정부 펀드 $10B+)\n• (英) AI 바이오 연구에 대규모 R&D 투자, AI 바이오 기술 교육 프로그램 지원(‘25~)\n• (EU) 멀티모달 생성형 AI를 활용한 바이오 연구에 5천만￡ 투자, 유럽 유전체 데이터 인프라 강화에 25백만￡ 투자(’25~)\n• (日) 문부과학성은 ‘과학기반 AI 모델’ 개발을 위한 펀드 창설에 370억엔을 배정하고, 이 중 320억엔을 AI 연구자와 생명과학·재료과학 연구자의 공동개발 프로젝트에 투입(‘25)",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 3
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2016579803",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

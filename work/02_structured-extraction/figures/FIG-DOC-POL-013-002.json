@@ -1,0 +1,18 @@
+{
+  "figure_id": "FIG-DOC-POL-013-002",
+  "document_id": "DOC-POL-013",
+  "page_no": null,
+  "page_no_or_sheet_name": "section2",
+  "block_order": 54,
+  "figure_type": "image",
+  "caption": "그림입니다.\n원본 그림의 이름: 그림4.png\n원본 그림의 크기: 가로 1851pixel, 세로 446pixel",
+  "legend_text": "",
+  "summary": "그림4.png",
+  "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-013/image2.png",
+  "source_bbox": null,
+  "extraction_confidence": "medium",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "binary_item_id": "image2",
+  "internal_asset_path": "BinData/image2.png"
+}

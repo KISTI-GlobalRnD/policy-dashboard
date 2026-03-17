@@ -1,0 +1,36 @@
+{
+  "table_id": "TBL-DOC-POL-005-072",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 515,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 9
+  },
+  "cell_matrix": [
+    [
+      "사업군 및 점검단 구성\n(10월)",
+      "➜",
+      "1차 회의\n(기획안 검토 및 쟁점도출)\n(11~12월)",
+      "➜",
+      "질의 및 소명\n(점검단↔부처)\n(12월)",
+      "➜",
+      "2차 회의\n(사업별\n보완사항 검토)\n(1~2월)",
+      "➜",
+      "3차 회의\n(사업군 내 조정 및 종합결과 도출)\n(2~3월)"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903488",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

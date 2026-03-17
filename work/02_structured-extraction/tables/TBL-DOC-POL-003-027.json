@@ -1,0 +1,37 @@
+{
+  "table_id": "TBL-DOC-POL-003-027",
+  "document_id": "DOC-POL-003",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 94,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "유 형",
+      "프로젝트 예시"
+    ],
+    [
+      "수직적 확산 \n(공정 內 전체 기업)",
+      "󰋯(자동차) 공급계획 스케줄링, 불량 발생시 공급망 내 원인추적, 공급망 단계별 부품·설비 정확도 검사 등 차량 공급망 관리 AI"
+    ],
+    [
+      "수평적 확산\n(동일레벨 협력사)",
+      "󰋯(가전) 품질 일관성, 생산성 등을 위해 판금 협력사들과 품질예측(판재휘어짐, 금형마모도 등 감지), 공정최적화 등이 가능한 AI 구축"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2009609955",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

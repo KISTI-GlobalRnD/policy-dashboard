@@ -1,0 +1,41 @@
+{
+  "table_id": "TBL-DOC-POL-005-014",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 47,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 4,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "구 분",
+      "주요 내용"
+    ],
+    [
+      "블록펀딩",
+      "‣ 대학 단위에서 연구시설장비 구축, 연구지원 인력을 고용하기 위해 필요한 비용을 블록펀딩으로 지원"
+    ],
+    [
+      "기초연구",
+      "‣ 전임비전임 교원 기본연구 복원, 과제별 최소 연구기간 연장 등 기초연구 생태계 복원"
+    ],
+    [
+      "지역혁신 견인",
+      "‣ 지역거점대학이 수도권에 준하는 역량을 갖추도록 연구비 및 석박사 지원 확대"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002033821",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

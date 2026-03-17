@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-003-030",
+  "document_id": "DOC-POL-003",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 106,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "⦁ (무인매장) 무인기반 효율강화, 비구매데이터, 자동화된 매장관리 → 유통 피지컬 AI 구현\n⦁ (제조물류) AI, 로보틱스 결합으로 입고-출고 까지 全물류 과정 지능화 → 생산성 향상"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2009609958",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

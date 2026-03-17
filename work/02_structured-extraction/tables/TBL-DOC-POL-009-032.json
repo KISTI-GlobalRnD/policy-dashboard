@@ -1,0 +1,72 @@
+{
+  "table_id": "TBL-DOC-POL-009-032",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 150,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 4,
+    "cols": 5
+  },
+  "cell_matrix": [
+    [
+      "구분",
+      "생애기본연구",
+      "",
+      "우수연구",
+      ""
+    ],
+    [
+      "",
+      "신진 연구자",
+      "지역 연구자",
+      "신진 연구자",
+      "지역 연구자"
+    ],
+    [
+      "2022년",
+      "35.2%",
+      "47.7%",
+      "25.0%",
+      "36.3%"
+    ],
+    [
+      "2023년",
+      "33.5%",
+      "47.6%",
+      "24.0%",
+      "35.9%"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "row_span": 1,
+      "col_span": 2
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747548",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

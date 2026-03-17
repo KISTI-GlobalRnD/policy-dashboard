@@ -1,0 +1,90 @@
+{
+  "table_id": "TBL-DOC-POL-004-032",
+  "document_id": "DOC-POL-004",
+  "page_no_or_sheet_name": "section1",
+  "block_order": 101,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 4,
+    "cols": 5
+  },
+  "cell_matrix": [
+    [
+      "바이오 AI",
+      "",
+      "지구과학 AI",
+      "수학 AI",
+      ""
+    ],
+    [
+      "멀티 스케일(분자-세포-휴먼) 바이오 파운데이션 모델",
+      "",
+      "대기-해양‧해빙-지면\n지구시스템 파운데이션 모델",
+      "모든 과학과 공학을 위한\n수학 파운데이션 모델",
+      ""
+    ],
+    [
+      "재료·화학 AI",
+      "",
+      "반도체·디스플레이 AI",
+      "이차전지 AI",
+      ""
+    ],
+    [
+      "유기·무기 신소재 통합 설계·실험 파운데이션 모델",
+      "",
+      "반도체·디스플레이\n설계‧공정 전주기 파운데이션 모델",
+      "배터리 설계-수명-안전\n파운데이션 모델",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 1,
+      "col_index": 3,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "row_span": 1,
+      "col_span": 2
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2000337105",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

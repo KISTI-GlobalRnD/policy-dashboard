@@ -1,0 +1,43 @@
+{
+  "table_id": "TBL-DOC-POL-010-019",
+  "document_id": "DOC-POL-010",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 92,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 4
+  },
+  "cell_matrix": [
+    [
+      "70년대",
+      "80년대",
+      "90년대",
+      "00~10년대"
+    ],
+    [
+      "컬러 TV국산화(73)",
+      "도핑컨트롤(88)",
+      "DRAM 개발(86~93)",
+      "한국형 KTX(03)"
+    ],
+    [
+      "국산 컴퓨터 1호(73)",
+      "공업용 다이아몬드(90)",
+      "CDMA(89~96)",
+      "SMART 원자로(12)"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2022564369",
+  "repeat_header": "1",
+  "treat_as_char": "0",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

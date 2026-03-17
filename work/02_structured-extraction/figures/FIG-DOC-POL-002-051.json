@@ -1,0 +1,19 @@
+{
+  "figure_id": "FIG-DOC-POL-002-051",
+  "document_id": "DOC-POL-002",
+  "page_no": null,
+  "page_no_or_sheet_name": "section7",
+  "block_order": 290,
+  "figure_type": "image",
+  "caption": "그림입니다.\n원본 그림의 이름: mem000039b80007.png\n원본 그림의 크기: 가로 1200pixel, 세로 372pixel\n사진 찍은 날짜: 2024년 07월 22일 오후 2:38",
+  "legend_text": "",
+  "summary": "mem000039b80007.png",
+  "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-002/image50.png",
+  "source_bbox": null,
+  "extraction_confidence": "medium",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "parent_table_id": "TBL-DOC-POL-002-068",
+  "binary_item_id": "image50",
+  "internal_asset_path": "BinData/image50.png"
+}

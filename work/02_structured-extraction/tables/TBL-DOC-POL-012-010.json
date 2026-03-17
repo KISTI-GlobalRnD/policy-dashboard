@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-012-010",
+  "document_id": "DOC-POL-012",
+  "page_no_or_sheet_name": "section0",
+  "block_order": 41,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "· 민관 AX자원 통합정보 구축, AX 가이드라인 개발, AX 자원 메뉴판 구성 등\n· ’26년 AX 사업 기획 컨설팅 지원\n· ’26년 AX 사업 수행 지원(기술·인프라 지원, 규제 해소 등)"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2064893256",
+  "repeat_header": "1",
+  "treat_as_char": "0",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

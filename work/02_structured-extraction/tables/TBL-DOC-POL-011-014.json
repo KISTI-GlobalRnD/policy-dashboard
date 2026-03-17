@@ -1,0 +1,43 @@
+{
+  "table_id": "TBL-DOC-POL-011-014",
+  "document_id": "DOC-POL-011",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 67,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 4
+  },
+  "cell_matrix": [
+    [
+      "",
+      "As-Is",
+      "중간 목표",
+      "최종 목표"
+    ],
+    [
+      "백본망",
+      "￭ 무선백본 용량 37.6Tbps",
+      "￭ (’27) 70Tbps 수준 확대\n￭ 지능화기술 선제 적용",
+      "￭ (‘30) 160Tbps 이상 확대\n￭ (‘32) 완전자율 네트워크 실현"
+    ],
+    [
+      "가입자망",
+      "￭ 전국 광전환율 91%",
+      "￭ (’27) 94%",
+      "￭ (‘30) 98% 달성"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2026883403",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-005-068",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 451,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "➊ (운영방향 협의) 국가전략기술(기재부·과기부)에 포함해야 할 신규기술 발생 시 부처 간 협업을 통해 동시 등재 가능성 검토\n➋ (제도 간 연계) 12대 국가전략기술(｢국가전략기술육성법｣) 중 민간 연구·투자 지원이 필요한 단계에 도달한 기술 등에 대해 ｢조특법｣ 국가전략기술 포함 필요성 검토"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903448",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

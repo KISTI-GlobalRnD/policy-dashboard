@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-013-016",
+  "document_id": "DOC-POL-013",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 39,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "➊ 국가 기술관리체계의 큰 틀 : 부처 간 협의를 거쳐 과기장관회의에서 논의\n➋ ‘공통 기술분야’ 內 각 기술체계 운영 : 관계부처·기관이 참여하는 상설협의체 (실무WG)를 정기 개최 → 추가·변경 등 주요 운영계획, 협업방향 사전논의·공유\n➌ 체계별 분야·기술의 심의·확정 : 소관법령별 절차 및 심의기구에서 수행"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2099487076",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-010-006",
+  "document_id": "DOC-POL-010",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 7,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "과학기술분야 출연(연) 정책방향(안) (요약)"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "0",
+  "source_table_id": "1998584836",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

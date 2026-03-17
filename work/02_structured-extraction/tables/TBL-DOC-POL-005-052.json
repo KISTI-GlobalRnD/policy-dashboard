@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-005-052",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 279,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◇ 높은 불확실성으로 유연성이 요구되는 R&D 사업의 특성을 반영하지 못한 회계연도 일치제도*가 평가예산집행 등에서 연구흐름 저해 및 과도한 행정부담 야기\n* (~'16년) 정부가 연도 내 연구자에게 1년치 예산을 교부하면 회계연도 일치로 인정 → ('17년~) 재정효율화 측면(국회지적)에서 과제착수(협약) 시점부터 연말까지 예산만 편성\n⇒ R&D사업에 대해 연구과제비 사용기간과 ‘회계연도 일치’ 폐지 추진"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903317",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

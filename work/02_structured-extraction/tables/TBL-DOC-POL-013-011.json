@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-013-011",
+  "document_id": "DOC-POL-013",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 26,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "☞ ‘기술패권 경쟁 대응’이라는 공동 목적 下 범부처 차원의 정책적 중요성, 대국민 영향력(혜택·의무)이 높은 4개 법령*(5개 체계) 內 513개 기술 대상 협업 우선 추진\n* 국가전략기술육성법, 조세특례제한법(국가전략기술, 신성장원천기술), 국가첨단전략산업법, 산업기술보호법"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2099487068",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-007-066",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 226,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◇ ①독자 AI모델과 연계한 성능 고도화, ②대규모 테스트베드 구축, ③평가·피드백 체계 마련을 통해 독자 AI모델을 견고히 지원하는 K-AI+NPU 패키지 구현"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654501",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-002-057",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 226,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "",
+      "✔ AI 기반 원격의료 기술 예시",
+      ""
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "• 연속혈당측정기 데이터를 기반으로 인슐린 펌프와 소프트웨어가 자동으로 투여량을 산출·주입(Beta Bionic iLet ACE 펌프 및 iLet Dosing Decision 소프트웨어)",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 3
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971431",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

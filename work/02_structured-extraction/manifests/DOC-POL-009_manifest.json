@@ -1,0 +1,846 @@
+{
+  "document_id": "DOC-POL-009",
+  "registry_id": "DOC-POL-009",
+  "source_rel_path": "data/260312_12개 정책 문헌 자료/251218 (7호) 제2회 과기장관회의_기초연구 생태계 육성 방안(안)_과기정통부_최종.hwpx",
+  "internal_path": "",
+  "source_format": "hwpx",
+  "extraction_run_id": "pilot-gs-003-v1",
+  "page_count_or_sheet_count": 10,
+  "processing_status": "completed",
+  "quality_notes": [
+    "HWPX extracted from the outer ZIP archive.",
+    "Only top-level paragraphs were treated as body blocks to avoid nested table duplication.",
+    "Page numbers were not reconstructed; section and block order are used as provenance."
+  ],
+  "text_path": "work/02_structured-extraction/text/DOC-POL-009_blocks.json",
+  "layout_path": "work/02_structured-extraction/layout/DOC-POL-009_layout.json",
+  "tables": [
+    {
+      "table_id": "TBL-DOC-POL-009-001",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-001.json",
+      "section_name": "section0",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-002",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-002.json",
+      "section_name": "section0",
+      "rows": 2,
+      "cols": 4
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-003",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-003.json",
+      "section_name": "section0",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-004",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-004.json",
+      "section_name": "section0",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-005",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-005.json",
+      "section_name": "section0",
+      "rows": 2,
+      "cols": 5
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-006",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-006.json",
+      "section_name": "section2",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-007",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-007.json",
+      "section_name": "section2",
+      "rows": 2,
+      "cols": 2
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-008",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-008.json",
+      "section_name": "section2",
+      "rows": 3,
+      "cols": 3
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-009",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-009.json",
+      "section_name": "section2",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-010",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-010.json",
+      "section_name": "section2",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-011",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-011.json",
+      "section_name": "section2",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-012",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-012.json",
+      "section_name": "section2",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-013",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-013.json",
+      "section_name": "section2",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-014",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-014.json",
+      "section_name": "section4",
+      "rows": 7,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-015",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-015.json",
+      "section_name": "section7",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-016",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-016.json",
+      "section_name": "section7",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-017",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-017.json",
+      "section_name": "section7",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-018",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-018.json",
+      "section_name": "section7",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-019",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-019.json",
+      "section_name": "section7",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-020",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-020.json",
+      "section_name": "section7",
+      "rows": 1,
+      "cols": 3
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-021",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-021.json",
+      "section_name": "section7",
+      "rows": 2,
+      "cols": 2
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-022",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-022.json",
+      "section_name": "section7",
+      "rows": 2,
+      "cols": 2
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-023",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-023.json",
+      "section_name": "section7",
+      "rows": 1,
+      "cols": 3
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-024",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-024.json",
+      "section_name": "section7",
+      "rows": 2,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-025",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-025.json",
+      "section_name": "section7",
+      "rows": 2,
+      "cols": 2
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-026",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-026.json",
+      "section_name": "section7",
+      "rows": 2,
+      "cols": 2
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-027",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-027.json",
+      "section_name": "section7",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-028",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-028.json",
+      "section_name": "section7",
+      "rows": 3,
+      "cols": 3
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-029",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-029.json",
+      "section_name": "section7",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-030",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-030.json",
+      "section_name": "section7",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-031",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-031.json",
+      "section_name": "section7",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-032",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-032.json",
+      "section_name": "section7",
+      "rows": 4,
+      "cols": 5
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-033",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-033.json",
+      "section_name": "section7",
+      "rows": 3,
+      "cols": 3
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-034",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-034.json",
+      "section_name": "section7",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-035",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-035.json",
+      "section_name": "section7",
+      "rows": 3,
+      "cols": 3
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-036",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-036.json",
+      "section_name": "section7",
+      "rows": 3,
+      "cols": 5
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-037",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-037.json",
+      "section_name": "section7",
+      "rows": 3,
+      "cols": 6
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-038",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-038.json",
+      "section_name": "section7",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-039",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-039.json",
+      "section_name": "section7",
+      "rows": 2,
+      "cols": 2
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-040",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-040.json",
+      "section_name": "section7",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-041",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-041.json",
+      "section_name": "section7",
+      "rows": 5,
+      "cols": 2
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-042",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-042.json",
+      "section_name": "section7",
+      "rows": 2,
+      "cols": 5
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-043",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-043.json",
+      "section_name": "section7",
+      "rows": 3,
+      "cols": 3
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-044",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-044.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-045",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-045.json",
+      "section_name": "section8",
+      "rows": 14,
+      "cols": 17
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-046",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-046.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-047",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-047.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-048",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-048.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-049",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-049.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-050",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-050.json",
+      "section_name": "section8",
+      "rows": 7,
+      "cols": 4
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-051",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-051.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-052",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-052.json",
+      "section_name": "section8",
+      "rows": 2,
+      "cols": 7
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-053",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-053.json",
+      "section_name": "section8",
+      "rows": 4,
+      "cols": 3
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-054",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-054.json",
+      "section_name": "section8",
+      "rows": 5,
+      "cols": 5
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-055",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-055.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-056",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-056.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-057",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-057.json",
+      "section_name": "section8",
+      "rows": 5,
+      "cols": 7
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-058",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-058.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-059",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-059.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-060",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-060.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-061",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-061.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-062",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-062.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-063",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-063.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-064",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-064.json",
+      "section_name": "section8",
+      "rows": 2,
+      "cols": 9
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-065",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-065.json",
+      "section_name": "section8",
+      "rows": 3,
+      "cols": 3
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-066",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-066.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-067",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-067.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-068",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-068.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-069",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-069.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-070",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-070.json",
+      "section_name": "section8",
+      "rows": 3,
+      "cols": 3
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-071",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-071.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-072",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-072.json",
+      "section_name": "section8",
+      "rows": 4,
+      "cols": 7
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-073",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-073.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-074",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-074.json",
+      "section_name": "section8",
+      "rows": 6,
+      "cols": 5
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-075",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-075.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-076",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-076.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-077",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-077.json",
+      "section_name": "section8",
+      "rows": 3,
+      "cols": 7
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-078",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-078.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-079",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-079.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-080",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-080.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-081",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-081.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-082",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-082.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-083",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-083.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-084",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-084.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-085",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-085.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-086",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-086.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-087",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-087.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-088",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-088.json",
+      "section_name": "section8",
+      "rows": 3,
+      "cols": 4
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-089",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-089.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-090",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-090.json",
+      "section_name": "section8",
+      "rows": 5,
+      "cols": 5
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-091",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-091.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-092",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-092.json",
+      "section_name": "section8",
+      "rows": 1,
+      "cols": 1
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-093",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-093.json",
+      "section_name": "section8",
+      "rows": 24,
+      "cols": 6
+    },
+    {
+      "table_id": "TBL-DOC-POL-009-094",
+      "path": "work/02_structured-extraction/tables/TBL-DOC-POL-009-094.json",
+      "section_name": "section9",
+      "rows": 3,
+      "cols": 2
+    }
+  ],
+  "figures": [
+    {
+      "figure_id": "FIG-DOC-POL-009-001",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-001.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image1.bmp",
+      "section_name": "section2"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-002",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-002.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image2.bmp",
+      "section_name": "section2"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-003",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-003.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image3.bmp",
+      "section_name": "section4"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-004",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-004.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image5.bmp",
+      "section_name": "section7"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-005",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-005.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image6.bmp",
+      "section_name": "section7"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-006",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-006.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image7.bmp",
+      "section_name": "section7"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-007",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-007.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image8.bmp",
+      "section_name": "section7"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-008",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-008.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image9.bmp",
+      "section_name": "section7"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-009",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-009.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image10.bmp",
+      "section_name": "section7"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-010",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-010.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image11.bmp",
+      "section_name": "section7"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-011",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-011.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image12.bmp",
+      "section_name": "section7"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-012",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-012.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image13.bmp",
+      "section_name": "section7"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-013",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-013.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image14.bmp",
+      "section_name": "section7"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-014",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-014.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image15.bmp",
+      "section_name": "section7"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-015",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-015.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image16.bmp",
+      "section_name": "section7"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-016",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-016.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image17.bmp",
+      "section_name": "section7"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-017",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-017.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image18.jpg",
+      "section_name": "section7"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-018",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-018.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image19.bmp",
+      "section_name": "section7"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-019",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-019.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image20.bmp",
+      "section_name": "section7"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-020",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-020.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image21.bmp",
+      "section_name": "section7"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-021",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-021.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image22.bmp",
+      "section_name": "section7"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-022",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-022.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image23.bmp",
+      "section_name": "section8"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-023",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-023.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image24.bmp",
+      "section_name": "section8"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-024",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-024.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image25.bmp",
+      "section_name": "section8"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-025",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-025.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image26.bmp",
+      "section_name": "section8"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-026",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-026.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image27.png",
+      "section_name": "section8"
+    },
+    {
+      "figure_id": "FIG-DOC-POL-009-027",
+      "path": "work/02_structured-extraction/figures/FIG-DOC-POL-009-027.json",
+      "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image28.jpg",
+      "section_name": "section8"
+    }
+  ],
+  "counts": {
+    "evidence_units": 294,
+    "tables": 94,
+    "figures": 27
+  }
+}

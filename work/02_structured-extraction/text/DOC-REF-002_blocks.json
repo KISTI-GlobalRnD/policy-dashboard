@@ -1,0 +1,5773 @@
+[
+  {
+    "evidence_id": "EVD-DOC-REF-002-00001",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 1,
+    "block_type": "ocr_line",
+    "text": "정책·기술분야별 재구성[안]",
+    "bbox": [
+      [
+        354.475830078125,
+        93.34517669677734
+      ],
+      [
+        847.1371459960938,
+        93.34517669677734
+      ],
+      [
+        847.1371459960938,
+        140.01776123046875
+      ],
+      [
+        354.475830078125,
+        140.01776123046875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9977050463358561,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00002",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 2,
+    "block_type": "ocr_line",
+    "text": "울운H(<02)( ) ()",
+    "bbox": [
+      [
+        1136.725830078125,
+        99.32884216308594
+      ],
+      [
+        2191.741943359375,
+        98.1321029663086
+      ],
+      [
+        2191.741943359375,
+        130.4438934326172
+      ],
+      [
+        1136.725830078125,
+        131.640625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.5453210536922727,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00003",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 3,
+    "block_type": "ocr_line",
+    "text": "과학기술정책",
+    "bbox": [
+      [
+        276.3709716796875,
+        178.31321716308594
+      ],
+      [
+        433.78228759765625,
+        178.31321716308594
+      ],
+      [
+        433.78228759765625,
+        210.625
+      ],
+      [
+        276.3709716796875,
+        210.625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9999454617500305,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00004",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 4,
+    "block_type": "ocr_line",
+    "text": "내용",
+    "bbox": [
+      [
+        1840.87109375,
+        173.5262908935547
+      ],
+      [
+        1900.95166015625,
+        173.5262908935547
+      ],
+      [
+        1900.95166015625,
+        209.4282684326172
+      ],
+      [
+        1840.87109375,
+        209.4282684326172
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9993939101696014,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00005",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 5,
+    "block_type": "ocr_line",
+    "text": "1.AIG3 도약및 전산업AX확산(국정바이오, 과기A, 제조,생태계, AX전주기)",
+    "bbox": [
+      [
+        684.9193725585938,
+        210.625
+      ],
+      [
+        1440.73388671875,
+        210.625
+      ],
+      [
+        1440.73388671875,
+        245.33026123046875
+      ],
+      [
+        684.9193725585938,
+        245.33026123046875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.8982672943009271,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00006",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 6,
+    "block_type": "ocr_line",
+    "text": "(X     이V",
+    "bbox": [
+      [
+        1492.4033203125,
+        210.625
+      ],
+      [
+        2216.975830078125,
+        210.625
+      ],
+      [
+        2216.975830078125,
+        241.7400665283203
+      ],
+      [
+        1492.4033203125,
+        241.7400665283203
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.5181487931145562,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00007",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 7,
+    "block_type": "ocr_line",
+    "text": "1123대 국정과제",
+    "bbox": [
+      [
+        241.52420043945312,
+        239.3466033935547
+      ],
+      [
+        468.6290588378906,
+        239.3466033935547
+      ],
+      [
+        468.6290588378906,
+        271.65838623046875
+      ],
+      [
+        241.52420043945312,
+        271.65838623046875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.98836390376091,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00008",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 8,
+    "block_type": "ocr_line",
+    "text": "2.초격차 전략기술 확보(반도체·이차전지)(국정, 과기AI,반도체,제조, 초혁신)",
+    "bbox": [
+      [
+        686.1209716796875,
+        242.93679809570312
+      ],
+      [
+        1444.3387451171875,
+        242.93679809570312
+      ],
+      [
+        1444.3387451171875,
+        274.0518493652344
+      ],
+      [
+        686.1209716796875,
+        274.0518493652344
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9186141444577112,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00009",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 9,
+    "block_type": "ocr_line",
+    "text": "차세대 AI 반도체(NPU,PIM)및 고성능 이차전지 초격차 기술 확보",
+    "bbox": [
+      [
+        1491.20166015625,
+        241.7400665283203
+      ],
+      [
+        2244.613037109375,
+        241.7400665283203
+      ],
+      [
+        2244.613037109375,
+        272.8551330566406
+      ],
+      [
+        1491.20166015625,
+        272.8551330566406
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9676150908836951,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00010",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 10,
+    "block_type": "ocr_line",
+    "text": "('25.8)",
+    "bbox": [
+      [
+        319.6290588378906,
+        272.8551330566406
+      ],
+      [
+        392.92742919921875,
+        272.8551330566406
+      ],
+      [
+        392.92742919921875,
+        306.3636474609375
+      ],
+      [
+        319.6290588378906,
+        306.3636474609375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9924777661051069,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00011",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 11,
+    "block_type": "ocr_line",
+    "text": "4.차세대 네트워크(6G)및 지능형 인프라(국정, 과기A1, 네트워크)",
+    "bbox": [
+      [
+        686.1209716796875,
+        302.7734375
+      ],
+      [
+        1372.241943359375,
+        302.7734375
+      ],
+      [
+        1372.241943359375,
+        333.8885192871094
+      ],
+      [
+        686.1209716796875,
+        333.8885192871094
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9140505110606169,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00012",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 12,
+    "block_type": "ocr_line",
+    "text": "6G 상용화 기술 확보 및 저궤도 위성통신 기반 초연결망 구축",
+    "bbox": [
+      [
+        1492.4033203125,
+        302.7734375
+      ],
+      [
+        2202.556640625,
+        301.57672119140625
+      ],
+      [
+        2202.556640625,
+        330.2983093261719
+      ],
+      [
+        1492.4033203125,
+        331.4950256347656
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9882762537283056,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00013",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 13,
+    "block_type": "ocr_line",
+    "text": "5.우주항공 및 해양 기술주권 확보(국정,바이오,제조,AX전주기)",
+    "bbox": [
+      [
+        688.5242309570312,
+        335.0852355957031
+      ],
+      [
+        1363.8306884765625,
+        335.0852355957031
+      ],
+      [
+        1363.8306884765625,
+        362.610107421875
+      ],
+      [
+        688.5242309570312,
+        362.610107421875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.956587713625696,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00014",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 14,
+    "block_type": "ocr_line",
+    "text": "독자적 항공엔진 개발 및 완전 자율운항 선박 핵심기술 확보",
+    "bbox": [
+      [
+        1494.8065185546875,
+        332.6917724609375
+      ],
+      [
+        2184.5322265625,
+        332.6917724609375
+      ],
+      [
+        2184.5322265625,
+        360.2166442871094
+      ],
+      [
+        1494.8065185546875,
+        360.2166442871094
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9676112625747919,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00015",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 15,
+    "block_type": "ocr_line",
+    "text": "2AI·바이오 국가전략",
+    "bbox": [
+      [
+        221.09678649902344,
+        353.0362243652344
+      ],
+      [
+        490.2580871582031,
+        350.64276123046875
+      ],
+      [
+        490.2580871582031,
+        382.9545593261719
+      ],
+      [
+        221.09678649902344,
+        385.3480224609375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.8964689622322718,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00016",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 16,
+    "block_type": "ocr_line",
+    "text": "6.",
+    "bbox": [
+      [
+        690.9274291992188,
+        367.39703369140625
+      ],
+      [
+        726.975830078125,
+        367.39703369140625
+      ],
+      [
+        726.975830078125,
+        390.13494873046875
+      ],
+      [
+        690.9274291992188,
+        390.13494873046875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9868961572647095,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00017",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 17,
+    "block_type": "ocr_line",
+    "text": "그린수소 생산 및 소형모둘원자로(SMR) 상용화 기술 개발",
+    "bbox": [
+      [
+        1492.4033203125,
+        362.610107421875
+      ],
+      [
+        2153.29052734375,
+        362.610107421875
+      ],
+      [
+        2153.29052734375,
+        390.13494873046875
+      ],
+      [
+        1492.4033203125,
+        390.13494873046875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9408469032496214,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00018",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 18,
+    "block_type": "ocr_line",
+    "text": "(과기정통부,'25.12.18)",
+    "bbox": [
+      [
+        242.72581481933594,
+        387.7414855957031
+      ],
+      [
+        471.03228759765625,
+        387.7414855957031
+      ],
+      [
+        471.03228759765625,
+        415.266357421875
+      ],
+      [
+        242.72581481933594,
+        415.266357421875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9937868013101465,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00019",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 19,
+    "block_type": "ocr_line",
+    "text": "기",
+    "bbox": [
+      [
+        632.0484008789062,
+        402.102294921875
+      ],
+      [
+        664.491943359375,
+        402.102294921875
+      ],
+      [
+        664.491943359375,
+        434.4140930175781
+      ],
+      [
+        632.0484008789062,
+        434.4140930175781
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9972049593925476,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00020",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 20,
+    "block_type": "ocr_line",
+    "text": "7.",
+    "bbox": [
+      [
+        690.9274291992188,
+        398.5120849609375
+      ],
+      [
+        726.975830078125,
+        398.5120849609375
+      ],
+      [
+        726.975830078125,
+        421.25
+      ],
+      [
+        690.9274291992188,
+        421.25
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9814907312393188,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00021",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 21,
+    "block_type": "ocr_line",
+    "text": "양자 정보통신 및 미래소재 선점(국정,바이오,과기A,초혁신)",
+    "bbox": [
+      [
+        713.7581176757812,
+        391.3316955566406
+      ],
+      [
+        1356.6209716796875,
+        393.72515869140625
+      ],
+      [
+        1356.6209716796875,
+        424.8402099609375
+      ],
+      [
+        713.7581176757812,
+        422.4467468261719
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9424408547806017,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00022",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 22,
+    "block_type": "ocr_line",
+    "text": "양자 컴퓨팅 원천기술 및 초전도체,그래핀 등 게임체인저 소재 개발",
+    "bbox": [
+      [
+        1492.4033203125,
+        392.5284118652344
+      ],
+      [
+        2244.613037109375,
+        391.3316955566406
+      ],
+      [
+        2244.613037109375,
+        420.05328369140625
+      ],
+      [
+        1492.4033203125,
+        421.25
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9766833600070741,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00023",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 23,
+    "block_type": "ocr_line",
+    "text": "8.",
+    "bbox": [
+      [
+        689.725830078125,
+        427.2336730957031
+      ],
+      [
+        724.5726318359375,
+        427.2336730957031
+      ],
+      [
+        724.5726318359375,
+        449.97161865234375
+      ],
+      [
+        689.725830078125,
+        449.97161865234375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9868966639041901,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00024",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 24,
+    "block_type": "ocr_line",
+    "text": "피지컬 AI 및 지능형 로봇 산업 육성(국정,바이오,제조,AX전주기)",
+    "bbox": [
+      [
+        717.3629150390625,
+        421.25
+      ],
+      [
+        1409.491943359375,
+        423.64349365234375
+      ],
+      [
+        1409.491943359375,
+        454.758544921875
+      ],
+      [
+        717.3629150390625,
+        452.3650817871094
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9573070391228324,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00025",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 25,
+    "block_type": "ocr_line",
+    "text": "술",
+    "bbox": [
+      [
+        630.8468017578125,
+        439.2010192871094
+      ],
+      [
+        665.693603515625,
+        439.2010192871094
+      ],
+      [
+        665.693603515625,
+        478.6932067871094
+      ],
+      [
+        630.8468017578125,
+        478.6932067871094
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.950526237487793,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00026",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 26,
+    "block_type": "ocr_line",
+    "text": "9.",
+    "bbox": [
+      [
+        689.725830078125,
+        455.95526123046875
+      ],
+      [
+        724.5726318359375,
+        455.95526123046875
+      ],
+      [
+        724.5726318359375,
+        479.8899230957031
+      ],
+      [
+        689.725830078125,
+        479.8899230957031
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.991412490606308,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00027",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 27,
+    "block_type": "ocr_line",
+    "text": "자율주행 소프트웨어(SDV)및 도심항공교통(UAM)상용화",
+    "bbox": [
+      [
+        1494.8065185546875,
+        453.5617980957031
+      ],
+      [
+        2147.2822265625,
+        453.5617980957031
+      ],
+      [
+        2147.2822265625,
+        481.086669921875
+      ],
+      [
+        1494.8065185546875,
+        481.086669921875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9730297846178855,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00028",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 28,
+    "block_type": "ocr_line",
+    "text": "3과학기술×A국가전략",
+    "bbox": [
+      [
+        209.08065795898438,
+        466.7258605957031
+      ],
+      [
+        501.0726013183594,
+        463.13568115234375
+      ],
+      [
+        501.0726013183594,
+        495.44744873046875
+      ],
+      [
+        209.08065795898438,
+        499.03765869140625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9919824762777849,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00029",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 29,
+    "block_type": "ocr_line",
+    "text": "데이터 중심 정보보호 및 AI 신뢰성 검증 기술 확보",
+    "bbox": [
+      [
+        1494.8065185546875,
+        483.4801330566406
+      ],
+      [
+        2089.60498046875,
+        483.4801330566406
+      ],
+      [
+        2089.60498046875,
+        511.0050048828125
+      ],
+      [
+        1494.8065185546875,
+        511.0050048828125
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.973720318284528,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00030",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 30,
+    "block_type": "ocr_line",
+    "text": "(과기정통부,'25.11.22)",
+    "bbox": [
+      [
+        243.92742919921875,
+        500.2344055175781
+      ],
+      [
+        469.8306579589844,
+        500.2344055175781
+      ],
+      [
+        469.8306579589844,
+        527.75927734375
+      ],
+      [
+        243.92742919921875,
+        527.75927734375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9627961341072532,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00031",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 31,
+    "block_type": "ocr_line",
+    "text": "11.",
+    "bbox": [
+      [
+        692.1290283203125,
+        516.9886474609375
+      ],
+      [
+        729.3790893554688,
+        516.9886474609375
+      ],
+      [
+        729.3790893554688,
+        540.92333984375
+      ],
+      [
+        692.1290283203125,
+        540.92333984375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9711107810338339,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00032",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 32,
+    "block_type": "ocr_line",
+    "text": "디지털",
+    "bbox": [
+      [
+        732.98388671875,
+        513.3984375
+      ],
+      [
+        811.0887451171875,
+        513.3984375
+      ],
+      [
+        811.0887451171875,
+        543.3167724609375
+      ],
+      [
+        732.98388671875,
+        543.3167724609375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9941401282946268,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00033",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 33,
+    "block_type": "ocr_line",
+    "text": "콘텐츠",
+    "bbox": [
+      [
+        817.0968017578125,
+        512.2017211914062
+      ],
+      [
+        903.6129150390625,
+        512.2017211914062
+      ],
+      [
+        903.6129150390625,
+        542.1200561523438
+      ],
+      [
+        817.0968017578125,
+        542.1200561523438
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9992102384567261,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00034",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 34,
+    "block_type": "ocr_line",
+    "text": "및 K-컬처 혁신(AX전주기,초혁신)",
+    "bbox": [
+      [
+        896.4032592773438,
+        511.0050048828125
+      ],
+      [
+        1247.2742919921875,
+        513.3984375
+      ],
+      [
+        1247.2742919921875,
+        544.5134887695312
+      ],
+      [
+        896.4032592773438,
+        542.1200561523438
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9636786550283432,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00035",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 35,
+    "block_type": "ocr_line",
+    "text": "동  용",
+    "bbox": [
+      [
+        1492.4033203125,
+        511.0050048828125
+      ],
+      [
+        2118.443603515625,
+        511.0050048828125
+      ],
+      [
+        2118.443603515625,
+        542.1200561523438
+      ],
+      [
+        1492.4033203125,
+        542.1200561523438
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.5281650312244892,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00036",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 36,
+    "block_type": "ocr_line",
+    "text": "12.스마트",
+    "bbox": [
+      [
+        687.3226318359375,
+        544.5134887695312
+      ],
+      [
+        813.491943359375,
+        542.1200561523438
+      ],
+      [
+        813.491943359375,
+        570.8416137695312
+      ],
+      [
+        687.3226318359375,
+        573.235107421875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9964781502882639,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00037",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 37,
+    "block_type": "ocr_line",
+    "text": "농업 및 수산업 기술(국정,바이오, 초혁신)",
+    "bbox": [
+      [
+        809.8871459960938,
+        540.92333984375
+      ],
+      [
+        1252.0806884765625,
+        540.92333984375
+      ],
+      [
+        1252.0806884765625,
+        575.6286010742188
+      ],
+      [
+        809.8871459960938,
+        575.6286010742188
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.8923410425583521,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00038",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 38,
+    "block_type": "ocr_line",
+    "text": "/       이",
+    "bbox": [
+      [
+        1492.4033203125,
+        539.7265625
+      ],
+      [
+        2174.91943359375,
+        542.1200561523438
+      ],
+      [
+        2174.91943359375,
+        573.235107421875
+      ],
+      [
+        1492.4033203125,
+        570.8416137695312
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.5921806693077087,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00039",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 39,
+    "block_type": "ocr_line",
+    "text": "13.",
+    "bbox": [
+      [
+        693.3306884765625,
+        578.0220336914062
+      ],
+      [
+        741.3952026367188,
+        578.0220336914062
+      ],
+      [
+        741.3952026367188,
+        599.563232421875
+      ],
+      [
+        693.3306884765625,
+        599.563232421875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.988050123055776,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00040",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 40,
+    "block_type": "ocr_line",
+    "text": "디지털 트원 및 가상화 공정 혁신(국정, 과기AI, 제조,AX전주기)",
+    "bbox": [
+      [
+        730.5806884765625,
+        572.0383911132812
+      ],
+      [
+        1389.0645751953125,
+        573.235107421875
+      ],
+      [
+        1389.0645751953125,
+        604.3501586914062
+      ],
+      [
+        730.5806884765625,
+        603.1534423828125
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9475732437874141,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00041",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 41,
+    "block_type": "ocr_line",
+    "text": "(과기정통부,'25.12.18)",
+    "bbox": [
+      [
+        243.92742919921875,
+        610.3338012695312
+      ],
+      [
+        471.03228759765625,
+        612.727294921875
+      ],
+      [
+        471.03228759765625,
+        641.4489135742188
+      ],
+      [
+        243.92742919921875,
+        639.055419921875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9861838011180654,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00042",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 42,
+    "block_type": "ocr_line",
+    "text": "연   위이  연연연",
+    "bbox": [
+      [
+        1492.4033203125,
+        601.9567260742188
+      ],
+      [
+        2105.225830078125,
+        600.7599487304688
+      ],
+      [
+        2105.225830078125,
+        631.875
+      ],
+      [
+        1492.4033203125,
+        633.07177734375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.5102533074942502,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00043",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 43,
+    "block_type": "ocr_line",
+    "text": "15.감염병 대응 및 공중보건 기술 자립(국정, 바이오, 과기Al)",
+    "bbox": [
+      [
+        689.725830078125,
+        634.2684936523438
+      ],
+      [
+        1334.991943359375,
+        635.4652099609375
+      ],
+      [
+        1334.991943359375,
+        666.5802612304688
+      ],
+      [
+        689.725830078125,
+        665.383544921875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.8941470191285417,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00044",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 44,
+    "block_type": "ocr_line",
+    "text": "mRNA백신 플랫폼 및 정밀 의료 기술 국산화",
+    "bbox": [
+      [
+        1492.4033203125,
+        635.4652099609375
+      ],
+      [
+        2029.5242919921875,
+        633.07177734375
+      ],
+      [
+        2029.5242919921875,
+        660.5966186523438
+      ],
+      [
+        1492.4033203125,
+        662.9900512695312
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.984086103439331,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00045",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 45,
+    "block_type": "ocr_line",
+    "text": "1.국가 AI 컴퓨팅 인프라(GPU) 확충(과기AI, 반도체, 생태계, AX전주기)",
+    "bbox": [
+      [
+        689.725830078125,
+        665.383544921875
+      ],
+      [
+        1428.7177734375,
+        665.383544921875
+      ],
+      [
+        1428.7177734375,
+        696.4985961914062
+      ],
+      [
+        689.725830078125,
+        696.4985961914062
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9129794110422549,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00046",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 46,
+    "block_type": "ocr_line",
+    "text": "2.R&D 예비타당성 조사 폐지 및 신속 지원(국정, 바이오, 과기AI, 생태계)",
+    "bbox": [
+      [
+        689.725830078125,
+        697.6953125
+      ],
+      [
+        1443.13720703125,
+        697.6953125
+      ],
+      [
+        1443.13720703125,
+        725.22021484375
+      ],
+      [
+        689.725830078125,
+        725.22021484375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9063077608744303,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00047",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 47,
+    "block_type": "ocr_line",
+    "text": "Y",
+    "bbox": [
+      [
+        1493.6048583984375,
+        694.1051635742188
+      ],
+      [
+        1699.0806884765625,
+        694.1051635742188
+      ],
+      [
+        1699.0806884765625,
+        725.22021484375
+      ],
+      [
+        1493.6048583984375,
+        725.22021484375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.5911523699760437,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00048",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 48,
+    "block_type": "ocr_line",
+    "text": "품 를",
+    "bbox": [
+      [
+        1696.677490234375,
+        694.1051635742188
+      ],
+      [
+        2235.0,
+        692.9083862304688
+      ],
+      [
+        2235.0,
+        724.0234375
+      ],
+      [
+        1696.677490234375,
+        725.22021484375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.5432923913002015,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00049",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 49,
+    "block_type": "ocr_line",
+    "text": "(산업통상부,'25.12.18)",
+    "bbox": [
+      [
+        243.92742919921875,
+        724.0234375
+      ],
+      [
+        473.4355163574219,
+        724.0234375
+      ],
+      [
+        473.4355163574219,
+        755.1385498046875
+      ],
+      [
+        243.92742919921875,
+        755.1385498046875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9755132584010854,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00050",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 50,
+    "block_type": "ocr_line",
+    "text": "4.",
+    "bbox": [
+      [
+        693.3306884765625,
+        762.3189086914062
+      ],
+      [
+        714.959716796875,
+        762.3189086914062
+      ],
+      [
+        714.959716796875,
+        782.6633911132812
+      ],
+      [
+        693.3306884765625,
+        782.6633911132812
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9631156921386719,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00051",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 51,
+    "block_type": "ocr_line",
+    "text": "정부 AX 원스톱 지원 및 공공 지능화(생태계, AX전주기)",
+    "bbox": [
+      [
+        719.7661743164062,
+        753.9417724609375
+      ],
+      [
+        1313.3629150390625,
+        755.1385498046875
+      ],
+      [
+        1313.3629150390625,
+        787.4503173828125
+      ],
+      [
+        719.7661743164062,
+        786.2536010742188
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9442165367531054,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00052",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 52,
+    "block_type": "ocr_line",
+    "text": "|이Y XV",
+    "bbox": [
+      [
+        1500.8145751953125,
+        756.3352661132812
+      ],
+      [
+        2192.943603515625,
+        756.3352661132812
+      ],
+      [
+        2192.943603515625,
+        783.860107421875
+      ],
+      [
+        1500.8145751953125,
+        783.860107421875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.5074938701258765,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00053",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 53,
+    "block_type": "ocr_line",
+    "text": "10",
+    "bbox": [
+      [
+        636.8548583984375,
+        773.0895385742188
+      ],
+      [
+        663.2903442382812,
+        773.0895385742188
+      ],
+      [
+        663.2903442382812,
+        804.20458984375
+      ],
+      [
+        636.8548583984375,
+        804.20458984375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.7412187159061432,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00054",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 54,
+    "block_type": "ocr_line",
+    "text": "5.",
+    "bbox": [
+      [
+        692.1290283203125,
+        791.04052734375
+      ],
+      [
+        716.1613159179688,
+        791.04052734375
+      ],
+      [
+        716.1613159179688,
+        811.3849487304688
+      ],
+      [
+        692.1290283203125,
+        811.3849487304688
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9662861824035645,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00055",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 55,
+    "block_type": "ocr_line",
+    "text": "데이터 기반 연구 생태계 구축(바이오, 과기AI, 생태계, AX전주기)",
+    "bbox": [
+      [
+        719.7661743164062,
+        782.6633911132812
+      ],
+      [
+        1381.8548583984375,
+        786.2536010742188
+      ],
+      [
+        1381.8548583984375,
+        817.36865234375
+      ],
+      [
+        719.7661743164062,
+        813.7784423828125
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.8877341816058526,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00056",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 56,
+    "block_type": "ocr_line",
+    "text": "국가연구데이터플랫폼(DataON) 고도화 및 데이터 공유 체계",
+    "bbox": [
+      [
+        1493.6048583984375,
+        783.860107421875
+      ],
+      [
+        2183.330810546875,
+        783.860107421875
+      ],
+      [
+        2183.330810546875,
+        814.9751586914062
+      ],
+      [
+        1493.6048583984375,
+        814.9751586914062
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9651316684835097,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00057",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 57,
+    "block_type": "ocr_line",
+    "text": "6제조AX추진방향",
+    "bbox": [
+      [
+        243.92742919921875,
+        803.0078125
+      ],
+      [
+        472.23388671875,
+        803.0078125
+      ],
+      [
+        472.23388671875,
+        835.3196411132812
+      ],
+      [
+        243.92742919921875,
+        835.3196411132812
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9927127361297607,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00058",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 58,
+    "block_type": "ocr_line",
+    "text": "프",
+    "bbox": [
+      [
+        635.6532592773438,
+        811.3849487304688
+      ],
+      [
+        664.491943359375,
+        811.3849487304688
+      ],
+      [
+        664.491943359375,
+        846.0902099609375
+      ],
+      [
+        635.6532592773438,
+        846.0902099609375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9351004958152771,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00059",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 59,
+    "block_type": "ocr_line",
+    "text": "6.",
+    "bbox": [
+      [
+        692.1290283203125,
+        820.9588623046875
+      ],
+      [
+        714.959716796875,
+        820.9588623046875
+      ],
+      [
+        714.959716796875,
+        842.5
+      ],
+      [
+        692.1290283203125,
+        842.5
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.8047185838222504,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00060",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 60,
+    "block_type": "ocr_line",
+    "text": "출연연 임무중심 체계 및 PBS 폐지(국정, 과기AI, 출연연,생태계)",
+    "bbox": [
+      [
+        719.7661743164062,
+        813.7784423828125
+      ],
+      [
+        1387.8629150390625,
+        816.171875
+      ],
+      [
+        1387.8629150390625,
+        847.2869873046875
+      ],
+      [
+        719.7661743164062,
+        844.8934936523438
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9319288593072158,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00061",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 61,
+    "block_type": "ocr_line",
+    "text": "(산업통상부,'25.12.22)",
+    "bbox": [
+      [
+        241.52420043945312,
+        836.516357421875
+      ],
+      [
+        473.4355163574219,
+        836.516357421875
+      ],
+      [
+        473.4355163574219,
+        867.6314086914062
+      ],
+      [
+        241.52420043945312,
+        867.6314086914062
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9776266076985527,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00062",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 62,
+    "block_type": "ocr_line",
+    "text": "{2",
+    "bbox": [
+      [
+        634.45166015625,
+        850.8771362304688
+      ],
+      [
+        665.693603515625,
+        850.8771362304688
+      ],
+      [
+        665.693603515625,
+        885.5823974609375
+      ],
+      [
+        634.45166015625,
+        885.5823974609375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.7231632620096207,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00063",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 63,
+    "block_type": "ocr_line",
+    "text": "7.",
+    "bbox": [
+      [
+        693.3306884765625,
+        850.8771362304688
+      ],
+      [
+        714.959716796875,
+        850.8771362304688
+      ],
+      [
+        714.959716796875,
+        872.4183349609375
+      ],
+      [
+        693.3306884765625,
+        872.4183349609375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9001204371452332,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00064",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 64,
+    "block_type": "ocr_line",
+    "text": "민간 주도 벤처투자(TIPS)확산(국정, 팀스,초혁신)",
+    "bbox": [
+      [
+        720.9677734375,
+        843.69677734375
+      ],
+      [
+        1256.8870849609375,
+        846.0902099609375
+      ],
+      [
+        1256.8870849609375,
+        877.2052612304688
+      ],
+      [
+        720.9677734375,
+        874.8118286132812
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9333621203899384,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00065",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 65,
+    "block_type": "ocr_line",
+    "text": "8.",
+    "bbox": [
+      [
+        690.9274291992188,
+        880.7954711914062
+      ],
+      [
+        714.959716796875,
+        880.7954711914062
+      ],
+      [
+        714.959716796875,
+        902.336669921875
+      ],
+      [
+        690.9274291992188,
+        902.336669921875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9707152545452118,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00066",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 66,
+    "block_type": "ocr_line",
+    "text": "규제 샌드박스 및 실증 특례 확대(국정, 바이오,제조,AX전주기,초혁신)",
+    "bbox": [
+      [
+        719.7661743164062,
+        876.008544921875
+      ],
+      [
+        1444.3387451171875,
+        877.2052612304688
+      ],
+      [
+        1444.3387451171875,
+        905.9268798828125
+      ],
+      [
+        719.7661743164062,
+        904.7301635742188
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9592043429613113,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00067",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 67,
+    "block_type": "ocr_line",
+    "text": "신기술 도입의",
+    "bbox": [
+      [
+        1493.6048583984375,
+        874.8118286132812
+      ],
+      [
+        1687.0645751953125,
+        874.8118286132812
+      ],
+      [
+        1687.0645751953125,
+        902.336669921875
+      ],
+      [
+        1493.6048583984375,
+        902.336669921875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9465233342988151,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00068",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 68,
+    "block_type": "ocr_line",
+    "text": "9.",
+    "bbox": [
+      [
+        690.9274291992188,
+        908.3203735351562
+      ],
+      [
+        723.3709716796875,
+        908.3203735351562
+      ],
+      [
+        723.3709716796875,
+        932.2550048828125
+      ],
+      [
+        690.9274291992188,
+        932.2550048828125
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9846028089523315,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00069",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 69,
+    "block_type": "ocr_line",
+    "text": "연구개발 평가제도 혁신(등급 폐지)(국정, 기초,생태계)",
+    "bbox": [
+      [
+        723.3709716796875,
+        907.1235961914062
+      ],
+      [
+        1294.13720703125,
+        907.1235961914062
+      ],
+      [
+        1294.13720703125,
+        934.6484985351562
+      ],
+      [
+        723.3709716796875,
+        934.6484985351562
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9363492765734273,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00070",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 70,
+    "block_type": "ocr_line",
+    "text": "실패를 걱정하지",
+    "bbox": [
+      [
+        1494.8065185546875,
+        905.9268798828125
+      ],
+      [
+        1712.2984619140625,
+        905.9268798828125
+      ],
+      [
+        1712.2984619140625,
+        933.4517211914062
+      ],
+      [
+        1494.8065185546875,
+        933.4517211914062
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9603825956583023,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00071",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 71,
+    "block_type": "ocr_line",
+    "text": "7기초연구 생태계 육성방안",
+    "bbox": [
+      [
+        181.4435577392578,
+        915.500732421875
+      ],
+      [
+        533.5161743164062,
+        914.3040161132812
+      ],
+      [
+        533.5161743164062,
+        946.6157836914062
+      ],
+      [
+        181.4435577392578,
+        947.8125610351562
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.931717859847205,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00072",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 72,
+    "block_type": "ocr_line",
+    "text": "z",
+    "bbox": [
+      [
+        634.45166015625,
+        937.0419311523438
+      ],
+      [
+        665.693603515625,
+        937.0419311523438
+      ],
+      [
+        665.693603515625,
+        968.156982421875
+      ],
+      [
+        634.45166015625,
+        968.156982421875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.5110868811607361,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00073",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 73,
+    "block_type": "ocr_line",
+    "text": "10.과학기술 국제협력 및 글로벌 허브 구축(국정,과기AI,기초,초혁신)",
+    "bbox": [
+      [
+        690.9274291992188,
+        934.6484985351562
+      ],
+      [
+        1438.3306884765625,
+        934.6484985351562
+      ],
+      [
+        1438.3306884765625,
+        965.7635498046875
+      ],
+      [
+        690.9274291992188,
+        965.7635498046875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9449482157826423,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00074",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 74,
+    "block_type": "ocr_line",
+    "text": "해외 우수 기관과의 공동 연구 및 글로벌 오픈이노베이션 확대",
+    "bbox": [
+      [
+        1494.8065185546875,
+        933.4517211914062
+      ],
+      [
+        2213.37109375,
+        933.4517211914062
+      ],
+      [
+        2213.37109375,
+        964.5667724609375
+      ],
+      [
+        1494.8065185546875,
+        964.5667724609375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9608248887640057,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00075",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 75,
+    "block_type": "ocr_line",
+    "text": "(과기정통부,'25.12.18)",
+    "bbox": [
+      [
+        246.33065795898438,
+        950.2059936523438
+      ],
+      [
+        473.4355163574219,
+        950.2059936523438
+      ],
+      [
+        473.4355163574219,
+        977.7308349609375
+      ],
+      [
+        246.33065795898438,
+        977.7308349609375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9621818556505091,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00076",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 76,
+    "block_type": "ocr_line",
+    "text": "도",
+    "bbox": [
+      [
+        635.6532592773438,
+        974.1406860351562
+      ],
+      [
+        665.693603515625,
+        974.1406860351562
+      ],
+      [
+        665.693603515625,
+        1008.845947265625
+      ],
+      [
+        635.6532592773438,
+        1008.845947265625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9826744198799133,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00077",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 77,
+    "block_type": "ocr_line",
+    "text": "11. 전략기술 세제 혜택 및 금융 지원 확대(국정, 반도체,제조,초혁신)",
+    "bbox": [
+      [
+        692.1290283203125,
+        966.9602661132812
+      ],
+      [
+        1426.3145751953125,
+        966.9602661132812
+      ],
+      [
+        1426.3145751953125,
+        994.485107421875
+      ],
+      [
+        692.1290283203125,
+        994.485107421875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9468616479780616,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00078",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 78,
+    "block_type": "ocr_line",
+    "text": "12.7",
+    "bbox": [
+      [
+        694.5322875976562,
+        998.0753173828125
+      ],
+      [
+        747.4032592773438,
+        998.0753173828125
+      ],
+      [
+        747.4032592773438,
+        1023.2067260742188
+      ],
+      [
+        694.5322875976562,
+        1023.2067260742188
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9085192680358887,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00079",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 79,
+    "block_type": "ocr_line",
+    "text": "기술사업화 및 기술이전 선순환 체계(국정,반도체,생태계)",
+    "bbox": [
+      [
+        732.98388671875,
+        995.681884765625
+      ],
+      [
+        1349.411376953125,
+        996.8786010742188
+      ],
+      [
+        1349.411376953125,
+        1024.4034423828125
+      ],
+      [
+        732.98388671875,
+        1023.2067260742188
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9602142014811116,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00080",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 80,
+    "block_type": "ocr_line",
+    "text": "R&D 성과가 시경",
+    "bbox": [
+      [
+        1498.411376953125,
+        998.0753173828125
+      ],
+      [
+        1696.677490234375,
+        998.0753173828125
+      ],
+      [
+        1696.677490234375,
+        1022.010009765625
+      ],
+      [
+        1498.411376953125,
+        1022.010009765625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.8652413249015808,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00081",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 81,
+    "block_type": "ocr_line",
+    "text": "장",
+    "bbox": [
+      [
+        1687.0645751953125,
+        999.2720336914062
+      ],
+      [
+        1711.0968017578125,
+        999.2720336914062
+      ],
+      [
+        1711.0968017578125,
+        1017.2230224609375
+      ],
+      [
+        1687.0645751953125,
+        1017.2230224609375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9985430240631104,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00082",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 82,
+    "block_type": "ocr_line",
+    "text": "이어지도록 기술료",
+    "bbox": [
+      [
+        1769.975830078125,
+        995.681884765625
+      ],
+      [
+        1980.2581787109375,
+        995.681884765625
+      ],
+      [
+        1980.2581787109375,
+        1023.2067260742188
+      ],
+      [
+        1769.975830078125,
+        1023.2067260742188
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9627804623709785,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00083",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 83,
+    "block_type": "ocr_line",
+    "text": "및 지분 분배 제도 개선",
+    "bbox": [
+      [
+        1983.863037109375,
+        994.485107421875
+      ],
+      [
+        2250.62109375,
+        993.2883911132812
+      ],
+      [
+        2250.62109375,
+        1022.010009765625
+      ],
+      [
+        1983.863037109375,
+        1023.2067260742188
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9791655219518222,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00084",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 84,
+    "block_type": "ocr_line",
+    "text": "13.지역 주도 혁신 클러스터 및 특구 조성(국정,바이오, 팁스,초혁신)",
+    "bbox": [
+      [
+        690.9274291992188,
+        1023.2067260742188
+      ],
+      [
+        1426.3145751953125,
+        1022.010009765625
+      ],
+      [
+        1426.3145751953125,
+        1056.7152099609375
+      ],
+      [
+        690.9274291992188,
+        1057.9119873046875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9384192287921905,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00085",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 85,
+    "block_type": "ocr_line",
+    "text": "기회발전특",
+    "bbox": [
+      [
+        1497.209716796875,
+        1027.99365234375
+      ],
+      [
+        1636.5968017578125,
+        1025.6002197265625
+      ],
+      [
+        1636.5968017578125,
+        1049.5347900390625
+      ],
+      [
+        1497.209716796875,
+        1051.9283447265625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9993619441986084,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00086",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 86,
+    "block_type": "ocr_line",
+    "text": "구",
+    "bbox": [
+      [
+        1629.38720703125,
+        1030.3870849609375
+      ],
+      [
+        1659.427490234375,
+        1030.3870849609375
+      ],
+      [
+        1659.427490234375,
+        1047.141357421875
+      ],
+      [
+        1629.38720703125,
+        1047.141357421875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9908763766288757,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00087",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 87,
+    "block_type": "ocr_line",
+    "text": "등",
+    "bbox": [
+      [
+        1672.645263671875,
+        1029.1904296875
+      ],
+      [
+        1703.88720703125,
+        1029.1904296875
+      ],
+      [
+        1703.88720703125,
+        1048.338134765625
+      ],
+      [
+        1672.645263671875,
+        1048.338134765625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9999659061431885,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00088",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 88,
+    "block_type": "ocr_line",
+    "text": "전략",
+    "bbox": [
+      [
+        1767.5726318359375,
+        1027.99365234375
+      ],
+      [
+        1830.0565185546875,
+        1027.99365234375
+      ],
+      [
+        1830.0565185546875,
+        1048.338134765625
+      ],
+      [
+        1767.5726318359375,
+        1048.338134765625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9710677266120911,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00089",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 89,
+    "block_type": "ocr_line",
+    "text": "연계한 거점 육성",
+    "bbox": [
+      [
+        1888.935546875,
+        1022.010009765625
+      ],
+      [
+        2105.225830078125,
+        1024.4034423828125
+      ],
+      [
+        2105.225830078125,
+        1053.125
+      ],
+      [
+        1888.935546875,
+        1050.7315673828125
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9542941808700561,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00090",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 90,
+    "block_type": "ocr_line",
+    "text": "(중소벤처기업부,'25.12.18)",
+    "bbox": [
+      [
+        223.50001525878906,
+        1061.502197265625
+      ],
+      [
+        497.4677734375,
+        1061.502197265625
+      ],
+      [
+        497.4677734375,
+        1092.6171875
+      ],
+      [
+        223.50001525878906,
+        1092.6171875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9711387690744901,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00091",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 91,
+    "block_type": "ocr_line",
+    "text": "14.국가 전략기술 보호 및 연구보안 강화(국정, 과기AI, 팁스,출연연)",
+    "bbox": [
+      [
+        690.9274291992188,
+        1053.125
+      ],
+      [
+        1414.2984619140625,
+        1054.32177734375
+      ],
+      [
+        1414.2984619140625,
+        1086.633544921875
+      ],
+      [
+        690.9274291992188,
+        1085.4368896484375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9279914178499361,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00092",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 92,
+    "block_type": "ocr_line",
+    "text": "핵심 기술",
+    "bbox": [
+      [
+        1497.209716796875,
+        1054.32177734375
+      ],
+      [
+        1629.38720703125,
+        1056.7152099609375
+      ],
+      [
+        1629.38720703125,
+        1080.64990234375
+      ],
+      [
+        1497.209716796875,
+        1078.2564697265625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9369513273239136,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00093",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 93,
+    "block_type": "ocr_line",
+    "text": "유출",
+    "bbox": [
+      [
+        1631.7904052734375,
+        1056.7152099609375
+      ],
+      [
+        1689.4677734375,
+        1056.7152099609375
+      ],
+      [
+        1689.4677734375,
+        1081.8466796875
+      ],
+      [
+        1631.7904052734375,
+        1081.8466796875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.998682290315628,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00094",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 94,
+    "block_type": "ocr_line",
+    "text": "방지를",
+    "bbox": [
+      [
+        1694.2742919921875,
+        1056.7152099609375
+      ],
+      [
+        1771.177490234375,
+        1056.7152099609375
+      ],
+      [
+        1771.177490234375,
+        1080.64990234375
+      ],
+      [
+        1694.2742919921875,
+        1080.64990234375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9992366433143616,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00095",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 95,
+    "block_type": "ocr_line",
+    "text": "체계",
+    "bbox": [
+      [
+        1896.145263671875,
+        1055.5185546875
+      ],
+      [
+        1956.225830078125,
+        1055.5185546875
+      ],
+      [
+        1956.225830078125,
+        1080.64990234375
+      ],
+      [
+        1896.145263671875,
+        1080.64990234375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9998754858970642,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00096",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 96,
+    "block_type": "ocr_line",
+    "text": "및 거버넌스 확립",
+    "bbox": [
+      [
+        1943.0081787109375,
+        1054.32177734375
+      ],
+      [
+        2150.88720703125,
+        1054.32177734375
+      ],
+      [
+        2150.88720703125,
+        1081.8466796875
+      ],
+      [
+        1943.0081787109375,
+        1081.8466796875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9313774440023634,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00097",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 97,
+    "block_type": "ocr_line",
+    "text": "15.IRIS 통합 연구지원 시스템 고도화(과기AI,생태계)",
+    "bbox": [
+      [
+        692.1290283203125,
+        1085.4368896484375
+      ],
+      [
+        1262.895263671875,
+        1085.4368896484375
+      ],
+      [
+        1262.895263671875,
+        1116.5518798828125
+      ],
+      [
+        692.1290283203125,
+        1116.5518798828125
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.928612597060926,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00098",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 98,
+    "block_type": "ocr_line",
+    "text": "범부처",
+    "bbox": [
+      [
+        1508.0242919921875,
+        1089.0269775390625
+      ],
+      [
+        1590.935546875,
+        1089.0269775390625
+      ],
+      [
+        1590.935546875,
+        1109.3714599609375
+      ],
+      [
+        1508.0242919921875,
+        1109.3714599609375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9965269565582275,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00099",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 99,
+    "block_type": "ocr_line",
+    "text": "훈",
+    "bbox": [
+      [
+        1654.6209716796875,
+        1089.0269775390625
+      ],
+      [
+        1707.491943359375,
+        1089.0269775390625
+      ],
+      [
+        1707.491943359375,
+        1110.5682373046875
+      ],
+      [
+        1654.6209716796875,
+        1110.5682373046875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.7769964933395386,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00100",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 100,
+    "block_type": "ocr_line",
+    "text": "줄이기",
+    "bbox": [
+      [
+        1802.41943359375,
+        1087.830322265625
+      ],
+      [
+        1874.5162353515625,
+        1085.4368896484375
+      ],
+      [
+        1875.7177734375,
+        1109.3714599609375
+      ],
+      [
+        1803.62109375,
+        1111.7650146484375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9991783301035563,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00101",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 101,
+    "block_type": "ocr_line",
+    "text": "휘",
+    "bbox": [
+      [
+        1886.5323486328125,
+        1085.4368896484375
+      ],
+      [
+        1941.8065185546875,
+        1085.4368896484375
+      ],
+      [
+        1941.8065185546875,
+        1111.7650146484375
+      ],
+      [
+        1886.5323486328125,
+        1111.7650146484375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.5071132183074951,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00102",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 102,
+    "block_type": "ocr_line",
+    "text": "디지털 플랫폼 고도화",
+    "bbox": [
+      [
+        1941.8065185546875,
+        1085.4368896484375
+      ],
+      [
+        2188.13720703125,
+        1085.4368896484375
+      ],
+      [
+        2188.13720703125,
+        1112.961669921875
+      ],
+      [
+        1941.8065185546875,
+        1112.961669921875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9512191089716825,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00103",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 103,
+    "block_type": "ocr_line",
+    "text": "1.A1·소프트웨어",
+    "bbox": [
+      [
+        690.9274291992188,
+        1117.7486572265625
+      ],
+      [
+        877.1774291992188,
+        1115.3551025390625
+      ],
+      [
+        877.1774291992188,
+        1144.0767822265625
+      ],
+      [
+        690.9274291992188,
+        1146.47021484375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9320933580398559,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00104",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 104,
+    "block_type": "ocr_line",
+    "text": "전문인력 양성(국정, 과기AI, 네트워크, AX전주기)",
+    "bbox": [
+      [
+        938.459716796875,
+        1115.3551025390625
+      ],
+      [
+        1421.5081787109375,
+        1115.3551025390625
+      ],
+      [
+        1421.5081787109375,
+        1146.47021484375
+      ],
+      [
+        938.459716796875,
+        1146.47021484375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.892211933930715,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00105",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 105,
+    "block_type": "ocr_line",
+    "text": "AI 대학",
+    "bbox": [
+      [
+        1498.411376953125,
+        1120.14208984375
+      ],
+      [
+        1599.3468017578125,
+        1117.7486572265625
+      ],
+      [
+        1599.3468017578125,
+        1138.0931396484375
+      ],
+      [
+        1498.411376953125,
+        1140.486572265625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.8578619956970215,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00106",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 106,
+    "block_type": "ocr_line",
+    "text": "원",
+    "bbox": [
+      [
+        1601.7501220703125,
+        1122.5355224609375
+      ],
+      [
+        1618.5726318359375,
+        1122.5355224609375
+      ],
+      [
+        1618.5726318359375,
+        1136.8963623046875
+      ],
+      [
+        1601.7501220703125,
+        1136.8963623046875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9970863461494446,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00107",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 107,
+    "block_type": "ocr_line",
+    "text": "후용",
+    "bbox": [
+      [
+        1825.2501220703125,
+        1117.7486572265625
+      ],
+      [
+        1876.91943359375,
+        1117.7486572265625
+      ],
+      [
+        1876.91943359375,
+        1142.8800048828125
+      ],
+      [
+        1825.2501220703125,
+        1142.8800048828125
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.7593231499195099,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00108",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 108,
+    "block_type": "ocr_line",
+    "text": "공",
+    "bbox": [
+      [
+        1986.2662353515625,
+        1116.5518798828125
+      ],
+      [
+        2116.040283203125,
+        1116.5518798828125
+      ],
+      [
+        2116.040283203125,
+        1144.0767822265625
+      ],
+      [
+        1986.2662353515625,
+        1144.0767822265625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.8862829804420471,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00109",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 109,
+    "block_type": "ocr_line",
+    "text": "9과학기술분야 출연(연)정책방향",
+    "bbox": [
+      [
+        155.00807189941406,
+        1141.6832275390625
+      ],
+      [
+        563.5564575195312,
+        1139.289794921875
+      ],
+      [
+        563.5564575195312,
+        1170.4049072265625
+      ],
+      [
+        155.00807189941406,
+        1172.79833984375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9712703753920162,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00110",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 110,
+    "block_type": "ocr_line",
+    "text": "2.석·박사급 고급",
+    "bbox": [
+      [
+        692.1290283203125,
+        1147.6669921875
+      ],
+      [
+        892.7984008789062,
+        1147.6669921875
+      ],
+      [
+        892.7984008789062,
+        1175.1917724609375
+      ],
+      [
+        692.1290283203125,
+        1175.1917724609375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9265956521034241,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00111",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 111,
+    "block_type": "ocr_line",
+    "text": "연구인재 사다리 구축(과기AI,기초,출연연,생태계)",
+    "bbox": [
+      [
+        887.991943359375,
+        1144.0767822265625
+      ],
+      [
+        1414.2984619140625,
+        1146.47021484375
+      ],
+      [
+        1414.2984619140625,
+        1177.5853271484375
+      ],
+      [
+        887.991943359375,
+        1175.1917724609375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9694782899958747,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00112",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 112,
+    "block_type": "ocr_line",
+    "text": "전주기",
+    "bbox": [
+      [
+        1896.145263671875,
+        1147.6669921875
+      ],
+      [
+        1975.45166015625,
+        1147.6669921875
+      ],
+      [
+        1975.45166015625,
+        1172.79833984375
+      ],
+      [
+        1896.145263671875,
+        1172.79833984375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9986744523048401,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00113",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 113,
+    "block_type": "ocr_line",
+    "text": "성장 지원 체계",
+    "bbox": [
+      [
+        1981.459716796875,
+        1145.2734375
+      ],
+      [
+        2152.0888671875,
+        1145.2734375
+      ],
+      [
+        2152.0888671875,
+        1172.79833984375
+      ],
+      [
+        1981.459716796875,
+        1172.79833984375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9965206906199455,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00114",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 114,
+    "block_type": "ocr_line",
+    "text": "(과기정통부'25.12.18)",
+    "bbox": [
+      [
+        245.12904357910156,
+        1173.9951171875
+      ],
+      [
+        477.04034423828125,
+        1173.9951171875
+      ],
+      [
+        477.04034423828125,
+        1205.110107421875
+      ],
+      [
+        245.12904357910156,
+        1205.110107421875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9509162716567516,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00115",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 115,
+    "block_type": "ocr_line",
+    "text": "해외",
+    "bbox": [
+      [
+        1509.225830078125,
+        1178.781982421875
+      ],
+      [
+        1563.2984619140625,
+        1178.781982421875
+      ],
+      [
+        1563.2984619140625,
+        1200.3232421875
+      ],
+      [
+        1509.225830078125,
+        1200.3232421875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9989160895347595,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00116",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 116,
+    "block_type": "ocr_line",
+    "text": "H7논",
+    "bbox": [
+      [
+        1791.6048583984375,
+        1176.3885498046875
+      ],
+      [
+        1843.2742919921875,
+        1176.3885498046875
+      ],
+      [
+        1843.2742919921875,
+        1201.5198974609375
+      ],
+      [
+        1791.6048583984375,
+        1201.5198974609375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9039496183395386,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00117",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 117,
+    "block_type": "ocr_line",
+    "text": "유",
+    "bbox": [
+      [
+        1854.0887451171875,
+        1179.978759765625
+      ],
+      [
+        1879.3226318359375,
+        1179.978759765625
+      ],
+      [
+        1879.3226318359375,
+        1200.3232421875
+      ],
+      [
+        1854.0887451171875,
+        1200.3232421875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.7880064845085144,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00118",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 118,
+    "block_type": "ocr_line",
+    "text": "입을",
+    "bbox": [
+      [
+        1872.1129150390625,
+        1177.5853271484375
+      ],
+      [
+        1926.185546875,
+        1177.5853271484375
+      ],
+      [
+        1926.185546875,
+        1202.7166748046875
+      ],
+      [
+        1872.1129150390625,
+        1202.7166748046875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9966428577899933,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00119",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 119,
+    "block_type": "ocr_line",
+    "text": "위한 파격적 정주 지원",
+    "bbox": [
+      [
+        1933.395263671875,
+        1175.1917724609375
+      ],
+      [
+        2186.935546875,
+        1175.1917724609375
+      ],
+      [
+        2186.935546875,
+        1202.7166748046875
+      ],
+      [
+        1933.395263671875,
+        1202.7166748046875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9692267030477524,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00120",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 120,
+    "block_type": "ocr_line",
+    "text": "4.Staff Scientist 및 전임연구원 제도(바이오,기초,출연연,생태계)",
+    "bbox": [
+      [
+        689.725830078125,
+        1206.306884765625
+      ],
+      [
+        1381.8548583984375,
+        1206.306884765625
+      ],
+      [
+        1381.8548583984375,
+        1237.421875
+      ],
+      [
+        689.725830078125,
+        1237.421875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9916421635584398,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00121",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 121,
+    "block_type": "ocr_line",
+    "text": "전",
+    "bbox": [
+      [
+        1578.91943359375,
+        1209.8970947265625
+      ],
+      [
+        1605.3548583984375,
+        1209.8970947265625
+      ],
+      [
+        1605.3548583984375,
+        1227.8480224609375
+      ],
+      [
+        1578.91943359375,
+        1227.8480224609375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9939644932746887,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00122",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 122,
+    "block_type": "ocr_line",
+    "text": "정",
+    "bbox": [
+      [
+        1640.20166015625,
+        1211.09375
+      ],
+      [
+        1659.427490234375,
+        1211.09375
+      ],
+      [
+        1659.427490234375,
+        1226.6513671875
+      ],
+      [
+        1640.20166015625,
+        1226.6513671875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9910755157470703,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00123",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 123,
+    "block_type": "ocr_line",
+    "text": "직",
+    "bbox": [
+      [
+        1688.2662353515625,
+        1211.09375
+      ],
+      [
+        1705.0887451171875,
+        1211.09375
+      ],
+      [
+        1705.0887451171875,
+        1225.45458984375
+      ],
+      [
+        1688.2662353515625,
+        1225.45458984375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.8413640856742859,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00124",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 124,
+    "block_type": "ocr_line",
+    "text": "인",
+    "bbox": [
+      [
+        1726.7177734375,
+        1211.09375
+      ],
+      [
+        1743.5404052734375,
+        1211.09375
+      ],
+      [
+        1743.5404052734375,
+        1226.6513671875
+      ],
+      [
+        1726.7177734375,
+        1226.6513671875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9992361068725586,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00125",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 125,
+    "block_type": "ocr_line",
+    "text": "2",
+    "bbox": [
+      [
+        1744.741943359375,
+        1209.8970947265625
+      ],
+      [
+        1768.7742919921875,
+        1209.8970947265625
+      ],
+      [
+        1768.7742919921875,
+        1227.8480224609375
+      ],
+      [
+        1744.741943359375,
+        1227.8480224609375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.5485343933105469,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00126",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 126,
+    "block_type": "ocr_line",
+    "text": "를후",
+    "bbox": [
+      [
+        1779.5887451171875,
+        1205.110107421875
+      ],
+      [
+        1854.0887451171875,
+        1207.5035400390625
+      ],
+      [
+        1852.88720703125,
+        1232.635009765625
+      ],
+      [
+        1778.38720703125,
+        1230.2415771484375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.7860071957111359,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00127",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 127,
+    "block_type": "ocr_line",
+    "text": "통해",
+    "bbox": [
+      [
+        1862.5001220703125,
+        1207.5035400390625
+      ],
+      [
+        1915.37109375,
+        1207.5035400390625
+      ],
+      [
+        1915.37109375,
+        1232.635009765625
+      ],
+      [
+        1862.5001220703125,
+        1232.635009765625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9997065663337708,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00128",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 128,
+    "block_type": "ocr_line",
+    "text": "몰입 환경 조성",
+    "bbox": [
+      [
+        1980.2581787109375,
+        1206.306884765625
+      ],
+      [
+        2153.29052734375,
+        1206.306884765625
+      ],
+      [
+        2153.29052734375,
+        1233.8316650390625
+      ],
+      [
+        1980.2581787109375,
+        1233.8316650390625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9721241518855095,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00129",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 129,
+    "block_type": "ocr_line",
+    "text": "5.신진연구자(Post-Doc) 정착 지원(국정, 기초,생태계)",
+    "bbox": [
+      [
+        690.9274291992188,
+        1236.2252197265625
+      ],
+      [
+        1274.911376953125,
+        1236.2252197265625
+      ],
+      [
+        1274.911376953125,
+        1267.3402099609375
+      ],
+      [
+        690.9274291992188,
+        1267.3402099609375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9620150412831988,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00130",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 130,
+    "block_type": "ocr_line",
+    "text": "은",
+    "bbox": [
+      [
+        1544.0726318359375,
+        1241.0120849609375
+      ],
+      [
+        1562.0968017578125,
+        1241.0120849609375
+      ],
+      [
+        1562.0968017578125,
+        1256.5697021484375
+      ],
+      [
+        1544.0726318359375,
+        1256.5697021484375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9999635219573975,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00131",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 131,
+    "block_type": "ocr_line",
+    "text": "연구자들에게",
+    "bbox": [
+      [
+        1580.1209716796875,
+        1238.61865234375
+      ],
+      [
+        1719.5081787109375,
+        1238.61865234375
+      ],
+      [
+        1719.5081787109375,
+        1258.963134765625
+      ],
+      [
+        1580.1209716796875,
+        1258.963134765625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9996174375216166,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00132",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 132,
+    "block_type": "ocr_line",
+    "text": "성",
+    "bbox": [
+      [
+        1760.3629150390625,
+        1242.2088623046875
+      ],
+      [
+        1778.38720703125,
+        1242.2088623046875
+      ],
+      [
+        1778.38720703125,
+        1256.5697021484375
+      ],
+      [
+        1760.3629150390625,
+        1256.5697021484375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9507300853729248,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00133",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 133,
+    "block_type": "ocr_line",
+    "text": "FY",
+    "bbox": [
+      [
+        1784.395263671875,
+        1241.0120849609375
+      ],
+      [
+        1801.2177734375,
+        1241.0120849609375
+      ],
+      [
+        1801.2177734375,
+        1255.3729248046875
+      ],
+      [
+        1784.395263671875,
+        1255.3729248046875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.5255644172430038,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00134",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 134,
+    "block_type": "ocr_line",
+    "text": "연",
+    "bbox": [
+      [
+        1839.66943359375,
+        1242.2088623046875
+      ],
+      [
+        1862.5001220703125,
+        1232.635009765625
+      ],
+      [
+        1870.911376953125,
+        1252.9794921875
+      ],
+      [
+        1848.0806884765625,
+        1262.5533447265625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9880455136299133,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00135",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 135,
+    "block_type": "ocr_line",
+    "text": "법적 지위 제공",
+    "bbox": [
+      [
+        1928.5887451171875,
+        1236.2252197265625
+      ],
+      [
+        2116.040283203125,
+        1236.2252197265625
+      ],
+      [
+        2116.040283203125,
+        1263.75
+      ],
+      [
+        1928.5887451171875,
+        1263.75
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9574343429671394,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00136",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 136,
+    "block_type": "ocr_line",
+    "text": "6.과학기술 영재학교 및 조기 인재 발굴(과기AI,생태계)",
+    "bbox": [
+      [
+        689.725830078125,
+        1263.75
+      ],
+      [
+        1292.935546875,
+        1264.94677734375
+      ],
+      [
+        1292.935546875,
+        1297.258544921875
+      ],
+      [
+        689.725830078125,
+        1296.0618896484375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9670139476656914,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00137",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 137,
+    "block_type": "ocr_line",
+    "text": "오",
+    "bbox": [
+      [
+        1759.161376953125,
+        1269.7337646484375
+      ],
+      [
+        1783.193603515625,
+        1269.7337646484375
+      ],
+      [
+        1783.193603515625,
+        1287.6846923828125
+      ],
+      [
+        1759.161376953125,
+        1287.6846923828125
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.8871099948883057,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00138",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 138,
+    "block_type": "ocr_line",
+    "text": "특화",
+    "bbox": [
+      [
+        1795.209716796875,
+        1266.1435546875
+      ],
+      [
+        1850.48388671875,
+        1266.1435546875
+      ],
+      [
+        1850.48388671875,
+        1291.27490234375
+      ],
+      [
+        1795.209716796875,
+        1291.27490234375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9981593489646912,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00139",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 139,
+    "block_type": "ocr_line",
+    "text": "릉동균",
+    "bbox": [
+      [
+        1854.0887451171875,
+        1267.3402099609375
+      ],
+      [
+        1932.193603515625,
+        1267.3402099609375
+      ],
+      [
+        1932.193603515625,
+        1291.27490234375
+      ],
+      [
+        1854.0887451171875,
+        1291.27490234375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.8494612574577332,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00140",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 140,
+    "block_type": "ocr_line",
+    "text": "을통한 조기 육성",
+    "bbox": [
+      [
+        1917.7742919921875,
+        1262.5533447265625
+      ],
+      [
+        2110.0322265625,
+        1264.94677734375
+      ],
+      [
+        2110.0322265625,
+        1293.6683349609375
+      ],
+      [
+        1917.7742919921875,
+        1291.27490234375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9632076753510369,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00141",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 141,
+    "block_type": "ocr_line",
+    "text": "(과기정통부,'25.11.22)",
+    "bbox": [
+      [
+        247.5322723388672,
+        1291.27490234375
+      ],
+      [
+        474.6371154785156,
+        1291.27490234375
+      ],
+      [
+        474.6371154785156,
+        1318.7998046875
+      ],
+      [
+        247.5322723388672,
+        1318.7998046875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.949921685106614,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00142",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 142,
+    "block_type": "ocr_line",
+    "text": "인",
+    "bbox": [
+      [
+        639.2581176757812,
+        1305.6357421875
+      ],
+      [
+        665.693603515625,
+        1305.6357421875
+      ],
+      [
+        665.693603515625,
+        1335.5540771484375
+      ],
+      [
+        639.2581176757812,
+        1335.5540771484375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9994545578956604,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00143",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 143,
+    "block_type": "ocr_line",
+    "text": "7.여성 및 은퇴 과학기술인 경력 활용(국정,바이오,생태계)",
+    "bbox": [
+      [
+        690.9274291992188,
+        1296.0618896484375
+      ],
+      [
+        1324.177490234375,
+        1296.0618896484375
+      ],
+      [
+        1324.177490234375,
+        1327.1768798828125
+      ],
+      [
+        690.9274291992188,
+        1327.1768798828125
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9606804360042919,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00144",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 144,
+    "block_type": "ocr_line",
+    "text": "용퍼",
+    "bbox": [
+      [
+        1580.1209716796875,
+        1299.6519775390625
+      ],
+      [
+        1625.7823486328125,
+        1299.6519775390625
+      ],
+      [
+        1625.7823486328125,
+        1321.1932373046875
+      ],
+      [
+        1580.1209716796875,
+        1321.1932373046875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.7034766674041748,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00145",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 145,
+    "block_type": "ocr_line",
+    "text": "볼",
+    "bbox": [
+      [
+        1723.1129150390625,
+        1300.8487548828125
+      ],
+      [
+        1743.5404052734375,
+        1300.8487548828125
+      ],
+      [
+        1743.5404052734375,
+        1316.40625
+      ],
+      [
+        1723.1129150390625,
+        1316.40625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.930198073387146,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00146",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 146,
+    "block_type": "ocr_line",
+    "text": "귀",
+    "bbox": [
+      [
+        1744.741943359375,
+        1299.6519775390625
+      ],
+      [
+        1767.5726318359375,
+        1299.6519775390625
+      ],
+      [
+        1767.5726318359375,
+        1318.7998046875
+      ],
+      [
+        1744.741943359375,
+        1318.7998046875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9998855590820312,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00147",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 147,
+    "block_type": "ocr_line",
+    "text": "|허후",
+    "bbox": [
+      [
+        1875.7177734375,
+        1296.0618896484375
+      ],
+      [
+        1951.41943359375,
+        1296.0618896484375
+      ],
+      [
+        1951.41943359375,
+        1321.1932373046875
+      ],
+      [
+        1875.7177734375,
+        1321.1932373046875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.6853797833124796,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00148",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 148,
+    "block_type": "ocr_line",
+    "text": "경험 전수 지원",
+    "bbox": [
+      [
+        1956.225830078125,
+        1296.0618896484375
+      ],
+      [
+        2128.056640625,
+        1296.0618896484375
+      ],
+      [
+        2128.056640625,
+        1323.586669921875
+      ],
+      [
+        1956.225830078125,
+        1323.586669921875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9876634925603867,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00149",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 149,
+    "block_type": "ocr_line",
+    "text": "도메인 지식+AI 융합 양손잡이 인재(과기AI,제조,AX전주기)",
+    "bbox": [
+      [
+        720.9677734375,
+        1328.3736572265625
+      ],
+      [
+        1350.6129150390625,
+        1328.3736572265625
+      ],
+      [
+        1350.6129150390625,
+        1355.8984375
+      ],
+      [
+        720.9677734375,
+        1355.8984375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9642933998789106,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00150",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 150,
+    "block_type": "ocr_line",
+    "text": "전공",
+    "bbox": [
+      [
+        1509.225830078125,
+        1331.9638671875
+      ],
+      [
+        1564.5,
+        1331.9638671875
+      ],
+      [
+        1564.5,
+        1348.7181396484375
+      ],
+      [
+        1509.225830078125,
+        1348.7181396484375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9915463328361511,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00151",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 151,
+    "block_type": "ocr_line",
+    "text": "지식과AI",
+    "bbox": [
+      [
+        1572.911376953125,
+        1328.3736572265625
+      ],
+      [
+        1691.87109375,
+        1328.3736572265625
+      ],
+      [
+        1691.87109375,
+        1352.3082275390625
+      ],
+      [
+        1572.911376953125,
+        1352.3082275390625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9905977010726928,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00152",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 152,
+    "block_type": "ocr_line",
+    "text": "줄",
+    "bbox": [
+      [
+        1720.709716796875,
+        1331.9638671875
+      ],
+      [
+        1744.741943359375,
+        1331.9638671875
+      ],
+      [
+        1744.741943359375,
+        1349.914794921875
+      ],
+      [
+        1720.709716796875,
+        1349.914794921875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.8855574131011963,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00153",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 153,
+    "block_type": "ocr_line",
+    "text": "겸비한",
+    "bbox": [
+      [
+        1800.0162353515625,
+        1327.1768798828125
+      ],
+      [
+        1888.935546875,
+        1324.783447265625
+      ],
+      [
+        1888.935546875,
+        1351.111572265625
+      ],
+      [
+        1800.0162353515625,
+        1353.5050048828125
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9868393540382385,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00154",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 154,
+    "block_type": "ocr_line",
+    "text": "실전형 융합 전문가 육성",
+    "bbox": [
+      [
+        1881.725830078125,
+        1324.783447265625
+      ],
+      [
+        2162.9033203125,
+        1324.783447265625
+      ],
+      [
+        2162.9033203125,
+        1352.3082275390625
+      ],
+      [
+        1881.725830078125,
+        1352.3082275390625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9789593540705167,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00155",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 155,
+    "block_type": "ocr_line",
+    "text": "재",
+    "bbox": [
+      [
+        636.8548583984375,
+        1345.1279296875
+      ],
+      [
+        668.0968017578125,
+        1345.1279296875
+      ],
+      [
+        668.0968017578125,
+        1377.439697265625
+      ],
+      [
+        636.8548583984375,
+        1377.439697265625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9941498041152954,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00156",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 156,
+    "block_type": "ocr_line",
+    "text": "의사과학자(MD-Ph.D.)양성(국정,바이오,기초,초혁신)",
+    "bbox": [
+      [
+        720.9677734375,
+        1354.7017822265625
+      ],
+      [
+        1294.13720703125,
+        1357.09521484375
+      ],
+      [
+        1294.13720703125,
+        1388.2103271484375
+      ],
+      [
+        720.9677734375,
+        1385.8167724609375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.969391718506813,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00157",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 157,
+    "block_type": "ocr_line",
+    "text": "중심",
+    "bbox": [
+      [
+        1578.91943359375,
+        1359.4886474609375
+      ],
+      [
+        1625.7823486328125,
+        1359.4886474609375
+      ],
+      [
+        1625.7823486328125,
+        1382.2265625
+      ],
+      [
+        1578.91943359375,
+        1382.2265625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9901431500911713,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00158",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 158,
+    "block_type": "ocr_line",
+    "text": "전문",
+    "bbox": [
+      [
+        1696.677490234375,
+        1360.6854248046875
+      ],
+      [
+        1727.91943359375,
+        1360.6854248046875
+      ],
+      [
+        1727.91943359375,
+        1379.8331298828125
+      ],
+      [
+        1696.677490234375,
+        1379.8331298828125
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.6779056936502457,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00159",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 159,
+    "block_type": "ocr_line",
+    "text": "문",
+    "bbox": [
+      [
+        1720.709716796875,
+        1359.4886474609375
+      ],
+      [
+        1744.741943359375,
+        1359.4886474609375
+      ],
+      [
+        1744.741943359375,
+        1381.0299072265625
+      ],
+      [
+        1720.709716796875,
+        1381.0299072265625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9961622953414917,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00160",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 160,
+    "block_type": "ocr_line",
+    "text": "바이오",
+    "bbox": [
+      [
+        1848.0806884765625,
+        1357.09521484375
+      ],
+      [
+        1941.8065185546875,
+        1357.09521484375
+      ],
+      [
+        1941.8065185546875,
+        1382.2265625
+      ],
+      [
+        1848.0806884765625,
+        1382.2265625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9966350992520651,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00161",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 161,
+    "block_type": "ocr_line",
+    "text": "정용",
+    "bbox": [
+      [
+        1928.5887451171875,
+        1355.8984375
+      ],
+      [
+        2106.427490234375,
+        1355.8984375
+      ],
+      [
+        2106.427490234375,
+        1384.6201171875
+      ],
+      [
+        1928.5887451171875,
+        1384.6201171875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.5404819250106812,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00162",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 162,
+    "block_type": "ocr_line",
+    "text": "1정부AX사업 전주기 원스톱 지원방안",
+    "bbox": [
+      [
+        142.991943359375,
+        1367.8658447265625
+      ],
+      [
+        579.1774291992188,
+        1365.4722900390625
+      ],
+      [
+        579.1774291992188,
+        1397.7841796875
+      ],
+      [
+        142.991943359375,
+        1400.1776123046875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9438154190778733,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00163",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 163,
+    "block_type": "ocr_line",
+    "text": "10.산업 밀착형 계약학과",
+    "bbox": [
+      [
+        693.3306884765625,
+        1387.0135498046875
+      ],
+      [
+        997.3387451171875,
+        1387.0135498046875
+      ],
+      [
+        997.3387451171875,
+        1414.5384521484375
+      ],
+      [
+        693.3306884765625,
+        1414.5384521484375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9960733907563346,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00164",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 164,
+    "block_type": "ocr_line",
+    "text": "및 실무 인력(국정,과기AI, 반도체)",
+    "bbox": [
+      [
+        982.9193725585938,
+        1385.8167724609375
+      ],
+      [
+        1337.395263671875,
+        1385.8167724609375
+      ],
+      [
+        1337.395263671875,
+        1416.931884765625
+      ],
+      [
+        982.9193725585938,
+        1416.931884765625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9087858824502855,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00165",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 165,
+    "block_type": "ocr_line",
+    "text": "수요를",
+    "bbox": [
+      [
+        1576.5162353515625,
+        1388.2103271484375
+      ],
+      [
+        1651.0162353515625,
+        1388.2103271484375
+      ],
+      [
+        1651.0162353515625,
+        1413.3416748046875
+      ],
+      [
+        1576.5162353515625,
+        1413.3416748046875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9995874762535095,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00166",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 166,
+    "block_type": "ocr_line",
+    "text": "커리큘",
+    "bbox": [
+      [
+        1742.3387451171875,
+        1385.8167724609375
+      ],
+      [
+        1819.2420654296875,
+        1388.2103271484375
+      ],
+      [
+        1818.0404052734375,
+        1413.3416748046875
+      ],
+      [
+        1741.13720703125,
+        1410.9482421875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9960097074508667,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00167",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 167,
+    "block_type": "ocr_line",
+    "text": "으로",
+    "bbox": [
+      [
+        1839.66943359375,
+        1387.0135498046875
+      ],
+      [
+        1891.3387451171875,
+        1387.0135498046875
+      ],
+      [
+        1891.3387451171875,
+        1412.1448974609375
+      ],
+      [
+        1839.66943359375,
+        1412.1448974609375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9998669922351837,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00168",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 168,
+    "block_type": "ocr_line",
+    "text": "즉시 투입 가능한 인재 육성",
+    "bbox": [
+      [
+        1898.5484619140625,
+        1384.6201171875
+      ],
+      [
+        2214.57275390625,
+        1384.6201171875
+      ],
+      [
+        2214.57275390625,
+        1415.735107421875
+      ],
+      [
+        1898.5484619140625,
+        1415.735107421875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.982118304570516,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00169",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 169,
+    "block_type": "ocr_line",
+    "text": "(과기정통부,행정안전부,'26.1.28)",
+    "bbox": [
+      [
+        189.85484313964844,
+        1402.571044921875
+      ],
+      [
+        533.5161743164062,
+        1401.3743896484375
+      ],
+      [
+        533.5161743164062,
+        1432.4893798828125
+      ],
+      [
+        189.85484313964844,
+        1433.6861572265625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9352588057518005,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00170",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 170,
+    "block_type": "ocr_line",
+    "text": "11.전문연구요원",
+    "bbox": [
+      [
+        693.3306884765625,
+        1418.128662109375
+      ],
+      [
+        889.193603515625,
+        1415.735107421875
+      ],
+      [
+        889.193603515625,
+        1443.260009765625
+      ],
+      [
+        693.3306884765625,
+        1445.6534423828125
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.997814052634769,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00171",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 171,
+    "block_type": "ocr_line",
+    "text": "우대",
+    "bbox": [
+      [
+        894.0000610351562,
+        1420.5220947265625
+      ],
+      [
+        946.8710327148438,
+        1420.5220947265625
+      ],
+      [
+        946.8710327148438,
+        1442.063232421875
+      ],
+      [
+        894.0000610351562,
+        1442.063232421875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9987038373947144,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00172",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 172,
+    "block_type": "ocr_line",
+    "text": "및",
+    "bbox": [
+      [
+        954.0806884765625,
+        1419.3253173828125
+      ],
+      [
+        993.73388671875,
+        1419.3253173828125
+      ],
+      [
+        993.73388671875,
+        1442.063232421875
+      ],
+      [
+        954.0806884765625,
+        1442.063232421875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9994816184043884,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00173",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 173,
+    "block_type": "ocr_line",
+    "text": "A등",
+    "bbox": [
+      [
+        1499.6129150390625,
+        1421.71875
+      ],
+      [
+        1589.73388671875,
+        1419.3253173828125
+      ],
+      [
+        1589.73388671875,
+        1439.6697998046875
+      ],
+      [
+        1499.6129150390625,
+        1442.063232421875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.998604029417038,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00174",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 174,
+    "block_type": "ocr_line",
+    "text": "분야",
+    "bbox": [
+      [
+        1647.411376953125,
+        1419.3253173828125
+      ],
+      [
+        1708.693603515625,
+        1419.3253173828125
+      ],
+      [
+        1708.693603515625,
+        1440.8665771484375
+      ],
+      [
+        1647.411376953125,
+        1440.8665771484375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9994708597660065,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00175",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 175,
+    "block_type": "ocr_line",
+    "text": "우",
+    "bbox": [
+      [
+        1711.0968017578125,
+        1420.5220947265625
+      ],
+      [
+        1735.129150390625,
+        1420.5220947265625
+      ],
+      [
+        1735.129150390625,
+        1438.4730224609375
+      ],
+      [
+        1711.0968017578125,
+        1438.4730224609375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.690485417842865,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00176",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 176,
+    "block_type": "ocr_line",
+    "text": "수",
+    "bbox": [
+      [
+        1731.5242919921875,
+        1424.1123046875
+      ],
+      [
+        1755.5565185546875,
+        1424.1123046875
+      ],
+      [
+        1755.5565185546875,
+        1437.2763671875
+      ],
+      [
+        1731.5242919921875,
+        1437.2763671875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.536281406879425,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00177",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 177,
+    "block_type": "ocr_line",
+    "text": "·지속성 확보",
+    "bbox": [
+      [
+        1894.943603515625,
+        1418.128662109375
+      ],
+      [
+        2042.7420654296875,
+        1415.735107421875
+      ],
+      [
+        2042.7420654296875,
+        1440.8665771484375
+      ],
+      [
+        1894.943603515625,
+        1443.260009765625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.932559175150735,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00178",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 178,
+    "block_type": "ocr_line",
+    "text": "12.과학기술인 보상체계 및 성과급 확대(국정, 출연연,생태계)",
+    "bbox": [
+      [
+        693.3306884765625,
+        1445.6534423828125
+      ],
+      [
+        1350.6129150390625,
+        1446.8502197265625
+      ],
+      [
+        1350.6129150390625,
+        1477.9652099609375
+      ],
+      [
+        693.3306884765625,
+        1476.7685546875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9850168551717485,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00179",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 179,
+    "block_type": "ocr_line",
+    "text": "• 성과에 걸맞은",
+    "bbox": [
+      [
+        1504.41943359375,
+        1448.046875
+      ],
+      [
+        1676.2501220703125,
+        1448.046875
+      ],
+      [
+        1676.2501220703125,
+        1471.9815673828125
+      ],
+      [
+        1504.41943359375,
+        1471.9815673828125
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.8987519641717275,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00180",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 180,
+    "block_type": "ocr_line",
+    "text": "파격적인",
+    "bbox": [
+      [
+        1684.661376953125,
+        1448.046875
+      ],
+      [
+        1785.5968017578125,
+        1448.046875
+      ],
+      [
+        1785.5968017578125,
+        1471.9815673828125
+      ],
+      [
+        1684.661376953125,
+        1471.9815673828125
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9998109340667725,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00181",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 181,
+    "block_type": "ocr_line",
+    "text": "보상을 통한 연구 의욕 고취",
+    "bbox": [
+      [
+        1789.20166015625,
+        1446.8502197265625
+      ],
+      [
+        2104.024169921875,
+        1446.8502197265625
+      ],
+      [
+        2104.024169921875,
+        1474.375
+      ],
+      [
+        1789.20166015625,
+        1474.375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9794248580932617,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00182",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 182,
+    "block_type": "ocr_line",
+    "text": "12초혁신경제 15대 프로젝트 추진계획",
+    "bbox": [
+      [
+        142.991943359375,
+        1481.555419921875
+      ],
+      [
+        580.3790283203125,
+        1479.1619873046875
+      ],
+      [
+        580.3790283203125,
+        1510.277099609375
+      ],
+      [
+        142.991943359375,
+        1512.6705322265625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9667899523462568,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00183",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 183,
+    "block_type": "ocr_line",
+    "text": "13.재직자 AX 전환 교육",
+    "bbox": [
+      [
+        694.5322875976562,
+        1477.9652099609375
+      ],
+      [
+        981.7177734375,
+        1476.7685546875
+      ],
+      [
+        981.7177734375,
+        1505.4901123046875
+      ],
+      [
+        694.5322875976562,
+        1506.6868896484375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9813676675160726,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00184",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 184,
+    "block_type": "ocr_line",
+    "text": "및 리스킬링(네트워크,제조,AX전주기)",
+    "bbox": [
+      [
+        967.2984008789062,
+        1477.9652099609375
+      ],
+      [
+        1363.8306884765625,
+        1477.9652099609375
+      ],
+      [
+        1363.8306884765625,
+        1505.4901123046875
+      ],
+      [
+        967.2984008789062,
+        1505.4901123046875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9477621799423581,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00185",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 185,
+    "block_type": "ocr_line",
+    "text": "숙련",
+    "bbox": [
+      [
+        1661.8306884765625,
+        1479.1619873046875
+      ],
+      [
+        1712.2984619140625,
+        1479.1619873046875
+      ],
+      [
+        1712.2984619140625,
+        1500.703125
+      ],
+      [
+        1661.8306884765625,
+        1500.703125
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9874957501888275,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00186",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 186,
+    "block_type": "ocr_line",
+    "text": "노동자",
+    "bbox": [
+      [
+        1721.911376953125,
+        1477.9652099609375
+      ],
+      [
+        1802.41943359375,
+        1477.9652099609375
+      ],
+      [
+        1802.41943359375,
+        1501.89990234375
+      ],
+      [
+        1721.911376953125,
+        1501.89990234375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9995509584744772,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00187",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 187,
+    "block_type": "ocr_line",
+    "text": "AI 도구",
+    "bbox": [
+      [
+        1858.895263671875,
+        1477.9652099609375
+      ],
+      [
+        1953.8226318359375,
+        1477.9652099609375
+      ],
+      [
+        1953.8226318359375,
+        1501.89990234375
+      ],
+      [
+        1858.895263671875,
+        1501.89990234375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9201561093330384,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00188",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 188,
+    "block_type": "ocr_line",
+    "text": "융",
+    "bbox": [
+      [
+        1956.225830078125,
+        1476.7685546875
+      ],
+      [
+        2128.056640625,
+        1476.7685546875
+      ],
+      [
+        2128.056640625,
+        1504.2933349609375
+      ],
+      [
+        1956.225830078125,
+        1504.2933349609375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.8758863806724548,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00189",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 189,
+    "block_type": "ocr_line",
+    "text": "(기획재정부,'25.12.16)",
+    "bbox": [
+      [
+        248.73388671875,
+        1516.2607421875
+      ],
+      [
+        478.241943359375,
+        1516.2607421875
+      ],
+      [
+        478.241943359375,
+        1547.375732421875
+      ],
+      [
+        248.73388671875,
+        1547.375732421875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9822790342218736,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00190",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 190,
+    "block_type": "ocr_line",
+    "text": "14.연구지원인력 전문화 및 행정 부담 경감(국정, 기초,출연연,생태계)",
+    "bbox": [
+      [
+        693.3306884765625,
+        1506.6868896484375
+      ],
+      [
+        1441.935546875,
+        1506.6868896484375
+      ],
+      [
+        1441.935546875,
+        1537.8018798828125
+      ],
+      [
+        693.3306884765625,
+        1537.8018798828125
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.971988046169281,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00191",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 191,
+    "block_type": "ocr_line",
+    "text": "기술직",
+    "bbox": [
+      [
+        1570.5081787109375,
+        1509.080322265625
+      ],
+      [
+        1649.8145751953125,
+        1506.6868896484375
+      ],
+      [
+        1651.0162353515625,
+        1531.8182373046875
+      ],
+      [
+        1571.709716796875,
+        1534.211669921875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9868604938189188,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00192",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 192,
+    "block_type": "ocr_line",
+    "text": "행정직을",
+    "bbox": [
+      [
+        1694.2742919921875,
+        1506.6868896484375
+      ],
+      [
+        1797.6129150390625,
+        1509.080322265625
+      ],
+      [
+        1797.6129150390625,
+        1534.211669921875
+      ],
+      [
+        1694.2742919921875,
+        1531.8182373046875
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9996165186166763,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00193",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 193,
+    "block_type": "ocr_line",
+    "text": "잡무 분리",
+    "bbox": [
+      [
+        1967.0404052734375,
+        1507.883544921875
+      ],
+      [
+        2078.790283203125,
+        1507.883544921875
+      ],
+      [
+        2078.790283203125,
+        1533.0150146484375
+      ],
+      [
+        1967.0404052734375,
+        1533.0150146484375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9916991353034973,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00194",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 194,
+    "block_type": "ocr_line",
+    "text": "15.글로벌 파트너십 기반 해외 연수 지원(반도체, 기초,초혁신)",
+    "bbox": [
+      [
+        696.9354858398438,
+        1538.9986572265625
+      ],
+      [
+        1362.6290283203125,
+        1538.9986572265625
+      ],
+      [
+        1362.6290283203125,
+        1566.5234375
+      ],
+      [
+        696.9354858398438,
+        1566.5234375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9836097525225745,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00195",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 195,
+    "block_type": "ocr_line",
+    "text": "• 해외",
+    "bbox": [
+      [
+        1500.8145751953125,
+        1540.1953125
+      ],
+      [
+        1565.70166015625,
+        1540.1953125
+      ],
+      [
+        1565.70166015625,
+        1561.736572265625
+      ],
+      [
+        1500.8145751953125,
+        1561.736572265625
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.8513211309909821,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00196",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 196,
+    "block_type": "ocr_line",
+    "text": "유수 대학·연구소와의",
+    "bbox": [
+      [
+        1577.7177734375,
+        1538.9986572265625
+      ],
+      [
+        1813.23388671875,
+        1538.9986572265625
+      ],
+      [
+        1813.23388671875,
+        1562.933349609375
+      ],
+      [
+        1577.7177734375,
+        1562.933349609375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9870955456386913,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00197",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 197,
+    "block_type": "ocr_line",
+    "text": "공동",
+    "bbox": [
+      [
+        1820.443603515625,
+        1538.9986572265625
+      ],
+      [
+        1874.5162353515625,
+        1538.9986572265625
+      ],
+      [
+        1874.5162353515625,
+        1564.1300048828125
+      ],
+      [
+        1820.443603515625,
+        1564.1300048828125
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9982832372188568,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00198",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 198,
+    "block_type": "ocr_line",
+    "text": "및 파견 기회 확대",
+    "bbox": [
+      [
+        1939.4033203125,
+        1536.605224609375
+      ],
+      [
+        2147.2822265625,
+        1536.605224609375
+      ],
+      [
+        2147.2822265625,
+        1564.1300048828125
+      ],
+      [
+        1939.4033203125,
+        1564.1300048828125
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9912638366222382,
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-REF-002-00199",
+    "document_id": "DOC-REF-002",
+    "page_no_or_sheet_name": 1,
+    "block_order": 199,
+    "block_type": "ocr_line",
+    "text": "기술정보통신부",
+    "bbox": [
+      [
+        100.93548583984375,
+        1621.5732421875
+      ],
+      [
+        199.46774291992188,
+        1621.5732421875
+      ],
+      [
+        199.46774291992188,
+        1646.70458984375
+      ],
+      [
+        100.93548583984375,
+        1646.70458984375
+      ]
+    ],
+    "extraction_method": "rapidocr-korean-v5",
+    "extraction_confidence": 0.9995752573013306,
+    "page_no": 1
+  }
+]

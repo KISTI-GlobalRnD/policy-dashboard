@@ -1,0 +1,96 @@
+{
+  "table_id": "TBL-DOC-POL-005-020",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section3",
+  "block_order": 67,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 7,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "",
+      ""
+    ],
+    [
+      "과학기술로 미래를 선도하는\n연구개발 생태계 혁신방안(안)",
+      "2025 - 11\n(7호)"
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "2025. 11. 24.",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      "관계부처 합동"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 4,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 5,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "0",
+  "source_table_id": "1998584809",
+  "repeat_header": "1",
+  "treat_as_char": "0",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

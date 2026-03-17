@@ -1,0 +1,62 @@
+{
+  "table_id": "TBL-DOC-POL-007-086",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 330,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 4
+  },
+  "cell_matrix": [
+    [
+      "",
+      "【 (예시) 광주 CCTV통합관제센터 AI서비스 실증 】",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "▪(목표) 국산 NPU 서버로 CCTV 영상데이터를 활용한 재난, 도시 위협요소 등 분석 실증\n▪(주요내용) CCTV 기반 데이터 AI분석 및 재난‧범죄 등 도시 안전관리 시스템 운영\n▪(적용분야) 방범·방재 등 국민 안전분야",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 2
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 2,
+      "col_index": 2,
+      "row_span": 1,
+      "col_span": 2
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654550",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

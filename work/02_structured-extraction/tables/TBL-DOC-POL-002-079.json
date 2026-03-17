@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-002-079",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 359,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "",
+      "✔ AI 기반 데이터 품질관리 기술 예시",
+      ""
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "• 바이오데이터의 분포 특성 및 완전성을 분석하고 시각화하는 기술\n• 의료데이터 유형별·질환별 데이터 오류·이상 식별 등 자동 정제·가공 기술\n• 의료기관·기기별 상이한 데이터의 상호활용성 강화를 위한 데이터 변환 기술",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 3
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971507",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

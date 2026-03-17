@@ -1,0 +1,46 @@
+{
+  "table_id": "TBL-DOC-POL-009-005",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section0",
+  "block_order": 6,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 2,
+    "cols": 5
+  },
+  "cell_matrix": [
+    [
+      "제 출 자",
+      "과학기술정보통신부장관",
+      "배경훈",
+      "교육부장관",
+      "최교진"
+    ],
+    [
+      "제출 연월일",
+      "2025. 12. 18.",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 1,
+      "col_index": 1,
+      "row_span": 1,
+      "col_span": 4
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2032577247",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

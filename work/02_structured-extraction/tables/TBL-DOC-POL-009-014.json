@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-009-014",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section4",
+  "block_order": 78,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 7,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      ""
+    ],
+    [
+      "기초연구 생태계 육성 방안(안)"
+    ],
+    [
+      ""
+    ],
+    [
+      ""
+    ],
+    [
+      "2025. 12. 18."
+    ],
+    [
+      ""
+    ],
+    [
+      "관계부처 합동"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "0",
+  "source_table_id": "1998584809",
+  "repeat_header": "1",
+  "treat_as_char": "0",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

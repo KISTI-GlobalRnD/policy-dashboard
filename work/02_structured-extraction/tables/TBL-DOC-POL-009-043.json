@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-009-043",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 208,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "",
+      "< 기초연구 평가에 대한 현장 목소리 >",
+      ""
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "▸평가자의 전문성 확보와 함께, 평가 과정의 공정성 담보가 필요하다고 생각\n▸과제 수 증가로 인해 짧은 기간 동안 진행되는 기계적인 평가가 가속화될 것을 우려, 과제에 대한 심층적인 검토가 이루어질 수 시스템으로 전환 필요\n▸旣 발표된 논문의 양·질 등 실적에 기반한 평가보다는 수행하려는 연구의 독창성이나 우수 결과 도출 가능성에 중점을 둔 평가 기준이 필요",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 3
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747563",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

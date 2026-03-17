@@ -1,0 +1,57 @@
+{
+  "table_id": "TBL-DOC-POL-004-051",
+  "document_id": "DOC-POL-004",
+  "page_no_or_sheet_name": "section1",
+  "block_order": 267,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 5,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "구분",
+      "[track 1]\nAI Agent 활용 과학기술 연구·논문 작성",
+      "[track 2]\n과학기술 AI Agent 개발"
+    ],
+    [
+      "목적",
+      "AI 활용 과학기술 연구 혁신 및 \n과학기술 - AI 전문가 간 협업 촉진",
+      "연구혁신 및 사업화를 위한 \n고성능 AI Agent 개발 촉진"
+    ],
+    [
+      "참가\n대상",
+      "제한 없음",
+      ""
+    ],
+    [
+      "제출물",
+      "AI Agent를 활용하여 작성한\nAI가 제1저자인 논문",
+      "오픈소스 등을 활용해 자체 개발한 과학기술 AI Agent"
+    ],
+    [
+      "평가",
+      "AI 및 전문가가 AI 참여정도, \n연구의 독창성·우수성 등을 심사",
+      "동일 주제의 연구논문 생성\n(연구 결과 및 논문 우수성 포함) 또는\n문제 해결능력 비교·평가"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "row_span": 1,
+      "col_span": 2
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2005509181",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

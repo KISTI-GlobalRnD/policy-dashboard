@@ -1,0 +1,14 @@
+{
+  "figure_id": "FIG-DOC-REF-001-012",
+  "document_id": "DOC-REF-001",
+  "page_no": 12,
+  "figure_type": "pdf_page_image",
+  "caption": "Rendered page 12",
+  "legend_text": "",
+  "summary": "Rendered page image for OCR/manual review. text_layer=False",
+  "asset_path": "work/02_structured-extraction/figures/assets/DOC-REF-001/page_012.png",
+  "source_bbox": null,
+  "extraction_confidence": "low",
+  "extraction_method": "pymupdf-page-render",
+  "text_layer_detected": false
+}

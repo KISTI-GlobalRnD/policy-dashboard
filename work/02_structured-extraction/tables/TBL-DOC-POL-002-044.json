@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-002-044",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 183,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "",
+      "✔ 해외의 연구실 AX 동향",
+      ""
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "• (미국 카네기멜론대 클라우드랩) 총 200개 이상 과학기기의 원격 제어가 가능하며, 동시에 최대 100가지 이상의 실험 진행 가능\n• (캐나다 토론토대 Donnelly Centre 자율화 연구실) Liquid handler 중심으로 다양한 자동화 장비를 통합하여 복잡한 실험을 정밀 수행하며, 대규모 샘플의 자동 이미지 분석까지 가능\n• (일본 RIKEN 무인실험실) 로봇이 스스로 세포를 관찰하고 밀도를 판단할 수 있으며, 일정한 밀도가 만들어지면 새로운 샬레로 이동시키는 등 세포를 자율적으로 배양",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 3
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "0",
+  "source_table_id": "2023623503",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

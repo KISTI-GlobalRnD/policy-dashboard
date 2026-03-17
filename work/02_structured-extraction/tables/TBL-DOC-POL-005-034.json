@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-005-034",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 123,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◆ “회의비 사전 결재 등 사전 통제 중심의 불필요한 행정절차들로 인하여 연구자의 행정부담 가중”\n◆ “IRIS와 연구비 시스템, 대학 자체 시스템이 연동되지 않아 중복 입력이 필요한 등 시스템 사용에 있어 비효율적 업무 다수”\n< R&D 혁신을 위한 2차 연구현장 간담회(경북대, 7.23) 시 연구자 발언 中 >"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903218",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

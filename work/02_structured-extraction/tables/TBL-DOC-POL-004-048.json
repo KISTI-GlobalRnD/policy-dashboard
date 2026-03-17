@@ -1,0 +1,29 @@
+{
+  "table_id": "TBL-DOC-POL-004-048",
+  "document_id": "DOC-POL-004",
+  "page_no_or_sheet_name": "section1",
+  "block_order": 248,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "▶ (협력사례) 출연연‧대기업(KIST, LG AI 연구원, LG전자) 협력을 통해 국내 최초 한국형 AI 휴머노이드 플랫폼 ‘KAPEX'를 개발",
+      ""
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "0",
+  "source_table_id": "2008917798",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

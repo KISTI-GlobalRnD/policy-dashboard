@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-012-021",
+  "document_id": "DOC-POL-012",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 66,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◇ 정부 AX사업 프로세스(기획-수행-보급·확산) 8가지 주요 문제점 도출\n󰊱 (기획) ①범정부 AX종합전략 부재, ②AX·DX 기획역량 부족\n󰊲 (수행) ③AI인프라 부족, ④외산 AI 종속, ⑤규제 이슈 발생\n󰊳 (보급·확산) ⑥평가·환류체계 부족, ⑦소규모 실증 중심\n󰊴 (거버넌스) ⑧기관별 개별적 AX 추진구조 → 기관의 자원·역량을 효율적으로 연계하여 성과를 극대화할 수 있는 체계 미흡"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2064893323",
+  "repeat_header": "1",
+  "treat_as_char": "0",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

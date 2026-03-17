@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-002-059",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 231,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "",
+      "✔ 데이터 플랫폼 구축 사례",
+      ""
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "• (국내) ‘K-Medidate’ 구축사업(복지부)을 통해 전국 30개 병원 의료데이터를 표준화하여 AI 학습용 임상데이터셋 구축(‘23~)\n• (해외) 미국 국립보건원(NIH)에서는 100만 명 이상의 건강 데이터를 다기관으로부터 EMR, 유전체, 웨어러블 기기데이터 등을 통해 정밀의료 연구를 위한 사업 추진(’18~)",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 3
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971433",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

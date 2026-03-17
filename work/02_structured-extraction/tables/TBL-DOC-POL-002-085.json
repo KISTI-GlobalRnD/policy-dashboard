@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-002-085",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 378,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "",
+      "✔ 가칭「디지털 헬스케어법」 주요내용",
+      ""
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "• (진흥체계) 국가 차원의 추진전략 수립 및 거버넌스 운영(디지털헬스케어정책심의위원회)\n• (정보보호체계) 정보주체의 자기결정권 강화를 위한 정보보호체계 마련(DRB법제화 등)\n• (의료데이터 이용) 보건의료정보의 수집·연계·분석·제공 등을 위한 근거 명시\n• (개인정보 전송요구권) 법률간 관계·요구 대상 명확화, 응급상황시 요구권 추가\n• (규제특례) 복지부 주관 디지털 헬스케어 서비스 분야 규제샌드박스 신설\n• (공공기관 법제화) 의료정보사업 운영·지원기관인 ‘한국보건의료정보원’ 규정",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 3
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971517",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

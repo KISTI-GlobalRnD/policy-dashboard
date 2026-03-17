@@ -1,0 +1,107 @@
+{
+  "table_id": "TBL-DOC-POL-009-057",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 246,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 5,
+    "cols": 7
+  },
+  "cell_matrix": [
+    [
+      "",
+      "",
+      "",
+      "",
+      "As-Is",
+      "",
+      "To-Be"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "핵심\n연구",
+      "",
+      "유형C",
+      "",
+      "200개, 600억원",
+      "⇒",
+      "3,600억원 內\n2,300개 내외 과제\n유연한 운용"
+    ],
+    [
+      "",
+      "",
+      "유형B",
+      "",
+      "900개, 1,800억원",
+      "",
+      ""
+    ],
+    [
+      "",
+      "",
+      "유형A",
+      "",
+      "1,200개 1,200억원",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 2,
+      "col_span": 3
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "row_span": 5,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 3,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "row_span": 3,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 5,
+      "row_span": 3,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 6,
+      "row_span": 3,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747579",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

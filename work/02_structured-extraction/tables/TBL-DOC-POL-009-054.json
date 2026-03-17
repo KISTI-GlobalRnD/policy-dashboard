@@ -1,0 +1,79 @@
+{
+  "table_id": "TBL-DOC-POL-009-054",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 236,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 5,
+    "cols": 5
+  },
+  "cell_matrix": [
+    [
+      "",
+      "",
+      "기존",
+      "",
+      "‘26년 이후"
+    ],
+    [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "핵심연구(A) (舊 창의연구)",
+      "",
+      "3년",
+      "⇒",
+      "최대 5년"
+    ],
+    [
+      "신진연구(A) (舊 씨앗연구)",
+      "",
+      "1년",
+      "",
+      "최대 3년"
+    ],
+    [
+      "기본연구",
+      "",
+      "최대 3년",
+      "",
+      "최대 5년"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 5,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 3,
+      "row_span": 3,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747574",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

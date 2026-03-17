@@ -1,0 +1,29 @@
+{
+  "table_id": "TBL-DOC-POL-007-021",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 76,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "- 특히, AI 추론시장 성장에 발맞춰 국산 NPU를 단기에 집중 육성하고, 피지컬 AI 등 미래시장을 선도할 산업 역량도 단계적으로 확보할 필요",
+      ""
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654378",
+  "repeat_header": "0",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

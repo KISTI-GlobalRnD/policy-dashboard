@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-010-048",
+  "document_id": "DOC-POL-010",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 194,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "• 주요 정책 이행을 위한 첨단기술 확보연구\n• 산-연 협업을 통해 기술이전 및 사업화를 목적으로 하는 연구\n• 사회적 문제 및 재난재해 대응을 위한 연구\n• 지역혁신, 기업지원 등 균형성장 지원을 위한 연구"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 4
+    },
+    {
+      "row_index": 0,
+      "col_index": 5,
+      "row_span": 1,
+      "col_span": 4
+    },
+    {
+      "row_index": 2,
+      "col_index": 8,
+      "row_span": 4,
+      "col_span": 1
+    },
+    {
+      "row_index": 5,
+      "col_index": 0,
+      "row_span": 4,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2022564448",
+  "repeat_header": "1",
+  "treat_as_char": "0",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

@@ -1,0 +1,19 @@
+{
+  "figure_id": "FIG-DOC-POL-010-014",
+  "document_id": "DOC-POL-010",
+  "page_no": null,
+  "page_no_or_sheet_name": "section7",
+  "block_order": 75,
+  "figure_type": "image",
+  "caption": "그림입니다.\n원본 그림의 이름: 국영문조합A_3색표현.jpg\n원본 그림의 크기: 가로 1240pixel, 세로 563pixel",
+  "legend_text": "",
+  "summary": "국영문조합A_3색표현.jpg",
+  "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-010/image15.jpg",
+  "source_bbox": null,
+  "extraction_confidence": "medium",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "parent_table_id": "TBL-DOC-POL-010-015",
+  "binary_item_id": "image15",
+  "internal_asset_path": "BinData/image15.jpg"
+}

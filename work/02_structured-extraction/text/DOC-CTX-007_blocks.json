@@ -1,0 +1,274 @@
+[
+  {
+    "evidence_id": "EVD-DOC-CTX-007-00001",
+    "document_id": "DOC-CTX-007",
+    "page_no_or_sheet_name": 1,
+    "block_order": 1,
+    "block_type": "text_block",
+    "text": "<세부 기술(정책) 분류체계>",
+    "bbox": [
+      221.0402069091797,
+      120.04784393310547,
+      371.2165832519531,
+      131.0647735595703
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-007-00002",
+    "document_id": "DOC-CTX-007",
+    "page_no_or_sheet_name": 1,
+    "block_order": 2,
+    "block_type": "text_block",
+    "text": "대분류\n중분류\n기술 개요",
+    "bbox": [
+      83.59469604492188,
+      151.2137908935547,
+      390.841064453125,
+      162.230712890625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-007-00003",
+    "document_id": "DOC-CTX-007",
+    "page_no_or_sheet_name": 1,
+    "block_order": 3,
+    "block_type": "text_block",
+    "text": "리튬이온전지",
+    "bbox": [
+      144.52166748046875,
+      207.69497680664062,
+      201.58709716796875,
+      217.6341552734375
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-007-00004",
+    "document_id": "DOC-CTX-007",
+    "page_no_or_sheet_name": 1,
+    "block_order": 4,
+    "block_type": "text_block",
+    "text": "▪ 현재 리튬이온전지의 에너지밀도 350 Wh/kg급 극대화\n▪ 가격경쟁력·공정 친환경화 확보를 위한 리튬이온전지용 소재·공정",
+    "bbox": [
+      217.92189025878906,
+      194.32083129882812,
+      520.0157470703125,
+      217.6341552734375
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-007-00005",
+    "document_id": "DOC-CTX-007",
+    "page_no_or_sheet_name": 1,
+    "block_order": 5,
+    "block_type": "text_block",
+    "text": "기술 개발",
+    "bbox": [
+      232.553955078125,
+      220.6408233642578,
+      275.46826171875,
+      230.5800018310547
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-007-00006",
+    "document_id": "DOC-CTX-007",
+    "page_no_or_sheet_name": 1,
+    "block_order": 6,
+    "block_type": "text_block",
+    "text": "▪ 전고체·리튬금속·리튬황(400 Wh/kg 목표), 나트륨이온(220 Wh/kg",
+    "bbox": [
+      217.92189025878906,
+      269.8382873535156,
+      523.2012329101562,
+      280.0859069824219
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-007-00007",
+    "document_id": "DOC-CTX-007",
+    "page_no_or_sheet_name": 1,
+    "block_order": 7,
+    "block_type": "text_block",
+    "text": "차세대\n이차전지",
+    "bbox": [
+      153.9965362548828,
+      283.21246337890625,
+      192.11285400390625,
+      306.0975036621094
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-007-00008",
+    "document_id": "DOC-CTX-007",
+    "page_no_or_sheet_name": 1,
+    "block_order": 8,
+    "block_type": "text_block",
+    "text": "목표) 등 차세대 전지 소재 개발\n▪ 고에너지밀도·고안전성·가격경쟁력 확보와 응용분야별 맞춤형 특",
+    "bbox": [
+      217.92189025878906,
+      283.21246337890625,
+      520.0160522460938,
+      306.0975036621094
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-007-00009",
+    "document_id": "DOC-CTX-007",
+    "page_no_or_sheet_name": 1,
+    "block_order": 9,
+    "block_type": "text_block",
+    "text": "성 구현을 위한 소재·전지제조 기술",
+    "bbox": [
+      233.6333770751953,
+      309.1041564941406,
+      387.60748291015625,
+      319.0433349609375
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-007-00010",
+    "document_id": "DOC-CTX-007",
+    "page_no_or_sheet_name": 1,
+    "block_order": 10,
+    "block_type": "text_block",
+    "text": "이차전지",
+    "bbox": [
+      79.876708984375,
+      314.4982604980469,
+      117.99302673339844,
+      324.43743896484375
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-007-00011",
+    "document_id": "DOC-CTX-007",
+    "page_no_or_sheet_name": 1,
+    "block_order": 11,
+    "block_type": "text_block",
+    "text": "▪ 전기모빌리티·ESS의 성능·안전·수명 향상을 위한 모듈·팩·시스템 기",
+    "bbox": [
+      217.92189025878906,
+      358.4214782714844,
+      520.0160522460938,
+      368.6690979003906
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-007-00012",
+    "document_id": "DOC-CTX-007",
+    "page_no_or_sheet_name": 1,
+    "block_order": 12,
+    "block_type": "text_block",
+    "text": "이차전지\n모듈·시스템",
+    "bbox": [
+      148.23965454101562,
+      358.72991943359375,
+      197.8700408935547,
+      381.6149597167969
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-007-00013",
+    "document_id": "DOC-CTX-007",
+    "page_no_or_sheet_name": 1,
+    "block_order": 13,
+    "block_type": "text_block",
+    "text": "술 및 지능형 관리(BMS) 기술 개발",
+    "bbox": [
+      232.19415283203125,
+      371.67578125,
+      385.44866943359375,
+      381.6149597167969
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-007-00014",
+    "document_id": "DOC-CTX-007",
+    "page_no_or_sheet_name": 1,
+    "block_order": 14,
+    "block_type": "text_block",
+    "text": "▪ 사용후 배터리의 고안전·고효율 재사용, 고순도·친환경 자원회수·재",
+    "bbox": [
+      217.92189025878906,
+      420.87322998046875,
+      520.0160522460938,
+      431.120849609375
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-007-00015",
+    "document_id": "DOC-CTX-007",
+    "page_no_or_sheet_name": 1,
+    "block_order": 15,
+    "block_type": "text_block",
+    "text": "이차전지\n재사용·재활용",
+    "bbox": [
+      143.4422607421875,
+      421.1816711425781,
+      202.54750061035156,
+      444.18658447265625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-007-00016",
+    "document_id": "DOC-CTX-007",
+    "page_no_or_sheet_name": 1,
+    "block_order": 16,
+    "block_type": "text_block",
+    "text": "활용 기술 확보",
+    "bbox": [
+      231.95428466796875,
+      434.2474060058594,
+      298.49578857421875,
+      444.18658447265625
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  }
+]

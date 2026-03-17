@@ -1,0 +1,37 @@
+{
+  "table_id": "TBL-DOC-POL-004-043",
+  "document_id": "DOC-POL-004",
+  "page_no_or_sheet_name": "section1",
+  "block_order": 171,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 2,
+    "cols": 4
+  },
+  "cell_matrix": [
+    [
+      "슈퍼컴 \n6호기(‘26.上~)",
+      "첨단 GPU \n확보사업(‘26~)",
+      "대학 기초연구 \n전용 GPU(‘26.下~)",
+      "바이오·소재\n전용 인프라(‘27~)"
+    ],
+    [
+      "8,500개의 \n약 30%",
+      "첨단 GPU 약 2.8만개 중 정부활용분의 약 15~20%\n(변동가능)",
+      "약 300개",
+      "바이오 2,500개,\n소재 176개"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2005613777",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

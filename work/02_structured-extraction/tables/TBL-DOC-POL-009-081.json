@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-009-081",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 359,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◈ 연구자가 AI를 활용하여 창의적 연구에 마음껏 도전할 수 있도록 인프라 및 융합연구를 지원하고, AI·데이터 기반 기초연구 네비게이션 시스템 구축\n◈ 연구자의 연구 外 부가업무 부담을 최소화하여 연구 생산성을 향상할 수 있도록 대학 내 연구지원인력의 역할을 강화하고 평가시스템을 혁신"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747620",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

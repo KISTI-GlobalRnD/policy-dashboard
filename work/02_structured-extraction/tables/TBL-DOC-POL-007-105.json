@@ -1,0 +1,164 @@
+{
+  "table_id": "TBL-DOC-POL-007-105",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 423,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 15,
+    "cols": 4
+  },
+  "cell_matrix": [
+    [
+      "세부 추진과제",
+      "",
+      "주관 부처\n(협조 부처)",
+      "일정"
+    ],
+    [
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "1. [기술 혁신] 국산 AI반도체 상용화 및 미래도전 기술 확보",
+      "",
+      "",
+      ""
+    ],
+    [
+      "1-󰊱 독자 AI모델+국산 NPU 패키지化를 위한 K-NPU 프로젝트 가동",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "ㅇ 독자 AI모델 등 최신 AI모델 맞춤형 NPU 고도화",
+      "과기정통부",
+      "’26~"
+    ],
+    [
+      "",
+      "ㅇ 국산 NPU 조기상용화를 위한 실증·사업화 지원체계 구축",
+      "과기정통부·산업부",
+      "’25~"
+    ],
+    [
+      "",
+      "ㅇ 산업계 공동성능지표(K-Perf) 기반 평가·피드백 체계 구축",
+      "과기정통부",
+      "’25~"
+    ],
+    [
+      "1-󰊲 피지컬 AI 선도국 도약을 위한 핵심 전략기술 확보",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "ㅇ 비전 중심에서 피지컬 AI로 엣지향 NPU 패러다임 변환",
+      "과기정통부·산업부",
+      "’25~"
+    ],
+    [
+      "",
+      "ㅇ PIM 핵심기술 개발로 초저전력 NPU+PIM 구조 조기 구현",
+      "과기정통부",
+      "’25~"
+    ],
+    [
+      "",
+      "ㅇ 인간 뇌를 모사한 초저전력 뉴로모픽 AI반도체 개발",
+      "과기정통부",
+      "’25~"
+    ],
+    [
+      "1-󰊳 국가 AX 전면화에 대비한 AI컴퓨팅 인프라 기술자립화 달성",
+      "",
+      "",
+      ""
+    ],
+    [
+      "",
+      "ㅇ 국산 AI반도체 기반 AI컴퓨팅 인프라 스케일업 역량 확보",
+      "과기정통부",
+      "’25~"
+    ],
+    [
+      "",
+      "ㅇ CUDA에 대응하는 개방형 K-NPU SW 생태계 구축",
+      "과기정통부",
+      "’25~"
+    ],
+    [
+      "",
+      "ㅇ ‘K-Perf’와 연계한 상용 서비스 수준 검증 추진",
+      "과기정통부",
+      "’26~"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 1,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 4
+    },
+    {
+      "row_index": 3,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 4
+    },
+    {
+      "row_index": 7,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 4
+    },
+    {
+      "row_index": 8,
+      "col_index": 0,
+      "row_span": 3,
+      "col_span": 1
+    },
+    {
+      "row_index": 11,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 4
+    },
+    {
+      "row_index": 12,
+      "col_index": 0,
+      "row_span": 3,
+      "col_span": 1
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2029487620",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

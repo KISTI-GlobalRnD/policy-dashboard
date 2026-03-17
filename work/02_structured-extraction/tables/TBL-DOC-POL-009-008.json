@@ -1,0 +1,40 @@
+{
+  "table_id": "TBL-DOC-POL-009-008",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 40,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "비전",
+      "",
+      "다양성과 수월성의 두 날개로 미래를 여는 기초연구"
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "목표",
+      "",
+      "“2030년 세계 5대 기초연구 강국으로 도약”\n (투입) 기초연구 수혜율: (’24년) 19.5 → (’30년) 30%\n (우수인력) HCR 연구자(명): (’25년) 54 → (’30년) 100 ※ 기초연구 수혜자 기준\n (학술영예) 세계 최고 학술상(노벨상, 울프상, 튜링상 등) 수상자 배출(’30년)\n※ 보조지표: 국제학회·단체(NAS, Royal Society, IEEE, ACM 등)의 Fellow 규모\n (우수기관) Nature Index 상위 100위 대학: (’25년) 2 → (’30년) 5"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747425",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

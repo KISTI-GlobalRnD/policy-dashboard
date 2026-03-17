@@ -1,0 +1,26 @@
+{
+  "run_date": "2026-03-16",
+  "registry_path": "work/01_scope-and-ia/requirements/04_document-registry.csv",
+  "target_count": 1,
+  "completed_like_count": 0,
+  "skipped_existing_count": 1,
+  "failed_count": 0,
+  "missing_source_count": 0,
+  "documents": [
+    {
+      "document_id": "DOC-CTX-005",
+      "title": "기술분야 개요 에너지",
+      "doc_role": "context_note",
+      "source_format": "pdf",
+      "source_file": "data/260313_기술분야 개요/기술분야_개요_에너지.pdf",
+      "extraction_mode": "existing",
+      "run_status": "skipped_existing",
+      "page_count": 1,
+      "text_layer_pages": "",
+      "evidence_units": 22,
+      "tables": 0,
+      "figures": "",
+      "notes": "기술분야 설명 자료"
+    }
+  ]
+}

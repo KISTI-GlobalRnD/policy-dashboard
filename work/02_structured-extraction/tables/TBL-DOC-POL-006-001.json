@@ -1,0 +1,29 @@
+{
+  "table_id": "TBL-DOC-POL-006-001",
+  "document_id": "DOC-POL-006",
+  "page_no_or_sheet_name": 2,
+  "block_order": 34,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "Ⅰ",
+      "추진배경"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": [
+    72.94453379313151,
+    106.323974609375,
+    195.55543060302733,
+    133.53399658203125
+  ],
+  "extraction_confidence": "medium",
+  "extraction_method": "pymupdf-find_tables"
+}

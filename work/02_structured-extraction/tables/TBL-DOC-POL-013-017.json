@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-013-017",
+  "document_id": "DOC-POL-013",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 42,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "3. 육성 또는 보호 대상에 대한 실질적 지원 강화"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2099487077",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

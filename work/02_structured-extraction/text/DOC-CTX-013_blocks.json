@@ -1,0 +1,70 @@
+[
+  {
+    "evidence_id": "EVD-DOC-CTX-013-00001",
+    "document_id": "DOC-CTX-013",
+    "page_no_or_sheet_name": 1,
+    "block_order": 1,
+    "block_type": "text_block",
+    "text": "첨단 로봇·제조",
+    "bbox": [
+      16.520000457763672,
+      9.702022552490234,
+      110.5999984741211,
+      23.727983474731445
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-013-00002",
+    "document_id": "DOC-CTX-013",
+    "page_no_or_sheet_name": 1,
+    "block_order": 2,
+    "block_type": "text_block",
+    "text": "□ 로봇산업 핵심부품 자립화, 로봇 SW 실증 지원 강화",
+    "bbox": [
+      11.479999542236328,
+      32.142024993896484,
+      371.6000061035156,
+      46.16798400878906
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-013-00003",
+    "document_id": "DOC-CTX-013",
+    "page_no_or_sheet_name": 1,
+    "block_order": 3,
+    "block_type": "text_block",
+    "text": "○ 로봇산업 핵심부품(감속기, 모터, 센서 등) 기술자립화를 바탕으로 첨단",
+    "bbox": [
+      11.479999542236328,
+      53.079994201660156,
+      477.43994140625,
+      69.92799377441406
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  },
+  {
+    "evidence_id": "EVD-DOC-CTX-013-00004",
+    "document_id": "DOC-CTX-013",
+    "page_no_or_sheet_name": 1,
+    "block_order": 4,
+    "block_type": "text_block",
+    "text": "로봇 개발 확대 및 실증용 대규모 테스트 지원 시스템 구축\n    ※ △산업로봇산업기술개발 1,174억원, △산업국가로봇테스트필드 56억원 등",
+    "bbox": [
+      11.479999542236328,
+      75.58203125,
+      423.0806579589844,
+      107.07999420166016
+    ],
+    "extraction_method": "pymupdf-text-dict-sort",
+    "extraction_confidence": "high",
+    "page_no": 1
+  }
+]

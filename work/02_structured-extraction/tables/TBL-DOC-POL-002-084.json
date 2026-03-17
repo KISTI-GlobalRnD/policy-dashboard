@@ -1,0 +1,53 @@
+{
+  "table_id": "TBL-DOC-POL-002-084",
+  "document_id": "DOC-POL-002",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 376,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "",
+      "✔ 가칭「바이오데이터 활용 및 인공지능바이오 연구개발 촉진에 관한 법률」 주요내용",
+      ""
+    ],
+    [
+      "",
+      "",
+      ""
+    ],
+    [
+      "• (바이오데이터 활용 지원) 데이터 생성, 수집, 연계 등에 대한 표준을 제정하고, 국가바이오데이터통합시스템(K-BDS) 중심의 데이터 집적 근거* 마련\n* 국가연구개발사업 데이터 등록 의무화, Negative Data(비교·대조 데이터)도 등록대상에 포함\n• (AI 바이오 진흥) AI를 활용한 바이오 新기술, 新산업 창출 가능성을 고려하여 핵심 기술을 선별하고, 관련 연구를 체계적으로 지원*\n* 기술지도(地圖) 작성 및 대상 기술 우선지원, 자율실험실 구축, 선도사업 지정 및 GPU 등 우선할당, 규제특례 적용을 통한 미개방데이터 활용지원 등\n• (인체유래데이터) 과학적 연구에 대한 심의절차 간소화 등 규정",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 0,
+      "row_span": 1,
+      "col_span": 3
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2021971516",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

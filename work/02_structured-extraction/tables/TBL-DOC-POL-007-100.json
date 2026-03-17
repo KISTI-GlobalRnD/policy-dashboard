@@ -1,0 +1,33 @@
+{
+  "table_id": "TBL-DOC-POL-007-100",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 397,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 2,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "AI반도체\n혁신연구소",
+      "▪AI반도체 대·중소·팹리스 기업과 대학이 연계하여 연구·교육과정을 운영하는 AI반도체 혁신연구소(’25~) 확대(’25. 2개* → ’26. 4개)\n* (’25) 성균관대, 연세대"
+    ],
+    [
+      "대학\nICT연구센터",
+      "▪6개의 AI반도체 연구센터(’20~)에서 프로젝트 중심 연구 수행 등을 통해 총 860명 이상 양성 추진(~’30)\n※ ’26년 일반 5개, 지역소형 1개 센터 등 총 220명 양성"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654574",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

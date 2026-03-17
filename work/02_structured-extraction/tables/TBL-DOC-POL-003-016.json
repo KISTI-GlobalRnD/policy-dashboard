@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-003-016",
+  "document_id": "DOC-POL-003",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 46,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "￭ (구성) AI 팩토리, 휴머노이드, 자율주행차, 자율운항선박 등 10개 분과로 구성\n￭ (참여) 각 분과별로 핵심 제조·부품 기업, AI 개발 기업, 학계·연구기관 등 참여\n￭ (기능) 업종별 데이터 공유 및 표준화, 특화 AI 모델 공동 개발 및 실증 협력"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2009609944",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

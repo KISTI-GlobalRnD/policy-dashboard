@@ -1,0 +1,46 @@
+{
+  "table_id": "TBL-DOC-POL-010-012",
+  "document_id": "DOC-POL-010",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 59,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 5
+  },
+  "cell_matrix": [
+    [
+      "",
+      "명목GDP",
+      "국가R&D 규모",
+      "정부R&D 예산",
+      "R&D 집행부처"
+    ],
+    [
+      "1996년",
+      "507조원",
+      "10.9조원",
+      "2.4조원",
+      "16개"
+    ],
+    [
+      "2025년",
+      "2,556조원(’24년)",
+      "119조원(’23년)",
+      "29.6조원",
+      "32개"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2022564310",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

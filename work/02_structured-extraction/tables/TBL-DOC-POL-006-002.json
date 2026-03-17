@@ -1,0 +1,29 @@
+{
+  "table_id": "TBL-DOC-POL-006-002",
+  "document_id": "DOC-POL-006",
+  "page_no_or_sheet_name": 3,
+  "block_order": 58,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "Ⅲ",
+      "목표 및 추진"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": [
+    72.965500831604,
+    282.531005859375,
+    209.3942899806525,
+    309.86102294921875
+  ],
+  "extraction_confidence": "medium",
+  "extraction_method": "pymupdf-find_tables"
+}

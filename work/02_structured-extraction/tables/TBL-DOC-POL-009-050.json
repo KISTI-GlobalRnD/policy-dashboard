@@ -1,0 +1,116 @@
+{
+  "table_id": "TBL-DOC-POL-009-050",
+  "document_id": "DOC-POL-009",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 224,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 7,
+    "cols": 4
+  },
+  "cell_matrix": [
+    [
+      "구분",
+      "기본연구 (과기정통부)",
+      "",
+      "기본연구 (교육부)"
+    ],
+    [
+      "",
+      "기본연구 A",
+      "기본연구 B",
+      ""
+    ],
+    [
+      "지원대상",
+      "전임 교원",
+      "",
+      "비전임 교원"
+    ],
+    [
+      "지원규모",
+      "0.5억원 이내",
+      "0.7억원 이내",
+      "0.6억원 이내"
+    ],
+    [
+      "지원기간",
+      "1~5년",
+      "",
+      "1~3년"
+    ],
+    [
+      "우대조건",
+      "생애 첫, 경력 단절 연구자 가점 부여",
+      "-",
+      "-"
+    ],
+    [
+      "",
+      "전체 과제 中 지방 소재 우수 연구자 비율 40% 이상 선정",
+      "",
+      ""
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 0,
+      "col_index": 3,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 5,
+      "col_index": 0,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 5,
+      "col_index": 3,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 6,
+      "col_index": 1,
+      "row_span": 1,
+      "col_span": 2
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2027747570",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

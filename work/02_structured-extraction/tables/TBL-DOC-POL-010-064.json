@@ -1,0 +1,40 @@
+{
+  "table_id": "TBL-DOC-POL-010-064",
+  "document_id": "DOC-POL-010",
+  "page_no_or_sheet_name": "section7",
+  "block_order": 252,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      "",
+      "대 상",
+      "정년 후 연구"
+    ],
+    [
+      "우수연구원",
+      "책임연구원 7년 이상 근속, 개인 평점 4.0 이상",
+      "정년 4년 연장(61세→65세)"
+    ],
+    [
+      "정년후재고용",
+      "5년 이상 근속, 개인 평점 2.5점 이상",
+      "재고용(최대 1~4년)"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2022564473",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

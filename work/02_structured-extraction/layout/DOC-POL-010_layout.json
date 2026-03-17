@@ -1,0 +1,59 @@
+{
+  "document_id": "DOC-POL-010",
+  "sections": [
+    {
+      "section_name": "section0",
+      "source_path": "Contents/section0.xml",
+      "page_width": "59528",
+      "page_height": "84188"
+    },
+    {
+      "section_name": "section1",
+      "source_path": "Contents/section1.xml",
+      "page_width": "59528",
+      "page_height": "84188"
+    },
+    {
+      "section_name": "section2",
+      "source_path": "Contents/section2.xml",
+      "page_width": "59528",
+      "page_height": "84188"
+    },
+    {
+      "section_name": "section3",
+      "source_path": "Contents/section3.xml",
+      "page_width": "59528",
+      "page_height": "84188"
+    },
+    {
+      "section_name": "section4",
+      "source_path": "Contents/section4.xml",
+      "page_width": "59528",
+      "page_height": "84188"
+    },
+    {
+      "section_name": "section5",
+      "source_path": "Contents/section5.xml",
+      "page_width": "59528",
+      "page_height": "84188"
+    },
+    {
+      "section_name": "section6",
+      "source_path": "Contents/section6.xml",
+      "page_width": "59528",
+      "page_height": "84188"
+    },
+    {
+      "section_name": "section7",
+      "source_path": "Contents/section7.xml",
+      "page_width": "59528",
+      "page_height": "84188"
+    },
+    {
+      "section_name": "section8",
+      "source_path": "Contents/section8.xml",
+      "page_width": "59528",
+      "page_height": "84188"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "figure_id": "FIG-DOC-POL-009-003",
+  "document_id": "DOC-POL-009",
+  "page_no": null,
+  "page_no_or_sheet_name": "section4",
+  "block_order": 79,
+  "figure_type": "image",
+  "caption": "",
+  "legend_text": "",
+  "summary": "",
+  "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-009/image3.bmp",
+  "source_bbox": null,
+  "extraction_confidence": "medium",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "0",
+  "parent_table_id": "TBL-DOC-POL-009-014",
+  "binary_item_id": "image3",
+  "internal_asset_path": "BinData/image3.bmp"
+}

@@ -1,0 +1,36 @@
+{
+  "table_id": "TBL-DOC-POL-006-017",
+  "document_id": "DOC-POL-006",
+  "page_no_or_sheet_name": 26,
+  "block_order": 698,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 9
+  },
+  "cell_matrix": [
+    [
+      "미\n국",
+      "연구개발",
+      "사용\n*위\n시험검사\n제품\n현",
+      "적합성평가\n해 가능한\n대상, 미국\n※\n지 환경 요구",
+      "(시판 전\n허가\n임상시험)\n(기술\n510(K) 미해당",
+      "·심사\n문서)",
+      "의료기술평가\n*보험사(주로\nCMS) 요청시",
+      "보험등재\n*실제 임상 근거를 통한\n가치 입증 필요",
+      "사후관리"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": [
+    77.64266798231337,
+    588.916015625,
+    516.5197773809018,
+    633.243212890625
+  ],
+  "extraction_confidence": "medium",
+  "extraction_method": "pymupdf-find_tables"
+}

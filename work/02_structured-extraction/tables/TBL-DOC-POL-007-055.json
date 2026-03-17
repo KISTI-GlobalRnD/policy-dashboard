@@ -1,0 +1,28 @@
+{
+  "table_id": "TBL-DOC-POL-007-055",
+  "document_id": "DOC-POL-007",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 207,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "◈ 독자 AI 파운데이션 모델 기반의 국가 AI 혁신을 안정적으로 지원하며, 피지컬AI 시대를 대비한 맞춤형 개발·상용화 지원으로 미래 시장 선도\n- 단기(’26~‘27)적으로 기술 고도화와 집중 투자로 도약 기반을 구축하고, 중장기(~’30)적으로 차세대 기술로 전환하여 글로벌 시장 경쟁력 확보"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2028654468",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

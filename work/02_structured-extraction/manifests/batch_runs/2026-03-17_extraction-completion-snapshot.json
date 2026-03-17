@@ -1,0 +1,668 @@
+{
+  "run_date": "2026-03-17",
+  "document_count": 37,
+  "completed_count": 37,
+  "status_counts": {
+    "completed": 37
+  },
+  "source_backed_document_count": 37,
+  "source_backed_completed_count": 37,
+  "proxy_document_count": 0,
+  "proxy_documents": [],
+  "ocr_curated_document_count": 5,
+  "ocr_curated_documents": [
+    "DOC-CTX-002",
+    "DOC-CTX-003",
+    "DOC-CTX-004",
+    "DOC-REF-001",
+    "DOC-REF-002"
+  ],
+  "source_format_counts": {
+    "pdf": 25,
+    "xlsx": 1,
+    "hwpx": 11
+  },
+  "extraction_run_counts": {
+    "pilot-gs-001-korean-ocr-v2": 5,
+    "pilot-gs-004-v1": 1,
+    "pilot-gs-002-v3": 17,
+    "pilot-gs-003-v1": 11,
+    "pilot-gs-002-v2": 3
+  },
+  "total_table_artifact_count": 830,
+  "total_substantive_table_artifact_count": 93,
+  "table_artifact_class_counts": {
+    "structured_table": 93,
+    "markdown_only_candidate": 117,
+    "layout_false_positive": 541,
+    "review_required": 79
+  },
+  "table_artifact_classified_count": 830,
+  "table_artifact_unclassified_count": 0,
+  "total_figure_artifact_count": 430,
+  "documents": [
+    {
+      "document_id": "DOC-REF-001",
+      "title": "정책-항목 구성(안)",
+      "doc_role": "working_note",
+      "scope_track": "support",
+      "include_status": "support",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-001-korean-ocr-v2",
+      "table_count": 12,
+      "substantive_table_count": 12,
+      "table_class_counts": {
+        "structured_table": 12
+      },
+      "figure_count": 12,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-REF-002",
+      "title": "정책기술분야별 재구성(안)",
+      "doc_role": "working_note",
+      "scope_track": "support",
+      "include_status": "support",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-001-korean-ocr-v2",
+      "table_count": 3,
+      "substantive_table_count": 3,
+      "table_class_counts": {
+        "structured_table": 3
+      },
+      "figure_count": 1,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-TAX-001",
+      "title": "중장기투자전략 세부기술분야별 중분류",
+      "doc_role": "taxonomy_source",
+      "scope_track": "support",
+      "include_status": "support",
+      "source_format": "xlsx",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-004-v1",
+      "table_count": 0,
+      "substantive_table_count": 0,
+      "table_class_counts": {},
+      "figure_count": 0,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-POL-001",
+      "title": "123대 국정과제",
+      "doc_role": "policy_source",
+      "scope_track": "phase1",
+      "include_status": "include",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-002-v3",
+      "table_count": 6,
+      "substantive_table_count": 0,
+      "table_class_counts": {
+        "markdown_only_candidate": 6
+      },
+      "figure_count": 1,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-POL-002",
+      "title": "AI-바이오 국가전략",
+      "doc_role": "policy_source",
+      "scope_track": "phase1",
+      "include_status": "include",
+      "source_format": "hwpx",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-003-v1",
+      "table_count": 94,
+      "substantive_table_count": 11,
+      "table_class_counts": {
+        "layout_false_positive": 60,
+        "structured_table": 11,
+        "review_required": 23
+      },
+      "figure_count": 62,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-POL-003",
+      "title": "제조AX 추진방향",
+      "doc_role": "policy_source",
+      "scope_track": "phase1",
+      "include_status": "include",
+      "source_format": "hwpx",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-003-v1",
+      "table_count": 41,
+      "substantive_table_count": 2,
+      "table_class_counts": {
+        "layout_false_positive": 33,
+        "review_required": 6,
+        "structured_table": 2
+      },
+      "figure_count": 10,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-POL-004",
+      "title": "과학기술xAI 국가전략",
+      "doc_role": "policy_source",
+      "scope_track": "phase1",
+      "include_status": "include",
+      "source_format": "hwpx",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-003-v1",
+      "table_count": 54,
+      "substantive_table_count": 4,
+      "table_class_counts": {
+        "layout_false_positive": 46,
+        "review_required": 4,
+        "structured_table": 4
+      },
+      "figure_count": 27,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-POL-005",
+      "title": "연구개발 생태계 혁신방안",
+      "doc_role": "policy_source",
+      "scope_track": "phase1",
+      "include_status": "include",
+      "source_format": "hwpx",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-003-v1",
+      "table_count": 83,
+      "substantive_table_count": 16,
+      "table_class_counts": {
+        "layout_false_positive": 61,
+        "structured_table": 16,
+        "review_required": 6
+      },
+      "figure_count": 127,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-POL-006",
+      "title": "초혁신경제 15대 프로젝트 추진계획",
+      "doc_role": "policy_source",
+      "scope_track": "phase1",
+      "include_status": "include",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-002-v3",
+      "table_count": 10,
+      "substantive_table_count": 0,
+      "table_class_counts": {
+        "markdown_only_candidate": 10
+      },
+      "figure_count": 6,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-POL-007",
+      "title": "AI반도체 산업 도약 전략",
+      "doc_role": "policy_source",
+      "scope_track": "phase1",
+      "include_status": "include",
+      "source_format": "hwpx",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-003-v1",
+      "table_count": 108,
+      "substantive_table_count": 9,
+      "table_class_counts": {
+        "layout_false_positive": 88,
+        "structured_table": 9,
+        "review_required": 11
+      },
+      "figure_count": 56,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-POL-008",
+      "title": "민간투자연계, 팁스 R&D 확산방안",
+      "doc_role": "policy_source",
+      "scope_track": "phase1",
+      "include_status": "include",
+      "source_format": "hwpx",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-003-v1",
+      "table_count": 28,
+      "substantive_table_count": 4,
+      "table_class_counts": {
+        "layout_false_positive": 20,
+        "review_required": 4,
+        "structured_table": 4
+      },
+      "figure_count": 2,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-POL-009",
+      "title": "기초연구 생태계 육성 방안",
+      "doc_role": "policy_source",
+      "scope_track": "phase1",
+      "include_status": "include",
+      "source_format": "hwpx",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-003-v1",
+      "table_count": 94,
+      "substantive_table_count": 14,
+      "table_class_counts": {
+        "layout_false_positive": 75,
+        "review_required": 5,
+        "structured_table": 14
+      },
+      "figure_count": 27,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-POL-010",
+      "title": "과학기술분야 출연(연) 정책방향",
+      "doc_role": "policy_source",
+      "scope_track": "phase1",
+      "include_status": "include",
+      "source_format": "hwpx",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-003-v1",
+      "table_count": 76,
+      "substantive_table_count": 5,
+      "table_class_counts": {
+        "layout_false_positive": 65,
+        "review_required": 6,
+        "structured_table": 5
+      },
+      "figure_count": 34,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-POL-011",
+      "title": "AI시대 대한민국 네트워크 전략",
+      "doc_role": "policy_source",
+      "scope_track": "phase1",
+      "include_status": "include",
+      "source_format": "hwpx",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-003-v1",
+      "table_count": 19,
+      "substantive_table_count": 3,
+      "table_class_counts": {
+        "layout_false_positive": 13,
+        "review_required": 3,
+        "structured_table": 3
+      },
+      "figure_count": 8,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-POL-012",
+      "title": "정부 AX사업 전주기 원스톱 지원방안",
+      "doc_role": "policy_source",
+      "scope_track": "phase1",
+      "include_status": "include",
+      "source_format": "hwpx",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-003-v1",
+      "table_count": 44,
+      "substantive_table_count": 3,
+      "table_class_counts": {
+        "layout_false_positive": 36,
+        "review_required": 5,
+        "structured_table": 3
+      },
+      "figure_count": 3,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-POL-013",
+      "title": "범부처 기술관리체계 정비 및 협업 강화 방향",
+      "doc_role": "policy_source",
+      "scope_track": "phase2",
+      "include_status": "hold",
+      "source_format": "hwpx",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-003-v1",
+      "table_count": 54,
+      "substantive_table_count": 4,
+      "table_class_counts": {
+        "layout_false_positive": 44,
+        "review_required": 6,
+        "structured_table": 4
+      },
+      "figure_count": 30,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-POL-014",
+      "title": "더불어민주당 정책공약집",
+      "doc_role": "policy_source",
+      "scope_track": "phase2",
+      "include_status": "hold",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-002-v3",
+      "table_count": 0,
+      "substantive_table_count": 0,
+      "table_class_counts": {},
+      "figure_count": 10,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-BMK-001",
+      "title": "일본 통합혁신전략 2025 본문 영어본",
+      "doc_role": "benchmark_source",
+      "scope_track": "phase2",
+      "include_status": "hold",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-002-v3",
+      "table_count": 0,
+      "substantive_table_count": 0,
+      "table_class_counts": {},
+      "figure_count": 0,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-BMK-002",
+      "title": "EU Horizon Europe Regulation",
+      "doc_role": "benchmark_source",
+      "scope_track": "phase2",
+      "include_status": "hold",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-002-v3",
+      "table_count": 3,
+      "substantive_table_count": 0,
+      "table_class_counts": {
+        "markdown_only_candidate": 3
+      },
+      "figure_count": 0,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-BMK-003",
+      "title": "EU Horizon Europe Strategic Plan 2025-2027",
+      "doc_role": "benchmark_source",
+      "scope_track": "phase2",
+      "include_status": "hold",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-002-v3",
+      "table_count": 0,
+      "substantive_table_count": 0,
+      "table_class_counts": {},
+      "figure_count": 4,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-BMK-004",
+      "title": "미국 Genesis Mission",
+      "doc_role": "benchmark_source",
+      "scope_track": "phase2",
+      "include_status": "hold",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-002-v3",
+      "table_count": 0,
+      "substantive_table_count": 0,
+      "table_class_counts": {},
+      "figure_count": 2,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-BMK-005",
+      "title": "중국 제15차 5개년 규획 초안",
+      "doc_role": "benchmark_source",
+      "scope_track": "phase2",
+      "include_status": "hold",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-002-v3",
+      "table_count": 2,
+      "substantive_table_count": 0,
+      "table_class_counts": {
+        "markdown_only_candidate": 2
+      },
+      "figure_count": 3,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-BMK-006",
+      "title": "일본 통합혁신전략 2025 원문",
+      "doc_role": "benchmark_source",
+      "scope_track": "phase2",
+      "include_status": "hold",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-002-v3",
+      "table_count": 94,
+      "substantive_table_count": 0,
+      "table_class_counts": {
+        "markdown_only_candidate": 94
+      },
+      "figure_count": 0,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-CTX-001",
+      "title": "기술분야 개요 국방",
+      "doc_role": "context_note",
+      "scope_track": "support",
+      "include_status": "support",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-002-v2",
+      "table_count": 0,
+      "substantive_table_count": 0,
+      "table_class_counts": {},
+      "figure_count": 0,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-CTX-002",
+      "title": "기술분야 개요 사이버보안",
+      "doc_role": "context_note",
+      "scope_track": "support",
+      "include_status": "support",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-001-korean-ocr-v2",
+      "table_count": 1,
+      "substantive_table_count": 1,
+      "table_class_counts": {
+        "structured_table": 1
+      },
+      "figure_count": 1,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-CTX-003",
+      "title": "기술분야 개요 소재",
+      "doc_role": "context_note",
+      "scope_track": "support",
+      "include_status": "support",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-001-korean-ocr-v2",
+      "table_count": 1,
+      "substantive_table_count": 1,
+      "table_class_counts": {
+        "structured_table": 1
+      },
+      "figure_count": 1,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-CTX-004",
+      "title": "기술분야 개요 양자",
+      "doc_role": "context_note",
+      "scope_track": "support",
+      "include_status": "support",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-001-korean-ocr-v2",
+      "table_count": 1,
+      "substantive_table_count": 1,
+      "table_class_counts": {
+        "structured_table": 1
+      },
+      "figure_count": 1,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-CTX-005",
+      "title": "기술분야 개요 에너지",
+      "doc_role": "context_note",
+      "scope_track": "support",
+      "include_status": "support",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-002-v3",
+      "table_count": 0,
+      "substantive_table_count": 0,
+      "table_class_counts": {},
+      "figure_count": 0,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-CTX-006",
+      "title": "기술분야 개요 우주항공",
+      "doc_role": "context_note",
+      "scope_track": "support",
+      "include_status": "support",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-002-v3",
+      "table_count": 0,
+      "substantive_table_count": 0,
+      "table_class_counts": {},
+      "figure_count": 0,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-CTX-007",
+      "title": "기술분야 개요 이차전지",
+      "doc_role": "context_note",
+      "scope_track": "support",
+      "include_status": "support",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-002-v3",
+      "table_count": 0,
+      "substantive_table_count": 0,
+      "table_class_counts": {},
+      "figure_count": 0,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-CTX-008",
+      "title": "기술분야 개요 차세대통신",
+      "doc_role": "context_note",
+      "scope_track": "support",
+      "include_status": "support",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-002-v2",
+      "table_count": 1,
+      "substantive_table_count": 0,
+      "table_class_counts": {
+        "markdown_only_candidate": 1
+      },
+      "figure_count": 0,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-CTX-009",
+      "title": "기술분야 개요 첨단모빌리티",
+      "doc_role": "context_note",
+      "scope_track": "support",
+      "include_status": "support",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-002-v2",
+      "table_count": 1,
+      "substantive_table_count": 0,
+      "table_class_counts": {
+        "markdown_only_candidate": 1
+      },
+      "figure_count": 1,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-CTX-010",
+      "title": "기술분야 개요 첨단바이오",
+      "doc_role": "context_note",
+      "scope_track": "support",
+      "include_status": "support",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-002-v3",
+      "table_count": 0,
+      "substantive_table_count": 0,
+      "table_class_counts": {},
+      "figure_count": 1,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-CTX-011",
+      "title": "기술분야 개요 해양",
+      "doc_role": "context_note",
+      "scope_track": "support",
+      "include_status": "support",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-002-v3",
+      "table_count": 0,
+      "substantive_table_count": 0,
+      "table_class_counts": {},
+      "figure_count": 0,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-CTX-012",
+      "title": "기술분야 개요 인공지능",
+      "doc_role": "context_note",
+      "scope_track": "support",
+      "include_status": "support",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-002-v3",
+      "table_count": 0,
+      "substantive_table_count": 0,
+      "table_class_counts": {},
+      "figure_count": 0,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-CTX-013",
+      "title": "기술분야 개요 첨단로봇제조",
+      "doc_role": "context_note",
+      "scope_track": "support",
+      "include_status": "support",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-002-v3",
+      "table_count": 0,
+      "substantive_table_count": 0,
+      "table_class_counts": {},
+      "figure_count": 0,
+      "proxy_note": false
+    },
+    {
+      "document_id": "DOC-CTX-014",
+      "title": "기술분야 개요 반도체디스플레이",
+      "doc_role": "context_note",
+      "scope_track": "support",
+      "include_status": "support",
+      "source_format": "pdf",
+      "processing_status": "completed",
+      "extraction_run_id": "pilot-gs-002-v3",
+      "table_count": 0,
+      "substantive_table_count": 0,
+      "table_class_counts": {},
+      "figure_count": 0,
+      "proxy_note": false
+    }
+  ]
+}

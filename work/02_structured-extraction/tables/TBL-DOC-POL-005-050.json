@@ -1,0 +1,37 @@
+{
+  "table_id": "TBL-DOC-POL-005-050",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section5",
+  "block_order": 233,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 3,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "구 분",
+      "예시(안)"
+    ],
+    [
+      "평가수당\n현실화",
+      "· 평가수당 현실화 등 R&D 평가의 책임에 상응하는 보상체계를 마련하기 위해 전문기관의 기획평가관리비 등을 활용하여, 평가 수당 현실화 추진\n* 평가면제 및 간소화를 통해 일부 재원 확보 가능\n* 관리 R&D사업 예산 대비 기획평가비 비중: 한국 2.0%(연구관리전문기관 관리대상 18.3조원 중), 美 NSF 3.38%, 英 NIHR 7.81%"
+    ],
+    [
+      "우수 평가위원\n인센티브",
+      "· 전문성·공정성·성실성 및 참여도를 기준으로 우수 평가위원을 선정하고,\n우수자 대상으로 정부포상 등 인센티브 제공"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002903287",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

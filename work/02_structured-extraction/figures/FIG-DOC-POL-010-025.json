@@ -1,0 +1,19 @@
+{
+  "figure_id": "FIG-DOC-POL-010-025",
+  "document_id": "DOC-POL-010",
+  "page_no": null,
+  "page_no_or_sheet_name": "section7",
+  "block_order": 86,
+  "figure_type": "image",
+  "caption": "그림입니다.\n원본 그림의 이름: (한국핵융합에너지연구원)-CI.jpg\n원본 그림의 크기: 가로 362pixel, 세로 61pixel",
+  "legend_text": "",
+  "summary": "(한국핵융합에너지연구원)-CI.jpg",
+  "asset_path": "work/02_structured-extraction/figures/assets/DOC-POL-010/image26.jpg",
+  "source_bbox": null,
+  "extraction_confidence": "medium",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "parent_table_id": "TBL-DOC-POL-010-015",
+  "binary_item_id": "image26",
+  "internal_asset_path": "BinData/image26.jpg"
+}

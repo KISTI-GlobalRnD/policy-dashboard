@@ -1,0 +1,71 @@
+{
+  "table_id": "TBL-DOC-POL-013-047",
+  "document_id": "DOC-POL-013",
+  "page_no_or_sheet_name": "section8",
+  "block_order": 217,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 1,
+    "cols": 1
+  },
+  "cell_matrix": [
+    [
+      "시설투자(%)"
+    ]
+  ],
+  "merged_cell_info": [
+    {
+      "row_index": 2,
+      "col_index": 1,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 3,
+      "col_index": 1,
+      "row_span": 1,
+      "col_span": 2
+    },
+    {
+      "row_index": 0,
+      "col_index": 0,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 0,
+      "col_index": 1,
+      "row_span": 1,
+      "col_span": 3
+    },
+    {
+      "row_index": 0,
+      "col_index": 4,
+      "row_span": 2,
+      "col_span": 1
+    },
+    {
+      "row_index": 2,
+      "col_index": 4,
+      "row_span": 3,
+      "col_span": 1
+    },
+    {
+      "row_index": 4,
+      "col_index": 1,
+      "row_span": 1,
+      "col_span": 2
+    }
+  ],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2099487454",
+  "repeat_header": "1",
+  "treat_as_char": "0",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

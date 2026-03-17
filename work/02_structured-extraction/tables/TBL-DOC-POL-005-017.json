@@ -1,0 +1,41 @@
+{
+  "table_id": "TBL-DOC-POL-005-017",
+  "document_id": "DOC-POL-005",
+  "page_no_or_sheet_name": "section2",
+  "block_order": 57,
+  "table_title": "",
+  "header_rows": [
+    1
+  ],
+  "table_shape": {
+    "rows": 4,
+    "cols": 2
+  },
+  "cell_matrix": [
+    [
+      "구 분",
+      "주요 내용"
+    ],
+    [
+      "개방형 기획",
+      "‣ 학계과총(학회) 참여 기획협의체 운영, 산업계분야별 민관협의체 운영 등 개방형 기획체계로 전환"
+    ],
+    [
+      "AI적용",
+      "‣ 예산심의, 평가관리 등 R&D 프로세스 전반에 AI를 적용하여 효율화지능화"
+    ],
+    [
+      "연구관리체계",
+      "‣ 전략기술 선점을 위한 범부처 메가 프로젝트(NEXT 프로젝트) 추진 및 도전혁신적 관리방식 도입"
+    ]
+  ],
+  "merged_cell_info": [],
+  "source_bbox": null,
+  "extraction_confidence": "high",
+  "extraction_method": "hwpx-xml-parser",
+  "paragraph_id": "2147483648",
+  "source_table_id": "2002033825",
+  "repeat_header": "1",
+  "treat_as_char": "1",
+  "text_wrap": "TOP_AND_BOTTOM"
+}

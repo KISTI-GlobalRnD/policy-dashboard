@@ -1,0 +1,24 @@
+{
+  "document_id": "DOC-POL-006-HWPX",
+  "registry_id": "DOC-POL-006",
+  "source_rel_path": "data/260312_12개 정책 문헌 자료/251216_(안건) 초혁신경제 15대 프로젝트 추진계획 IV.hwpx",
+  "internal_path": "",
+  "source_format": "hwpx",
+  "extraction_run_id": "pilot-gs-003-v1",
+  "page_count_or_sheet_count": 1,
+  "processing_status": "completed",
+  "quality_notes": [
+    "HWPX extracted from the outer ZIP archive.",
+    "Only top-level paragraphs were treated as body blocks to avoid nested table duplication.",
+    "Page numbers were not reconstructed; section and block order are used as provenance."
+  ],
+  "text_path": "work/02_structured-extraction/text/DOC-POL-006-HWPX_blocks.json",
+  "layout_path": "work/02_structured-extraction/layout/DOC-POL-006-HWPX_layout.json",
+  "tables": [],
+  "figures": [],
+  "counts": {
+    "evidence_units": 494,
+    "tables": 0,
+    "figures": 0
+  }
+}
