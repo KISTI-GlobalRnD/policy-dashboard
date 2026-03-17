@@ -1,0 +1,1936 @@
+{
+  "sample_scope": {
+    "pack_id": "content-evidence-sample-pack-2026-03-14",
+    "contract_level": "manual_sample_reference",
+    "strict_implementation_contract": false,
+    "generated_from": "current_raw_policy_items",
+    "purpose": "Provide a small manual sample of the policy group-content-evidence structure for dashboard prototyping and ontology discussion.",
+    "intended_uses": [
+      "Dashboard drill-down prototyping for group-content-evidence navigation",
+      "Ontology discussion around PolicyItemGroup and PolicyItemContent shape",
+      "Reference example for how multiple raw policy_items can be grouped into one curated item"
+    ],
+    "non_goals": [
+      "Authoritative full-policy curation",
+      "Strict implementation contract for every evidence object type",
+      "Replacement for source asset master or derived_to_source_asset_map validation"
+    ],
+    "coverage": {
+      "included_representation_types": [
+        "canonical_table",
+        "figure_or_diagram",
+        "normalized_paragraph"
+      ],
+      "included_taxonomy_types": [
+        "strategy",
+        "tech_domain",
+        "tech_subdomain"
+      ],
+      "omitted_example_types": []
+    },
+    "traceability_basis": "Each evidence.source_assets array is copied from the current derived_to_source_asset_map source used at build time for the same derived_representation_id.",
+    "limitations": [
+      "This pack is a manual sample, not an authoritative full curation layer.",
+      "Current sample evidence is still paragraph-first; it includes one canonical_table example and one figure example.",
+      "Current sample taxonomy examples include strategy, tech_domain, and tech_subdomain, but not every group is exhaustively curated.",
+      "Use ontology master tables and validation outputs for strict traceability checks."
+    ],
+    "policy_count": 3,
+    "group_count": 10,
+    "content_count": 19
+  },
+  "policies": [
+    {
+      "policy_id": "POL-002",
+      "policy_name": "AI-바이오 국가전략",
+      "buckets": [
+        {
+          "policy_bucket_id": "PBK-POL-002-01",
+          "resource_category_id": "technology",
+          "resource_category_label": "기술",
+          "groups": [
+            {
+              "policy_item_group_id": "PIG-POL-002-01",
+              "group_label": "국가 AI 바이오 연구소 및 파운데이션 모델",
+              "group_summary": "국가 연구거점을 중심으로 바이오 파운데이션 모델을 구축·개방하는 대표 묶음",
+              "group_description": "국가 AI 바이오 연구소 설립과 범용 바이오 파운데이션 모델 구축을 하나의 대표 항목으로 묶은 샘플 큐레이션이다.",
+              "taxonomies": [
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-003",
+                  "label": "바이오·헬스 글로벌 중심국가 도약",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-001",
+                  "label": "인공지능",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-011",
+                  "label": "첨단바이오",
+                  "is_primary": false
+                },
+                {
+                  "taxonomy_type": "tech_subdomain",
+                  "term_id": "TSD-001-001",
+                  "label": "AI 한계극복·성능향상",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_subdomain",
+                  "term_id": "TSD-011-001",
+                  "label": "바이오·의료기술",
+                  "is_primary": false
+                }
+              ],
+              "member_items": [
+                {
+                  "policy_item_id": "ITM-POL-002-01081",
+                  "item_label": "(가칭)국가 AI 바이오 연구소 설립 추진(’26년~)",
+                  "item_statement": "ㅇ (가칭)국가 AI 바이오 연구소 설립 추진(’26년~)",
+                  "member_role": "representative_item",
+                  "is_representative": true,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-002-00038"
+                },
+                {
+                  "policy_item_id": "ITM-POL-002-01140",
+                  "item_label": "범용 모델 구축",
+                  "item_statement": "ㅇ (범용 모델 구축) ‘(가칭)국가 AI 바이오 연구소’를 중심으로 멀티모달-멀티스케일 바이오 파운데이션 모델 구축·개방 및 산업활용 확산",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-002-00014"
+                }
+              ],
+              "contents": [
+                {
+                  "policy_item_content_id": "PIC-POL-002-01-01",
+                  "content_label": "국가 연구거점 설립",
+                  "content_statement": "(가칭) 국가 AI 바이오 연구소를 설립해 국가 차원의 AI-바이오 연구개발 거점을 구축한다.",
+                  "content_summary": "연구소 설립을 통해 국가 차원의 전담 거점을 만든다.",
+                  "content_type": "institution_setup",
+                  "display_order": 1,
+                  "evidence": [
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-002-00038",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-002-00038",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-002",
+                      "location_type": "page_or_section",
+                      "location_value": "section2",
+                      "evidence_text": "ㅇ (가칭)국가 AI 바이오 연구소 설립 추진(’26년~)",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-002__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-002-00038",
+                          "source_asset_id": "SRC-DOC-POL-002-0568",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-002.hwpx",
+                          "page_no": "",
+                          "section_id": "section2"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-002-01081",
+                      "source_policy_item_label": "(가칭)국가 AI 바이오 연구소 설립 추진(’26년~)"
+                    }
+                  ]
+                },
+                {
+                  "policy_item_content_id": "PIC-POL-002-01-02",
+                  "content_label": "바이오 파운데이션 모델 구축·개방",
+                  "content_statement": "연구소를 중심으로 멀티모달-멀티스케일 바이오 파운데이션 모델을 구축하고 산업 활용을 확산한다.",
+                  "content_summary": "범용 바이오 파운데이션 모델을 구축·개방한다.",
+                  "content_type": "model_development",
+                  "display_order": 2,
+                  "evidence": [
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-002-00014",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-002-00014",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-002",
+                      "location_type": "page_or_section",
+                      "location_value": "section2",
+                      "evidence_text": "ㅇ (범용 모델 구축) ‘(가칭)국가 AI 바이오 연구소’를 중심으로 멀티모달-멀티스케일 바이오 파운데이션 모델 구축·개방 및 산업활용 확산",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-002__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-002-00014",
+                          "source_asset_id": "SRC-DOC-POL-002-0568",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-002.hwpx",
+                          "page_no": "",
+                          "section_id": "section2"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-002-01140",
+                      "source_policy_item_label": "범용 모델 구축"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "policy_bucket_id": "PBK-POL-002-02",
+          "resource_category_id": "infrastructure_institutional",
+          "resource_category_label": "인프라·제도",
+          "groups": [
+            {
+              "policy_item_group_id": "PIG-POL-002-02",
+              "group_label": "바이오 데이터 플랫폼 및 개방체계",
+              "group_summary": "K-BDS 중심 통합플랫폼과 데이터 개방·표준화·품질관리를 함께 보여주는 대표 묶음",
+              "group_description": "데이터 수집·연계, 개방, 표준화, 품질 고도화를 하나의 운영 체계로 묶은 샘플 큐레이션이다.",
+              "taxonomies": [
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-003",
+                  "label": "바이오·헬스 글로벌 중심국가 도약",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-001",
+                  "label": "인공지능",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-011",
+                  "label": "첨단바이오",
+                  "is_primary": false
+                },
+                {
+                  "taxonomy_type": "tech_subdomain",
+                  "term_id": "TSD-001-005",
+                  "label": "데이터 구축·처리",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_subdomain",
+                  "term_id": "TSD-011-001",
+                  "label": "바이오·의료기술",
+                  "is_primary": false
+                }
+              ],
+              "member_items": [
+                {
+                  "policy_item_id": "ITM-POL-002-01179",
+                  "item_label": "K-BDS 중심 확보",
+                  "item_statement": "- (K-BDS 중심 확보) 고성능 전용인프라 구축과 연계, 국가바이오데이터통합플랫폼으로 수집‧연계하고 AI 기반 MCP모듈 구축‧운영",
+                  "member_role": "representative_item",
+                  "is_representative": true,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-002-00020"
+                },
+                {
+                  "policy_item_id": "ITM-POL-002-01182",
+                  "item_label": "거점에 구축된 인프라를 활용하여 생산된 데이터는 K-BDS에 등록하여 외부 연구자...",
+                  "item_statement": "- 거점에 구축된 인프라를 활용하여 생산된 데이터는 K-BDS에 등록하여 외부 연구자도 자유롭게 활용할 수 있도록 개방",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-002-00189"
+                },
+                {
+                  "policy_item_id": "ITM-POL-002-01188",
+                  "item_label": "민간데이터 확보",
+                  "item_statement": "ㅇ (민간데이터 확보) 병원․기업 등이 자체 생산‧보유한 데이터의 활용 지원 후 K-BDS 등록(’26~), 민간 대용량 데이터 위탁운영* 등 추진",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-002-00212"
+                },
+                {
+                  "policy_item_id": "ITM-POL-002-01193",
+                  "item_label": "표준화",
+                  "item_statement": "ㅇ (표준화) 데이터 정합성·신뢰성을 확보하기 위해 메타데이터 및 데이터의 표준화를 지원*하고, 주요 분야별 STAR 데이터화** 추진",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-002-00215"
+                },
+                {
+                  "policy_item_id": "ITM-POL-002-01194",
+                  "item_label": "품질선도",
+                  "item_statement": "ㅇ (품질선도) 품질선도센터를 확대 운영하고, 범부처 대상 5대 분야 품질관리 표준절차 등 시행으로 데이터 고품질화",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-002-00218"
+                }
+              ],
+              "contents": [
+                {
+                  "policy_item_content_id": "PIC-POL-002-02-01",
+                  "content_label": "K-BDS 중심 데이터 통합·개방",
+                  "content_statement": "K-BDS를 국가바이오데이터통합플랫폼으로 고도화하고 민간·거점 데이터를 연계해 외부 연구자 활용까지 개방한다.",
+                  "content_summary": "통합플랫폼 구축과 데이터 개방을 함께 추진한다.",
+                  "content_type": "platform_operation",
+                  "display_order": 1,
+                  "evidence": [
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-002-00020",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-002-00020",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-002",
+                      "location_type": "page_or_section",
+                      "location_value": "section2",
+                      "evidence_text": "- (K-BDS 중심 확보) 고성능 전용인프라 구축과 연계, 국가바이오데이터통합플랫폼으로 수집‧연계하고 AI 기반 MCP모듈 구축‧운영",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-002__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-002-00020",
+                          "source_asset_id": "SRC-DOC-POL-002-0568",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-002.hwpx",
+                          "page_no": "",
+                          "section_id": "section2"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-002-01179",
+                      "source_policy_item_label": "K-BDS 중심 확보"
+                    },
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-002-00189",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-002-00189",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-002",
+                      "location_type": "page_or_section",
+                      "location_value": "section7",
+                      "evidence_text": "- 거점에 구축된 인프라를 활용하여 생산된 데이터는 K-BDS에 등록하여 외부 연구자도 자유롭게 활용할 수 있도록 개방",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-002__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-002-00189",
+                          "source_asset_id": "SRC-DOC-POL-002-0573",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-002.hwpx",
+                          "page_no": "",
+                          "section_id": "section7"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-002-01182",
+                      "source_policy_item_label": "거점에 구축된 인프라를 활용하여 생산된 데이터는 K-BDS에 등록하여 외부 연구자..."
+                    },
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-002-00212",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-002-00212",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-002",
+                      "location_type": "page_or_section",
+                      "location_value": "section7",
+                      "evidence_text": "ㅇ (민간데이터 확보) 병원․기업 등이 자체 생산‧보유한 데이터의 활용 지원 후 K-BDS 등록(’26~), 민간 대용량 데이터 위탁운영* 등 추진",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-002__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-002-00212",
+                          "source_asset_id": "SRC-DOC-POL-002-0573",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-002.hwpx",
+                          "page_no": "",
+                          "section_id": "section7"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-002-01188",
+                      "source_policy_item_label": "민간데이터 확보"
+                    }
+                  ]
+                },
+                {
+                  "policy_item_content_id": "PIC-POL-002-02-02",
+                  "content_label": "데이터 표준화·품질관리 강화",
+                  "content_statement": "메타데이터와 데이터 표준화를 지원하고 품질선도 체계를 확대해 바이오 데이터 품질을 높인다.",
+                  "content_summary": "표준화와 품질관리 체계를 함께 강화한다.",
+                  "content_type": "standard_quality_management",
+                  "display_order": 2,
+                  "evidence": [
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-002-00215",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-002-00215",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-002",
+                      "location_type": "page_or_section",
+                      "location_value": "section7",
+                      "evidence_text": "ㅇ (표준화) 데이터 정합성·신뢰성을 확보하기 위해 메타데이터 및 데이터의 표준화를 지원*하고, 주요 분야별 STAR 데이터화** 추진",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-002__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-002-00215",
+                          "source_asset_id": "SRC-DOC-POL-002-0573",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-002.hwpx",
+                          "page_no": "",
+                          "section_id": "section7"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-002-01193",
+                      "source_policy_item_label": "표준화"
+                    },
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-002-00218",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-002-00218",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-002",
+                      "location_type": "page_or_section",
+                      "location_value": "section7",
+                      "evidence_text": "ㅇ (품질선도) 품질선도센터를 확대 운영하고, 범부처 대상 5대 분야 품질관리 표준절차 등 시행으로 데이터 고품질화",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-002__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-002-00218",
+                          "source_asset_id": "SRC-DOC-POL-002-0573",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-002.hwpx",
+                          "page_no": "",
+                          "section_id": "section7"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-002-01194",
+                      "source_policy_item_label": "품질선도"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "policy_item_group_id": "PIG-POL-002-03",
+              "group_label": "AI 바이오 법제·규제 개선",
+              "group_summary": "데이터 활용 법체계와 규제특례를 함께 정리한 대표 묶음",
+              "group_description": "데이터 활용 편의를 높이는 법제도와 안전한 활용 특례를 함께 묶은 샘플 큐레이션이다.",
+              "taxonomies": [
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-003",
+                  "label": "바이오·헬스 글로벌 중심국가 도약",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-010",
+                  "label": "디지털 헬스케어 서비스 혁신",
+                  "is_primary": false
+                },
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-011",
+                  "label": "첨단바이오",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_subdomain",
+                  "term_id": "TSD-011-001",
+                  "label": "바이오·의료기술",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_subdomain",
+                  "term_id": "TSD-001-003",
+                  "label": "AI 안전·신뢰",
+                  "is_primary": false
+                }
+              ],
+              "member_items": [
+                {
+                  "policy_item_id": "ITM-POL-002-01185",
+                  "item_label": "규제 합리화",
+                  "item_statement": "□ (규제 합리화) 법제도 마련과 연계하여 인체유래물 데이터 및 보건의료 데이터 활용 편의를 제고하기 위한 규제 개선 추진",
+                  "member_role": "representative_item",
+                  "is_representative": true,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-002-00231"
+                },
+                {
+                  "policy_item_id": "ITM-POL-002-01187",
+                  "item_label": "디지털헬스케어법",
+                  "item_statement": "ㅇ (디지털헬스케어법) 디지털-데이터 기반 의료 혁신과 보건의료정보의 안전한 활용을 체계적으로 지원하는 법체계 마련",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-002-00230"
+                },
+                {
+                  "policy_item_id": "ITM-POL-002-01191",
+                  "item_label": "복수기관 기증 동의",
+                  "item_statement": "- (복수기관 기증 동의) 인체유래물 기증 동의 시 “복수기관 제공 동의” 방식을 적용하여 인체유래데이터의 활용성을 제고하고 부처 간 공유‧활용",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-002-00026"
+                },
+                {
+                  "policy_item_id": "ITM-POL-002-01192",
+                  "item_label": "인체유래물데이터 등을 안전하게 활용할 수 있는 폐쇄망 클라우드를 구축하고",
+                  "item_statement": "- 인체유래물데이터 등을 안전하게 활용할 수 있는 폐쇄망 클라우드를 구축하고, 데이터 활용규제 특례 적용* 추진",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-002-00187"
+                }
+              ],
+              "contents": [
+                {
+                  "policy_item_content_id": "PIC-POL-002-03-01",
+                  "content_label": "데이터 활용 법체계 정비",
+                  "content_statement": "인체유래물·보건의료 데이터 활용 편의를 높이는 규제 개선과 디지털헬스케어 법체계를 정비한다.",
+                  "content_summary": "데이터 활용 법체계를 정비한다.",
+                  "content_type": "regulation_reform",
+                  "display_order": 1,
+                  "evidence": [
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-002-00231",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-002-00231",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-002",
+                      "location_type": "page_or_section",
+                      "location_value": "section7",
+                      "evidence_text": "□ (규제 합리화) 법제도 마련과 연계하여 인체유래물 데이터 및 보건의료 데이터 활용 편의를 제고하기 위한 규제 개선 추진",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-002__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-002-00231",
+                          "source_asset_id": "SRC-DOC-POL-002-0573",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-002.hwpx",
+                          "page_no": "",
+                          "section_id": "section7"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-002-01185",
+                      "source_policy_item_label": "규제 합리화"
+                    },
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-002-00230",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-002-00230",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-002",
+                      "location_type": "page_or_section",
+                      "location_value": "section7",
+                      "evidence_text": "ㅇ (디지털헬스케어법) 디지털-데이터 기반 의료 혁신과 보건의료정보의 안전한 활용을 체계적으로 지원하는 법체계 마련",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-002__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-002-00230",
+                          "source_asset_id": "SRC-DOC-POL-002-0573",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-002.hwpx",
+                          "page_no": "",
+                          "section_id": "section7"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-002-01187",
+                      "source_policy_item_label": "디지털헬스케어법"
+                    }
+                  ]
+                },
+                {
+                  "policy_item_content_id": "PIC-POL-002-03-02",
+                  "content_label": "안전한 데이터 활용 특례",
+                  "content_statement": "복수기관 기증 동의와 폐쇄망 클라우드 등 안전한 데이터 활용 특례를 도입해 활용성을 높인다.",
+                  "content_summary": "데이터 활용 특례와 안전조치를 함께 마련한다.",
+                  "content_type": "secure_data_use",
+                  "display_order": 2,
+                  "evidence": [
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-002-00026",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-002-00026",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-002",
+                      "location_type": "page_or_section",
+                      "location_value": "section2",
+                      "evidence_text": "- (복수기관 기증 동의) 인체유래물 기증 동의 시 “복수기관 제공 동의” 방식을 적용하여 인체유래데이터의 활용성을 제고하고 부처 간 공유‧활용",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-002__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-002-00026",
+                          "source_asset_id": "SRC-DOC-POL-002-0568",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-002.hwpx",
+                          "page_no": "",
+                          "section_id": "section2"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-002-01191",
+                      "source_policy_item_label": "복수기관 기증 동의"
+                    },
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-002-00187",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-002-00187",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-002",
+                      "location_type": "page_or_section",
+                      "location_value": "section7",
+                      "evidence_text": "- 인체유래물데이터 등을 안전하게 활용할 수 있는 폐쇄망 클라우드를 구축하고, 데이터 활용규제 특례 적용* 추진",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-002__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-002-00187",
+                          "source_asset_id": "SRC-DOC-POL-002-0573",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-002.hwpx",
+                          "page_no": "",
+                          "section_id": "section7"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-002-01192",
+                      "source_policy_item_label": "인체유래물데이터 등을 안전하게 활용할 수 있는 폐쇄망 클라우드를 구축하고"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "policy_bucket_id": "PBK-POL-002-03",
+          "resource_category_id": "talent",
+          "resource_category_label": "인재",
+          "groups": [
+            {
+              "policy_item_group_id": "PIG-POL-002-04",
+              "group_label": "AI-바이오 융합 인재양성 트랙",
+              "group_summary": "융합 교육 부족 문제와 전문 교육트랙 개설을 함께 보여주는 인재 샘플",
+              "group_description": "AI와 바이오를 함께 이해하는 인재 양성을 위한 교육트랙 구성 예시다.",
+              "taxonomies": [
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-003",
+                  "label": "바이오·헬스 글로벌 중심국가 도약",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-001",
+                  "label": "인공지능",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-011",
+                  "label": "첨단바이오",
+                  "is_primary": false
+                },
+                {
+                  "taxonomy_type": "tech_subdomain",
+                  "term_id": "TSD-001-001",
+                  "label": "AI 한계극복·성능향상",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_subdomain",
+                  "term_id": "TSD-011-001",
+                  "label": "바이오·의료기술",
+                  "is_primary": false
+                }
+              ],
+              "member_items": [
+                {
+                  "policy_item_id": "ITM-POL-002-01195",
+                  "item_label": "AI 바이오 융합 인재를 양성하기 위한 교육이 점차 확대되고 있으나",
+                  "item_statement": "ㅇ AI 바이오 융합 인재를 양성하기 위한 교육이 점차 확대되고 있으나, 아직까지 AI·바이오 상호이해형 인력은 절대적으로 부족",
+                  "member_role": "background_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-002-00080"
+                },
+                {
+                  "policy_item_id": "ITM-POL-002-01196",
+                  "item_label": "대학원-전문과정에 이르는 AI 바이오 융합 교육 트랙을 개설하여 전문 인재를 체계...",
+                  "item_statement": "- 대학원-전문과정에 이르는 AI 바이오 융합 교육 트랙을 개설하여 전문 인재를 체계적으로 양성하고, 산학 연계 프로그램 운영",
+                  "member_role": "representative_item",
+                  "is_representative": true,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-002-00191"
+                }
+              ],
+              "contents": [
+                {
+                  "policy_item_content_id": "PIC-POL-002-04-01",
+                  "content_label": "대학원-전문과정 융합 교육트랙",
+                  "content_statement": "대학원부터 전문과정까지 이어지는 AI-바이오 융합 교육트랙을 개설하고 산학 연계 프로그램을 운영한다.",
+                  "content_summary": "융합 교육트랙을 개설해 전문 인재를 양성한다.",
+                  "content_type": "training_program",
+                  "display_order": 1,
+                  "evidence": [
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-002-00191",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-002-00191",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-002",
+                      "location_type": "page_or_section",
+                      "location_value": "section7",
+                      "evidence_text": "- 대학원-전문과정에 이르는 AI 바이오 융합 교육 트랙을 개설하여 전문 인재를 체계적으로 양성하고, 산학 연계 프로그램 운영",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-002__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-002-00191",
+                          "source_asset_id": "SRC-DOC-POL-002-0573",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-002.hwpx",
+                          "page_no": "",
+                          "section_id": "section7"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-002-01196",
+                      "source_policy_item_label": "대학원-전문과정에 이르는 AI 바이오 융합 교육 트랙을 개설하여 전문 인재를 체계..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "policy_id": "POL-011",
+      "policy_name": "정부 AX사업 전주기 원스톱 지원방안",
+      "buckets": [
+        {
+          "policy_bucket_id": "PBK-POL-011-01",
+          "resource_category_id": "technology",
+          "resource_category_label": "기술",
+          "groups": [
+            {
+              "policy_item_group_id": "PIG-POL-011-01",
+              "group_label": "AX 기획 컨설팅 및 가이드라인",
+              "group_summary": "부처 AX기획 초기 단계의 컨설팅과 가이드라인 제공을 묶은 대표 샘플",
+              "group_description": "AX자문단, AX가이드라인, AX사전 컨설팅을 하나의 기획 지원 패키지로 묶은 샘플 큐레이션이다.",
+              "taxonomies": [
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-001",
+                  "label": "AI G3 도약 및 전 산업 AX 확산",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-001",
+                  "label": "인공지능",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_subdomain",
+                  "term_id": "TSD-001-007",
+                  "label": "산업 AX",
+                  "is_primary": true
+                }
+              ],
+              "member_items": [
+                {
+                  "policy_item_id": "ITM-POL-011-01898",
+                  "item_label": "AI전담기관",
+                  "item_statement": "ㅇ AI전담기관, 분야별 대표 AX기업으로 구성된 ‘AX자문단’을 운영하여, 희망부처(전담기관) 대상으로 AX기획 컨설팅을 지원하고,",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-012-00011"
+                },
+                {
+                  "policy_item_id": "ITM-POL-011-01912",
+                  "item_label": "부처(전담기관)가 AX기획에 참고할 수 있도록 분야별 AX성공사례",
+                  "item_statement": "- 부처(전담기관)가 AX기획에 참고할 수 있도록 분야별 AX성공사례, 기술스택별 주요기업·제품 상세정보 등을 담은 ‘AX가이드라인’ 마련",
+                  "member_role": "representative_item",
+                  "is_representative": true,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-012-00012"
+                },
+                {
+                  "policy_item_id": "ITM-POL-011-01913",
+                  "item_label": "부처(전담기관)가 AX사업 기획에 참고할 수 있도록 분야별 AX성공사례",
+                  "item_statement": "ㅇ 부처(전담기관)가 AX사업 기획에 참고할 수 있도록 분야별 AX성공사례, 기술스택별 주요기업·제품 정보 등을 담은 ‘AX가이드라인*’ 마련",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-012-00059"
+                },
+                {
+                  "policy_item_id": "ITM-POL-011-01916",
+                  "item_label": "신기술 활용 및 새로운 분야 AX적용은 AX사전 컨설팅*(PoC)(과기정통부) 추진 후",
+                  "item_statement": "ㅇ 신기술 활용 및 새로운 분야 AX적용은 AX사전 컨설팅*(PoC)(과기정통부) 추진 후, 이어서 소관부처가 AX 본사업을 추진하는 방안도 검토",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-012-00061"
+                }
+              ],
+              "contents": [
+                {
+                  "policy_item_content_id": "PIC-POL-011-01-01",
+                  "content_label": "부처 대상 AX 기획 컨설팅",
+                  "content_statement": "AX자문단과 사전 컨설팅(PoC)을 통해 부처와 전담기관의 AX 기획을 지원한다.",
+                  "content_summary": "AX 기획 단계의 컨설팅을 제공한다.",
+                  "content_type": "planning_support",
+                  "display_order": 1,
+                  "evidence": [
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-012-00011",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-012-00011",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-012",
+                      "location_type": "page_or_section",
+                      "location_value": "section0",
+                      "evidence_text": "ㅇ AI전담기관, 분야별 대표 AX기업으로 구성된 ‘AX자문단’을 운영하여, 희망부처(전담기관) 대상으로 AX기획 컨설팅을 지원하고,",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-012__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-012-00011",
+                          "source_asset_id": "SRC-DOC-POL-012-0982",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-012.hwpx",
+                          "page_no": "",
+                          "section_id": "section0"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-011-01898",
+                      "source_policy_item_label": "AI전담기관"
+                    },
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-012-00061",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-012-00061",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-012",
+                      "location_type": "page_or_section",
+                      "location_value": "section3",
+                      "evidence_text": "ㅇ 신기술 활용 및 새로운 분야 AX적용은 AX사전 컨설팅*(PoC)(과기정통부) 추진 후, 이어서 소관부처가 AX 본사업을 추진하는 방안도 검토",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-012__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-012-00061",
+                          "source_asset_id": "SRC-DOC-POL-012-0987",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-012.hwpx",
+                          "page_no": "",
+                          "section_id": "section3"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-011-01916",
+                      "source_policy_item_label": "신기술 활용 및 새로운 분야 AX적용은 AX사전 컨설팅*(PoC)(과기정통부) 추진 후"
+                    }
+                  ]
+                },
+                {
+                  "policy_item_content_id": "PIC-POL-011-01-02",
+                  "content_label": "분야별 AX 가이드라인 제공",
+                  "content_statement": "분야별 AX 성공사례와 기술 스택 정보를 담은 가이드라인을 마련해 AX사업 기획 참고자료로 제공한다.",
+                  "content_summary": "부처가 참고할 AX 가이드라인을 제공한다.",
+                  "content_type": "guideline_support",
+                  "display_order": 2,
+                  "evidence": [
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-012-00012",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-012-00012",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-012",
+                      "location_type": "page_or_section",
+                      "location_value": "section0",
+                      "evidence_text": "- 부처(전담기관)가 AX기획에 참고할 수 있도록 분야별 AX성공사례, 기술스택별 주요기업·제품 상세정보 등을 담은 ‘AX가이드라인’ 마련",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-012__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-012-00012",
+                          "source_asset_id": "SRC-DOC-POL-012-0982",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-012.hwpx",
+                          "page_no": "",
+                          "section_id": "section0"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-011-01912",
+                      "source_policy_item_label": "부처(전담기관)가 AX기획에 참고할 수 있도록 분야별 AX성공사례"
+                    },
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-012-00059",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-012-00059",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-012",
+                      "location_type": "page_or_section",
+                      "location_value": "section3",
+                      "evidence_text": "ㅇ 부처(전담기관)가 AX사업 기획에 참고할 수 있도록 분야별 AX성공사례, 기술스택별 주요기업·제품 정보 등을 담은 ‘AX가이드라인*’ 마련",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-012__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-012-00059",
+                          "source_asset_id": "SRC-DOC-POL-012-0987",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-012.hwpx",
+                          "page_no": "",
+                          "section_id": "section3"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-011-01913",
+                      "source_policy_item_label": "부처(전담기관)가 AX사업 기획에 참고할 수 있도록 분야별 AX성공사례"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "policy_item_group_id": "PIG-POL-011-02",
+              "group_label": "공공 AX 실행 인프라 지원",
+              "group_summary": "GPU, 데이터, 공통기반, 검증을 묶은 실행 지원 패키지",
+              "group_description": "공공 AX 본사업에 필요한 자원 지원과 검증 체계를 대표 내용으로 묶은 샘플 큐레이션이다.",
+              "taxonomies": [
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-001",
+                  "label": "AI G3 도약 및 전 산업 AX 확산",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-001",
+                  "label": "인공지능",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_subdomain",
+                  "term_id": "TSD-001-004",
+                  "label": "AI 컴퓨팅·네트워크",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_subdomain",
+                  "term_id": "TSD-001-005",
+                  "label": "데이터 구축·처리",
+                  "is_primary": false
+                }
+              ],
+              "member_items": [
+                {
+                  "policy_item_id": "ITM-POL-011-01897",
+                  "item_label": "AI모델 개발을 넘어 현장에서의 AI 실증을 통해 실사용 데이터를 수집하여 AI모...",
+                  "item_statement": "ㅇ AI모델 개발을 넘어 현장에서의 AI 실증을 통해 실사용 데이터를 수집하여 AI모델·서비스를 고도화할 수 있도록 실증특례 등을 지원",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-012-00082"
+                },
+                {
+                  "policy_item_id": "ITM-POL-011-01902",
+                  "item_label": "GPU 제공",
+                  "item_statement": "ㅇ (GPU 제공) 특화 분야 AI모델 개발·서비스 등을 위해 GPU 자원이 필요한 경우, 정부 보유 첨단 GPU를 지원*",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-012-00072"
+                },
+                {
+                  "policy_item_id": "ITM-POL-011-01910",
+                  "item_label": "데이터 확보",
+                  "item_statement": "ㅇ (데이터 확보) 데이터 소관기관 등과 협업하여 미개방 공공데이터 등 제공",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-012-00071"
+                },
+                {
+                  "policy_item_id": "ITM-POL-011-01911",
+                  "item_label": "범정부 AI공통기반",
+                  "item_statement": "ㅇ (범정부 AI공통기반) 보안이 확보된 환경에서 민간 AI 모델, 컴퓨팅 자원(GPU) 할당이 가능한 AI 서비스 개발 인프라 활용 지원",
+                  "member_role": "representative_item",
+                  "is_representative": true,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-012-00076"
+                },
+                {
+                  "policy_item_id": "ITM-POL-011-01915",
+                  "item_label": "성능·신뢰성 검증",
+                  "item_statement": "ㅇ (성능·신뢰성 검증) AI평가·인증 전문기관(TTA 등) 인력·인프라(평가데이터셋·도구)을 활용하여 개발된 AI모델·서비스의 성능·신뢰성 검증을 지원",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-012-00074"
+                }
+              ],
+              "contents": [
+                {
+                  "policy_item_content_id": "PIC-POL-011-02-01",
+                  "content_label": "GPU·데이터·공통기반 지원",
+                  "content_statement": "특화 AI모델 개발을 위한 GPU와 데이터, 범정부 AI공통기반을 함께 지원한다.",
+                  "content_summary": "공공 AX 실행에 필요한 자원을 통합 지원한다.",
+                  "content_type": "resource_support",
+                  "display_order": 1,
+                  "evidence": [
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-012-00072",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-012-00072",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-012",
+                      "location_type": "page_or_section",
+                      "location_value": "section3",
+                      "evidence_text": "ㅇ (GPU 제공) 특화 분야 AI모델 개발·서비스 등을 위해 GPU 자원이 필요한 경우, 정부 보유 첨단 GPU를 지원*",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-012__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-012-00072",
+                          "source_asset_id": "SRC-DOC-POL-012-0987",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-012.hwpx",
+                          "page_no": "",
+                          "section_id": "section3"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-011-01902",
+                      "source_policy_item_label": "GPU 제공"
+                    },
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-012-00071",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-012-00071",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-012",
+                      "location_type": "page_or_section",
+                      "location_value": "section3",
+                      "evidence_text": "ㅇ (데이터 확보) 데이터 소관기관 등과 협업하여 미개방 공공데이터 등 제공",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-012__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-012-00071",
+                          "source_asset_id": "SRC-DOC-POL-012-0987",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-012.hwpx",
+                          "page_no": "",
+                          "section_id": "section3"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-011-01910",
+                      "source_policy_item_label": "데이터 확보"
+                    },
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-012-00076",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-012-00076",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-012",
+                      "location_type": "page_or_section",
+                      "location_value": "section3",
+                      "evidence_text": "ㅇ (범정부 AI공통기반) 보안이 확보된 환경에서 민간 AI 모델, 컴퓨팅 자원(GPU) 할당이 가능한 AI 서비스 개발 인프라 활용 지원",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-012__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-012-00076",
+                          "source_asset_id": "SRC-DOC-POL-012-0987",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-012.hwpx",
+                          "page_no": "",
+                          "section_id": "section3"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-011-01911",
+                      "source_policy_item_label": "범정부 AI공통기반"
+                    },
+                    {
+                      "derived_representation_id": "DRV-CTBL-DOC-POL-012-003",
+                      "source_object_type": "canonical_table",
+                      "source_object_id": "CTBL-DOC-POL-012-003",
+                      "representation_type": "canonical_table",
+                      "document_id": "DOC-POL-012",
+                      "location_type": "page_range",
+                      "location_value": "section3",
+                      "evidence_text": "GPU / · 정부가 확보한 첨단GPU 1만장 중 일정량 할당 및 활용 지원 / 󰊱기획",
+                      "structured_payload_path": "work/04_ontology/instances/DOC-POL-012__canonical-tables.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-CTBL-DOC-POL-012-003",
+                          "source_asset_id": "SRC-DOC-POL-012-0987",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-012.hwpx",
+                          "page_no": "",
+                          "section_id": "section3"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-011-01911",
+                      "source_policy_item_label": "범정부 AI공통기반",
+                      "evidence_label": "정부 AX사업 GPU 지원 표"
+                    }
+                  ]
+                },
+                {
+                  "policy_item_content_id": "PIC-POL-011-02-02",
+                  "content_label": "성능 검증 및 실증 지원",
+                  "content_statement": "현장 실증과 성능·신뢰성 검증을 지원해 AX사업 결과물의 품질을 높인다.",
+                  "content_summary": "실증과 검증을 함께 지원한다.",
+                  "content_type": "validation_support",
+                  "display_order": 2,
+                  "evidence": [
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-012-00082",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-012-00082",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-012",
+                      "location_type": "page_or_section",
+                      "location_value": "section3",
+                      "evidence_text": "ㅇ AI모델 개발을 넘어 현장에서의 AI 실증을 통해 실사용 데이터를 수집하여 AI모델·서비스를 고도화할 수 있도록 실증특례 등을 지원",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-012__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-012-00082",
+                          "source_asset_id": "SRC-DOC-POL-012-0987",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-012.hwpx",
+                          "page_no": "",
+                          "section_id": "section3"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-011-01897",
+                      "source_policy_item_label": "AI모델 개발을 넘어 현장에서의 AI 실증을 통해 실사용 데이터를 수집하여 AI모..."
+                    },
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-012-00074",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-012-00074",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-012",
+                      "location_type": "page_or_section",
+                      "location_value": "section3",
+                      "evidence_text": "ㅇ (성능·신뢰성 검증) AI평가·인증 전문기관(TTA 등) 인력·인프라(평가데이터셋·도구)을 활용하여 개발된 AI모델·서비스의 성능·신뢰성 검증을 지원",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-012__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-012-00074",
+                          "source_asset_id": "SRC-DOC-POL-012-0987",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-012.hwpx",
+                          "page_no": "",
+                          "section_id": "section3"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-011-01915",
+                      "source_policy_item_label": "성능·신뢰성 검증"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "policy_bucket_id": "PBK-POL-011-02",
+          "resource_category_id": "infrastructure_institutional",
+          "resource_category_label": "인프라·제도",
+          "groups": [
+            {
+              "policy_item_group_id": "PIG-POL-011-03",
+              "group_label": "AX 원스톱 운영체계 및 국가 AX지도",
+              "group_summary": "운영 거버넌스와 국가 AX 현황 가시화를 함께 보여주는 인프라·제도 샘플",
+              "group_description": "AX 원스톱 지원센터 운영과 국가 AX지도 구축을 하나의 운영체계로 묶은 샘플 큐레이션이다.",
+              "taxonomies": [
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-001",
+                  "label": "AI G3 도약 및 전 산업 AX 확산",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-001",
+                  "label": "인공지능",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_subdomain",
+                  "term_id": "TSD-001-008",
+                  "label": "공공 AX",
+                  "is_primary": true
+                }
+              ],
+              "member_items": [
+                {
+                  "policy_item_id": "ITM-POL-011-01926",
+                  "item_label": "‘가칭AX 원스톱 지원센터’",
+                  "item_statement": "□ ‘가칭AX 원스톱 지원센터’, ‘공공AI사업지원센터’ 운영 : ’26.2.~",
+                  "member_role": "representative_item",
+                  "is_representative": true,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-012-00097"
+                },
+                {
+                  "policy_item_id": "ITM-POL-011-01927",
+                  "item_label": "’26년 부처별 AX사업 본격 지원",
+                  "item_statement": "□ ’26년 부처별 AX사업 본격 지원 : ’26.2.~",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-012-00098"
+                },
+                {
+                  "policy_item_id": "ITM-POL-011-01928",
+                  "item_label": "지역·분야별 AX 수요·투자 및 진행현황",
+                  "item_statement": "ㅇ 지역·분야별 AX 수요·투자 및 진행현황, 민간·공공 보유 AX자원 등을 종합 분석한 ‘국가 AX지도’를 구축·제공하여 민관 투자계획 수립에 활용 지원",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-012-00056"
+                }
+              ],
+              "contents": [
+                {
+                  "policy_item_content_id": "PIC-POL-011-03-01",
+                  "content_label": "AX 원스톱 지원센터 운영",
+                  "content_statement": "AX 원스톱 지원센터와 공공AI사업지원센터를 운영해 부처별 AX사업 지원을 본격화한다.",
+                  "content_summary": "원스톱 운영체계를 구축한다.",
+                  "content_type": "program_operation",
+                  "display_order": 1,
+                  "evidence": [
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-012-00097",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-012-00097",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-012",
+                      "location_type": "page_or_section",
+                      "location_value": "section3",
+                      "evidence_text": "□ ‘가칭AX 원스톱 지원센터’, ‘공공AI사업지원센터’ 운영 : ’26.2.~",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-012__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-012-00097",
+                          "source_asset_id": "SRC-DOC-POL-012-0987",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-012.hwpx",
+                          "page_no": "",
+                          "section_id": "section3"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-011-01926",
+                      "source_policy_item_label": "‘가칭AX 원스톱 지원센터’"
+                    },
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-012-00098",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-012-00098",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-012",
+                      "location_type": "page_or_section",
+                      "location_value": "section3",
+                      "evidence_text": "□ ’26년 부처별 AX사업 본격 지원 : ’26.2.~",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-012__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-012-00098",
+                          "source_asset_id": "SRC-DOC-POL-012-0987",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-012.hwpx",
+                          "page_no": "",
+                          "section_id": "section3"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-011-01927",
+                      "source_policy_item_label": "’26년 부처별 AX사업 본격 지원"
+                    }
+                  ]
+                },
+                {
+                  "policy_item_content_id": "PIC-POL-011-03-02",
+                  "content_label": "국가 AX지도 구축",
+                  "content_statement": "지역·분야별 AX 수요와 투자, 보유 자원을 종합 분석한 국가 AX지도를 구축해 민관 투자계획 수립에 활용한다.",
+                  "content_summary": "국가 AX 현황을 지도 형태로 제공한다.",
+                  "content_type": "mapping_and_monitoring",
+                  "display_order": 2,
+                  "evidence": [
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-012-00056",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-012-00056",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-012",
+                      "location_type": "page_or_section",
+                      "location_value": "section3",
+                      "evidence_text": "ㅇ 지역·분야별 AX 수요·투자 및 진행현황, 민간·공공 보유 AX자원 등을 종합 분석한 ‘국가 AX지도’를 구축·제공하여 민관 투자계획 수립에 활용 지원",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-012__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-012-00056",
+                          "source_asset_id": "SRC-DOC-POL-012-0987",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-012.hwpx",
+                          "page_no": "",
+                          "section_id": "section3"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-011-01928",
+                      "source_policy_item_label": "지역·분야별 AX 수요·투자 및 진행현황"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "policy_id": "POL-005",
+      "policy_name": "AI반도체 산업 도약 전략",
+      "buckets": [
+        {
+          "policy_bucket_id": "PBK-POL-005-01",
+          "resource_category_id": "technology",
+          "resource_category_label": "기술",
+          "groups": [
+            {
+              "policy_item_group_id": "PIG-POL-005-01",
+              "group_label": "K-NPU 성능 고도화 및 실증",
+              "group_summary": "독자 AI모델 연계 성능 고도화와 테스트베드·검증·사업화를 묶은 대표 샘플",
+              "group_description": "AI반도체 전략에서 핵심 기술 고도화와 실증·사업화를 함께 묶은 샘플 큐레이션이다.",
+              "taxonomies": [
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-002",
+                  "label": "초격차 전략기술 확보 (반도체·이차전지)",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-009",
+                  "label": "반도체디스플레이",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_subdomain",
+                  "term_id": "TSD-009-001",
+                  "label": "인공지능 반도체",
+                  "is_primary": true
+                }
+              ],
+              "member_items": [
+                {
+                  "policy_item_id": "ITM-POL-005-01305",
+                  "item_label": "①독자 AI모델과 연계한 성능 확보",
+                  "item_statement": "ㅇ ①독자 AI모델과 연계한 성능 확보, ②테스트베드 구축, ③평가·피드백 등 ‘K-NPU 프로젝트’ 가동으로 독자 AI모델+국산 NPU 패키지化(~’27)",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-007-00017"
+                },
+                {
+                  "policy_item_id": "ITM-POL-005-01322",
+                  "item_label": "○ (실증) 실제 서비스 환경에 대응하는 대규모 K-NPU 테스트베드 구축* 및...",
+                  "item_statement": "○ (실증) 실제 서비스 환경에 대응하는 대규모 K-NPU 테스트베드 구축* 및 독자 AI모델+NPU 실증·최적화**(’26~)로 K-AI+NPU 패키지化 지원",
+                  "member_role": "representative_item",
+                  "is_representative": true,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-007-00131"
+                },
+                {
+                  "policy_item_id": "ITM-POL-005-01363",
+                  "item_label": "성과 검증",
+                  "item_statement": "- (성과 검증) ‘K-Perf’와 연계한 상용 서비스 수준 검증 추진",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-007-00177"
+                },
+                {
+                  "policy_item_id": "ITM-POL-005-01364",
+                  "item_label": "성능 확보",
+                  "item_statement": "- (성능 확보) 독자 AI모델 등 최신 AI모델 맞춤형 NPU 고도화",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-007-00123"
+                },
+                {
+                  "policy_item_id": "ITM-POL-005-01367",
+                  "item_label": "실증·사업화",
+                  "item_statement": "- (실증·사업화) 국산 NPU 조기상용화를 위한 실증·사업화 지원체계 구축",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-007-00130"
+                }
+              ],
+              "contents": [
+                {
+                  "policy_item_content_id": "PIC-POL-005-01-01",
+                  "content_label": "독자 AI모델 연계 성능 고도화",
+                  "content_statement": "독자 AI모델과 국산 NPU의 연계성을 높여 최신 AI모델 맞춤형 성능을 확보한다.",
+                  "content_summary": "국산 NPU 성능을 독자 AI모델과 함께 고도화한다.",
+                  "content_type": "performance_advancement",
+                  "display_order": 1,
+                  "evidence": [
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-007-00017",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-007-00017",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-007",
+                      "location_type": "page_or_section",
+                      "location_value": "section2",
+                      "evidence_text": "ㅇ ①독자 AI모델과 연계한 성능 확보, ②테스트베드 구축, ③평가·피드백 등 ‘K-NPU 프로젝트’ 가동으로 독자 AI모델+국산 NPU 패키지化(~’27)",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-007__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-007-00017",
+                          "source_asset_id": "SRC-DOC-POL-007-0844",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-007.hwpx",
+                          "page_no": "",
+                          "section_id": "section2"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-005-01305",
+                      "source_policy_item_label": "①독자 AI모델과 연계한 성능 확보"
+                    },
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-007-00123",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-007-00123",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-007",
+                      "location_type": "page_or_section",
+                      "location_value": "section8",
+                      "evidence_text": "- (성능 확보) 독자 AI모델 등 최신 AI모델 맞춤형 NPU 고도화",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-007__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-007-00123",
+                          "source_asset_id": "SRC-DOC-POL-007-0848",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-007.hwpx",
+                          "page_no": "",
+                          "section_id": "section8"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-005-01364",
+                      "source_policy_item_label": "성능 확보"
+                    }
+                  ]
+                },
+                {
+                  "policy_item_content_id": "PIC-POL-005-01-02",
+                  "content_label": "테스트베드·검증·사업화 지원",
+                  "content_statement": "대규모 K-NPU 테스트베드, 성과 검증, 실증·사업화 지원체계를 함께 구축한다.",
+                  "content_summary": "K-NPU 테스트베드와 사업화 지원체계를 구축한다.",
+                  "content_type": "testbed_and_validation",
+                  "display_order": 2,
+                  "evidence": [
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-007-00131",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-007-00131",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-007",
+                      "location_type": "page_or_section",
+                      "location_value": "section8",
+                      "evidence_text": "○ (실증) 실제 서비스 환경에 대응하는 대규모 K-NPU 테스트베드 구축* 및 독자 AI모델+NPU 실증·최적화**(’26~)로 K-AI+NPU 패키지化 지원",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-007__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-007-00131",
+                          "source_asset_id": "SRC-DOC-POL-007-0848",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-007.hwpx",
+                          "page_no": "",
+                          "section_id": "section8"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-005-01322",
+                      "source_policy_item_label": "○ (실증) 실제 서비스 환경에 대응하는 대규모 K-NPU 테스트베드 구축* 및..."
+                    },
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-007-00177",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-007-00177",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-007",
+                      "location_type": "page_or_section",
+                      "location_value": "section8",
+                      "evidence_text": "- (성과 검증) ‘K-Perf’와 연계한 상용 서비스 수준 검증 추진",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-007__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-007-00177",
+                          "source_asset_id": "SRC-DOC-POL-007-0848",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-007.hwpx",
+                          "page_no": "",
+                          "section_id": "section8"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-005-01363",
+                      "source_policy_item_label": "성과 검증"
+                    },
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-007-00130",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-007-00130",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-007",
+                      "location_type": "page_or_section",
+                      "location_value": "section8",
+                      "evidence_text": "- (실증·사업화) 국산 NPU 조기상용화를 위한 실증·사업화 지원체계 구축",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-007__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-007-00130",
+                          "source_asset_id": "SRC-DOC-POL-007-0848",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-007.hwpx",
+                          "page_no": "",
+                          "section_id": "section8"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-005-01367",
+                      "source_policy_item_label": "실증·사업화"
+                    },
+                    {
+                      "derived_representation_id": "DRV-FIG-DOC-POL-007-008",
+                      "source_object_type": "figure",
+                      "source_object_id": "FIG-DOC-POL-007-008",
+                      "representation_type": "figure_or_diagram",
+                      "document_id": "DOC-POL-007",
+                      "location_type": "page_or_section",
+                      "location_value": "section8",
+                      "evidence_text": "그림1.png",
+                      "structured_payload_path": "work/02_structured-extraction/figures/FIG-DOC-POL-007-008.json",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-FIG-DOC-POL-007-008",
+                          "source_asset_id": "SRC-DOC-POL-007-0853",
+                          "asset_type": "figure_image",
+                          "asset_path_or_url": "work/02_structured-extraction/figures/assets/DOC-POL-007/image10.png",
+                          "page_no": "",
+                          "section_id": "section8"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-005-01322",
+                      "source_policy_item_label": "○ (실증) 실제 서비스 환경에 대응하는 대규모 K-NPU 테스트베드 구축* 및...",
+                      "evidence_label": "K-NPU 테스트베드·실증 도식 예시"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "policy_bucket_id": "PBK-POL-005-02",
+          "resource_category_id": "infrastructure_institutional",
+          "resource_category_label": "인프라·제도",
+          "groups": [
+            {
+              "policy_item_group_id": "PIG-POL-005-02",
+              "group_label": "AI반도체 금융·세제 지원",
+              "group_summary": "정책금융과 세제 인센티브를 함께 보여주는 인프라·제도 샘플",
+              "group_description": "초기 투자비용 지원, 직간접 투자, 대규모 투융자, 세액 공제를 한데 묶은 샘플 큐레이션이다.",
+              "taxonomies": [
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-002",
+                  "label": "초격차 전략기술 확보 (반도체·이차전지)",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-009",
+                  "label": "반도체디스플레이",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_subdomain",
+                  "term_id": "TSD-009-001",
+                  "label": "인공지능 반도체",
+                  "is_primary": true
+                }
+              ],
+              "member_items": [
+                {
+                  "policy_item_id": "ITM-POL-005-01384",
+                  "item_label": "○ (수요-공급기업) ➊수요-공급기업 간 구매계약에 따른 초기 투자비용 충당 및...",
+                  "item_statement": "○ (수요-공급기업) ➊수요-공급기업 간 구매계약에 따른 초기 투자비용 충당 및 ➋IP 평가보증을 통한 유동성 확보 등 초저리 대출 등 지원",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-007-00235"
+                },
+                {
+                  "policy_item_id": "ITM-POL-005-01386",
+                  "item_label": "○ NPU 기반 AI컴퓨팅 인프라·설비 통합투자 등에 대한 세액 공제 신설*로 수...",
+                  "item_statement": "○ NPU 기반 AI컴퓨팅 인프라·설비 통합투자 등에 대한 세액 공제 신설*로 수요기업 도입 인센티브 제공(’26~)",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-007-00237"
+                },
+                {
+                  "policy_item_id": "ITM-POL-005-01390",
+                  "item_label": "직·간접 투자",
+                  "item_statement": "- 직·간접 투자, 장기 저리 대출 등 다양한 정책금융 프로그램을 기업 수요에 따라 맞춤형으로 제공하여 최적의 재무 포트폴리오 구성 지원",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-007-00231"
+                },
+                {
+                  "policy_item_id": "ITM-POL-005-01391",
+                  "item_label": "투자",
+                  "item_statement": "- (투자) 대규모 투·융자 프로그램을 통한 성장 단계별 맞춤형 지원",
+                  "member_role": "representative_item",
+                  "is_representative": true,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-007-00228"
+                }
+              ],
+              "contents": [
+                {
+                  "policy_item_content_id": "PIC-POL-005-02-01",
+                  "content_label": "정책금융 프로그램 제공",
+                  "content_statement": "수요-공급기업 지원, 직간접 투자, 성장 단계별 대규모 투·융자를 포함한 정책금융 프로그램을 제공한다.",
+                  "content_summary": "정책금융과 투자 프로그램을 패키지로 제공한다.",
+                  "content_type": "policy_finance",
+                  "display_order": 1,
+                  "evidence": [
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-007-00235",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-007-00235",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-007",
+                      "location_type": "page_or_section",
+                      "location_value": "section8",
+                      "evidence_text": "○ (수요-공급기업) ➊수요-공급기업 간 구매계약에 따른 초기 투자비용 충당 및 ➋IP 평가보증을 통한 유동성 확보 등 초저리 대출 등 지원",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-007__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-007-00235",
+                          "source_asset_id": "SRC-DOC-POL-007-0848",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-007.hwpx",
+                          "page_no": "",
+                          "section_id": "section8"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-005-01384",
+                      "source_policy_item_label": "○ (수요-공급기업) ➊수요-공급기업 간 구매계약에 따른 초기 투자비용 충당 및..."
+                    },
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-007-00231",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-007-00231",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-007",
+                      "location_type": "page_or_section",
+                      "location_value": "section8",
+                      "evidence_text": "- 직·간접 투자, 장기 저리 대출 등 다양한 정책금융 프로그램을 기업 수요에 따라 맞춤형으로 제공하여 최적의 재무 포트폴리오 구성 지원",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-007__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-007-00231",
+                          "source_asset_id": "SRC-DOC-POL-007-0848",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-007.hwpx",
+                          "page_no": "",
+                          "section_id": "section8"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-005-01390",
+                      "source_policy_item_label": "직·간접 투자"
+                    },
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-007-00228",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-007-00228",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-007",
+                      "location_type": "page_or_section",
+                      "location_value": "section8",
+                      "evidence_text": "- (투자) 대규모 투·융자 프로그램을 통한 성장 단계별 맞춤형 지원",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-007__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-007-00228",
+                          "source_asset_id": "SRC-DOC-POL-007-0848",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-007.hwpx",
+                          "page_no": "",
+                          "section_id": "section8"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-005-01391",
+                      "source_policy_item_label": "투자"
+                    }
+                  ]
+                },
+                {
+                  "policy_item_content_id": "PIC-POL-005-02-02",
+                  "content_label": "세제 인센티브 제공",
+                  "content_statement": "NPU 기반 AI컴퓨팅 인프라·설비 투자에 대한 세액 공제를 통해 수요기업 도입 인센티브를 제공한다.",
+                  "content_summary": "세제 인센티브로 수요기업 도입을 촉진한다.",
+                  "content_type": "tax_incentive",
+                  "display_order": 2,
+                  "evidence": [
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-007-00237",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-007-00237",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-007",
+                      "location_type": "page_or_section",
+                      "location_value": "section8",
+                      "evidence_text": "○ NPU 기반 AI컴퓨팅 인프라·설비 통합투자 등에 대한 세액 공제 신설*로 수요기업 도입 인센티브 제공(’26~)",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-007__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-007-00237",
+                          "source_asset_id": "SRC-DOC-POL-007-0848",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-007.hwpx",
+                          "page_no": "",
+                          "section_id": "section8"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-005-01386",
+                      "source_policy_item_label": "○ NPU 기반 AI컴퓨팅 인프라·설비 통합투자 등에 대한 세액 공제 신설*로 수..."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "policy_bucket_id": "PBK-POL-005-03",
+          "resource_category_id": "talent",
+          "resource_category_label": "인재",
+          "groups": [
+            {
+              "policy_item_group_id": "PIG-POL-005-03",
+              "group_label": "AI반도체 인재양성 체계",
+              "group_summary": "글로벌·고급 인재와 현장형 실무인재 양성을 함께 보여주는 인재 샘플",
+              "group_description": "AI반도체 고급 인재와 실무형 인재 양성을 하나의 대표 항목으로 묶은 샘플 큐레이션이다.",
+              "taxonomies": [
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-002",
+                  "label": "초격차 전략기술 확보 (반도체·이차전지)",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-009",
+                  "label": "반도체디스플레이",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_subdomain",
+                  "term_id": "TSD-009-001",
+                  "label": "인공지능 반도체",
+                  "is_primary": true
+                }
+              ],
+              "member_items": [
+                {
+                  "policy_item_id": "ITM-POL-005-01392",
+                  "item_label": "○ (글로벌 연계교육) 글로벌 기업·대학과 연계한 글로벌 탑티어급 인력 양성으로...",
+                  "item_statement": "○ (글로벌 연계교육) 글로벌 기업·대학과 연계한 글로벌 탑티어급 인력 양성으로 국내 AI반도체 산업계 혁신 역량 제고",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-007-00242"
+                },
+                {
+                  "policy_item_id": "ITM-POL-005-01393",
+                  "item_label": "○ (재직자 재교육) 현직 경험과 반도체 지식을 기반으로 시스템 전반의 설계 역량...",
+                  "item_statement": "○ (재직자 재교육) 현직 경험과 반도체 지식을 기반으로 시스템 전반의 설계 역량을 갖춘 ‘기업 맞춤형 설계 전문가’ 양성 추진",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-007-00250"
+                },
+                {
+                  "policy_item_id": "ITM-POL-005-01394",
+                  "item_label": "○ (체험형 실습교육) 공공 나노팹 주도로 칩 제작 서비스를 연계한 학부 설계교육...",
+                  "item_statement": "○ (체험형 실습교육) 공공 나노팹 주도로 칩 제작 서비스를 연계한 학부 설계교육 커리큘럼 연계 과정 개발·제공을 통한 학부 설계인력 양성",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-007-00249"
+                },
+                {
+                  "policy_item_id": "ITM-POL-005-01395",
+                  "item_label": "○ (학·석사연계) 기업과 대학이 함께 설계하는 실전문제 해결형 학·석사 연계 교...",
+                  "item_statement": "○ (학·석사연계) 기업과 대학이 함께 설계하는 실전문제 해결형 학·석사 연계 교육과정 확대*를 통해 총 110명 이상 양성 추진(~’30)",
+                  "member_role": "supporting_item",
+                  "is_representative": false,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-007-00244"
+                },
+                {
+                  "policy_item_id": "ITM-POL-005-01397",
+                  "item_label": "실무인재",
+                  "item_statement": "- (실무인재) 현장 중심 인재 양성을 통한 팹리스 인력난 해소 지원",
+                  "member_role": "representative_item",
+                  "is_representative": true,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-007-00243"
+                }
+              ],
+              "contents": [
+                {
+                  "policy_item_content_id": "PIC-POL-005-03-01",
+                  "content_label": "글로벌·고급 인재 양성",
+                  "content_statement": "글로벌 기업·대학 연계교육과 학·석사 연계과정을 통해 AI반도체 고급 인재를 양성한다.",
+                  "content_summary": "글로벌 연계형 고급 인재를 양성한다.",
+                  "content_type": "advanced_talent_training",
+                  "display_order": 1,
+                  "evidence": [
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-007-00242",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-007-00242",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-007",
+                      "location_type": "page_or_section",
+                      "location_value": "section8",
+                      "evidence_text": "○ (글로벌 연계교육) 글로벌 기업·대학과 연계한 글로벌 탑티어급 인력 양성으로 국내 AI반도체 산업계 혁신 역량 제고",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-007__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-007-00242",
+                          "source_asset_id": "SRC-DOC-POL-007-0848",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-007.hwpx",
+                          "page_no": "",
+                          "section_id": "section8"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-005-01392",
+                      "source_policy_item_label": "○ (글로벌 연계교육) 글로벌 기업·대학과 연계한 글로벌 탑티어급 인력 양성으로..."
+                    },
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-007-00244",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-007-00244",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-007",
+                      "location_type": "page_or_section",
+                      "location_value": "section8",
+                      "evidence_text": "○ (학·석사연계) 기업과 대학이 함께 설계하는 실전문제 해결형 학·석사 연계 교육과정 확대*를 통해 총 110명 이상 양성 추진(~’30)",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-007__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-007-00244",
+                          "source_asset_id": "SRC-DOC-POL-007-0848",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-007.hwpx",
+                          "page_no": "",
+                          "section_id": "section8"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-005-01395",
+                      "source_policy_item_label": "○ (학·석사연계) 기업과 대학이 함께 설계하는 실전문제 해결형 학·석사 연계 교..."
+                    }
+                  ]
+                },
+                {
+                  "policy_item_content_id": "PIC-POL-005-03-02",
+                  "content_label": "현장형 실무인재 및 재교육",
+                  "content_statement": "체험형 실습교육과 재직자 재교육을 통해 팹리스 현장형 설계 인력을 양성한다.",
+                  "content_summary": "현장형 실무인재와 재직자 재교육을 함께 추진한다.",
+                  "content_type": "workforce_training",
+                  "display_order": 2,
+                  "evidence": [
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-007-00250",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-007-00250",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-007",
+                      "location_type": "page_or_section",
+                      "location_value": "section8",
+                      "evidence_text": "○ (재직자 재교육) 현직 경험과 반도체 지식을 기반으로 시스템 전반의 설계 역량을 갖춘 ‘기업 맞춤형 설계 전문가’ 양성 추진",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-007__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-007-00250",
+                          "source_asset_id": "SRC-DOC-POL-007-0848",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-007.hwpx",
+                          "page_no": "",
+                          "section_id": "section8"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-005-01393",
+                      "source_policy_item_label": "○ (재직자 재교육) 현직 경험과 반도체 지식을 기반으로 시스템 전반의 설계 역량..."
+                    },
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-007-00249",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-007-00249",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-007",
+                      "location_type": "page_or_section",
+                      "location_value": "section8",
+                      "evidence_text": "○ (체험형 실습교육) 공공 나노팹 주도로 칩 제작 서비스를 연계한 학부 설계교육 커리큘럼 연계 과정 개발·제공을 통한 학부 설계인력 양성",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-007__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-007-00249",
+                          "source_asset_id": "SRC-DOC-POL-007-0848",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-007.hwpx",
+                          "page_no": "",
+                          "section_id": "section8"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-005-01394",
+                      "source_policy_item_label": "○ (체험형 실습교육) 공공 나노팹 주도로 칩 제작 서비스를 연계한 학부 설계교육..."
+                    },
+                    {
+                      "derived_representation_id": "DRV-PAR-DOC-POL-007-00243",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-007-00243",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-007",
+                      "location_type": "page_or_section",
+                      "location_value": "section8",
+                      "evidence_text": "- (실무인재) 현장 중심 인재 양성을 통한 팹리스 인력난 해소 지원",
+                      "structured_payload_path": "work/03_processing/normalized/DOC-POL-007__paragraphs.csv",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-007-00243",
+                          "source_asset_id": "SRC-DOC-POL-007-0848",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-007.hwpx",
+                          "page_no": "",
+                          "section_id": "section8"
+                        }
+                      ],
+                      "source_policy_item_id": "ITM-POL-005-01397",
+                      "source_policy_item_label": "실무인재"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
