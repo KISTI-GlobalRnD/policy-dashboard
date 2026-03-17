@@ -8,7 +8,6 @@ import { DashboardHeader } from "./DashboardHeader";
 import { EvidenceBoard } from "./EvidenceBoard";
 import { FilterBar } from "./FilterBar";
 import { OverviewBoard } from "./OverviewBoard";
-import { PipelineStrip } from "./PipelineStrip";
 import { PolicyRail } from "./PolicyRail";
 import { TracePanel } from "./TracePanel";
 import styles from "./DashboardWorkbenchPage.module.css";
@@ -151,7 +150,11 @@ export function DashboardWorkbenchPage() {
   if (isLoading) {
     return (
       <main className={styles.shell}>
-        <EmptyState eyebrow="Loading" title="기술 축 projection을 불러오는 중" body="정책, group, content, evidence 계층을 읽어 기술 중심 대시보드 화면을 구성하고 있습니다." />
+        <EmptyState
+          eyebrow="Loading"
+          title="대시보드 데이터를 불러오는 중"
+          body="정책, 기술영역, 근거 데이터를 읽어 정책-기술 집중도를 구성하고 있습니다."
+        />
       </main>
     );
   }
@@ -162,7 +165,7 @@ export function DashboardWorkbenchPage() {
         <EmptyState
           eyebrow="Load Error"
           title="데이터를 불러오지 못했습니다."
-          body={error?.message ?? "technology-lens 기반 runtime pack 로딩에 실패했습니다."}
+          body={error?.message ?? "정책·기술 데이터셋을 불러오지 못했습니다."}
         />
       </main>
     );
@@ -210,7 +213,6 @@ export function DashboardWorkbenchPage() {
         mappingNetworkUrl={dashboardLinks.mappingNetworkHref}
         mappingOntologyNetworkUrl={dashboardLinks.ontologyNetworkHref}
       />
-      <PipelineStrip />
       <FilterBar
         dataset={data}
         search={search}

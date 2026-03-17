@@ -31,43 +31,41 @@ export function DashboardHeader({
     {
       label: "정책",
       value: formatNumber(totalPolicies),
-      meta: "projected policies",
+      meta: "총 대상 정책",
     },
     {
       label: "대표 그룹",
       value: formatNumber(totalGroups),
-      meta: "policy item groups",
+      meta: "정책 항목 그룹",
     },
     {
       label: "대표 내용",
       value: formatNumber(totalContents),
-      meta: "content nodes",
+      meta: "정책 내용",
     },
     {
       label: "근거 링크",
       value: formatNumber(totalEvidence),
-      meta: "content evidences",
+      meta: "근거 원문",
     },
     {
       label: "현재 범위",
       value: formatNumber(matchedContents),
-      meta: "filtered contents",
+      meta: "조회 범위",
     },
   ];
 
   return (
     <header className={styles.masthead}>
       <div className={styles.mastheadCopy}>
-        <p className={styles.eyebrow}>Technology Lens Projection</p>
-        <h1 className={styles.mastheadTitle}>기술 축별 대표 정책 내용과 근거를 읽는 정적 대시보드</h1>
+        <p className={styles.eyebrow}>Policy-Technology Dashboard</p>
+        <h1 className={styles.mastheadTitle}>정책이 집중되는 기술영역을 한 화면에서 점검</h1>
         <p className={styles.mastheadBody}>
-          기술별 대표 항목은 <strong>PolicyItemGroup - PolicyItemContent - Evidence - SourceAsset</strong> 계층으로
-          유지하되, curated 그룹과 provisional fallback을 한 화면에서 같이 읽는다. 대형 화면에서는 정책 인덱스,
-          대표 내용 테이블, 원문 trace를 한 작업면 안에서 같이 본다.
+          정책별로 어떤 기술영역에 얼마나 많이 연결되는지와 각 연결 근거를 빠르게 확인합니다.
         </p>
         <div className={styles.metaRow}>
           <Chip tone="primary">static React app</Chip>
-          <Chip>technology lens pack</Chip>
+          <Chip>policy & technology pack</Chip>
           <Chip>{packId}</Chip>
           <Chip>{activePolicyName ?? "정책 전체 범위"}</Chip>
           <a href={mappingWorkbenchUrl} className={styles.headerLink}>
@@ -88,7 +86,7 @@ export function DashboardHeader({
             <h2 className={styles.signalTitle}>전체 모수와 현재 범위를 같이 본다</h2>
           </div>
           <p className={styles.signalBody}>
-            상단은 요약 카드 더미가 아니라, 현재 샘플 팩의 크기와 필터 범위를 빠르게 읽는 데이터 스트립으로 유지한다.
+            상단 지표는 실무 점검에 필요한 범위와 누적 수치를 빠르게 전달하기 위한 전용 요약입니다.
           </p>
         </div>
 
@@ -103,10 +101,10 @@ export function DashboardHeader({
         </div>
 
         <div className={styles.signalTape}>
-          <span>{"tech -> policy -> group -> content -> evidence"}</span>
-          <span>gold + provisional projection</span>
-          <span>direct source links</span>
-          <span>static build only</span>
+          <span>정책 · 기술영역 · 내용 · 근거 흐름</span>
+          <span>근거 수집본 우선 정렬</span>
+          <span>원문 링크 직접 연결</span>
+          <span>정적 브라우저 빌드</span>
         </div>
       </div>
     </header>
