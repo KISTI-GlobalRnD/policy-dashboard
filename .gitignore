@@ -1,0 +1,9 @@
+/tmp/
+/scripts/__pycache__/
+/work/releases/
+/work/05_dashboard/frontend/dist/
+/work/05_dashboard/frontend/dist-snapshots/
+/work/05_dashboard/frontend/node_modules/
+
+# Bytecode
+*.pyc
