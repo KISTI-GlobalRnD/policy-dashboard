@@ -42,7 +42,11 @@ export function readDashboardUrlState(): Partial<DashboardStoreSnapshot> {
 }
 
 export function writeDashboardUrlState(state: DashboardStoreSnapshot) {
-  const params = new URLSearchParams();
+  const params = new URLSearchParams(window.location.search);
+
+  ["q", "category", "strategy", "tech", "projection", "limit", "policy", "content"].forEach((key) =>
+    params.delete(key),
+  );
 
   if (state.search) params.set("q", state.search);
   if (state.resourceCategoryId !== "all") params.set("category", state.resourceCategoryId);
