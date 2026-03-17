@@ -3,9 +3,10 @@ import curatedContentSampleSummaryJson from "../../../../../04_ontology/sample_b
 import { adaptDashboardDataset } from "./dashboard.adapter";
 import { dashboardDatasetSchema, dashboardSummarySchema, mappingSupportSchema } from "./dashboard.schema";
 
-const RUNTIME_PACK_URL = "/data/mapping-workbench-pack.json";
-const RUNTIME_SUMMARY_URL = "/data/mapping-workbench-summary.json";
-const RUNTIME_SUPPORT_URL = "/data/mapping-workbench-support.json";
+const RUNTIME_PACK_PATH = "./data/mapping-workbench-pack.json";
+const RUNTIME_SUMMARY_PATH = "./data/mapping-workbench-summary.json";
+const RUNTIME_SUPPORT_PATH = "./data/mapping-workbench-support.json";
+const FALLBACK_SUPPORT_PATH = "./data/mapping-support.json";
 
 const EMPTY_MAPPING_SUPPORT = mappingSupportSchema.parse({
   content_review_status_by_id: {},
@@ -13,8 +14,13 @@ const EMPTY_MAPPING_SUPPORT = mappingSupportSchema.parse({
   group_tech_review_status_by_key: {},
 });
 
+const buildDataUrl = (path: string) => new URL(path, window.location.href).toString();
+
 export async function fetchDashboardDataset() {
   try {
+    const RUNTIME_PACK_URL = buildDataUrl(RUNTIME_PACK_PATH);
+    const RUNTIME_SUMMARY_URL = buildDataUrl(RUNTIME_SUMMARY_PATH);
+    const RUNTIME_SUPPORT_URL = buildDataUrl(RUNTIME_SUPPORT_PATH);
     const [packResponse, summaryResponse, supportResponse] = await Promise.all([
       fetch(RUNTIME_PACK_URL),
       fetch(RUNTIME_SUMMARY_URL),
@@ -36,7 +42,8 @@ export async function fetchDashboardDataset() {
   const parsedSummary = dashboardSummarySchema.parse(curatedContentSampleSummaryJson);
 
   try {
-    const response = await fetch("/data/mapping-support.json");
+    const FALLBACK_SUPPORT_URL = buildDataUrl(FALLBACK_SUPPORT_PATH);
+    const response = await fetch(FALLBACK_SUPPORT_URL);
     if (response.ok) {
       return adaptDashboardDataset(parsedPack, parsedSummary, mappingSupportSchema.parse(await response.json()));
     }
