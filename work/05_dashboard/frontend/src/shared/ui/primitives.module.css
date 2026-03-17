@@ -1,0 +1,95 @@
+.panel {
+  border: 1px solid var(--color-line);
+  border-radius: var(--radius-6);
+  background: var(--color-surface);
+  box-shadow: var(--shadow-md);
+  backdrop-filter: blur(16px);
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 32px;
+  padding: 0 12px;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.chipPrimary {
+  color: var(--color-accent-strong);
+  background: var(--color-accent-soft);
+}
+
+.chipNeutral {
+  color: var(--color-text-soft);
+  background: rgba(25, 36, 48, 0.06);
+}
+
+.metricCard {
+  position: relative;
+  overflow: hidden;
+  padding: var(--space-5);
+  border-radius: var(--radius-5);
+  border: 1px solid var(--color-line);
+  background: rgba(255, 255, 255, 0.78);
+  box-shadow: var(--shadow-md);
+}
+
+.metricCard::before {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 4px;
+  background: var(--metric-accent, var(--color-accent));
+}
+
+.metricLabel {
+  display: block;
+  color: var(--color-text-soft);
+  font-size: 0.76rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.metricValue {
+  display: block;
+  margin-top: 10px;
+  font-size: clamp(1.8rem, 3vw, 2.8rem);
+  line-height: 1;
+}
+
+.metricDescription {
+  margin: 10px 0 0;
+  color: var(--color-text-soft);
+  line-height: 1.5;
+}
+
+.emptyState {
+  padding: var(--space-6);
+}
+
+.emptyEyebrow {
+  margin: 0;
+  color: var(--color-accent);
+  font-size: 0.76rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+
+.emptyTitle {
+  margin: 10px 0 10px;
+  font-size: 1.8rem;
+  line-height: 1.04;
+}
+
+.emptyBody {
+  margin: 0;
+  color: var(--color-text-soft);
+  line-height: 1.65;
+}

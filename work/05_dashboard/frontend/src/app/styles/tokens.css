@@ -1,0 +1,38 @@
+:root {
+  --color-bg: #0e1824;
+  --color-bg-soft: #f5f3ee;
+  --color-surface: rgba(255, 252, 247, 0.84);
+  --color-surface-strong: #fffdfa;
+  --color-surface-dark: rgba(16, 27, 39, 0.86);
+  --color-text: #192430;
+  --color-text-soft: #66778b;
+  --color-text-inverse: #eff6fb;
+  --color-line: rgba(25, 36, 48, 0.1);
+  --color-line-strong: rgba(25, 36, 48, 0.18);
+  --color-accent: #11a39a;
+  --color-accent-strong: #0b716c;
+  --color-accent-soft: rgba(17, 163, 154, 0.14);
+  --color-warn: #d97706;
+  --color-warn-soft: rgba(217, 119, 6, 0.14);
+  --color-tech: #089981;
+  --color-tech-soft: rgba(8, 153, 129, 0.12);
+  --color-infra: #2563eb;
+  --color-infra-soft: rgba(37, 99, 235, 0.12);
+  --color-talent: #ea580c;
+  --color-talent-soft: rgba(234, 88, 12, 0.12);
+  --shadow-lg: 0 28px 60px rgba(16, 28, 40, 0.16);
+  --shadow-md: 0 16px 36px rgba(16, 28, 40, 0.1);
+  --radius-4: 14px;
+  --radius-5: 20px;
+  --radius-6: 28px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-7: 28px;
+  --space-8: 32px;
+  --font-sans: "IBM Plex Sans KR", "Noto Sans KR", "Apple SD Gothic Neo", sans-serif;
+  --font-serif: "Iowan Old Style", "Georgia", serif;
+  --font-mono: "IBM Plex Mono", "SFMono-Regular", monospace;
+}
