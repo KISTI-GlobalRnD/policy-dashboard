@@ -212,8 +212,8 @@ export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenc
       <main className={styles.shell}>
         <EmptyState
           eyebrow="Loading"
-          title="매핑 워크벤치를 준비하는 중"
-          body="정책과 기술 대분류 매트릭스를 만들기 위해 curated pack을 읽고 있습니다."
+          title="분석 화면을 준비하는 중"
+          body="정책-기술 연결 분석을 위한 근거 데이터를 읽고 있습니다."
         />
       </main>
     );
@@ -225,7 +225,7 @@ export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenc
         <EmptyState
           eyebrow="Load Error"
           title="온톨로지 네트워크 데이터를 불러오지 못했습니다."
-          body={ontologyNetworkError?.message ?? "technology-lens projection 로딩에 실패했습니다."}
+          body={ontologyNetworkError?.message ?? "정책-기술 연결 데이터셋을 불러오지 못했습니다."}
         />
       </main>
     );
@@ -237,7 +237,7 @@ export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenc
         <EmptyState
           eyebrow="Load Error"
           title="데이터를 불러오지 못했습니다."
-          body={error?.message ?? "curated content sample pack 로딩에 실패했습니다."}
+          body={error?.message ?? "정책-기술 분석 데이터를 불러오지 못했습니다."}
         />
       </main>
     );
@@ -247,8 +247,8 @@ export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenc
     <main className={styles.shell}>
       <section className={styles.pageControls}>
         <div className={styles.pageControlsCopy}>
-          <p className={styles.eyebrow}>Workbench Layout</p>
-          <h1 className={styles.pageControlsTitle}>매트릭스를 먼저 보고, 설명과 필터는 필요할 때만 연다</h1>
+          <p className={styles.eyebrow}>분석 모드</p>
+          <h1 className={styles.pageControlsTitle}>정책별 기술집중을 확인하고 증거로 바로 이동하세요</h1>
           <p className={styles.sectionBody}>
             현재 범위는 정책 {formatNumber(viewModel.visiblePolicyCount)}개, 대표 내용 {formatNumber(viewModel.filteredRows.length)}개,
             활성 필터 {formatNumber(activeFilterCount)}개입니다.

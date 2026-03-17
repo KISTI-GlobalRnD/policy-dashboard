@@ -297,12 +297,15 @@ export function buildOntologyNetworkBoard(
   }
 
   if (policyNodeList.length === 0 || domainNodeList.length === 0) {
+    const maxNodesInRow = Math.max(policyNodeList.length, domainNodeList.length, 1);
+    const fallbackWidth = Math.max(680, Math.min(1320, maxNodesInRow * 150 + 140));
+
     return {
       policyNodes: policyNodeList,
       domainNodes: domainNodeList,
       links: [],
-      chartWidth: 1120,
-      chartHeight: 560,
+      chartWidth: fallbackWidth,
+      chartHeight: 320,
       totalNodes: policyNodeList.length + domainNodeList.length,
       totalConnections: 0,
       selectedPolicyCount: policyNodeList.filter((node) => node.isSelected).length,
@@ -310,11 +313,15 @@ export function buildOntologyNetworkBoard(
     };
   }
 
-  const chartWidth = 1120;
-  const chartHeight = 560;
-  const xPadding = 96;
-  const policyY = 170;
-  const domainY = 400;
+  const rowGap = 132;
+  const chartWidth = (() => {
+    const maxNodesInRow = Math.max(visiblePolicyNodes.length, visibleDomainNodes.length, 1);
+    return Math.max(680, Math.min(1320, maxNodesInRow * 150 + 140));
+  })();
+  const chartHeight = Math.max(300, Math.min(460, rowGap + 190));
+  const xPadding = 72;
+  const policyY = chartHeight * 0.34;
+  const domainY = chartHeight * 0.74;
 
   const activePolicyIds = new Set(
     [...filteredPolicyIds].filter((policyId) => {

@@ -903,8 +903,8 @@
 
 .networkCanvas {
   width: 100%;
-  min-width: 980px;
-  max-width: 1120px;
+  min-width: 0;
+  max-width: none;
   margin: 0 auto;
   display: block;
 }
