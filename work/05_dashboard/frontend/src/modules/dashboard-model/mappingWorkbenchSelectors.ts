@@ -313,7 +313,10 @@ function buildTechFacetOptions(rows: ContentRow[], selectedValue: string) {
   }
 
   return buildFacetOptions(
-    TECH_DOMAIN_REFERENCES.map((entry) => ({ value: entry.termId, label: entry.label })),
+    TECH_DOMAIN_REFERENCES.filter((entry) => counts.get(entry.termId) !== 0 || entry.termId === selectedValue).map((entry) => ({
+      value: entry.termId,
+      label: entry.label,
+    })),
     counts,
     selectedValue,
   );
@@ -384,23 +387,36 @@ export function buildMappingWorkbenchViewModel(
       ? dataset.policies
       : dataset.policies.filter((policy) => policy.policy_id === validPolicyFilterId);
 
-  const visibleDomains =
+  const visibleDomainRefs =
     validTechDomainFilterId === "all"
       ? TECH_DOMAIN_REFERENCES
       : TECH_DOMAIN_REFERENCES.filter((entry) => entry.termId === validTechDomainFilterId);
 
   const matrixDomains = [
-    ...visibleDomains.map((domain) =>
+    ...visibleDomainRefs
+      .map((domain) =>
+        buildDomainSummary(
+          domain,
+          filteredRows.filter((row) => hasTechDomain(row, domain.termId)),
+          options.inspectorPolicyId ? null : options.inspectorTechDomainId,
+        ),
+      )
+      .filter(
+        (domain) =>
+          domain.contentCount > 0 ||
+          (options.inspectorPolicyId === null && options.inspectorTechDomainId === domain.termId) ||
+          validTechDomainFilterId === domain.termId,
+      ),
+    ...[
       buildDomainSummary(
-        domain,
-        filteredRows.filter((row) => hasTechDomain(row, domain.termId)),
+        UNMAPPED_DOMAIN,
+        filteredRows.filter((row) => row.tech_terms.length === 0),
         options.inspectorPolicyId ? null : options.inspectorTechDomainId,
       ),
-    ),
-    buildDomainSummary(
-      UNMAPPED_DOMAIN,
-      filteredRows.filter((row) => row.tech_terms.length === 0),
-      options.inspectorPolicyId ? null : options.inspectorTechDomainId,
+    ].filter(
+      (domain) =>
+        domain.contentCount > 0 ||
+        domain.termId === options.inspectorTechDomainId,
     ),
   ];
 
@@ -419,12 +435,13 @@ export function buildMappingWorkbenchViewModel(
       ),
     ) || 1;
 
-  const matrixRows = visiblePolicies.map((policy) => {
-    const policyRows = filteredRows.filter((row) => row.policy_id === policy.policy_id);
-    const cells = matrixDomains.map((domain) => {
-      const rows = policyRows.filter((row) =>
-        domain.termId === UNMAPPED_DOMAIN.termId ? row.tech_terms.length === 0 : hasTechDomain(row, domain.termId),
-      );
+  const matrixRows = visiblePolicies
+    .map((policy) => {
+      const policyRows = filteredRows.filter((row) => row.policy_id === policy.policy_id);
+      const cells = matrixDomains.map((domain) => {
+        const rows = policyRows.filter((row) =>
+          domain.termId === UNMAPPED_DOMAIN.termId ? row.tech_terms.length === 0 : hasTechDomain(row, domain.termId),
+        );
       const contentCount = rows.length;
       const evidenceCount = rows.reduce((sum, row) => sum + row.evidence_count, 0);
       const reviewedContentCount = rows.filter((row) => row.mapping_review_status === "reviewed").length;
@@ -452,20 +469,21 @@ export function buildMappingWorkbenchViewModel(
       } satisfies PolicyTechMatrixCell;
     });
 
-    return {
-      policy,
-      cells,
-      mappedDomainCount: cells.filter((cell) => cell.techDomainId !== UNMAPPED_DOMAIN.termId && cell.contentCount > 0).length,
-      mappedContentCount: policyRows.filter((row) => row.tech_terms.length > 0).length,
-      unmappedContentCount: policyRows.filter((row) => row.tech_terms.length === 0).length,
-      totalEvidenceCount: policyRows.reduce((sum, row) => sum + row.evidence_count, 0),
-      reviewedContentCount: policyRows.filter((row) => row.mapping_review_status === "reviewed").length,
-      needsReviewContentCount: policyRows.filter((row) => row.mapping_review_status === "needs_review").length,
-    } satisfies PolicyTechMatrixRow;
-  });
+      return {
+        policy,
+        cells,
+        mappedDomainCount: cells.filter((cell) => cell.techDomainId !== UNMAPPED_DOMAIN.termId && cell.contentCount > 0).length,
+        mappedContentCount: policyRows.filter((row) => row.tech_terms.length > 0).length,
+        unmappedContentCount: policyRows.filter((row) => row.tech_terms.length === 0).length,
+        totalEvidenceCount: policyRows.reduce((sum, row) => sum + row.evidence_count, 0),
+        reviewedContentCount: policyRows.filter((row) => row.mapping_review_status === "reviewed").length,
+        needsReviewContentCount: policyRows.filter((row) => row.mapping_review_status === "needs_review").length,
+      } satisfies PolicyTechMatrixRow;
+    })
+    .filter((row) => row.mappedContentCount > 0 || row.unmappedContentCount > 0);
 
   const validInspectorPolicyId =
-    options.inspectorPolicyId && visiblePolicies.some((policy) => policy.policy_id === options.inspectorPolicyId)
+    options.inspectorPolicyId && matrixRows.some((row) => row.policy.policy_id === options.inspectorPolicyId)
       ? options.inspectorPolicyId
       : null;
   const validInspectorTechDomainId =
@@ -674,11 +692,11 @@ export function buildMappingWorkbenchViewModel(
       dataset.policies.map((policy) => ({ value: policy.policy_id, label: policy.policy_name })),
       policyFacetCounts,
       validPolicyFilterId,
-    ),
+    ).filter((entry) => entry.count > 0 || entry.value === validPolicyFilterId),
     availableStrategies: buildStrategyFacetOptions(dataset.strategy_filters, strategyFacetRows, validStrategyTermId),
     availableTechDomains: buildTechFacetOptions(techFacetRows, validTechDomainFilterId),
     availableReviewStatuses: buildReviewFacetOptions(reviewFacetRows, validReviewStatus),
-    visiblePolicyCount: visiblePolicies.length,
+    visiblePolicyCount: matrixRows.length,
     mappedDomainCount: matrixDomains.filter((entry) => entry.termId !== UNMAPPED_DOMAIN.termId && entry.contentCount > 0).length,
     mappedGroupCount: uniqueCount(filteredRows.filter((row) => row.tech_terms.length > 0).map((row) => row.policy_item_group_id)),
     mappedContentCount: filteredRows.filter((row) => row.tech_terms.length > 0).length,

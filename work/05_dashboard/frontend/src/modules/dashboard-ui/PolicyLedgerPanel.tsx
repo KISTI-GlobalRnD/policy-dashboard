@@ -27,11 +27,13 @@ function getReviewSummary(row: PolicyTechMatrixRow): ReviewStateSummary {
 }
 
 export function PolicyLedgerPanel({ rows, selectedPolicyId, onSelectPolicy }: PolicyLedgerPanelProps) {
+  const activeRows = rows.filter((row) => row.mappedContentCount > 0 || row.unmappedContentCount > 0);
+
   return (
     <Panel className={styles.policyLedgerPanel}>
       <div className={styles.panelHead}>
         <div>
-          <p className={styles.eyebrow}>Policy Ledger</p>
+          <p className={styles.eyebrow}>정책 레일</p>
           <h2 className={styles.sectionTitle}>정책 인덱스</h2>
         </div>
         <button
@@ -45,7 +47,7 @@ export function PolicyLedgerPanel({ rows, selectedPolicyId, onSelectPolicy }: Po
       </div>
 
       <div className={styles.policyLedgerList}>
-        {rows.map((row) => {
+        {activeRows.map((row) => {
           const isActive = selectedPolicyId === row.policy.policy_id;
           const reviewState = getReviewSummary(row);
 
@@ -75,11 +77,7 @@ export function PolicyLedgerPanel({ rows, selectedPolicyId, onSelectPolicy }: Po
 
               <strong className={styles.policyLedgerTitle}>{row.policy.policy_name}</strong>
               <p className={styles.policyLedgerMeta}>
-                {formatNumber(row.mappedDomainCount)}개 대분류 · {formatNumber(row.mappedContentCount)}C ·{" "}
-                {formatNumber(row.unmappedContentCount)} gap
-              </p>
-              <p className={styles.policyLedgerSubmeta}>
-                리뷰 완료 {formatNumber(row.reviewedContentCount)} / 필요 {formatNumber(row.needsReviewContentCount)}
+                {formatNumber(row.mappedDomainCount)}개 대분류 / {formatNumber(row.mappedContentCount)}개 매핑
               </p>
             </button>
           );
