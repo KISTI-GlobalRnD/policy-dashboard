@@ -1,0 +1,5 @@
+canonical_table_id,document_id,title_hint,page_start,page_end,preferred_candidate_source,preferred_candidate_id,canonical_status,dashboard_ready,source_review_item_ids,notes
+CTBL-DOC-POL-003-001,DOC-POL-003,구 분 / 내 용,section2,section2,pymupdf_find_tables,TBL-DOC-POL-003-022,ready,yes,TRV-DOC-POL-003-JS-022,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-003-002,DOC-POL-003,"온디바이스 AI반도체 풀스택 / 수요 맞춤형 온디바이스 AI 반도체, AI SW, 모듈 등 개발 · 실증",section2,section2,pymupdf_find_tables,TBL-DOC-POL-003-040,ready,yes,TRV-DOC-POL-003-JS-040,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-003-003,DOC-POL-003,전략 / 내용,section0,section2,pymupdf_find_tables,TBL-DOC-POL-003-013,ready,yes,TRV-DOC-POL-003-JS-007|TRV-DOC-POL-003-JS-013,요약본과 본문에 반복된 제조AX 3대 전략 요약표.
+CTBL-DOC-POL-003-004,DOC-POL-003,유형 / 프로젝트 예시,section2,section2,pymupdf_find_tables,TBL-DOC-POL-003-027,ready,yes,TRV-DOC-POL-003-JS-027,수직적 확산과 수평적 확산의 프로젝트 예시 표.

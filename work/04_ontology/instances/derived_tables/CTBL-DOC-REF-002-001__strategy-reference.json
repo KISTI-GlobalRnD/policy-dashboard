@@ -1,0 +1,269 @@
+{
+  "canonical_table_id": "CTBL-DOC-REF-002-001",
+  "document_id": "DOC-REF-002",
+  "title": "정책·기술분야별 재구성(안) - 기술 전략 reference",
+  "columns": [
+    "sequence_no",
+    "strategy_label",
+    "content_summary"
+  ],
+  "table_shape": {
+    "rows": 15,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      1,
+      "AI G3 도약 및 전 산업 AX 확산",
+      "AI 파운데이션 모델 개발 및 전 산업 인공지능 전환(AX) 가속화"
+    ],
+    [
+      2,
+      "초격차 전략기술 확보 (반도체·이차전지)",
+      "차세대 AI 반도체(NPU, PIM) 및 고성능 이차전지 초격차 기술 확보"
+    ],
+    [
+      3,
+      "바이오·헬스 글로벌 중심국가 도약",
+      "AI 기반 차세대 바이오의료·헬스 시스템 글로벌 혁신"
+    ],
+    [
+      4,
+      "차세대 네트워크(6G) 및 지능형 인프라",
+      "6G 상용화 기술 확보 및 저궤도 위성통신 기반 초연결망 구축"
+    ],
+    [
+      5,
+      "우주항공 및 해양 기술주권 확보",
+      "독자적 항공엔진 개발 및 완전 자율운항 선박 핵심기술 확보"
+    ],
+    [
+      6,
+      "탄소중립 및 에너지 안보 (수소·SMR)",
+      "그린수소 생산 및 소형모듈원자로(SMR) 상용화 기술 개발"
+    ],
+    [
+      7,
+      "양자 정보통신 및 미래소재 선점",
+      "양자 컴퓨팅 원천기술 및 초전도체, 그래핀 등 게임체인저 소재 개발"
+    ],
+    [
+      8,
+      "피지컬 AI 및 지능형 로봇 산업 육성",
+      "인간 공존형 로봇 및 산업 현장 자율화 로봇 기술 고도화"
+    ],
+    [
+      9,
+      "미래 모빌리티(자율주행·UAM)",
+      "자율주행 소프트웨어(SDV) 및 도심항공교통(UAM) 상용화"
+    ],
+    [
+      10,
+      "사이버 보안 및 AI 신뢰성 검증 기술 확보",
+      "데이터 중심 정보보호 및 AI 신뢰성 검증 기술 확보"
+    ],
+    [
+      11,
+      "디지털 콘텐츠 및 K-컬처 혁신",
+      "AI 기반 콘텐츠 제작과 K-콘텐츠 경쟁력 고도화"
+    ],
+    [
+      12,
+      "스마트 농업 및 수산업 기술",
+      "스마트 농업·수산업 생산 고도화와 식량안보 대응"
+    ],
+    [
+      13,
+      "디지털 트윈 및 가상화 공정 혁신",
+      "산업 생산성 향상을 위한 가상 모형 및 시뮬레이션 기술"
+    ],
+    [
+      14,
+      "핵심 전략기술 자립 (LNG화물창·특수강)",
+      "에너지 및 주력 산업의 소재·부품·장비 자립화"
+    ],
+    [
+      15,
+      "감염병 대응 및 공중보건 기술 자립",
+      "mRNA 백신 플랫폼 및 정밀 의료 기술 국산화"
+    ]
+  ],
+  "records": [
+    {
+      "sequence_no": 1,
+      "strategy_label": "AI G3 도약 및 전 산업 AX 확산",
+      "content_summary": "AI 파운데이션 모델 개발 및 전 산업 인공지능 전환(AX) 가속화"
+    },
+    {
+      "sequence_no": 2,
+      "strategy_label": "초격차 전략기술 확보 (반도체·이차전지)",
+      "content_summary": "차세대 AI 반도체(NPU, PIM) 및 고성능 이차전지 초격차 기술 확보"
+    },
+    {
+      "sequence_no": 3,
+      "strategy_label": "바이오·헬스 글로벌 중심국가 도약",
+      "content_summary": "AI 기반 차세대 바이오의료·헬스 시스템 글로벌 혁신"
+    },
+    {
+      "sequence_no": 4,
+      "strategy_label": "차세대 네트워크(6G) 및 지능형 인프라",
+      "content_summary": "6G 상용화 기술 확보 및 저궤도 위성통신 기반 초연결망 구축"
+    },
+    {
+      "sequence_no": 5,
+      "strategy_label": "우주항공 및 해양 기술주권 확보",
+      "content_summary": "독자적 항공엔진 개발 및 완전 자율운항 선박 핵심기술 확보"
+    },
+    {
+      "sequence_no": 6,
+      "strategy_label": "탄소중립 및 에너지 안보 (수소·SMR)",
+      "content_summary": "그린수소 생산 및 소형모듈원자로(SMR) 상용화 기술 개발"
+    },
+    {
+      "sequence_no": 7,
+      "strategy_label": "양자 정보통신 및 미래소재 선점",
+      "content_summary": "양자 컴퓨팅 원천기술 및 초전도체, 그래핀 등 게임체인저 소재 개발"
+    },
+    {
+      "sequence_no": 8,
+      "strategy_label": "피지컬 AI 및 지능형 로봇 산업 육성",
+      "content_summary": "인간 공존형 로봇 및 산업 현장 자율화 로봇 기술 고도화"
+    },
+    {
+      "sequence_no": 9,
+      "strategy_label": "미래 모빌리티(자율주행·UAM)",
+      "content_summary": "자율주행 소프트웨어(SDV) 및 도심항공교통(UAM) 상용화"
+    },
+    {
+      "sequence_no": 10,
+      "strategy_label": "사이버 보안 및 AI 신뢰성 검증 기술 확보",
+      "content_summary": "데이터 중심 정보보호 및 AI 신뢰성 검증 기술 확보"
+    },
+    {
+      "sequence_no": 11,
+      "strategy_label": "디지털 콘텐츠 및 K-컬처 혁신",
+      "content_summary": "AI 기반 콘텐츠 제작과 K-콘텐츠 경쟁력 고도화"
+    },
+    {
+      "sequence_no": 12,
+      "strategy_label": "스마트 농업 및 수산업 기술",
+      "content_summary": "스마트 농업·수산업 생산 고도화와 식량안보 대응"
+    },
+    {
+      "sequence_no": 13,
+      "strategy_label": "디지털 트윈 및 가상화 공정 혁신",
+      "content_summary": "산업 생산성 향상을 위한 가상 모형 및 시뮬레이션 기술"
+    },
+    {
+      "sequence_no": 14,
+      "strategy_label": "핵심 전략기술 자립 (LNG화물창·특수강)",
+      "content_summary": "에너지 및 주력 산업의 소재·부품·장비 자립화"
+    },
+    {
+      "sequence_no": 15,
+      "strategy_label": "감염병 대응 및 공중보건 기술 자립",
+      "content_summary": "mRNA 백신 플랫폼 및 정밀 의료 기술 국산화"
+    }
+  ],
+  "provenance": {
+    "source_candidate_ids": [
+      "TBL-DOC-REF-002-OCR-001"
+    ],
+    "normalization_method": "manual_visual_review_from_doc_ref_002_page_1_technology_band",
+    "source_pages": [
+      1
+    ],
+    "source_asset_path": "work/02_structured-extraction/figures/assets/DOC-REF-002/page_001.png",
+    "source_policy_documents": [
+      {
+        "display_order": 1,
+        "document_id": "DOC-POL-001",
+        "policy_id": "POL-001",
+        "board_label": "123대 국정과제",
+        "board_citation": "국정과제 ('25.8)"
+      },
+      {
+        "display_order": 2,
+        "document_id": "DOC-POL-002",
+        "policy_id": "POL-002",
+        "board_label": "AI·바이오 국가전략",
+        "board_citation": "과기정통부, '25.12.18"
+      },
+      {
+        "display_order": 3,
+        "document_id": "DOC-POL-004",
+        "policy_id": "POL-003",
+        "board_label": "과학기술xAI 국가전략",
+        "board_citation": "과기정통부, '25.11.22"
+      },
+      {
+        "display_order": 4,
+        "document_id": "DOC-POL-011",
+        "policy_id": "POL-004",
+        "board_label": "AI시대 대한민국 네트워크 전략",
+        "board_citation": "과기정통부, '25.12.18"
+      },
+      {
+        "display_order": 5,
+        "document_id": "DOC-POL-007",
+        "policy_id": "POL-005",
+        "board_label": "AI반도체 산업 도약전략",
+        "board_citation": "산업통상부, '25.12.18"
+      },
+      {
+        "display_order": 6,
+        "document_id": "DOC-POL-003",
+        "policy_id": "POL-006",
+        "board_label": "제조AX 추진방향",
+        "board_citation": "산업통상부, '25.12.22"
+      },
+      {
+        "display_order": 7,
+        "document_id": "DOC-POL-009",
+        "policy_id": "POL-007",
+        "board_label": "기초연구 생태계 육성방안",
+        "board_citation": "과기정통부, '25.12.18"
+      },
+      {
+        "display_order": 8,
+        "document_id": "DOC-POL-008",
+        "policy_id": "POL-008",
+        "board_label": "민간투자·팁스 R&D 확산방안",
+        "board_citation": "중소벤처기업부, '25.12.18"
+      },
+      {
+        "display_order": 9,
+        "document_id": "DOC-POL-010",
+        "policy_id": "POL-009",
+        "board_label": "과학기술분야 출연(연) 정책방향",
+        "board_citation": "과기정통부, '25.12.18"
+      },
+      {
+        "display_order": 10,
+        "document_id": "DOC-POL-005",
+        "policy_id": "POL-010",
+        "board_label": "연구개발 생태계 혁신방안",
+        "board_citation": "과기정통부, '25.11.22"
+      },
+      {
+        "display_order": 11,
+        "document_id": "DOC-POL-012",
+        "policy_id": "POL-011",
+        "board_label": "정부 AX사업 전주기 원스톱 지원방안",
+        "board_citation": "과기정통부·행정안전부, '26.1.28"
+      },
+      {
+        "display_order": 12,
+        "document_id": "DOC-POL-006",
+        "policy_id": "POL-012",
+        "board_label": "초혁신경제 15대 프로젝트 추진계획",
+        "board_citation": "기획재정부, '25.12.16"
+      }
+    ],
+    "row_level_notes": {
+      "11": "우측 보드 텍스트가 부분 훼손되어 라벨과 가독 가능한 키워드를 기준으로 summary를 정규화했다.",
+      "12": "우측 보드 텍스트가 부분 훼손되어 라벨과 가독 가능한 키워드를 기준으로 summary를 정규화했다.",
+      "14": "우측 보드 텍스트가 부분 훼손되어 라벨과 가독 가능한 키워드를 기준으로 summary를 정규화했다."
+    }
+  }
+}

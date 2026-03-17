@@ -1,0 +1,67 @@
+[
+  {
+    "canonical_table_id": "CTBL-DOC-POL-008-001",
+    "document_id": "DOC-POL-008",
+    "title_hint": "(‘26년) / 팁스(창업) / 스케일업 팁스(성장)",
+    "page_start": "section6",
+    "page_end": "section6",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-008-015",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-008-JS-015",
+    "notes": "1차 heuristic seed로 생성된 canonical table."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-008-002",
+    "document_id": "DOC-POL-008",
+    "title_hint": "DCP RFP / 부처 / 중기부",
+    "page_start": "section6",
+    "page_end": "section6",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-008-018",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-008-JS-018",
+    "notes": "1차 heuristic seed로 생성된 canonical table."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-008-003",
+    "document_id": "DOC-POL-008",
+    "title_hint": "구분 / 트랙 구분 / 지원조건",
+    "page_start": "section6",
+    "page_end": "section6",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-008-021",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-008-JS-021",
+    "notes": "1차 heuristic seed로 생성된 canonical table."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-008-004",
+    "document_id": "DOC-POL-008",
+    "title_hint": "(단위 : 억원)",
+    "page_start": "section6",
+    "page_end": "section6",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-008-023",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-008-JS-023",
+    "notes": "1차 heuristic seed로 생성된 canonical table."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-008-005",
+    "document_id": "DOC-POL-008",
+    "title_hint": "팁스 지역별 운영사 현황",
+    "page_start": "section6",
+    "page_end": "section6",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-008-024",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-008-JS-024",
+    "notes": "지역별 팁스 운영사 수와 예시 운영사 표."
+  }
+]

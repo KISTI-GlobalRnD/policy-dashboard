@@ -1,0 +1,41 @@
+[
+  {
+    "canonical_table_id": "CTBL-DOC-REF-002-001",
+    "document_id": "DOC-REF-002",
+    "title_hint": "정책·기술분야별 재구성(안) - 기술 전략 reference",
+    "page_start": 1,
+    "page_end": 1,
+    "preferred_candidate_source": "manual_normalized",
+    "preferred_candidate_id": "CTBL-DOC-REF-002-001__strategy-reference",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "",
+    "notes": "DOC-REF-002 page 1 상단 기술 밴드를 시각 검토해 15개 전략 reference로 정규화한 표."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-REF-002-002",
+    "document_id": "DOC-REF-002",
+    "title_hint": "정책·기술분야별 재구성(안) - 인프라·제도 common factors",
+    "page_start": 1,
+    "page_end": 1,
+    "preferred_candidate_source": "manual_normalized",
+    "preferred_candidate_id": "CTBL-DOC-REF-002-002__infrastructure-reference",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "",
+    "notes": "DOC-REF-002 page 1 중단 인프라·제도 밴드를 시각 검토해 15개 공통 요소 reference로 정규화한 표."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-REF-002-003",
+    "document_id": "DOC-REF-002",
+    "title_hint": "정책·기술분야별 재구성(안) - 인재·제도 common factors",
+    "page_start": 1,
+    "page_end": 1,
+    "preferred_candidate_source": "manual_normalized",
+    "preferred_candidate_id": "CTBL-DOC-REF-002-003__talent-reference",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "",
+    "notes": "DOC-REF-002 page 1 하단 인재·제도 밴드를 시각 검토해 15개 공통 요소 reference로 정규화한 표."
+  }
+]

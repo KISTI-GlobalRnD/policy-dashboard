@@ -1,0 +1,4 @@
+canonical_table_id,document_id,title_hint,page_start,page_end,preferred_candidate_source,preferred_candidate_id,canonical_status,dashboard_ready,source_review_item_ids,notes
+CTBL-DOC-REF-002-001,DOC-REF-002,정책·기술분야별 재구성(안) - 기술 전략 reference,1,1,manual_normalized,CTBL-DOC-REF-002-001__strategy-reference,ready,yes,,DOC-REF-002 page 1 상단 기술 밴드를 시각 검토해 15개 전략 reference로 정규화한 표.
+CTBL-DOC-REF-002-002,DOC-REF-002,정책·기술분야별 재구성(안) - 인프라·제도 common factors,1,1,manual_normalized,CTBL-DOC-REF-002-002__infrastructure-reference,ready,yes,,DOC-REF-002 page 1 중단 인프라·제도 밴드를 시각 검토해 15개 공통 요소 reference로 정규화한 표.
+CTBL-DOC-REF-002-003,DOC-REF-002,정책·기술분야별 재구성(안) - 인재·제도 common factors,1,1,manual_normalized,CTBL-DOC-REF-002-003__talent-reference,ready,yes,,DOC-REF-002 page 1 하단 인재·제도 밴드를 시각 검토해 15개 공통 요소 reference로 정규화한 표.

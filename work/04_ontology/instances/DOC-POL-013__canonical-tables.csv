@@ -1,0 +1,5 @@
+canonical_table_id,document_id,title_hint,page_start,page_end,preferred_candidate_source,preferred_candidate_id,canonical_status,dashboard_ready,source_review_item_ids,notes
+CTBL-DOC-POL-013-001,DOC-POL-013,범부처 주요 기술육성·보호체계 비교,section2,section8,pymupdf_find_tables,TBL-DOC-POL-013-010,ready,yes,TRV-DOC-POL-013-JS-010|TRV-DOC-POL-013-JS-021,4개 법령·체계를 소관부처와 목적 기준으로 비교하는 핵심 표. section8 재수록본은 본 canonical에 병합.
+CTBL-DOC-POL-013-002,DOC-POL-013,공통 기술분야 도출 및 체계별 배치,section2,section8,pymupdf_find_tables,TBL-DOC-POL-013-014,ready,yes,TRV-DOC-POL-013-JS-014|TRV-DOC-POL-013-JS-030,공통 기술분야를 법령 체계별로 배치한 핵심 매핑표. 본문 재수록본은 동일 canonical로 병합.
+CTBL-DOC-POL-013-003,DOC-POL-013,공통 기술분야 운영 시 역할 분담 예시,section8,section8,pymupdf_find_tables,TBL-DOC-POL-013-035,ready,yes,TRV-DOC-POL-013-JS-035,"공통 기술분야 변경, 체계별 운영, 세부기술 지정 단계별 논의·심의 주체를 설명하는 운영 예시표."
+CTBL-DOC-POL-013-004,DOC-POL-013,공통 기술분야 현황맵 예시,section8,section8,pymupdf_find_tables,TBL-DOC-POL-013-046,ready,yes,TRV-DOC-POL-013-JS-046,국가전략 및 신성장·원천 체계에서 다루는 대표 공통 기술분야를 예시로 정리한 현황맵 표.

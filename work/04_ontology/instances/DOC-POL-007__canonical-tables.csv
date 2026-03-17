@@ -1,0 +1,15 @@
+canonical_table_id,document_id,title_hint,page_start,page_end,preferred_candidate_source,preferred_candidate_id,canonical_status,dashboard_ready,source_review_item_ids,notes
+CTBL-DOC-POL-007-001,DOC-POL-007,구분 / `25년 / `26년,section2,section2,pymupdf_find_tables,TBL-DOC-POL-007-009,ready,yes,TRV-DOC-POL-007-JS-009,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-007-002,DOC-POL-007,구분 / `25년 / `26년,section8,section8,pymupdf_find_tables,TBL-DOC-POL-007-067,ready,yes,TRV-DOC-POL-007-JS-067,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-007-003,DOC-POL-007,설계 SW / ⇨ / 제품 제작,section8,section8,pymupdf_find_tables,TBL-DOC-POL-007-070,ready,yes,TRV-DOC-POL-007-JS-070,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-007-004,DOC-POL-007,구 분 / 참여 기관(안),section8,section8,pymupdf_find_tables,TBL-DOC-POL-007-071,ready,yes,TRV-DOC-POL-007-JS-071,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-007-005,DOC-POL-007,기업 / PIM R&D 개발 목표 / 해외 상용 온디바이스 AI반도체,section8,section8,pymupdf_find_tables,TBL-DOC-POL-007-077,ready,yes,TRV-DOC-POL-007-JS-077,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-007-006,DOC-POL-007,구분 / 1단계(’25~’27) / ⇒,section8,section8,pymupdf_find_tables,TBL-DOC-POL-007-081,ready,yes,TRV-DOC-POL-007-JS-081,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-007-007,DOC-POL-007,【 (예시) 광주 CCTV통합관제센터 AI서비스 실증 】,section8,section8,pymupdf_find_tables,TBL-DOC-POL-007-086,ready,yes,TRV-DOC-POL-007-JS-086,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-007-008,DOC-POL-007,세부 추진과제 / 주관 부처 (협조 부처) / 일정,section8,section8,pymupdf_find_tables,TBL-DOC-POL-007-105,ready,yes,TRV-DOC-POL-007-JS-105,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-007-009,DOC-POL-007,세부 추진과제 / 주관 부처 (협조 부처) / 일정,section8,section8,pymupdf_find_tables,TBL-DOC-POL-007-106,ready,yes,TRV-DOC-POL-007-JS-106,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-007-010,DOC-POL-007,AI반도체 산업 SWOT 분석,section8,section8,pymupdf_find_tables,TBL-DOC-POL-007-051,ready,yes,TRV-DOC-POL-007-JS-051,내부역량/외부환경을 강점·약점·기회·위협으로 정리한 표.
+CTBL-DOC-POL-007-011,DOC-POL-007,3대 기본 추진 방향,section8,section8,pymupdf_find_tables,TBL-DOC-POL-007-087,ready,yes,TRV-DOC-POL-007-JS-087,"혁신 서비스 발굴, 에코시스템 구축, 유연한 실증환경을 행 단위로 정리한 표."
+CTBL-DOC-POL-007-012,DOC-POL-007,해외 진출 지원 유형별 주요 내용,section8,section8,pymupdf_find_tables,TBL-DOC-POL-007-091,ready,yes,TRV-DOC-POL-007-JS-091,초기 진출기업과 글로벌 성장기업 유형별 지원내용 비교표.
+CTBL-DOC-POL-007-013,DOC-POL-007,금융지원 유형 비교,section8,section8,pymupdf_find_tables,TBL-DOC-POL-007-096,ready,yes,TRV-DOC-POL-007-JS-096,계약 담보형과 IP평가 보증형의 내용 및 대상을 비교하는 표.
+CTBL-DOC-POL-007-014,DOC-POL-007,AI반도체 인력양성 체계,section8,section8,pymupdf_find_tables,TBL-DOC-POL-007-099,ready,yes,TRV-DOC-POL-007-JS-099,대학원 및 대학 유형별 인력양성 방향을 정리한 표.

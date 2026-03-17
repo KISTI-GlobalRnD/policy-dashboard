@@ -1,0 +1,4 @@
+canonical_table_id,document_id,title_hint,page_start,page_end,preferred_candidate_source,preferred_candidate_id,canonical_status,dashboard_ready,source_review_item_ids,notes
+CTBL-DOC-POL-011-001,DOC-POL-011,As-Is / 중간 목표 / 최종 목표,section5,section5,pymupdf_find_tables,TBL-DOC-POL-011-013,ready,yes,TRV-DOC-POL-011-JS-013,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-011-002,DOC-POL-011,As-Is / 중간 목표 / 최종 목표,section5,section5,pymupdf_find_tables,TBL-DOC-POL-011-014,ready,yes,TRV-DOC-POL-011-JS-014,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-011-003,DOC-POL-011,"“기존 통신망을 활용한 소규모 AI서비스(법률·행정 등), 가상 공간 중심 실증을 탈피 → 초지능·초성능(Hyper) ‘AI네트워크’ 인프라 기",section5,section5,pymupdf_find_tables,TBL-DOC-POL-011-016,ready,yes,TRV-DOC-POL-011-JS-016,1차 heuristic seed로 생성된 canonical table.

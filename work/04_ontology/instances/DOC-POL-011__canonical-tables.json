@@ -1,0 +1,41 @@
+[
+  {
+    "canonical_table_id": "CTBL-DOC-POL-011-001",
+    "document_id": "DOC-POL-011",
+    "title_hint": "As-Is / 중간 목표 / 최종 목표",
+    "page_start": "section5",
+    "page_end": "section5",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-011-013",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-011-JS-013",
+    "notes": "1차 heuristic seed로 생성된 canonical table."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-011-002",
+    "document_id": "DOC-POL-011",
+    "title_hint": "As-Is / 중간 목표 / 최종 목표",
+    "page_start": "section5",
+    "page_end": "section5",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-011-014",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-011-JS-014",
+    "notes": "1차 heuristic seed로 생성된 canonical table."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-011-003",
+    "document_id": "DOC-POL-011",
+    "title_hint": "“기존 통신망을 활용한 소규모 AI서비스(법률·행정 등), 가상 공간 중심 실증을 탈피 → 초지능·초성능(Hyper) ‘AI네트워크’ 인프라 기",
+    "page_start": "section5",
+    "page_end": "section5",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-011-016",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-011-JS-016",
+    "notes": "1차 heuristic seed로 생성된 canonical table."
+  }
+]

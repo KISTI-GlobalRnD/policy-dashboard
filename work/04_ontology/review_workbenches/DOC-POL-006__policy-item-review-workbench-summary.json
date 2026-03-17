@@ -1,0 +1,13 @@
+{
+  "document_id": "DOC-POL-006",
+  "merge_candidate_count": 137,
+  "high_priority_count": 11,
+  "medium_priority_count": 107,
+  "low_priority_count": 19,
+  "suggested_action_counts": {
+    "attach_as_case_example": 2,
+    "drop_or_attach_background": 9,
+    "keep_as_regulatory_delta": 3,
+    "keep_or_merge": 123
+  }
+}

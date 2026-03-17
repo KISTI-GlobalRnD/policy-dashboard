@@ -1,0 +1,20 @@
+﻿policy_item_content_id,policy_item_group_id,content_label,content_statement,content_summary,content_type,content_status,display_order,notes
+PIC-POL-002-01-01,PIG-POL-002-01,국가 연구거점 설립,(가칭) 국가 AI 바이오 연구소를 설립해 국가 차원의 AI-바이오 연구개발 거점을 구축한다.,연구소 설립을 통해 국가 차원의 전담 거점을 만든다.,institution_setup,sample_curated,1,sample_pack_2026-03-14
+PIC-POL-002-01-02,PIG-POL-002-01,바이오 파운데이션 모델 구축·개방,연구소를 중심으로 멀티모달-멀티스케일 바이오 파운데이션 모델을 구축하고 산업 활용을 확산한다.,범용 바이오 파운데이션 모델을 구축·개방한다.,model_development,sample_curated,2,sample_pack_2026-03-14
+PIC-POL-002-02-01,PIG-POL-002-02,K-BDS 중심 데이터 통합·개방,K-BDS를 국가바이오데이터통합플랫폼으로 고도화하고 민간·거점 데이터를 연계해 외부 연구자 활용까지 개방한다.,통합플랫폼 구축과 데이터 개방을 함께 추진한다.,platform_operation,sample_curated,1,sample_pack_2026-03-14
+PIC-POL-002-02-02,PIG-POL-002-02,데이터 표준화·품질관리 강화,메타데이터와 데이터 표준화를 지원하고 품질선도 체계를 확대해 바이오 데이터 품질을 높인다.,표준화와 품질관리 체계를 함께 강화한다.,standard_quality_management,sample_curated,2,sample_pack_2026-03-14
+PIC-POL-002-03-01,PIG-POL-002-03,데이터 활용 법체계 정비,인체유래물·보건의료 데이터 활용 편의를 높이는 규제 개선과 디지털헬스케어 법체계를 정비한다.,데이터 활용 법체계를 정비한다.,regulation_reform,sample_curated,1,sample_pack_2026-03-14
+PIC-POL-002-03-02,PIG-POL-002-03,안전한 데이터 활용 특례,복수기관 기증 동의와 폐쇄망 클라우드 등 안전한 데이터 활용 특례를 도입해 활용성을 높인다.,데이터 활용 특례와 안전조치를 함께 마련한다.,secure_data_use,sample_curated,2,sample_pack_2026-03-14
+PIC-POL-002-04-01,PIG-POL-002-04,대학원-전문과정 융합 교육트랙,대학원부터 전문과정까지 이어지는 AI-바이오 융합 교육트랙을 개설하고 산학 연계 프로그램을 운영한다.,융합 교육트랙을 개설해 전문 인재를 양성한다.,training_program,sample_curated,1,sample_pack_2026-03-14
+PIC-POL-011-01-01,PIG-POL-011-01,부처 대상 AX 기획 컨설팅,AX자문단과 사전 컨설팅(PoC)을 통해 부처와 전담기관의 AX 기획을 지원한다.,AX 기획 단계의 컨설팅을 제공한다.,planning_support,sample_curated,1,sample_pack_2026-03-14
+PIC-POL-011-01-02,PIG-POL-011-01,분야별 AX 가이드라인 제공,분야별 AX 성공사례와 기술 스택 정보를 담은 가이드라인을 마련해 AX사업 기획 참고자료로 제공한다.,부처가 참고할 AX 가이드라인을 제공한다.,guideline_support,sample_curated,2,sample_pack_2026-03-14
+PIC-POL-011-02-01,PIG-POL-011-02,GPU·데이터·공통기반 지원,"특화 AI모델 개발을 위한 GPU와 데이터, 범정부 AI공통기반을 함께 지원한다.",공공 AX 실행에 필요한 자원을 통합 지원한다.,resource_support,sample_curated,1,sample_pack_2026-03-14
+PIC-POL-011-02-02,PIG-POL-011-02,성능 검증 및 실증 지원,현장 실증과 성능·신뢰성 검증을 지원해 AX사업 결과물의 품질을 높인다.,실증과 검증을 함께 지원한다.,validation_support,sample_curated,2,sample_pack_2026-03-14
+PIC-POL-011-03-01,PIG-POL-011-03,AX 원스톱 지원센터 운영,AX 원스톱 지원센터와 공공AI사업지원센터를 운영해 부처별 AX사업 지원을 본격화한다.,원스톱 운영체계를 구축한다.,program_operation,sample_curated,1,sample_pack_2026-03-14
+PIC-POL-011-03-02,PIG-POL-011-03,국가 AX지도 구축,"지역·분야별 AX 수요와 투자, 보유 자원을 종합 분석한 국가 AX지도를 구축해 민관 투자계획 수립에 활용한다.",국가 AX 현황을 지도 형태로 제공한다.,mapping_and_monitoring,sample_curated,2,sample_pack_2026-03-14
+PIC-POL-005-01-01,PIG-POL-005-01,독자 AI모델 연계 성능 고도화,독자 AI모델과 국산 NPU의 연계성을 높여 최신 AI모델 맞춤형 성능을 확보한다.,국산 NPU 성능을 독자 AI모델과 함께 고도화한다.,performance_advancement,sample_curated,1,sample_pack_2026-03-14
+PIC-POL-005-01-02,PIG-POL-005-01,테스트베드·검증·사업화 지원,"대규모 K-NPU 테스트베드, 성과 검증, 실증·사업화 지원체계를 함께 구축한다.",K-NPU 테스트베드와 사업화 지원체계를 구축한다.,testbed_and_validation,sample_curated,2,sample_pack_2026-03-14
+PIC-POL-005-02-01,PIG-POL-005-02,정책금융 프로그램 제공,"수요-공급기업 지원, 직간접 투자, 성장 단계별 대규모 투·융자를 포함한 정책금융 프로그램을 제공한다.",정책금융과 투자 프로그램을 패키지로 제공한다.,policy_finance,sample_curated,1,sample_pack_2026-03-14
+PIC-POL-005-02-02,PIG-POL-005-02,세제 인센티브 제공,NPU 기반 AI컴퓨팅 인프라·설비 투자에 대한 세액 공제를 통해 수요기업 도입 인센티브를 제공한다.,세제 인센티브로 수요기업 도입을 촉진한다.,tax_incentive,sample_curated,2,sample_pack_2026-03-14
+PIC-POL-005-03-01,PIG-POL-005-03,글로벌·고급 인재 양성,글로벌 기업·대학 연계교육과 학·석사 연계과정을 통해 AI반도체 고급 인재를 양성한다.,글로벌 연계형 고급 인재를 양성한다.,advanced_talent_training,sample_curated,1,sample_pack_2026-03-14
+PIC-POL-005-03-02,PIG-POL-005-03,현장형 실무인재 및 재교육,체험형 실습교육과 재직자 재교육을 통해 팹리스 현장형 설계 인력을 양성한다.,현장형 실무인재와 재직자 재교육을 함께 추진한다.,workforce_training,sample_curated,2,sample_pack_2026-03-14

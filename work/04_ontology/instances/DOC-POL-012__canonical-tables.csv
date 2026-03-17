@@ -1,0 +1,5 @@
+canonical_table_id,document_id,title_hint,page_start,page_end,preferred_candidate_source,preferred_candidate_id,canonical_status,dashboard_ready,source_review_item_ids,notes
+CTBL-DOC-POL-012-001,DOC-POL-012,"분야 / ∎ 중기제조, 보건복지, 국방, 환경, 농업, 식품의료기기, 국토·교통 등 분야 대상 생활밀접형 제품 246개의 신속한 AI적용 지원 ",section2,section2,pymupdf_find_tables,TBL-DOC-POL-012-017,ready,yes,TRV-DOC-POL-012-JS-017,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-012-002,DOC-POL-012,세부 절차 / 주요활동 / 핵심 성공요인,section2,section2,pymupdf_find_tables,TBL-DOC-POL-012-019,ready,yes,TRV-DOC-POL-012-JS-019,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-012-003,DOC-POL-012,GPU / · 정부가 확보한 첨단GPU 1만장 중 일정량 할당 및 활용 지원 / 󰊱기획,section3,section3,pymupdf_find_tables,TBL-DOC-POL-012-034,ready,yes,TRV-DOC-POL-012-JS-034,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-012-004,DOC-POL-012,GPU / 데이터 / AI모델 / 인재 / 클라우드 / 평가·검증,section0,section0,pymupdf_find_tables,TBL-DOC-POL-012-008,ready,yes,TRV-DOC-POL-012-JS-008,정부 AX사업 대상 지원자원과 지원내용을 정리한 표.

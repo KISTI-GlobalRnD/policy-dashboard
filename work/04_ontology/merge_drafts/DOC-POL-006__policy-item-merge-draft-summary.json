@@ -1,0 +1,28 @@
+{
+  "document_id": "DOC-POL-006",
+  "classification_row_count": 504,
+  "merge_candidate_count": 137,
+  "skipped_primary_count": 59,
+  "skip_reason_counts": {
+    "background_tail": 24,
+    "group_count_scaffold": 3,
+    "no_action_no_taxonomy": 8,
+    "section_scaffold": 6,
+    "diagram_or_schedule_paragraph": 1,
+    "context_scaffold": 5,
+    "example_scaffold": 9,
+    "short_paragraph_scaffold": 1,
+    "schedule_scaffold": 2
+  },
+  "candidate_role_counts": {
+    "meta_program_frame": 9,
+    "policy_action": 123,
+    "case_example": 2,
+    "regulatory_delta": 3
+  },
+  "attached_continuation_group_count": 14,
+  "attached_review_group_count": 66,
+  "resource_type_guess_count": 88,
+  "strategy_candidate_count": 55,
+  "tech_domain_candidate_count": 26
+}

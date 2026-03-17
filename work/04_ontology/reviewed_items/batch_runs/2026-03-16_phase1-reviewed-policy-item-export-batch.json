@@ -1,0 +1,43 @@
+{
+  "document_count": 3,
+  "completed_count": 3,
+  "completed_with_issues_count": 0,
+  "skipped_missing_workbench_count": 0,
+  "skipped_unreviewed_workbench_count": 0,
+  "failed_count": 0,
+  "reviewed_source_row_count_total": 64,
+  "reviewed_item_count_total": 32,
+  "issue_count_total": 0,
+  "documents": [
+    {
+      "document_id": "DOC-POL-005",
+      "reviewed_source_row_count": 24,
+      "reviewed_item_count": 9,
+      "evidence_link_count": 9,
+      "taxonomy_row_count": 0,
+      "issue_count": 0,
+      "run_status": "completed",
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-006",
+      "reviewed_source_row_count": 11,
+      "reviewed_item_count": 6,
+      "evidence_link_count": 10,
+      "taxonomy_row_count": 4,
+      "issue_count": 0,
+      "run_status": "completed",
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-010",
+      "reviewed_source_row_count": 29,
+      "reviewed_item_count": 17,
+      "evidence_link_count": 31,
+      "taxonomy_row_count": 0,
+      "issue_count": 0,
+      "run_status": "completed",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+policy_id,policy_name,policy_order,policy_status,primary_document_id,has_source_document,source_document_count,notes
+POL-001,123대 국정과제,1,active,DOC-POL-001,1,1,
+POL-002,AI-바이오 국가전략,2,active,DOC-POL-002,1,1,
+POL-003,과학기술xAI 국가전략,3,active,DOC-POL-004,1,1,
+POL-004,AI시대 대한민국 네트워크 전략,4,active,DOC-POL-011,1,1,
+POL-005,AI반도체 산업 도약 전략,5,active,DOC-POL-007,1,1,
+POL-006,제조AX 추진방향,6,active,DOC-POL-003,1,1,
+POL-007,기초연구 생태계 육성 방안,7,active,DOC-POL-009,1,1,
+POL-008,"민간투자연계, 팁스 R&D 확산방안",8,active,DOC-POL-008,1,1,
+POL-009,과학기술분야 출연(연) 정책방향,9,active,DOC-POL-010,1,1,
+POL-010,연구개발 생태계 혁신방안,10,active,DOC-POL-005,1,1,
+POL-011,정부 AX사업 전주기 원스톱 지원방안,11,active,DOC-POL-012,1,1,
+POL-012,초혁신경제 15대 프로젝트 추진계획,12,active,DOC-POL-006,1,1,

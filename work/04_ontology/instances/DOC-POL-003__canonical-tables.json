@@ -1,0 +1,54 @@
+[
+  {
+    "canonical_table_id": "CTBL-DOC-POL-003-001",
+    "document_id": "DOC-POL-003",
+    "title_hint": "구 분 / 내 용",
+    "page_start": "section2",
+    "page_end": "section2",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-003-022",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-003-JS-022",
+    "notes": "1차 heuristic seed로 생성된 canonical table."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-003-002",
+    "document_id": "DOC-POL-003",
+    "title_hint": "온디바이스 AI반도체 풀스택 / 수요 맞춤형 온디바이스 AI 반도체, AI SW, 모듈 등 개발 · 실증",
+    "page_start": "section2",
+    "page_end": "section2",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-003-040",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-003-JS-040",
+    "notes": "1차 heuristic seed로 생성된 canonical table."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-003-003",
+    "document_id": "DOC-POL-003",
+    "title_hint": "전략 / 내용",
+    "page_start": "section0",
+    "page_end": "section2",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-003-013",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-003-JS-007|TRV-DOC-POL-003-JS-013",
+    "notes": "요약본과 본문에 반복된 제조AX 3대 전략 요약표."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-003-004",
+    "document_id": "DOC-POL-003",
+    "title_hint": "유형 / 프로젝트 예시",
+    "page_start": "section2",
+    "page_end": "section2",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-003-027",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-003-JS-027",
+    "notes": "수직적 확산과 수평적 확산의 프로젝트 예시 표."
+  }
+]

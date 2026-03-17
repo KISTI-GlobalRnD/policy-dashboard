@@ -1,0 +1,54 @@
+[
+  {
+    "canonical_table_id": "CTBL-DOC-POL-012-001",
+    "document_id": "DOC-POL-012",
+    "title_hint": "분야 / ∎ 중기제조, 보건복지, 국방, 환경, 농업, 식품의료기기, 국토·교통 등 분야 대상 생활밀접형 제품 246개의 신속한 AI적용 지원 ",
+    "page_start": "section2",
+    "page_end": "section2",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-012-017",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-012-JS-017",
+    "notes": "1차 heuristic seed로 생성된 canonical table."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-012-002",
+    "document_id": "DOC-POL-012",
+    "title_hint": "세부 절차 / 주요활동 / 핵심 성공요인",
+    "page_start": "section2",
+    "page_end": "section2",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-012-019",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-012-JS-019",
+    "notes": "1차 heuristic seed로 생성된 canonical table."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-012-003",
+    "document_id": "DOC-POL-012",
+    "title_hint": "GPU / · 정부가 확보한 첨단GPU 1만장 중 일정량 할당 및 활용 지원 / 󰊱기획",
+    "page_start": "section3",
+    "page_end": "section3",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-012-034",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-012-JS-034",
+    "notes": "1차 heuristic seed로 생성된 canonical table."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-012-004",
+    "document_id": "DOC-POL-012",
+    "title_hint": "GPU / 데이터 / AI모델 / 인재 / 클라우드 / 평가·검증",
+    "page_start": "section0",
+    "page_end": "section0",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-012-008",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-012-JS-008",
+    "notes": "정부 AX사업 대상 지원자원과 지원내용을 정리한 표."
+  }
+]

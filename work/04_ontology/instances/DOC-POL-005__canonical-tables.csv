@@ -1,0 +1,21 @@
+canonical_table_id,document_id,title_hint,page_start,page_end,preferred_candidate_source,preferred_candidate_id,canonical_status,dashboard_ready,source_review_item_ids,notes
+CTBL-DOC-POL-005-001,DOC-POL-005,구 분 / 주요 내용,section2,section2,pymupdf_find_tables,TBL-DOC-POL-005-010,ready,yes,TRV-DOC-POL-005-JS-010,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-005-002,DOC-POL-005,구 분 / 주요 내용,section2,section2,pymupdf_find_tables,TBL-DOC-POL-005-011,ready,yes,TRV-DOC-POL-005-JS-011,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-005-003,DOC-POL-005,구 분 / 주요 내용,section2,section2,pymupdf_find_tables,TBL-DOC-POL-005-012,ready,yes,TRV-DOC-POL-005-JS-012,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-005-004,DOC-POL-005,구 분 / 주요 내용,section2,section2,pymupdf_find_tables,TBL-DOC-POL-005-014,ready,yes,TRV-DOC-POL-005-JS-014,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-005-005,DOC-POL-005,구 분 / 주요 내용,section2,section2,pymupdf_find_tables,TBL-DOC-POL-005-015,ready,yes,TRV-DOC-POL-005-JS-015,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-005-006,DOC-POL-005,구 분 / 주요 내용,section2,section2,pymupdf_find_tables,TBL-DOC-POL-005-017,ready,yes,TRV-DOC-POL-005-JS-017,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-005-007,DOC-POL-005,구 분 / 주요 내용,section2,section2,pymupdf_find_tables,TBL-DOC-POL-005-018,ready,yes,TRV-DOC-POL-005-JS-018,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-005-008,DOC-POL-005,과학기술로 미래를 선도하는 연구개발 생태계 혁신방안(안) / 2025 - 11 (7호),section3,section3,pymupdf_find_tables,TBL-DOC-POL-005-020,ready,yes,TRV-DOC-POL-005-JS-020,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-005-009,DOC-POL-005,구 분 / 예시(안),section5,section5,pymupdf_find_tables,TBL-DOC-POL-005-048,ready,yes,TRV-DOC-POL-005-JS-048,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-005-010,DOC-POL-005,구 분 / 기존(AS-IS) / ➡,section5,section5,pymupdf_find_tables,TBL-DOC-POL-005-049,ready,yes,TRV-DOC-POL-005-JS-049,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-005-011,DOC-POL-005,As-is / To-be,section5,section5,pymupdf_find_tables,TBL-DOC-POL-005-055,ready,yes,TRV-DOC-POL-005-JS-055,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-005-012,DOC-POL-005,이용자 편의 개선 방향 예시,section5,section5,pymupdf_find_tables,TBL-DOC-POL-005-056,ready,yes,TRV-DOC-POL-005-JS-056,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-005-013,DOC-POL-005,ZEUS 2.0 / ZEUS 3.0,section5,section5,pymupdf_find_tables,TBL-DOC-POL-005-059,ready,yes,TRV-DOC-POL-005-JS-059,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-005-014,DOC-POL-005,구축비용 / 기존 / 개선,section5,section5,pymupdf_find_tables,TBL-DOC-POL-005-060,ready,yes,TRV-DOC-POL-005-JS-060,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-005-015,DOC-POL-005,구분 / 도입(안),section5,section5,pymupdf_find_tables,TBL-DOC-POL-005-067,ready,yes,TRV-DOC-POL-005-JS-067,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-005-016,DOC-POL-005,추진전략 및 과제 / 소관 / 일정,section5,section5,pymupdf_find_tables,TBL-DOC-POL-005-082,ready,yes,TRV-DOC-POL-005-JS-082,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-005-017,DOC-POL-005,PBS 폐지 및 우수연구자 확보,section2,section2,pymupdf_find_tables,TBL-DOC-POL-005-013,ready,yes,TRV-DOC-POL-005-JS-013,출연연 개선 방향 중 PBS 폐지와 우수연구자 확보를 정리한 표.
+CTBL-DOC-POL-005-018,DOC-POL-005,투자시스템 및 대형R&D 개선,section2,section2,pymupdf_find_tables,TBL-DOC-POL-005-016,ready,yes,TRV-DOC-POL-005-JS-016,투자시스템과 대형R&D 개선 내용을 비교한 표.
+CTBL-DOC-POL-005-019,DOC-POL-005,평가수당 현실화 및 인센티브 예시,section5,section5,pymupdf_find_tables,TBL-DOC-POL-005-050,ready,yes,TRV-DOC-POL-005-JS-050,평가 보상체계 개선 예시 표.
+CTBL-DOC-POL-005-020,DOC-POL-005,연구장비 공동활용 역할 분담,section5,section5,pymupdf_find_tables,TBL-DOC-POL-005-058,ready,yes,TRV-DOC-POL-005-JS-058,"거점시설, 협력시설, 과기정통부·NFEC 역할을 정리한 표."

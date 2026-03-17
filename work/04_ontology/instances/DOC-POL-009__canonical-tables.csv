@@ -1,0 +1,16 @@
+canonical_table_id,document_id,title_hint,page_start,page_end,preferred_candidate_source,preferred_candidate_id,canonical_status,dashboard_ready,source_review_item_ids,notes
+CTBL-DOC-POL-009-001,DOC-POL-009,구분 / 생애기본연구 / 우수연구,section7,section7,pymupdf_find_tables,TBL-DOC-POL-009-032,ready,yes,TRV-DOC-POL-009-JS-032,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-009-002,DOC-POL-009,구분 / 리더연구 / 중견연구,section7,section7,pymupdf_find_tables,TBL-DOC-POL-009-036,ready,yes,TRV-DOC-POL-009-JS-036,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-009-003,DOC-POL-009,구분 / 자연과학 / 공학,section7,section7,pymupdf_find_tables,TBL-DOC-POL-009-037,ready,yes,TRV-DOC-POL-009-JS-037,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-009-004,DOC-POL-009,비전 / 다양성과 수월성의 두 날개로 미래를 여는 기초연구,section8,section8,pymupdf_find_tables,TBL-DOC-POL-009-045,ready,yes,TRV-DOC-POL-009-JS-045,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-009-005,DOC-POL-009,구분 / 기본연구 (과기정통부) / 기본연구 (교육부),section8,section8,pymupdf_find_tables,TBL-DOC-POL-009-050,ready,yes,TRV-DOC-POL-009-JS-050,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-009-006,DOC-POL-009,구분 / 도약형(유형1) / 도약형(유형2),section8,section8,pymupdf_find_tables,TBL-DOC-POL-009-053,ready,yes,TRV-DOC-POL-009-JS-053,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-009-007,DOC-POL-009,기존 / ‘26년 이후,section8,section8,pymupdf_find_tables,TBL-DOC-POL-009-054,ready,yes,TRV-DOC-POL-009-JS-054,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-009-008,DOC-POL-009,As-Is / To-Be,section8,section8,pymupdf_find_tables,TBL-DOC-POL-009-057,ready,yes,TRV-DOC-POL-009-JS-057,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-009-009,DOC-POL-009,"기초연구실 (BRL) / 선도연구센터 (SRC, ERC, MRC) / 세계 선도연구센터 (자립화 단계)",section8,section8,pymupdf_find_tables,TBL-DOC-POL-009-072,ready,yes,TRV-DOC-POL-009-JS-072,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-009-010,DOC-POL-009,권역 / 현재 / 향후계획(안),section8,section8,pymupdf_find_tables,TBL-DOC-POL-009-074,ready,yes,TRV-DOC-POL-009-JS-074,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-009-011,DOC-POL-009,추진 방향 / 지원 대상 / 지원 방식,section8,section8,pymupdf_find_tables,TBL-DOC-POL-009-077,ready,yes,TRV-DOC-POL-009-JS-077,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-009-012,DOC-POL-009,등급 / 초급(담당자) / 중급(관리자),section8,section8,pymupdf_find_tables,TBL-DOC-POL-009-088,ready,yes,TRV-DOC-POL-009-JS-088,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-009-013,DOC-POL-009,절차 / As-Is (현재) / ⇒ ⇒,section8,section8,pymupdf_find_tables,TBL-DOC-POL-009-090,ready,yes,TRV-DOC-POL-009-JS-090,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-009-014,DOC-POL-009,추진전략 및 과제 / 소관부처 / 추진일정,section8,section8,pymupdf_find_tables,TBL-DOC-POL-009-093,ready,yes,TRV-DOC-POL-009-JS-093,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-009-015,DOC-POL-009,불만족 사유 비중,section7,section7,pymupdf_find_tables,TBL-DOC-POL-009-041,ready,yes,TRV-DOC-POL-009-JS-041,서비스 불만족 사유와 비중을 정리한 2열 표.

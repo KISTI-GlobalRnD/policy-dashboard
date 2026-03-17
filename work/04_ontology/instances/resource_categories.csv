@@ -1,0 +1,4 @@
+resource_category_id,display_label,description,display_order,is_active
+technology,기술,"기술 개발, 상용화, 실증, 제품화, 핵심 기술 확보 관련 항목",1,1
+infrastructure_institutional,인프라·제도,"플랫폼, 데이터, 장비, 실증환경, 거버넌스, 제도 개선, 재정·금융 지원 관련 항목",2,1
+talent,인재,"인력양성, 교육, 연구인력 확보, 전문인력 유치 관련 항목",3,1

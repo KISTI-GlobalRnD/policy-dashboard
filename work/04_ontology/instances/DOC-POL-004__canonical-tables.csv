@@ -1,0 +1,5 @@
+canonical_table_id,document_id,title_hint,page_start,page_end,preferred_candidate_source,preferred_candidate_id,canonical_status,dashboard_ready,source_review_item_ids,notes
+CTBL-DOC-POL-004-001,DOC-POL-004,"• AlphaFold 3(’24.5.), AlphaEvolve(’25.5.), AI Co-Scientist(’25.2.) / 강점(S) ▪ 바이",section1,section1,pymupdf_find_tables,TBL-DOC-POL-004-026,ready,yes,TRV-DOC-POL-004-JS-026,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-004-002,DOC-POL-004,바이오 AI / 지구과학 AI / 수학 AI,section1,section1,pymupdf_find_tables,TBL-DOC-POL-004-032,ready,yes,TRV-DOC-POL-004-JS-032,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-004-003,DOC-POL-004,구분 / [track 1] AI Agent 활용 과학기술 연구·논문 작성 / [track 2] 과학기술 AI Agent 개발,section1,section1,pymupdf_find_tables,TBL-DOC-POL-004-051,ready,yes,TRV-DOC-POL-004-JS-051,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-004-004,DOC-POL-004,구분 / 추진 전략 및 과제 / 일정,section1,section1,pymupdf_find_tables,TBL-DOC-POL-004-053,ready,yes,TRV-DOC-POL-004-JS-053,1차 heuristic seed로 생성된 canonical table.

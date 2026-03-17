@@ -1,0 +1,12 @@
+document_id,title,source_format,paragraph_count,policy_item_yes_count,policy_item_review_count,policy_item_no_count,resource_type_suggested_count,strategy_suggested_count,tech_domain_suggested_count,tech_subdomain_suggested_count,run_status,notes
+DOC-POL-002,AI-바이오 국가전략,hwpx,239,175,50,14,125,225,225,214,completed,
+DOC-POL-003,제조AX 추진방향,hwpx,132,74,48,10,72,122,122,122,completed,
+DOC-POL-004,과학기술xAI 국가전략,hwpx,195,109,62,24,83,171,171,162,completed,
+DOC-POL-005,연구개발 생태계 혁신방안,hwpx,485,288,159,38,218,5,8,2,completed,
+DOC-POL-006,초혁신경제 15대 프로젝트 추진계획,pdf,504,214,127,163,186,106,54,38,completed,
+DOC-POL-007,AI반도체 산업 도약 전략,hwpx,261,141,80,40,114,221,221,215,completed,
+DOC-POL-008,"민간투자연계, 팁스 R&D 확산방안",hwpx,100,61,26,13,18,0,3,0,completed,
+DOC-POL-009,기초연구 생태계 육성 방안,hwpx,292,168,98,26,135,3,6,4,completed,
+DOC-POL-010,과학기술분야 출연(연) 정책방향,hwpx,185,115,56,14,70,5,8,3,completed,
+DOC-POL-011,AI시대 대한민국 네트워크 전략,hwpx,65,47,11,7,24,58,58,57,completed,
+DOC-POL-012,정부 AX사업 전주기 원스톱 지원방안,hwpx,98,45,20,33,40,65,65,65,completed,

@@ -1,0 +1,21 @@
+{
+  "document_id": "DOC-POL-006",
+  "workbench_path": "work/04_ontology/review_workbenches/DOC-POL-006__policy-item-review-workbench.csv",
+  "run_status": "completed",
+  "reviewed_source_row_count": 11,
+  "reviewed_decision_counts": {
+    "drop": 3,
+    "keep": 3,
+    "attach_as_case_example": 2,
+    "keep_as_regulatory_delta": 3
+  },
+  "reviewed_item_count": 6,
+  "display_text_count": 6,
+  "evidence_link_count": 10,
+  "taxonomy_row_count": 4,
+  "ignored_reviewed_row_count": 5,
+  "unresolved_merge_count": 0,
+  "issue_count": 0,
+  "issue_counts": {},
+  "issues": []
+}

@@ -1,0 +1,4 @@
+document_id,run_status,loaded_policy_item_count,loaded_display_text_count,loaded_evidence_link_count,loaded_taxonomy_row_count,loaded_derived_to_display_count,deleted_policy_item_count,deleted_display_text_count,deleted_evidence_link_count,deleted_taxonomy_row_count,deleted_assertion_count,deleted_data_quality_flag_count,deleted_derived_to_display_count,notes
+DOC-POL-005,completed,9,9,9,0,9,193,193,193,0,0,0,193,
+DOC-POL-006,completed,6,6,10,4,6,182,182,182,0,0,0,182,
+DOC-POL-010,completed,17,17,31,0,17,71,71,71,0,0,0,71,

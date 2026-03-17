@@ -1,0 +1,275 @@
+{
+  "canonical_table_id": "CTBL-DOC-REF-002-003",
+  "document_id": "DOC-REF-002",
+  "title": "정책·기술분야별 재구성(안) - 인재·제도 common factors",
+  "columns": [
+    "sequence_no",
+    "factor_label",
+    "content_summary"
+  ],
+  "table_shape": {
+    "rows": 15,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      1,
+      "AI·소프트웨어 전문인력 양성",
+      "AI 대학원 등을 중심으로 전주기 성장 지원 체계 구축"
+    ],
+    [
+      2,
+      "석·박사급 고급 연구인재 사다리 구축",
+      "고급 연구인재의 전주기 성장 지원 체계 구축"
+    ],
+    [
+      3,
+      "글로벌 우수 연구자 유치 및 정주 지원",
+      "해외 우수 연구자에게 파격적 정주 지원 제공"
+    ],
+    [
+      4,
+      "Staff Scientist 및 전임연구원 제도",
+      "전문 전임연구 인력을 통해 연구 몰입 환경 조성"
+    ],
+    [
+      5,
+      "신진연구자(Post-Doc) 정착 지원",
+      "신진 연구자에게 안정적 법적 지위와 정착 기반 제공"
+    ],
+    [
+      6,
+      "과학기술 영재학교 및 조기 인재 발굴",
+      "과학영재 특화를 통한 조기 육성"
+    ],
+    [
+      7,
+      "여성 및 은퇴 과학기술인 경력 활용",
+      "경력보유 과학기술인의 경험 전수 지원"
+    ],
+    [
+      8,
+      "도메인 지식+AI 융합 양손잡이 인재",
+      "전공 지식과 AI를 겸비한 실전형 융합 전문가 육성"
+    ],
+    [
+      9,
+      "의사과학자(MD-Ph.D.) 양성",
+      "바이오 중심의 의사·과학 융합형 전문인력 양성"
+    ],
+    [
+      10,
+      "산업 밀착형 계약학과 및 실무 인력",
+      "산업 수요 기반 커리큘럼으로 즉시 투입 가능한 인재 육성"
+    ],
+    [
+      11,
+      "전문연구요원 우대 및 제도 개선",
+      "AI 분야 우수 인재의 전문연구요원 우선 배정과 지속성 확보"
+    ],
+    [
+      12,
+      "과학기술인 보상체계 및 성과급 확대",
+      "성과에 걸맞은 파격적 보상으로 연구 의욕 고취"
+    ],
+    [
+      13,
+      "재직자 AX 전환 교육 및 리스킬링",
+      "숙련 노동자의 AI 도구 융합 역량을 높이는 전환 교육"
+    ],
+    [
+      14,
+      "연구지원인력 전문화 및 행정 부담 경감",
+      "기술직과 행정직의 잡무를 분리해 연구지원 체계 전문화"
+    ],
+    [
+      15,
+      "글로벌 파트너십 기반 해외 연수 지원",
+      "해외 유수 대학·연구소와의 공동 연수 및 파견 기회 확대"
+    ]
+  ],
+  "records": [
+    {
+      "sequence_no": 1,
+      "factor_label": "AI·소프트웨어 전문인력 양성",
+      "content_summary": "AI 대학원 등을 중심으로 전주기 성장 지원 체계 구축"
+    },
+    {
+      "sequence_no": 2,
+      "factor_label": "석·박사급 고급 연구인재 사다리 구축",
+      "content_summary": "고급 연구인재의 전주기 성장 지원 체계 구축"
+    },
+    {
+      "sequence_no": 3,
+      "factor_label": "글로벌 우수 연구자 유치 및 정주 지원",
+      "content_summary": "해외 우수 연구자에게 파격적 정주 지원 제공"
+    },
+    {
+      "sequence_no": 4,
+      "factor_label": "Staff Scientist 및 전임연구원 제도",
+      "content_summary": "전문 전임연구 인력을 통해 연구 몰입 환경 조성"
+    },
+    {
+      "sequence_no": 5,
+      "factor_label": "신진연구자(Post-Doc) 정착 지원",
+      "content_summary": "신진 연구자에게 안정적 법적 지위와 정착 기반 제공"
+    },
+    {
+      "sequence_no": 6,
+      "factor_label": "과학기술 영재학교 및 조기 인재 발굴",
+      "content_summary": "과학영재 특화를 통한 조기 육성"
+    },
+    {
+      "sequence_no": 7,
+      "factor_label": "여성 및 은퇴 과학기술인 경력 활용",
+      "content_summary": "경력보유 과학기술인의 경험 전수 지원"
+    },
+    {
+      "sequence_no": 8,
+      "factor_label": "도메인 지식+AI 융합 양손잡이 인재",
+      "content_summary": "전공 지식과 AI를 겸비한 실전형 융합 전문가 육성"
+    },
+    {
+      "sequence_no": 9,
+      "factor_label": "의사과학자(MD-Ph.D.) 양성",
+      "content_summary": "바이오 중심의 의사·과학 융합형 전문인력 양성"
+    },
+    {
+      "sequence_no": 10,
+      "factor_label": "산업 밀착형 계약학과 및 실무 인력",
+      "content_summary": "산업 수요 기반 커리큘럼으로 즉시 투입 가능한 인재 육성"
+    },
+    {
+      "sequence_no": 11,
+      "factor_label": "전문연구요원 우대 및 제도 개선",
+      "content_summary": "AI 분야 우수 인재의 전문연구요원 우선 배정과 지속성 확보"
+    },
+    {
+      "sequence_no": 12,
+      "factor_label": "과학기술인 보상체계 및 성과급 확대",
+      "content_summary": "성과에 걸맞은 파격적 보상으로 연구 의욕 고취"
+    },
+    {
+      "sequence_no": 13,
+      "factor_label": "재직자 AX 전환 교육 및 리스킬링",
+      "content_summary": "숙련 노동자의 AI 도구 융합 역량을 높이는 전환 교육"
+    },
+    {
+      "sequence_no": 14,
+      "factor_label": "연구지원인력 전문화 및 행정 부담 경감",
+      "content_summary": "기술직과 행정직의 잡무를 분리해 연구지원 체계 전문화"
+    },
+    {
+      "sequence_no": 15,
+      "factor_label": "글로벌 파트너십 기반 해외 연수 지원",
+      "content_summary": "해외 유수 대학·연구소와의 공동 연수 및 파견 기회 확대"
+    }
+  ],
+  "provenance": {
+    "source_candidate_ids": [
+      "TBL-DOC-REF-002-OCR-001"
+    ],
+    "normalization_method": "manual_visual_review_from_doc_ref_002_page_1_talent_band",
+    "source_pages": [
+      1
+    ],
+    "source_asset_path": "work/02_structured-extraction/figures/assets/DOC-REF-002/page_001.png",
+    "source_policy_documents": [
+      {
+        "display_order": 1,
+        "document_id": "DOC-POL-001",
+        "policy_id": "POL-001",
+        "board_label": "123대 국정과제",
+        "board_citation": "국정과제 ('25.8)"
+      },
+      {
+        "display_order": 2,
+        "document_id": "DOC-POL-002",
+        "policy_id": "POL-002",
+        "board_label": "AI·바이오 국가전략",
+        "board_citation": "과기정통부, '25.12.18"
+      },
+      {
+        "display_order": 3,
+        "document_id": "DOC-POL-004",
+        "policy_id": "POL-003",
+        "board_label": "과학기술xAI 국가전략",
+        "board_citation": "과기정통부, '25.11.22"
+      },
+      {
+        "display_order": 4,
+        "document_id": "DOC-POL-011",
+        "policy_id": "POL-004",
+        "board_label": "AI시대 대한민국 네트워크 전략",
+        "board_citation": "과기정통부, '25.12.18"
+      },
+      {
+        "display_order": 5,
+        "document_id": "DOC-POL-007",
+        "policy_id": "POL-005",
+        "board_label": "AI반도체 산업 도약전략",
+        "board_citation": "산업통상부, '25.12.18"
+      },
+      {
+        "display_order": 6,
+        "document_id": "DOC-POL-003",
+        "policy_id": "POL-006",
+        "board_label": "제조AX 추진방향",
+        "board_citation": "산업통상부, '25.12.22"
+      },
+      {
+        "display_order": 7,
+        "document_id": "DOC-POL-009",
+        "policy_id": "POL-007",
+        "board_label": "기초연구 생태계 육성방안",
+        "board_citation": "과기정통부, '25.12.18"
+      },
+      {
+        "display_order": 8,
+        "document_id": "DOC-POL-008",
+        "policy_id": "POL-008",
+        "board_label": "민간투자·팁스 R&D 확산방안",
+        "board_citation": "중소벤처기업부, '25.12.18"
+      },
+      {
+        "display_order": 9,
+        "document_id": "DOC-POL-010",
+        "policy_id": "POL-009",
+        "board_label": "과학기술분야 출연(연) 정책방향",
+        "board_citation": "과기정통부, '25.12.18"
+      },
+      {
+        "display_order": 10,
+        "document_id": "DOC-POL-005",
+        "policy_id": "POL-010",
+        "board_label": "연구개발 생태계 혁신방안",
+        "board_citation": "과기정통부, '25.11.22"
+      },
+      {
+        "display_order": 11,
+        "document_id": "DOC-POL-012",
+        "policy_id": "POL-011",
+        "board_label": "정부 AX사업 전주기 원스톱 지원방안",
+        "board_citation": "과기정통부·행정안전부, '26.1.28"
+      },
+      {
+        "display_order": 12,
+        "document_id": "DOC-POL-006",
+        "policy_id": "POL-012",
+        "board_label": "초혁신경제 15대 프로젝트 추진계획",
+        "board_citation": "기획재정부, '25.12.16"
+      }
+    ],
+    "row_level_notes": {
+      "1": "우측 보드에는 'AI 대학원' 조각만 남아 있어 전주기 성장 지원 체계로 summary를 정규화했다.",
+      "3": "중앙 보드 라벨 OCR이 누락돼 우측 보드의 '파격적 정주 지원' 문구를 기준으로 factor_label을 보강했다.",
+      "4": "우측 보드 문구가 부분 훼손돼 '몰입 환경 조성' 키워드 기준으로 summary를 정규화했다.",
+      "6": "우측 보드 문구가 부분 훼손돼 조기 육성 취지로 summary를 정규화했다.",
+      "8": "DOC-POL-004의 '양손잡이 인재' 표현과 우측 보드의 '실전형 융합 전문가 육성' 문구를 함께 반영했다.",
+      "9": "우측 보드 문구가 부분 훼손돼 바이오 중심 전문인력 양성 취지로 summary를 정규화했다.",
+      "11": "중앙 보드 라벨 OCR이 부분 누락돼 DOC-POL-004의 전문연구요원 우선 배정 문장을 기준으로 factor_label과 summary를 보강했다.",
+      "13": "우측 보드에는 '숙련 노동자 AI 도구 융'만 남아 있어 전환 교육·리스킬링 취지로 summary를 정규화했다.",
+      "14": "우측 보드의 '기술직 행정직을 잡무 분리' 문구를 기반으로 summary를 정규화했다."
+    }
+  }
+}

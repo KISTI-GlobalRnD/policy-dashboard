@@ -1,0 +1,14 @@
+{
+  "document_id": "DOC-POL-005",
+  "merge_candidate_count": 222,
+  "high_priority_count": 24,
+  "medium_priority_count": 196,
+  "low_priority_count": 2,
+  "suggested_action_counts": {
+    "attach_as_background": 8,
+    "drop_or_attach_background": 5,
+    "keep_as_regulatory_delta": 1,
+    "keep_or_merge": 197,
+    "recast_or_attach_background": 11
+  }
+}

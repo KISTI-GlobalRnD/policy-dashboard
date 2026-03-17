@@ -1,0 +1,5 @@
+policy_item_taxonomy_map_id,policy_item_id,taxonomy_type,term_id,is_primary,confidence,review_status,notes
+PIT-ITM-POL-012-RV-00001-STR-01,ITM-POL-012-RV-00001,strategy,STR-007,1,medium,reviewed,source=review_workbench
+PIT-ITM-POL-012-RV-00001-TD-01,ITM-POL-012-RV-00001,tech_domain,TD-002,1,medium,reviewed,source=review_workbench
+PIT-ITM-POL-012-RV-00002-STR-01,ITM-POL-012-RV-00002,strategy,STR-003,1,medium,reviewed,source=review_workbench
+PIT-ITM-POL-012-RV-00003-STR-01,ITM-POL-012-RV-00003,strategy,STR-010,1,medium,reviewed,source=review_workbench

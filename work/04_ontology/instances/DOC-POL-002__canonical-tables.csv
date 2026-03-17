@@ -1,0 +1,16 @@
+canonical_table_id,document_id,title_hint,page_start,page_end,preferred_candidate_source,preferred_candidate_id,canonical_status,dashboard_ready,source_review_item_ids,notes
+CTBL-DOC-POL-002-001,DOC-POL-002,분야 / 추진방향 / 추진과제,section2,section2,pymupdf_find_tables,TBL-DOC-POL-002-009,ready,yes,TRV-DOC-POL-002-JS-009,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-002-002,DOC-POL-002,구분 / 지원내용,section2,section2,pymupdf_find_tables,TBL-DOC-POL-002-012,ready,yes,TRV-DOC-POL-002-JS-012,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-002-003,DOC-POL-002,"구분 / 보안 가상클라우드(1단계, ‘25~’28) / 통합활용플랫폼(2단계, ‘28~)",section2,section2,pymupdf_find_tables,TBL-DOC-POL-002-015,ready,yes,TRV-DOC-POL-002-JS-015,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-002-004,DOC-POL-002,구분 / 필요요소 / 추진방향,section7,section7,pymupdf_find_tables,TBL-DOC-POL-002-041,ready,yes,TRV-DOC-POL-002-JS-041,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-002-005,DOC-POL-002,부처명 / 역할 / 부처명,section7,section7,pymupdf_find_tables,TBL-DOC-POL-002-072,ready,yes,TRV-DOC-POL-002-JS-072,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-002-006,DOC-POL-002,구분 / 多기관 관련 데이터 활용(1단계) / 매머드 셋(2단계),section7,section7,pymupdf_find_tables,TBL-DOC-POL-002-082,ready,yes,TRV-DOC-POL-002-JS-082,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-002-007,DOC-POL-002,항목 / 현행 / 개선방향,section7,section7,pymupdf_find_tables,TBL-DOC-POL-002-086,ready,yes,TRV-DOC-POL-002-JS-086,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-002-008,DOC-POL-002,"구분 / 보안 가상클라우드(1단계, ’25~’28) / 통합활용플랫폼(2단계, ’28~)",section7,section7,pymupdf_find_tables,TBL-DOC-POL-002-089,ready,yes,TRV-DOC-POL-002-JS-089,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-002-009,DOC-POL-002,활용사례 / 양자컴퓨터의 역할 / 효과,section7,section7,pymupdf_find_tables,TBL-DOC-POL-002-090,ready,yes,TRV-DOC-POL-002-JS-090,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-002-010,DOC-POL-002,구분 / 추진 전략 및 과제 / 일정,section7,section7,pymupdf_find_tables,TBL-DOC-POL-002-092,ready,yes,TRV-DOC-POL-002-JS-092,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-002-011,DOC-POL-002,구분 / 추진 전략 및 과제 / 일정,section7,section7,pymupdf_find_tables,TBL-DOC-POL-002-093,ready,yes,TRV-DOC-POL-002-JS-093,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-002-012,DOC-POL-002,합성신약 시범거점 확대 일정,section2,section7,pymupdf_find_tables,TBL-DOC-POL-002-071,ready,yes,TRV-DOC-POL-002-JS-011|TRV-DOC-POL-002-JS-071,요약본과 본문에 반복된 시범거점 확대 일정표.
+CTBL-DOC-POL-002-013,DOC-POL-002,참여주체 / 인센티브,section2,section2,pymupdf_find_tables,TBL-DOC-POL-002-013,ready,yes,TRV-DOC-POL-002-JS-013,"학계·연구계, 기업 등 참여주체별 인센티브 표."
+CTBL-DOC-POL-002-014,DOC-POL-002,구조적 뇌 지도 / 구조+기능 지도,section7,section7,pymupdf_find_tables,TBL-DOC-POL-002-049,ready,yes,TRV-DOC-POL-002-JS-049,뇌 지도 유형별 추진 전략과 예시 비교표.
+CTBL-DOC-POL-002-015,DOC-POL-002,현행(As-Is) / 향후(To-Be),section7,section7,pymupdf_find_tables,TBL-DOC-POL-002-078,ready,yes,TRV-DOC-POL-002-JS-078,바이오데이터 품질관리 체계의 현행과 향후 개선 방향 비교표.

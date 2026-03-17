@@ -1,0 +1,11 @@
+policy_item_evidence_link_id,policy_item_id,derived_representation_id,link_role,evidence_strength,is_primary,sort_order,notes
+LNK-ITM-POL-012-RV-00001-01,ITM-POL-012-RV-00001,DRV-PAR-DOC-POL-006-00041,primary_support,high,1,1,source_merge_candidate=PMD-DOC-POL-006-0011
+LNK-ITM-POL-012-RV-00001-02,ITM-POL-012-RV-00001,DRV-PAR-DOC-POL-006-00042,secondary_support,medium,0,2,source_merge_candidate=PMD-DOC-POL-006-0011
+LNK-ITM-POL-012-RV-00001-03,ITM-POL-012-RV-00001,DRV-PAR-DOC-POL-006-00043,secondary_support,medium,0,3,source_merge_candidate=PMD-DOC-POL-006-0011
+LNK-ITM-POL-012-RV-00002-01,ITM-POL-012-RV-00002,DRV-PAR-DOC-POL-006-00045,primary_support,high,1,1,source_merge_candidate=PMD-DOC-POL-006-0012
+LNK-ITM-POL-012-RV-00003-01,ITM-POL-012-RV-00003,DRV-PAR-DOC-POL-006-00046,primary_support,high,1,1,source_merge_candidate=PMD-DOC-POL-006-0013
+LNK-ITM-POL-012-RV-00004-01,ITM-POL-012-RV-00004,DRV-PAR-DOC-POL-006-00336,primary_support,high,1,1,source_merge_candidate=PMD-DOC-POL-006-0084
+LNK-ITM-POL-012-RV-00004-02,ITM-POL-012-RV-00004,DRV-PAR-DOC-POL-006-00337,secondary_support,medium,0,2,source_merge_candidate=PMD-DOC-POL-006-0084
+LNK-ITM-POL-012-RV-00005-01,ITM-POL-012-RV-00005,DRV-PAR-DOC-POL-006-00456,primary_support,high,1,1,source_merge_candidate=PMD-DOC-POL-006-0123
+LNK-ITM-POL-012-RV-00006-01,ITM-POL-012-RV-00006,DRV-PAR-DOC-POL-006-00477,primary_support,high,1,1,source_merge_candidate=PMD-DOC-POL-006-0129
+LNK-ITM-POL-012-RV-00006-02,ITM-POL-012-RV-00006,DRV-PAR-DOC-POL-006-00478,secondary_support,medium,0,2,source_merge_candidate=PMD-DOC-POL-006-0129

@@ -1,0 +1,274 @@
+{
+  "canonical_table_id": "CTBL-DOC-REF-002-002",
+  "document_id": "DOC-REF-002",
+  "title": "정책·기술분야별 재구성(안) - 인프라·제도 common factors",
+  "columns": [
+    "sequence_no",
+    "factor_label",
+    "content_summary"
+  ],
+  "table_shape": {
+    "rows": 15,
+    "cols": 3
+  },
+  "cell_matrix": [
+    [
+      1,
+      "국가 AI 컴퓨팅 인프라(GPU) 확충",
+      "정부 보유 첨단 GPU 확충과 공동활용 체계로 범부처 AI 인프라 접근성 강화"
+    ],
+    [
+      2,
+      "R&D 예비타당성 조사 폐지 및 신속 지원",
+      "당락형 예타 대신 기획보완형 사전점검으로 연구개발 추진 속도 제고"
+    ],
+    [
+      3,
+      "대학 단위 연구혁신 기반 구축",
+      "대학 단위 연구시설·장비·연구지원인력을 블록펀딩 방식으로 지원"
+    ],
+    [
+      4,
+      "정부 AX 원스톱 지원 및 공공 지능화",
+      "부처별 AX 사업의 기획·수행·평가 전주기를 원스톱으로 지원"
+    ],
+    [
+      5,
+      "데이터 기반 연구 생태계 구축",
+      "국가연구데이터플랫폼(DataON) 고도화 및 데이터 공유 체계"
+    ],
+    [
+      6,
+      "출연연 임무중심 체계 및 PBS 폐지",
+      "출연연을 임무 중심으로 개편하고 PBS를 폐지해 장기 연구 기반 강화"
+    ],
+    [
+      7,
+      "민간 주도 벤처투자(TIPS) 확산",
+      "민간 주도 투자와 팁스 확산으로 기술창업·스케일업 지원"
+    ],
+    [
+      8,
+      "규제 샌드박스 및 실증 특례 확대",
+      "신기술 도입의 시장 진입을 위한 실증·특례 지원 확대"
+    ],
+    [
+      9,
+      "연구개발 평가제도 혁신(등급 폐지)",
+      "실패를 걱정하지 않는 도전형 연구평가 체계 전환"
+    ],
+    [
+      10,
+      "과학기술 국제협력 및 글로벌 허브 구축",
+      "해외 우수 기관과의 공동 연구 및 글로벌 오픈이노베이션 확대"
+    ],
+    [
+      11,
+      "전략기술 세제 혜택 및 금융 지원 확대",
+      "전략기술 분야의 투자·금융·세제 지원 확대"
+    ],
+    [
+      12,
+      "기술사업화 및 기술이전 선순환 체계",
+      "R&D 성과가 시장으로 이어지도록 기술료 및 지분 분배 제도 개선"
+    ],
+    [
+      13,
+      "지역 주도 혁신 클러스터 및 특구 조성",
+      "기회발전특구 등 전략 거점을 육성해 지역 혁신성과 확산"
+    ],
+    [
+      14,
+      "국가 전략기술 보호 및 연구보안 강화",
+      "핵심 기술 유출 방지를 위한 연구보안 체계와 거버넌스 확립"
+    ],
+    [
+      15,
+      "IRIS 통합 연구지원 시스템 고도화",
+      "범부처 디지털 플랫폼 고도화로 연구행정 부담 경감"
+    ]
+  ],
+  "records": [
+    {
+      "sequence_no": 1,
+      "factor_label": "국가 AI 컴퓨팅 인프라(GPU) 확충",
+      "content_summary": "정부 보유 첨단 GPU 확충과 공동활용 체계로 범부처 AI 인프라 접근성 강화"
+    },
+    {
+      "sequence_no": 2,
+      "factor_label": "R&D 예비타당성 조사 폐지 및 신속 지원",
+      "content_summary": "당락형 예타 대신 기획보완형 사전점검으로 연구개발 추진 속도 제고"
+    },
+    {
+      "sequence_no": 3,
+      "factor_label": "대학 단위 연구혁신 기반 구축",
+      "content_summary": "대학 단위 연구시설·장비·연구지원인력을 블록펀딩 방식으로 지원"
+    },
+    {
+      "sequence_no": 4,
+      "factor_label": "정부 AX 원스톱 지원 및 공공 지능화",
+      "content_summary": "부처별 AX 사업의 기획·수행·평가 전주기를 원스톱으로 지원"
+    },
+    {
+      "sequence_no": 5,
+      "factor_label": "데이터 기반 연구 생태계 구축",
+      "content_summary": "국가연구데이터플랫폼(DataON) 고도화 및 데이터 공유 체계"
+    },
+    {
+      "sequence_no": 6,
+      "factor_label": "출연연 임무중심 체계 및 PBS 폐지",
+      "content_summary": "출연연을 임무 중심으로 개편하고 PBS를 폐지해 장기 연구 기반 강화"
+    },
+    {
+      "sequence_no": 7,
+      "factor_label": "민간 주도 벤처투자(TIPS) 확산",
+      "content_summary": "민간 주도 투자와 팁스 확산으로 기술창업·스케일업 지원"
+    },
+    {
+      "sequence_no": 8,
+      "factor_label": "규제 샌드박스 및 실증 특례 확대",
+      "content_summary": "신기술 도입의 시장 진입을 위한 실증·특례 지원 확대"
+    },
+    {
+      "sequence_no": 9,
+      "factor_label": "연구개발 평가제도 혁신(등급 폐지)",
+      "content_summary": "실패를 걱정하지 않는 도전형 연구평가 체계 전환"
+    },
+    {
+      "sequence_no": 10,
+      "factor_label": "과학기술 국제협력 및 글로벌 허브 구축",
+      "content_summary": "해외 우수 기관과의 공동 연구 및 글로벌 오픈이노베이션 확대"
+    },
+    {
+      "sequence_no": 11,
+      "factor_label": "전략기술 세제 혜택 및 금융 지원 확대",
+      "content_summary": "전략기술 분야의 투자·금융·세제 지원 확대"
+    },
+    {
+      "sequence_no": 12,
+      "factor_label": "기술사업화 및 기술이전 선순환 체계",
+      "content_summary": "R&D 성과가 시장으로 이어지도록 기술료 및 지분 분배 제도 개선"
+    },
+    {
+      "sequence_no": 13,
+      "factor_label": "지역 주도 혁신 클러스터 및 특구 조성",
+      "content_summary": "기회발전특구 등 전략 거점을 육성해 지역 혁신성과 확산"
+    },
+    {
+      "sequence_no": 14,
+      "factor_label": "국가 전략기술 보호 및 연구보안 강화",
+      "content_summary": "핵심 기술 유출 방지를 위한 연구보안 체계와 거버넌스 확립"
+    },
+    {
+      "sequence_no": 15,
+      "factor_label": "IRIS 통합 연구지원 시스템 고도화",
+      "content_summary": "범부처 디지털 플랫폼 고도화로 연구행정 부담 경감"
+    }
+  ],
+  "provenance": {
+    "source_candidate_ids": [
+      "TBL-DOC-REF-002-OCR-001"
+    ],
+    "normalization_method": "manual_visual_review_from_doc_ref_002_page_1_infrastructure_band",
+    "source_pages": [
+      1
+    ],
+    "source_asset_path": "work/02_structured-extraction/figures/assets/DOC-REF-002/page_001.png",
+    "source_policy_documents": [
+      {
+        "display_order": 1,
+        "document_id": "DOC-POL-001",
+        "policy_id": "POL-001",
+        "board_label": "123대 국정과제",
+        "board_citation": "국정과제 ('25.8)"
+      },
+      {
+        "display_order": 2,
+        "document_id": "DOC-POL-002",
+        "policy_id": "POL-002",
+        "board_label": "AI·바이오 국가전략",
+        "board_citation": "과기정통부, '25.12.18"
+      },
+      {
+        "display_order": 3,
+        "document_id": "DOC-POL-004",
+        "policy_id": "POL-003",
+        "board_label": "과학기술xAI 국가전략",
+        "board_citation": "과기정통부, '25.11.22"
+      },
+      {
+        "display_order": 4,
+        "document_id": "DOC-POL-011",
+        "policy_id": "POL-004",
+        "board_label": "AI시대 대한민국 네트워크 전략",
+        "board_citation": "과기정통부, '25.12.18"
+      },
+      {
+        "display_order": 5,
+        "document_id": "DOC-POL-007",
+        "policy_id": "POL-005",
+        "board_label": "AI반도체 산업 도약전략",
+        "board_citation": "산업통상부, '25.12.18"
+      },
+      {
+        "display_order": 6,
+        "document_id": "DOC-POL-003",
+        "policy_id": "POL-006",
+        "board_label": "제조AX 추진방향",
+        "board_citation": "산업통상부, '25.12.22"
+      },
+      {
+        "display_order": 7,
+        "document_id": "DOC-POL-009",
+        "policy_id": "POL-007",
+        "board_label": "기초연구 생태계 육성방안",
+        "board_citation": "과기정통부, '25.12.18"
+      },
+      {
+        "display_order": 8,
+        "document_id": "DOC-POL-008",
+        "policy_id": "POL-008",
+        "board_label": "민간투자·팁스 R&D 확산방안",
+        "board_citation": "중소벤처기업부, '25.12.18"
+      },
+      {
+        "display_order": 9,
+        "document_id": "DOC-POL-010",
+        "policy_id": "POL-009",
+        "board_label": "과학기술분야 출연(연) 정책방향",
+        "board_citation": "과기정통부, '25.12.18"
+      },
+      {
+        "display_order": 10,
+        "document_id": "DOC-POL-005",
+        "policy_id": "POL-010",
+        "board_label": "연구개발 생태계 혁신방안",
+        "board_citation": "과기정통부, '25.11.22"
+      },
+      {
+        "display_order": 11,
+        "document_id": "DOC-POL-012",
+        "policy_id": "POL-011",
+        "board_label": "정부 AX사업 전주기 원스톱 지원방안",
+        "board_citation": "과기정통부·행정안전부, '26.1.28"
+      },
+      {
+        "display_order": 12,
+        "document_id": "DOC-POL-006",
+        "policy_id": "POL-012",
+        "board_label": "초혁신경제 15대 프로젝트 추진계획",
+        "board_citation": "기획재정부, '25.12.16"
+      }
+    ],
+    "row_level_notes": {
+      "1": "우측 보드 문구가 손상돼 DOC-POL-004, DOC-POL-012의 GPU 공통 인프라 문장을 기준으로 summary를 정규화했다.",
+      "2": "우측 보드 문구가 손상돼 DOC-POL-005의 예타 폐지·사전점검 문장을 기준으로 summary를 정규화했다.",
+      "3": "중앙 보드 라벨 OCR이 누락돼 DOC-POL-005, DOC-POL-009의 대학 블록펀딩 문장을 기준으로 factor_label을 보강했다.",
+      "4": "우측 보드 문구가 손상돼 DOC-POL-012의 전주기 원스톱 지원 취지를 반영해 summary를 정규화했다.",
+      "8": "우측 보드 문구 일부만 읽혀 시장 진입 실증 지원 취지로 summary를 정규화했다.",
+      "9": "우측 보드 문구 일부만 읽혀 도전형 평가 전환 취지로 summary를 정규화했다.",
+      "11": "우측 보드 문구가 흐려 라벨 중심의 concise summary로 정규화했다.",
+      "15": "우측 보드에는 '범부처 디지털 플랫폼 고도화'만 가독 가능해 연구행정 부담 경감 취지로 summary를 정규화했다."
+    }
+  }
+}

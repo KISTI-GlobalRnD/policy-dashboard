@@ -1,0 +1,8 @@
+canonical_table_id,document_id,title_hint,page_start,page_end,preferred_candidate_source,preferred_candidate_id,canonical_status,dashboard_ready,source_review_item_ids,notes
+CTBL-DOC-POL-006-001,DOC-POL-006,선정기준 비교표,8,8,pymupdf_find_tables,TBL-DOC-POL-006-003,ready,yes,TRV-DOC-POL-006-MD-001|TRV-DOC-POL-006-JS-003,3개 분야의 선정기준 비교표.
+CTBL-DOC-POL-006-002,DOC-POL-006,고온초전도자석 유형별 응용분야,13,13,pymupdf_find_tables,TBL-DOC-POL-006-007,ready,yes,TRV-DOC-POL-006-MD-003|TRV-DOC-POL-006-JS-007,자석 형상과 응용분야를 대응시키는 표.
+CTBL-DOC-POL-006-003,DOC-POL-006,바이오 의약 산업 현황 및 목표,18,18,pymupdf_find_tables,TBL-DOC-POL-006-010,ready,yes,TRV-DOC-POL-006-MD-004|TRV-DOC-POL-006-JS-010,"바이오의약품 수출, 제약사, 블록버스터 신약, 임상시험 목표를 제시하는 표."
+CTBL-DOC-POL-006-004,DOC-POL-006,K-디지털헬스케어 주요 기업 사례,22,22,pymupdf_find_tables,TBL-DOC-POL-006-012,ready,yes,TRV-DOC-POL-006-MD-005|TRV-DOC-POL-006-JS-012,"기업, 국가, 주요내용을 정리한 사례 표."
+CTBL-DOC-POL-006-005,DOC-POL-006,ICT 기반 의료시스템 유형,24,24,pymupdf_find_tables,TBL-DOC-POL-006-014,ready,yes,TRV-DOC-POL-006-MD-006|TRV-DOC-POL-006-JS-014,"병원정보시스템, 원격의료, AI 진단 보조, 모바일 헬스 유형 정의 표."
+CTBL-DOC-POL-006-006,DOC-POL-006,ICT 기반 해외진출 지원사업 지원 현황,25,25,manual_normalized,CTBL-DOC-POL-006-006__normalized,ready,yes,TRV-DOC-POL-006-MD-007|TRV-DOC-POL-006-JS-015,PDF 원본 page 25 시각 검토를 바탕으로 연도/수치 셀을 정규화한 표.
+CTBL-DOC-POL-006-007,DOC-POL-006,초혁신경제 15대 프로젝트 세부 일정,36,38,manual_merged,CTBL-DOC-POL-006-007__merged,ready,yes,TRV-DOC-POL-006-MD-008|TRV-DOC-POL-006-JS-018|TRV-DOC-POL-006-MD-009|TRV-DOC-POL-006-JS-019|TRV-DOC-POL-006-MD-010|TRV-DOC-POL-006-JS-020,PDF 원본 pages 36-38 시각 검토를 바탕으로 다중 페이지 일정표를 병합한 표.

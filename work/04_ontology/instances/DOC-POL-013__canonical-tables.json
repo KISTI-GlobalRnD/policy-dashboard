@@ -1,0 +1,54 @@
+[
+  {
+    "canonical_table_id": "CTBL-DOC-POL-013-001",
+    "document_id": "DOC-POL-013",
+    "title_hint": "범부처 주요 기술육성·보호체계 비교",
+    "page_start": "section2",
+    "page_end": "section8",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-013-010",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-013-JS-010|TRV-DOC-POL-013-JS-021",
+    "notes": "4개 법령·체계를 소관부처와 목적 기준으로 비교하는 핵심 표. section8 재수록본은 본 canonical에 병합."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-013-002",
+    "document_id": "DOC-POL-013",
+    "title_hint": "공통 기술분야 도출 및 체계별 배치",
+    "page_start": "section2",
+    "page_end": "section8",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-013-014",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-013-JS-014|TRV-DOC-POL-013-JS-030",
+    "notes": "공통 기술분야를 법령 체계별로 배치한 핵심 매핑표. 본문 재수록본은 동일 canonical로 병합."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-013-003",
+    "document_id": "DOC-POL-013",
+    "title_hint": "공통 기술분야 운영 시 역할 분담 예시",
+    "page_start": "section8",
+    "page_end": "section8",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-013-035",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-013-JS-035",
+    "notes": "공통 기술분야 변경, 체계별 운영, 세부기술 지정 단계별 논의·심의 주체를 설명하는 운영 예시표."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-013-004",
+    "document_id": "DOC-POL-013",
+    "title_hint": "공통 기술분야 현황맵 예시",
+    "page_start": "section8",
+    "page_end": "section8",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-013-046",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-013-JS-046",
+    "notes": "국가전략 및 신성장·원천 체계에서 다루는 대표 공통 기술분야를 예시로 정리한 현황맵 표."
+  }
+]

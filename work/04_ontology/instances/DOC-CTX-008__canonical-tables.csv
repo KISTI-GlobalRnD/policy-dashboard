@@ -1,0 +1,2 @@
+canonical_table_id,document_id,title_hint,page_start,page_end,preferred_candidate_source,preferred_candidate_id,canonical_status,dashboard_ready,source_review_item_ids,notes
+CTBL-DOC-CTX-008-001,DOC-CTX-008,차세대통신 기술 분류 및 개요,1,1,pymupdf4llm_markdown,PAR-DOC-CTX-008-00003,ready,yes,TRV-DOC-CTX-008-MD-001,"차세대 유무선통신, 위성통신, 네트워크 기반강화, 생태계 강화 하위 항목과 기술 개요를 정리한 표."

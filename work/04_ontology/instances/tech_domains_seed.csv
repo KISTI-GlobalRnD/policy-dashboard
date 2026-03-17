@@ -1,0 +1,15 @@
+tech_domain_id,tech_domain_label,source_basis,display_order,is_active
+TD-001,인공지능,DOC-TAX-001,1,1
+TD-002,에너지,DOC-TAX-001,2,1
+TD-003,이차전지,DOC-TAX-001,3,1
+TD-004,국방,DOC-TAX-001,4,1
+TD-005,소재,DOC-TAX-001,5,1
+TD-006,사이버보안,DOC-TAX-001,6,1
+TD-007,차세대통신,DOC-TAX-001,7,1
+TD-008,첨단로봇제조,DOC-TAX-001,8,1
+TD-009,반도체디스플레이,DOC-TAX-001,9,1
+TD-010,양자,DOC-TAX-001,10,1
+TD-011,첨단바이오,DOC-TAX-001,11,1
+TD-012,우주항공,DOC-TAX-001,12,1
+TD-013,해양,DOC-TAX-001,13,1
+TD-014,첨단모빌리티,DOC-TAX-001,14,1

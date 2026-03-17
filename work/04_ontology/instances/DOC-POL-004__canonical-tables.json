@@ -1,0 +1,54 @@
+[
+  {
+    "canonical_table_id": "CTBL-DOC-POL-004-001",
+    "document_id": "DOC-POL-004",
+    "title_hint": "• AlphaFold 3(’24.5.), AlphaEvolve(’25.5.), AI Co-Scientist(’25.2.) / 강점(S) ▪ 바이",
+    "page_start": "section1",
+    "page_end": "section1",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-004-026",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-004-JS-026",
+    "notes": "1차 heuristic seed로 생성된 canonical table."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-004-002",
+    "document_id": "DOC-POL-004",
+    "title_hint": "바이오 AI / 지구과학 AI / 수학 AI",
+    "page_start": "section1",
+    "page_end": "section1",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-004-032",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-004-JS-032",
+    "notes": "1차 heuristic seed로 생성된 canonical table."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-004-003",
+    "document_id": "DOC-POL-004",
+    "title_hint": "구분 / [track 1] AI Agent 활용 과학기술 연구·논문 작성 / [track 2] 과학기술 AI Agent 개발",
+    "page_start": "section1",
+    "page_end": "section1",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-004-051",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-004-JS-051",
+    "notes": "1차 heuristic seed로 생성된 canonical table."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-004-004",
+    "document_id": "DOC-POL-004",
+    "title_hint": "구분 / 추진 전략 및 과제 / 일정",
+    "page_start": "section1",
+    "page_end": "section1",
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-004-053",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-004-JS-053",
+    "notes": "1차 heuristic seed로 생성된 canonical table."
+  }
+]

@@ -1,0 +1,1047 @@
+source_asset_id,document_id,asset_type,mime_type,asset_path_or_url,page_no,section_id,bbox_json,thumbnail_path,quality_status,notes
+SRC-DOC-BMK-002-0001,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,1,,,,derived_locator,Derived from document location 1
+SRC-DOC-BMK-002-0002,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,10,,,,derived_locator,Derived from document location 10
+SRC-DOC-BMK-002-0003,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,11,,,,derived_locator,Derived from document location 11
+SRC-DOC-BMK-002-0004,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,12,,,,derived_locator,Derived from document location 12
+SRC-DOC-BMK-002-0005,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,13,,,,derived_locator,Derived from document location 13
+SRC-DOC-BMK-002-0006,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,14,,,,derived_locator,Derived from document location 14
+SRC-DOC-BMK-002-0007,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,15,,,,derived_locator,Derived from document location 15
+SRC-DOC-BMK-002-0008,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,16,,,,derived_locator,Derived from document location 16
+SRC-DOC-BMK-002-0009,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,17,,,,derived_locator,Derived from document location 17
+SRC-DOC-BMK-002-0010,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,18,,,,derived_locator,Derived from document location 18
+SRC-DOC-BMK-002-0011,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,19,,,,derived_locator,Derived from document location 19
+SRC-DOC-BMK-002-0012,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,2,,,,derived_locator,Derived from document location 2
+SRC-DOC-BMK-002-0013,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,20,,,,derived_locator,Derived from document location 20
+SRC-DOC-BMK-002-0014,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,21,,,,derived_locator,Derived from document location 21
+SRC-DOC-BMK-002-0015,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,22,,,,derived_locator,Derived from document location 22
+SRC-DOC-BMK-002-0016,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,23,,,,derived_locator,Derived from document location 23
+SRC-DOC-BMK-002-0017,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,24,,,,derived_locator,Derived from document location 24
+SRC-DOC-BMK-002-0018,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,25,,,,derived_locator,Derived from document location 25
+SRC-DOC-BMK-002-0019,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,26,,,,derived_locator,Derived from document location 26
+SRC-DOC-BMK-002-0020,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,27,,,,derived_locator,Derived from document location 27
+SRC-DOC-BMK-002-0021,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,28,,,,derived_locator,Derived from document location 28
+SRC-DOC-BMK-002-0022,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,29,,,,derived_locator,Derived from document location 29
+SRC-DOC-BMK-002-0023,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,3,,,,derived_locator,Derived from document location 3
+SRC-DOC-BMK-002-0024,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,30,,,,derived_locator,Derived from document location 30
+SRC-DOC-BMK-002-0025,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,31,,,,derived_locator,Derived from document location 31
+SRC-DOC-BMK-002-0026,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,32,,,,derived_locator,Derived from document location 32
+SRC-DOC-BMK-002-0027,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,33,,,,derived_locator,Derived from document location 33
+SRC-DOC-BMK-002-0028,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,34,,,,derived_locator,Derived from document location 34
+SRC-DOC-BMK-002-0029,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,35,,,,derived_locator,Derived from document location 35
+SRC-DOC-BMK-002-0030,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,36,,,,derived_locator,Derived from document location 36
+SRC-DOC-BMK-002-0031,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,37,,,,derived_locator,Derived from document location 37
+SRC-DOC-BMK-002-0032,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,38,,,,derived_locator,Derived from document location 38
+SRC-DOC-BMK-002-0033,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,39,,,,derived_locator,Derived from document location 39
+SRC-DOC-BMK-002-0034,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,4,,,,derived_locator,Derived from document location 4
+SRC-DOC-BMK-002-0035,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,40,,,,derived_locator,Derived from document location 40
+SRC-DOC-BMK-002-0036,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,41,,,,derived_locator,Derived from document location 41
+SRC-DOC-BMK-002-0037,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,42,,,,derived_locator,Derived from document location 42
+SRC-DOC-BMK-002-0038,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,43,,,,derived_locator,Derived from document location 43
+SRC-DOC-BMK-002-0039,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,44,,,,derived_locator,Derived from document location 44
+SRC-DOC-BMK-002-0040,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,45,,,,derived_locator,Derived from document location 45
+SRC-DOC-BMK-002-0041,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,46,,,,derived_locator,Derived from document location 46
+SRC-DOC-BMK-002-0042,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,47,,,,derived_locator,Derived from document location 47
+SRC-DOC-BMK-002-0043,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,48,,,,derived_locator,Derived from document location 48
+SRC-DOC-BMK-002-0044,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,49,,,,derived_locator,Derived from document location 49
+SRC-DOC-BMK-002-0045,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,5,,,,derived_locator,Derived from document location 5
+SRC-DOC-BMK-002-0046,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,50,,,,derived_locator,Derived from document location 50
+SRC-DOC-BMK-002-0047,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,51,,,,derived_locator,Derived from document location 51
+SRC-DOC-BMK-002-0048,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,52,,,,derived_locator,Derived from document location 52
+SRC-DOC-BMK-002-0049,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,53,,,,derived_locator,Derived from document location 53
+SRC-DOC-BMK-002-0050,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,54,,,,derived_locator,Derived from document location 54
+SRC-DOC-BMK-002-0051,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,55,,,,derived_locator,Derived from document location 55
+SRC-DOC-BMK-002-0052,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,56,,,,derived_locator,Derived from document location 56
+SRC-DOC-BMK-002-0053,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,57,,,,derived_locator,Derived from document location 57
+SRC-DOC-BMK-002-0054,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,58,,,,derived_locator,Derived from document location 58
+SRC-DOC-BMK-002-0055,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,59,,,,derived_locator,Derived from document location 59
+SRC-DOC-BMK-002-0056,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,6,,,,derived_locator,Derived from document location 6
+SRC-DOC-BMK-002-0057,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,60,,,,derived_locator,Derived from document location 60
+SRC-DOC-BMK-002-0058,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,61,,,,derived_locator,Derived from document location 61
+SRC-DOC-BMK-002-0059,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,62,,,,derived_locator,Derived from document location 62
+SRC-DOC-BMK-002-0060,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,63,,,,derived_locator,Derived from document location 63
+SRC-DOC-BMK-002-0061,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,64,,,,derived_locator,Derived from document location 64
+SRC-DOC-BMK-002-0062,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,65,,,,derived_locator,Derived from document location 65
+SRC-DOC-BMK-002-0063,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,66,,,,derived_locator,Derived from document location 66
+SRC-DOC-BMK-002-0064,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,67,,,,derived_locator,Derived from document location 67
+SRC-DOC-BMK-002-0065,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,68,,,,derived_locator,Derived from document location 68
+SRC-DOC-BMK-002-0066,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,7,,,,derived_locator,Derived from document location 7
+SRC-DOC-BMK-002-0067,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,8,,,,derived_locator,Derived from document location 8
+SRC-DOC-BMK-002-0068,DOC-BMK-002,pdf_page,application/pdf,tmp/DOC-BMK-002.pdf,9,,,,derived_locator,Derived from document location 9
+SRC-DOC-BMK-005-0069,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,1,,,,derived_locator,Derived from document location 1
+SRC-DOC-BMK-005-0070,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,10,,,,derived_locator,Derived from document location 10
+SRC-DOC-BMK-005-0071,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,100,,,,derived_locator,Derived from document location 100
+SRC-DOC-BMK-005-0072,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,101,,,,derived_locator,Derived from document location 101
+SRC-DOC-BMK-005-0073,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,102,,,,derived_locator,Derived from document location 102
+SRC-DOC-BMK-005-0074,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,103,,,,derived_locator,Derived from document location 103
+SRC-DOC-BMK-005-0075,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,104,,,,derived_locator,Derived from document location 104
+SRC-DOC-BMK-005-0076,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,105,,,,derived_locator,Derived from document location 105
+SRC-DOC-BMK-005-0077,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,106,,,,derived_locator,Derived from document location 106
+SRC-DOC-BMK-005-0078,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,107,,,,derived_locator,Derived from document location 107
+SRC-DOC-BMK-005-0079,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,108,,,,derived_locator,Derived from document location 108
+SRC-DOC-BMK-005-0080,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,109,,,,derived_locator,Derived from document location 109
+SRC-DOC-BMK-005-0081,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,11,,,,derived_locator,Derived from document location 11
+SRC-DOC-BMK-005-0082,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,110,,,,derived_locator,Derived from document location 110
+SRC-DOC-BMK-005-0083,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,111,,,,derived_locator,Derived from document location 111
+SRC-DOC-BMK-005-0084,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,112,,,,derived_locator,Derived from document location 112
+SRC-DOC-BMK-005-0085,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,113,,,,derived_locator,Derived from document location 113
+SRC-DOC-BMK-005-0086,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,114,,,,derived_locator,Derived from document location 114
+SRC-DOC-BMK-005-0087,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,115,,,,derived_locator,Derived from document location 115
+SRC-DOC-BMK-005-0088,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,116,,,,derived_locator,Derived from document location 116
+SRC-DOC-BMK-005-0089,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,117,,,,derived_locator,Derived from document location 117
+SRC-DOC-BMK-005-0090,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,118,,,,derived_locator,Derived from document location 118
+SRC-DOC-BMK-005-0091,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,119,,,,derived_locator,Derived from document location 119
+SRC-DOC-BMK-005-0092,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,12,,,,derived_locator,Derived from document location 12
+SRC-DOC-BMK-005-0093,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,120,,,,derived_locator,Derived from document location 120
+SRC-DOC-BMK-005-0094,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,121,,,,derived_locator,Derived from document location 121
+SRC-DOC-BMK-005-0095,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,122,,,,derived_locator,Derived from document location 122
+SRC-DOC-BMK-005-0096,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,123,,,,derived_locator,Derived from document location 123
+SRC-DOC-BMK-005-0097,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,124,,,,derived_locator,Derived from document location 124
+SRC-DOC-BMK-005-0098,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,125,,,,derived_locator,Derived from document location 125
+SRC-DOC-BMK-005-0099,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,126,,,,derived_locator,Derived from document location 126
+SRC-DOC-BMK-005-0100,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,127,,,,derived_locator,Derived from document location 127
+SRC-DOC-BMK-005-0101,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,128,,,,derived_locator,Derived from document location 128
+SRC-DOC-BMK-005-0102,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,129,,,,derived_locator,Derived from document location 129
+SRC-DOC-BMK-005-0103,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,13,,,,derived_locator,Derived from document location 13
+SRC-DOC-BMK-005-0104,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,130,,,,derived_locator,Derived from document location 130
+SRC-DOC-BMK-005-0105,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,131,,,,derived_locator,Derived from document location 131
+SRC-DOC-BMK-005-0106,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,132,,,,derived_locator,Derived from document location 132
+SRC-DOC-BMK-005-0107,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,133,,,,derived_locator,Derived from document location 133
+SRC-DOC-BMK-005-0108,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,134,,,,derived_locator,Derived from document location 134
+SRC-DOC-BMK-005-0109,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,135,,,,derived_locator,Derived from document location 135
+SRC-DOC-BMK-005-0110,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,136,,,,derived_locator,Derived from document location 136
+SRC-DOC-BMK-005-0111,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,137,,,,derived_locator,Derived from document location 137
+SRC-DOC-BMK-005-0112,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,138,,,,derived_locator,Derived from document location 138
+SRC-DOC-BMK-005-0113,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,139,,,,derived_locator,Derived from document location 139
+SRC-DOC-BMK-005-0114,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,14,,,,derived_locator,Derived from document location 14
+SRC-DOC-BMK-005-0115,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,140,,,,derived_locator,Derived from document location 140
+SRC-DOC-BMK-005-0116,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,15,,,,derived_locator,Derived from document location 15
+SRC-DOC-BMK-005-0117,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,16,,,,derived_locator,Derived from document location 16
+SRC-DOC-BMK-005-0118,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,17,,,,derived_locator,Derived from document location 17
+SRC-DOC-BMK-005-0119,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,18,,,,derived_locator,Derived from document location 18
+SRC-DOC-BMK-005-0120,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,19,,,,derived_locator,Derived from document location 19
+SRC-DOC-BMK-005-0121,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,2,,,,derived_locator,Derived from document location 2
+SRC-DOC-BMK-005-0122,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,20,,,,derived_locator,Derived from document location 20
+SRC-DOC-BMK-005-0123,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,21,,,,derived_locator,Derived from document location 21
+SRC-DOC-BMK-005-0124,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,22,,,,derived_locator,Derived from document location 22
+SRC-DOC-BMK-005-0125,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,23,,,,derived_locator,Derived from document location 23
+SRC-DOC-BMK-005-0126,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,24,,,,derived_locator,Derived from document location 24
+SRC-DOC-BMK-005-0127,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,25,,,,derived_locator,Derived from document location 25
+SRC-DOC-BMK-005-0128,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,26,,,,derived_locator,Derived from document location 26
+SRC-DOC-BMK-005-0129,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,27,,,,derived_locator,Derived from document location 27
+SRC-DOC-BMK-005-0130,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,28,,,,derived_locator,Derived from document location 28
+SRC-DOC-BMK-005-0131,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,29,,,,derived_locator,Derived from document location 29
+SRC-DOC-BMK-005-0132,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,3,,,,derived_locator,Derived from document location 3
+SRC-DOC-BMK-005-0133,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,30,,,,derived_locator,Derived from document location 30
+SRC-DOC-BMK-005-0134,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,31,,,,derived_locator,Derived from document location 31
+SRC-DOC-BMK-005-0135,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,32,,,,derived_locator,Derived from document location 32
+SRC-DOC-BMK-005-0136,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,33,,,,derived_locator,Derived from document location 33
+SRC-DOC-BMK-005-0137,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,34,,,,derived_locator,Derived from document location 34
+SRC-DOC-BMK-005-0138,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,35,,,,derived_locator,Derived from document location 35
+SRC-DOC-BMK-005-0139,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,36,,,,derived_locator,Derived from document location 36
+SRC-DOC-BMK-005-0140,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,37,,,,derived_locator,Derived from document location 37
+SRC-DOC-BMK-005-0141,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,38,,,,derived_locator,Derived from document location 38
+SRC-DOC-BMK-005-0142,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,39,,,,derived_locator,Derived from document location 39
+SRC-DOC-BMK-005-0143,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,4,,,,derived_locator,Derived from document location 4
+SRC-DOC-BMK-005-0144,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,40,,,,derived_locator,Derived from document location 40
+SRC-DOC-BMK-005-0145,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,41,,,,derived_locator,Derived from document location 41
+SRC-DOC-BMK-005-0146,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,42,,,,derived_locator,Derived from document location 42
+SRC-DOC-BMK-005-0147,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,43,,,,derived_locator,Derived from document location 43
+SRC-DOC-BMK-005-0148,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,44,,,,derived_locator,Derived from document location 44
+SRC-DOC-BMK-005-0149,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,45,,,,derived_locator,Derived from document location 45
+SRC-DOC-BMK-005-0150,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,46,,,,derived_locator,Derived from document location 46
+SRC-DOC-BMK-005-0151,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,47,,,,derived_locator,Derived from document location 47
+SRC-DOC-BMK-005-0152,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,48,,,,derived_locator,Derived from document location 48
+SRC-DOC-BMK-005-0153,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,49,,,,derived_locator,Derived from document location 49
+SRC-DOC-BMK-005-0154,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,5,,,,derived_locator,Derived from document location 5
+SRC-DOC-BMK-005-0155,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,50,,,,derived_locator,Derived from document location 50
+SRC-DOC-BMK-005-0156,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,51,,,,derived_locator,Derived from document location 51
+SRC-DOC-BMK-005-0157,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,52,,,,derived_locator,Derived from document location 52
+SRC-DOC-BMK-005-0158,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,53,,,,derived_locator,Derived from document location 53
+SRC-DOC-BMK-005-0159,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,54,,,,derived_locator,Derived from document location 54
+SRC-DOC-BMK-005-0160,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,55,,,,derived_locator,Derived from document location 55
+SRC-DOC-BMK-005-0161,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,56,,,,derived_locator,Derived from document location 56
+SRC-DOC-BMK-005-0162,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,57,,,,derived_locator,Derived from document location 57
+SRC-DOC-BMK-005-0163,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,58,,,,derived_locator,Derived from document location 58
+SRC-DOC-BMK-005-0164,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,59,,,,derived_locator,Derived from document location 59
+SRC-DOC-BMK-005-0165,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,6,,,,derived_locator,Derived from document location 6
+SRC-DOC-BMK-005-0166,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,60,,,,derived_locator,Derived from document location 60
+SRC-DOC-BMK-005-0167,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,61,,,,derived_locator,Derived from document location 61
+SRC-DOC-BMK-005-0168,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,62,,,,derived_locator,Derived from document location 62
+SRC-DOC-BMK-005-0169,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,63,,,,derived_locator,Derived from document location 63
+SRC-DOC-BMK-005-0170,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,64,,,,derived_locator,Derived from document location 64
+SRC-DOC-BMK-005-0171,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,65,,,,derived_locator,Derived from document location 65
+SRC-DOC-BMK-005-0172,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,66,,,,derived_locator,Derived from document location 66
+SRC-DOC-BMK-005-0173,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,67,,,,derived_locator,Derived from document location 67
+SRC-DOC-BMK-005-0174,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,68,,,,derived_locator,Derived from document location 68
+SRC-DOC-BMK-005-0175,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,69,,,,derived_locator,Derived from document location 69
+SRC-DOC-BMK-005-0176,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,7,,,,derived_locator,Derived from document location 7
+SRC-DOC-BMK-005-0177,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,70,,,,derived_locator,Derived from document location 70
+SRC-DOC-BMK-005-0178,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,71,,,,derived_locator,Derived from document location 71
+SRC-DOC-BMK-005-0179,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,72,,,,derived_locator,Derived from document location 72
+SRC-DOC-BMK-005-0180,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,73,,,,derived_locator,Derived from document location 73
+SRC-DOC-BMK-005-0181,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,74,,,,derived_locator,Derived from document location 74
+SRC-DOC-BMK-005-0182,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,75,,,,derived_locator,Derived from document location 75
+SRC-DOC-BMK-005-0183,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,76,,,,derived_locator,Derived from document location 76
+SRC-DOC-BMK-005-0184,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,77,,,,derived_locator,Derived from document location 77
+SRC-DOC-BMK-005-0185,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,78,,,,derived_locator,Derived from document location 78
+SRC-DOC-BMK-005-0186,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,79,,,,derived_locator,Derived from document location 79
+SRC-DOC-BMK-005-0187,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,8,,,,derived_locator,Derived from document location 8
+SRC-DOC-BMK-005-0188,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,80,,,,derived_locator,Derived from document location 80
+SRC-DOC-BMK-005-0189,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,81,,,,derived_locator,Derived from document location 81
+SRC-DOC-BMK-005-0190,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,82,,,,derived_locator,Derived from document location 82
+SRC-DOC-BMK-005-0191,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,83,,,,derived_locator,Derived from document location 83
+SRC-DOC-BMK-005-0192,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,84,,,,derived_locator,Derived from document location 84
+SRC-DOC-BMK-005-0193,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,85,,,,derived_locator,Derived from document location 85
+SRC-DOC-BMK-005-0194,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,86,,,,derived_locator,Derived from document location 86
+SRC-DOC-BMK-005-0195,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,87,,,,derived_locator,Derived from document location 87
+SRC-DOC-BMK-005-0196,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,88,,,,derived_locator,Derived from document location 88
+SRC-DOC-BMK-005-0197,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,89,,,,derived_locator,Derived from document location 89
+SRC-DOC-BMK-005-0198,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,9,,,,derived_locator,Derived from document location 9
+SRC-DOC-BMK-005-0199,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,90,,,,derived_locator,Derived from document location 90
+SRC-DOC-BMK-005-0200,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,91,,,,derived_locator,Derived from document location 91
+SRC-DOC-BMK-005-0201,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,92,,,,derived_locator,Derived from document location 92
+SRC-DOC-BMK-005-0202,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,93,,,,derived_locator,Derived from document location 93
+SRC-DOC-BMK-005-0203,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,94,,,,derived_locator,Derived from document location 94
+SRC-DOC-BMK-005-0204,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,95,,,,derived_locator,Derived from document location 95
+SRC-DOC-BMK-005-0205,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,96,,,,derived_locator,Derived from document location 96
+SRC-DOC-BMK-005-0206,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,97,,,,derived_locator,Derived from document location 97
+SRC-DOC-BMK-005-0207,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,98,,,,derived_locator,Derived from document location 98
+SRC-DOC-BMK-005-0208,DOC-BMK-005,pdf_page,application/pdf,tmp/DOC-BMK-005.pdf,99,,,,derived_locator,Derived from document location 99
+SRC-DOC-BMK-006-0209,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,1,,,,derived_locator,Derived from document location 1
+SRC-DOC-BMK-006-0210,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,10,,,,derived_locator,Derived from document location 10
+SRC-DOC-BMK-006-0211,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,100,,,,derived_locator,Derived from document location 100
+SRC-DOC-BMK-006-0212,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,101,,,,derived_locator,Derived from document location 101
+SRC-DOC-BMK-006-0213,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,102,,,,derived_locator,Derived from document location 102
+SRC-DOC-BMK-006-0214,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,103,,,,derived_locator,Derived from document location 103
+SRC-DOC-BMK-006-0215,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,104,,,,derived_locator,Derived from document location 104
+SRC-DOC-BMK-006-0216,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,105,,,,derived_locator,Derived from document location 105
+SRC-DOC-BMK-006-0217,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,106,,,,derived_locator,Derived from document location 106
+SRC-DOC-BMK-006-0218,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,107,,,,derived_locator,Derived from document location 107
+SRC-DOC-BMK-006-0219,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,108,,,,derived_locator,Derived from document location 108
+SRC-DOC-BMK-006-0220,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,109,,,,derived_locator,Derived from document location 109
+SRC-DOC-BMK-006-0221,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,11,,,,derived_locator,Derived from document location 11
+SRC-DOC-BMK-006-0222,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,110,,,,derived_locator,Derived from document location 110
+SRC-DOC-BMK-006-0223,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,111,,,,derived_locator,Derived from document location 111
+SRC-DOC-BMK-006-0224,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,112,,,,derived_locator,Derived from document location 112
+SRC-DOC-BMK-006-0225,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,113,,,,derived_locator,Derived from document location 113
+SRC-DOC-BMK-006-0226,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,114,,,,derived_locator,Derived from document location 114
+SRC-DOC-BMK-006-0227,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,115,,,,derived_locator,Derived from document location 115
+SRC-DOC-BMK-006-0228,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,116,,,,derived_locator,Derived from document location 116
+SRC-DOC-BMK-006-0229,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,117,,,,derived_locator,Derived from document location 117
+SRC-DOC-BMK-006-0230,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,118,,,,derived_locator,Derived from document location 118
+SRC-DOC-BMK-006-0231,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,119,,,,derived_locator,Derived from document location 119
+SRC-DOC-BMK-006-0232,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,12,,,,derived_locator,Derived from document location 12
+SRC-DOC-BMK-006-0233,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,120,,,,derived_locator,Derived from document location 120
+SRC-DOC-BMK-006-0234,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,121,,,,derived_locator,Derived from document location 121
+SRC-DOC-BMK-006-0235,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,122,,,,derived_locator,Derived from document location 122
+SRC-DOC-BMK-006-0236,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,123,,,,derived_locator,Derived from document location 123
+SRC-DOC-BMK-006-0237,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,124,,,,derived_locator,Derived from document location 124
+SRC-DOC-BMK-006-0238,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,125,,,,derived_locator,Derived from document location 125
+SRC-DOC-BMK-006-0239,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,126,,,,derived_locator,Derived from document location 126
+SRC-DOC-BMK-006-0240,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,127,,,,derived_locator,Derived from document location 127
+SRC-DOC-BMK-006-0241,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,128,,,,derived_locator,Derived from document location 128
+SRC-DOC-BMK-006-0242,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,129,,,,derived_locator,Derived from document location 129
+SRC-DOC-BMK-006-0243,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,13,,,,derived_locator,Derived from document location 13
+SRC-DOC-BMK-006-0244,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,130,,,,derived_locator,Derived from document location 130
+SRC-DOC-BMK-006-0245,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,131,,,,derived_locator,Derived from document location 131
+SRC-DOC-BMK-006-0246,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,132,,,,derived_locator,Derived from document location 132
+SRC-DOC-BMK-006-0247,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,133,,,,derived_locator,Derived from document location 133
+SRC-DOC-BMK-006-0248,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,134,,,,derived_locator,Derived from document location 134
+SRC-DOC-BMK-006-0249,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,135,,,,derived_locator,Derived from document location 135
+SRC-DOC-BMK-006-0250,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,136,,,,derived_locator,Derived from document location 136
+SRC-DOC-BMK-006-0251,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,137,,,,derived_locator,Derived from document location 137
+SRC-DOC-BMK-006-0252,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,138,,,,derived_locator,Derived from document location 138
+SRC-DOC-BMK-006-0253,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,139,,,,derived_locator,Derived from document location 139
+SRC-DOC-BMK-006-0254,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,14,,,,derived_locator,Derived from document location 14
+SRC-DOC-BMK-006-0255,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,140,,,,derived_locator,Derived from document location 140
+SRC-DOC-BMK-006-0256,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,141,,,,derived_locator,Derived from document location 141
+SRC-DOC-BMK-006-0257,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,142,,,,derived_locator,Derived from document location 142
+SRC-DOC-BMK-006-0258,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,143,,,,derived_locator,Derived from document location 143
+SRC-DOC-BMK-006-0259,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,144,,,,derived_locator,Derived from document location 144
+SRC-DOC-BMK-006-0260,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,145,,,,derived_locator,Derived from document location 145
+SRC-DOC-BMK-006-0261,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,146,,,,derived_locator,Derived from document location 146
+SRC-DOC-BMK-006-0262,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,147,,,,derived_locator,Derived from document location 147
+SRC-DOC-BMK-006-0263,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,148,,,,derived_locator,Derived from document location 148
+SRC-DOC-BMK-006-0264,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,149,,,,derived_locator,Derived from document location 149
+SRC-DOC-BMK-006-0265,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,15,,,,derived_locator,Derived from document location 15
+SRC-DOC-BMK-006-0266,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,150,,,,derived_locator,Derived from document location 150
+SRC-DOC-BMK-006-0267,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,151,,,,derived_locator,Derived from document location 151
+SRC-DOC-BMK-006-0268,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,152,,,,derived_locator,Derived from document location 152
+SRC-DOC-BMK-006-0269,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,153,,,,derived_locator,Derived from document location 153
+SRC-DOC-BMK-006-0270,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,154,,,,derived_locator,Derived from document location 154
+SRC-DOC-BMK-006-0271,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,155,,,,derived_locator,Derived from document location 155
+SRC-DOC-BMK-006-0272,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,156,,,,derived_locator,Derived from document location 156
+SRC-DOC-BMK-006-0273,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,157,,,,derived_locator,Derived from document location 157
+SRC-DOC-BMK-006-0274,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,158,,,,derived_locator,Derived from document location 158
+SRC-DOC-BMK-006-0275,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,159,,,,derived_locator,Derived from document location 159
+SRC-DOC-BMK-006-0276,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,16,,,,derived_locator,Derived from document location 16
+SRC-DOC-BMK-006-0277,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,160,,,,derived_locator,Derived from document location 160
+SRC-DOC-BMK-006-0278,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,161,,,,derived_locator,Derived from document location 161
+SRC-DOC-BMK-006-0279,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,162,,,,derived_locator,Derived from document location 162
+SRC-DOC-BMK-006-0280,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,163,,,,derived_locator,Derived from document location 163
+SRC-DOC-BMK-006-0281,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,164,,,,derived_locator,Derived from document location 164
+SRC-DOC-BMK-006-0282,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,165,,,,derived_locator,Derived from document location 165
+SRC-DOC-BMK-006-0283,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,166,,,,derived_locator,Derived from document location 166
+SRC-DOC-BMK-006-0284,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,167,,,,derived_locator,Derived from document location 167
+SRC-DOC-BMK-006-0285,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,168,,,,derived_locator,Derived from document location 168
+SRC-DOC-BMK-006-0286,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,169,,,,derived_locator,Derived from document location 169
+SRC-DOC-BMK-006-0287,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,17,,,,derived_locator,Derived from document location 17
+SRC-DOC-BMK-006-0288,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,170,,,,derived_locator,Derived from document location 170
+SRC-DOC-BMK-006-0289,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,171,,,,derived_locator,Derived from document location 171
+SRC-DOC-BMK-006-0290,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,172,,,,derived_locator,Derived from document location 172
+SRC-DOC-BMK-006-0291,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,173,,,,derived_locator,Derived from document location 173
+SRC-DOC-BMK-006-0292,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,174,,,,derived_locator,Derived from document location 174
+SRC-DOC-BMK-006-0293,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,175,,,,derived_locator,Derived from document location 175
+SRC-DOC-BMK-006-0294,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,176,,,,derived_locator,Derived from document location 176
+SRC-DOC-BMK-006-0295,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,177,,,,derived_locator,Derived from document location 177
+SRC-DOC-BMK-006-0296,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,178,,,,derived_locator,Derived from document location 178
+SRC-DOC-BMK-006-0297,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,179,,,,derived_locator,Derived from document location 179
+SRC-DOC-BMK-006-0298,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,18,,,,derived_locator,Derived from document location 18
+SRC-DOC-BMK-006-0299,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,180,,,,derived_locator,Derived from document location 180
+SRC-DOC-BMK-006-0300,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,181,,,,derived_locator,Derived from document location 181
+SRC-DOC-BMK-006-0301,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,182,,,,derived_locator,Derived from document location 182
+SRC-DOC-BMK-006-0302,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,183,,,,derived_locator,Derived from document location 183
+SRC-DOC-BMK-006-0303,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,184,,,,derived_locator,Derived from document location 184
+SRC-DOC-BMK-006-0304,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,19,,,,derived_locator,Derived from document location 19
+SRC-DOC-BMK-006-0305,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,2,,,,derived_locator,Derived from document location 2
+SRC-DOC-BMK-006-0306,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,20,,,,derived_locator,Derived from document location 20
+SRC-DOC-BMK-006-0307,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,21,,,,derived_locator,Derived from document location 21
+SRC-DOC-BMK-006-0308,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,22,,,,derived_locator,Derived from document location 22
+SRC-DOC-BMK-006-0309,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,23,,,,derived_locator,Derived from document location 23
+SRC-DOC-BMK-006-0310,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,24,,,,derived_locator,Derived from document location 24
+SRC-DOC-BMK-006-0311,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,25,,,,derived_locator,Derived from document location 25
+SRC-DOC-BMK-006-0312,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,26,,,,derived_locator,Derived from document location 26
+SRC-DOC-BMK-006-0313,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,27,,,,derived_locator,Derived from document location 27
+SRC-DOC-BMK-006-0314,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,28,,,,derived_locator,Derived from document location 28
+SRC-DOC-BMK-006-0315,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,29,,,,derived_locator,Derived from document location 29
+SRC-DOC-BMK-006-0316,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,3,,,,derived_locator,Derived from document location 3
+SRC-DOC-BMK-006-0317,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,30,,,,derived_locator,Derived from document location 30
+SRC-DOC-BMK-006-0318,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,31,,,,derived_locator,Derived from document location 31
+SRC-DOC-BMK-006-0319,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,32,,,,derived_locator,Derived from document location 32
+SRC-DOC-BMK-006-0320,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,33,,,,derived_locator,Derived from document location 33
+SRC-DOC-BMK-006-0321,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,34,,,,derived_locator,Derived from document location 34
+SRC-DOC-BMK-006-0322,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,35,,,,derived_locator,Derived from document location 35
+SRC-DOC-BMK-006-0323,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,36,,,,derived_locator,Derived from document location 36
+SRC-DOC-BMK-006-0324,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,37,,,,derived_locator,Derived from document location 37
+SRC-DOC-BMK-006-0325,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,38,,,,derived_locator,Derived from document location 38
+SRC-DOC-BMK-006-0326,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,39,,,,derived_locator,Derived from document location 39
+SRC-DOC-BMK-006-0327,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,4,,,,derived_locator,Derived from document location 4
+SRC-DOC-BMK-006-0328,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,40,,,,derived_locator,Derived from document location 40
+SRC-DOC-BMK-006-0329,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,41,,,,derived_locator,Derived from document location 41
+SRC-DOC-BMK-006-0330,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,42,,,,derived_locator,Derived from document location 42
+SRC-DOC-BMK-006-0331,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,43,,,,derived_locator,Derived from document location 43
+SRC-DOC-BMK-006-0332,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,44,,,,derived_locator,Derived from document location 44
+SRC-DOC-BMK-006-0333,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,45,,,,derived_locator,Derived from document location 45
+SRC-DOC-BMK-006-0334,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,46,,,,derived_locator,Derived from document location 46
+SRC-DOC-BMK-006-0335,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,47,,,,derived_locator,Derived from document location 47
+SRC-DOC-BMK-006-0336,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,48,,,,derived_locator,Derived from document location 48
+SRC-DOC-BMK-006-0337,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,49,,,,derived_locator,Derived from document location 49
+SRC-DOC-BMK-006-0338,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,5,,,,derived_locator,Derived from document location 5
+SRC-DOC-BMK-006-0339,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,50,,,,derived_locator,Derived from document location 50
+SRC-DOC-BMK-006-0340,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,51,,,,derived_locator,Derived from document location 51
+SRC-DOC-BMK-006-0341,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,52,,,,derived_locator,Derived from document location 52
+SRC-DOC-BMK-006-0342,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,53,,,,derived_locator,Derived from document location 53
+SRC-DOC-BMK-006-0343,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,54,,,,derived_locator,Derived from document location 54
+SRC-DOC-BMK-006-0344,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,55,,,,derived_locator,Derived from document location 55
+SRC-DOC-BMK-006-0345,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,56,,,,derived_locator,Derived from document location 56
+SRC-DOC-BMK-006-0346,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,57,,,,derived_locator,Derived from document location 57
+SRC-DOC-BMK-006-0347,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,58,,,,derived_locator,Derived from document location 58
+SRC-DOC-BMK-006-0348,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,59,,,,derived_locator,Derived from document location 59
+SRC-DOC-BMK-006-0349,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,6,,,,derived_locator,Derived from document location 6
+SRC-DOC-BMK-006-0350,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,60,,,,derived_locator,Derived from document location 60
+SRC-DOC-BMK-006-0351,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,61,,,,derived_locator,Derived from document location 61
+SRC-DOC-BMK-006-0352,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,62,,,,derived_locator,Derived from document location 62
+SRC-DOC-BMK-006-0353,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,63,,,,derived_locator,Derived from document location 63
+SRC-DOC-BMK-006-0354,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,64,,,,derived_locator,Derived from document location 64
+SRC-DOC-BMK-006-0355,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,65,,,,derived_locator,Derived from document location 65
+SRC-DOC-BMK-006-0356,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,66,,,,derived_locator,Derived from document location 66
+SRC-DOC-BMK-006-0357,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,67,,,,derived_locator,Derived from document location 67
+SRC-DOC-BMK-006-0358,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,68,,,,derived_locator,Derived from document location 68
+SRC-DOC-BMK-006-0359,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,69,,,,derived_locator,Derived from document location 69
+SRC-DOC-BMK-006-0360,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,7,,,,derived_locator,Derived from document location 7
+SRC-DOC-BMK-006-0361,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,70,,,,derived_locator,Derived from document location 70
+SRC-DOC-BMK-006-0362,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,71,,,,derived_locator,Derived from document location 71
+SRC-DOC-BMK-006-0363,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,72,,,,derived_locator,Derived from document location 72
+SRC-DOC-BMK-006-0364,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,73,,,,derived_locator,Derived from document location 73
+SRC-DOC-BMK-006-0365,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,74,,,,derived_locator,Derived from document location 74
+SRC-DOC-BMK-006-0366,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,75,,,,derived_locator,Derived from document location 75
+SRC-DOC-BMK-006-0367,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,76,,,,derived_locator,Derived from document location 76
+SRC-DOC-BMK-006-0368,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,77,,,,derived_locator,Derived from document location 77
+SRC-DOC-BMK-006-0369,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,78,,,,derived_locator,Derived from document location 78
+SRC-DOC-BMK-006-0370,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,79,,,,derived_locator,Derived from document location 79
+SRC-DOC-BMK-006-0371,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,8,,,,derived_locator,Derived from document location 8
+SRC-DOC-BMK-006-0372,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,80,,,,derived_locator,Derived from document location 80
+SRC-DOC-BMK-006-0373,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,81,,,,derived_locator,Derived from document location 81
+SRC-DOC-BMK-006-0374,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,82,,,,derived_locator,Derived from document location 82
+SRC-DOC-BMK-006-0375,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,83,,,,derived_locator,Derived from document location 83
+SRC-DOC-BMK-006-0376,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,84,,,,derived_locator,Derived from document location 84
+SRC-DOC-BMK-006-0377,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,85,,,,derived_locator,Derived from document location 85
+SRC-DOC-BMK-006-0378,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,86,,,,derived_locator,Derived from document location 86
+SRC-DOC-BMK-006-0379,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,87,,,,derived_locator,Derived from document location 87
+SRC-DOC-BMK-006-0380,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,88,,,,derived_locator,Derived from document location 88
+SRC-DOC-BMK-006-0381,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,89,,,,derived_locator,Derived from document location 89
+SRC-DOC-BMK-006-0382,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,9,,,,derived_locator,Derived from document location 9
+SRC-DOC-BMK-006-0383,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,90,,,,derived_locator,Derived from document location 90
+SRC-DOC-BMK-006-0384,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,91,,,,derived_locator,Derived from document location 91
+SRC-DOC-BMK-006-0385,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,92,,,,derived_locator,Derived from document location 92
+SRC-DOC-BMK-006-0386,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,93,,,,derived_locator,Derived from document location 93
+SRC-DOC-BMK-006-0387,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,94,,,,derived_locator,Derived from document location 94
+SRC-DOC-BMK-006-0388,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,95,,,,derived_locator,Derived from document location 95
+SRC-DOC-BMK-006-0389,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,96,,,,derived_locator,Derived from document location 96
+SRC-DOC-BMK-006-0390,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,97,,,,derived_locator,Derived from document location 97
+SRC-DOC-BMK-006-0391,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,98,,,,derived_locator,Derived from document location 98
+SRC-DOC-BMK-006-0392,DOC-BMK-006,pdf_page,application/pdf,tmp/DOC-BMK-006.pdf,99,,,,derived_locator,Derived from document location 99
+SRC-DOC-CTX-001-0393,DOC-CTX-001,pdf_page,application/pdf,tmp/DOC-CTX-001.pdf,1,,,,derived_locator,Derived from document location 1
+SRC-DOC-CTX-002-0394,DOC-CTX-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-CTX-002/page_001.png,document,,,,source_image,Figure asset for FIG-DOC-CTX-002-001
+SRC-DOC-CTX-002-0395,DOC-CTX-002,pdf_page,application/pdf,data/260313_기술분야 개요.zip::기술분야_개요_사이버보안_편집.pdf,1,,,,derived_locator,Derived from document location 1
+SRC-DOC-CTX-003-0396,DOC-CTX-003,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-CTX-003/page_001.png,document,,,,source_image,Figure asset for FIG-DOC-CTX-003-001
+SRC-DOC-CTX-003-0397,DOC-CTX-003,pdf_page,application/pdf,data/260313_기술분야 개요.zip::기술분야_개요_소재.pdf,1,,,,derived_locator,Derived from document location 1
+SRC-DOC-CTX-004-0398,DOC-CTX-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-CTX-004/page_001.png,document,,,,source_image,Figure asset for FIG-DOC-CTX-004-001
+SRC-DOC-CTX-004-0399,DOC-CTX-004,pdf_page,application/pdf,data/260313_기술분야 개요.zip::기술분야_개요_양자.pdf,1,,,,derived_locator,Derived from document location 1
+SRC-DOC-CTX-005-0400,DOC-CTX-005,pdf_page,application/pdf,tmp/DOC-CTX-005.pdf,1,,,,derived_locator,Derived from document location 1
+SRC-DOC-CTX-006-0401,DOC-CTX-006,pdf_page,application/pdf,tmp/DOC-CTX-006.pdf,1,,,,derived_locator,Derived from document location 1
+SRC-DOC-CTX-007-0402,DOC-CTX-007,pdf_page,application/pdf,tmp/DOC-CTX-007.pdf,1,,,,derived_locator,Derived from document location 1
+SRC-DOC-CTX-008-0403,DOC-CTX-008,pdf_page,application/pdf,tmp/DOC-CTX-008.pdf,1,,,,derived_locator,Derived from document location 1
+SRC-DOC-CTX-009-0404,DOC-CTX-009,pdf_page,application/pdf,tmp/DOC-CTX-009.pdf,1,,,,derived_locator,Derived from document location 1
+SRC-DOC-CTX-010-0405,DOC-CTX-010,pdf_page,application/pdf,tmp/DOC-CTX-010.pdf,1,,,,derived_locator,Derived from document location 1
+SRC-DOC-CTX-011-0406,DOC-CTX-011,pdf_page,application/pdf,tmp/DOC-CTX-011.pdf,1,,,,derived_locator,Derived from document location 1
+SRC-DOC-CTX-012-0407,DOC-CTX-012,pdf_page,application/pdf,tmp/DOC-CTX-012.pdf,1,,,,derived_locator,Derived from document location 1
+SRC-DOC-CTX-013-0408,DOC-CTX-013,pdf_page,application/pdf,tmp/DOC-CTX-013.pdf,1,,,,derived_locator,Derived from document location 1
+SRC-DOC-CTX-014-0409,DOC-CTX-014,pdf_page,application/pdf,tmp/DOC-CTX-014.pdf,1,,,,derived_locator,Derived from document location 1
+SRC-DOC-POL-001-0410,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,1,,,,derived_locator,Derived from document location 1
+SRC-DOC-POL-001-0411,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,101,,,,derived_locator,Derived from document location 101
+SRC-DOC-POL-001-0412,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,102,,,,derived_locator,Derived from document location 102
+SRC-DOC-POL-001-0413,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,103,,,,derived_locator,Derived from document location 103
+SRC-DOC-POL-001-0414,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,104,,,,derived_locator,Derived from document location 104
+SRC-DOC-POL-001-0415,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,105,,,,derived_locator,Derived from document location 105
+SRC-DOC-POL-001-0416,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,106,,,,derived_locator,Derived from document location 106
+SRC-DOC-POL-001-0417,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,107,,,,derived_locator,Derived from document location 107
+SRC-DOC-POL-001-0418,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,109,,,,derived_locator,Derived from document location 109
+SRC-DOC-POL-001-0419,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,11,,,,derived_locator,Derived from document location 11
+SRC-DOC-POL-001-0420,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,110,,,,derived_locator,Derived from document location 110
+SRC-DOC-POL-001-0421,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,111,,,,derived_locator,Derived from document location 111
+SRC-DOC-POL-001-0422,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,112,,,,derived_locator,Derived from document location 112
+SRC-DOC-POL-001-0423,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,113,,,,derived_locator,Derived from document location 113
+SRC-DOC-POL-001-0424,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,115,,,,derived_locator,Derived from document location 115
+SRC-DOC-POL-001-0425,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,116,,,,derived_locator,Derived from document location 116
+SRC-DOC-POL-001-0426,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,117,,,,derived_locator,Derived from document location 117
+SRC-DOC-POL-001-0427,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,118,,,,derived_locator,Derived from document location 118
+SRC-DOC-POL-001-0428,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,119,,,,derived_locator,Derived from document location 119
+SRC-DOC-POL-001-0429,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,121,,,,derived_locator,Derived from document location 121
+SRC-DOC-POL-001-0430,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,122,,,,derived_locator,Derived from document location 122
+SRC-DOC-POL-001-0431,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,123,,,,derived_locator,Derived from document location 123
+SRC-DOC-POL-001-0432,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,124,,,,derived_locator,Derived from document location 124
+SRC-DOC-POL-001-0433,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,125,,,,derived_locator,Derived from document location 125
+SRC-DOC-POL-001-0434,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,127,,,,derived_locator,Derived from document location 127
+SRC-DOC-POL-001-0435,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,129,,,,derived_locator,Derived from document location 129
+SRC-DOC-POL-001-0436,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,13,,,,derived_locator,Derived from document location 13
+SRC-DOC-POL-001-0437,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,130,,,,derived_locator,Derived from document location 130
+SRC-DOC-POL-001-0438,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,131,,,,derived_locator,Derived from document location 131
+SRC-DOC-POL-001-0439,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,132,,,,derived_locator,Derived from document location 132
+SRC-DOC-POL-001-0440,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,133,,,,derived_locator,Derived from document location 133
+SRC-DOC-POL-001-0441,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,134,,,,derived_locator,Derived from document location 134
+SRC-DOC-POL-001-0442,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,135,,,,derived_locator,Derived from document location 135
+SRC-DOC-POL-001-0443,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,137,,,,derived_locator,Derived from document location 137
+SRC-DOC-POL-001-0444,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,138,,,,derived_locator,Derived from document location 138
+SRC-DOC-POL-001-0445,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,139,,,,derived_locator,Derived from document location 139
+SRC-DOC-POL-001-0446,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,14,,,,derived_locator,Derived from document location 14
+SRC-DOC-POL-001-0447,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,140,,,,derived_locator,Derived from document location 140
+SRC-DOC-POL-001-0448,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,141,,,,derived_locator,Derived from document location 141
+SRC-DOC-POL-001-0449,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,143,,,,derived_locator,Derived from document location 143
+SRC-DOC-POL-001-0450,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,144,,,,derived_locator,Derived from document location 144
+SRC-DOC-POL-001-0451,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,145,,,,derived_locator,Derived from document location 145
+SRC-DOC-POL-001-0452,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,146,,,,derived_locator,Derived from document location 146
+SRC-DOC-POL-001-0453,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,147,,,,derived_locator,Derived from document location 147
+SRC-DOC-POL-001-0454,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,148,,,,derived_locator,Derived from document location 148
+SRC-DOC-POL-001-0455,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,149,,,,derived_locator,Derived from document location 149
+SRC-DOC-POL-001-0456,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,15,,,,derived_locator,Derived from document location 15
+SRC-DOC-POL-001-0457,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,151,,,,derived_locator,Derived from document location 151
+SRC-DOC-POL-001-0458,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,152,,,,derived_locator,Derived from document location 152
+SRC-DOC-POL-001-0459,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,153,,,,derived_locator,Derived from document location 153
+SRC-DOC-POL-001-0460,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,154,,,,derived_locator,Derived from document location 154
+SRC-DOC-POL-001-0461,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,155,,,,derived_locator,Derived from document location 155
+SRC-DOC-POL-001-0462,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,157,,,,derived_locator,Derived from document location 157
+SRC-DOC-POL-001-0463,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,158,,,,derived_locator,Derived from document location 158
+SRC-DOC-POL-001-0464,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,159,,,,derived_locator,Derived from document location 159
+SRC-DOC-POL-001-0465,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,16,,,,derived_locator,Derived from document location 16
+SRC-DOC-POL-001-0466,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,161,,,,derived_locator,Derived from document location 161
+SRC-DOC-POL-001-0467,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,162,,,,derived_locator,Derived from document location 162
+SRC-DOC-POL-001-0468,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,163,,,,derived_locator,Derived from document location 163
+SRC-DOC-POL-001-0469,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,164,,,,derived_locator,Derived from document location 164
+SRC-DOC-POL-001-0470,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,165,,,,derived_locator,Derived from document location 165
+SRC-DOC-POL-001-0471,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,167,,,,derived_locator,Derived from document location 167
+SRC-DOC-POL-001-0472,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,168,,,,derived_locator,Derived from document location 168
+SRC-DOC-POL-001-0473,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,169,,,,derived_locator,Derived from document location 169
+SRC-DOC-POL-001-0474,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,17,,,,derived_locator,Derived from document location 17
+SRC-DOC-POL-001-0475,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,170,,,,derived_locator,Derived from document location 170
+SRC-DOC-POL-001-0476,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,171,,,,derived_locator,Derived from document location 171
+SRC-DOC-POL-001-0477,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,172,,,,derived_locator,Derived from document location 172
+SRC-DOC-POL-001-0478,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,173,,,,derived_locator,Derived from document location 173
+SRC-DOC-POL-001-0479,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,175,,,,derived_locator,Derived from document location 175
+SRC-DOC-POL-001-0480,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,176,,,,derived_locator,Derived from document location 176
+SRC-DOC-POL-001-0481,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,177,,,,derived_locator,Derived from document location 177
+SRC-DOC-POL-001-0482,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,178,,,,derived_locator,Derived from document location 178
+SRC-DOC-POL-001-0483,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,179,,,,derived_locator,Derived from document location 179
+SRC-DOC-POL-001-0484,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,181,,,,derived_locator,Derived from document location 181
+SRC-DOC-POL-001-0485,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,183,,,,derived_locator,Derived from document location 183
+SRC-DOC-POL-001-0486,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,184,,,,derived_locator,Derived from document location 184
+SRC-DOC-POL-001-0487,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,185,,,,derived_locator,Derived from document location 185
+SRC-DOC-POL-001-0488,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,186,,,,derived_locator,Derived from document location 186
+SRC-DOC-POL-001-0489,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,187,,,,derived_locator,Derived from document location 187
+SRC-DOC-POL-001-0490,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,189,,,,derived_locator,Derived from document location 189
+SRC-DOC-POL-001-0491,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,19,,,,derived_locator,Derived from document location 19
+SRC-DOC-POL-001-0492,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,191,,,,derived_locator,Derived from document location 191
+SRC-DOC-POL-001-0493,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,192,,,,derived_locator,Derived from document location 192
+SRC-DOC-POL-001-0494,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,193,,,,derived_locator,Derived from document location 193
+SRC-DOC-POL-001-0495,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,194,,,,derived_locator,Derived from document location 194
+SRC-DOC-POL-001-0496,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,195,,,,derived_locator,Derived from document location 195
+SRC-DOC-POL-001-0497,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,21,,,,derived_locator,Derived from document location 21
+SRC-DOC-POL-001-0498,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,22,,,,derived_locator,Derived from document location 22
+SRC-DOC-POL-001-0499,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,23,,,,derived_locator,Derived from document location 23
+SRC-DOC-POL-001-0500,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,24,,,,derived_locator,Derived from document location 24
+SRC-DOC-POL-001-0501,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,25,,,,derived_locator,Derived from document location 25
+SRC-DOC-POL-001-0502,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,26,,,,derived_locator,Derived from document location 26
+SRC-DOC-POL-001-0503,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,27,,,,derived_locator,Derived from document location 27
+SRC-DOC-POL-001-0504,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,28,,,,derived_locator,Derived from document location 28
+SRC-DOC-POL-001-0505,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,29,,,,derived_locator,Derived from document location 29
+SRC-DOC-POL-001-0506,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,3,,,,derived_locator,Derived from document location 3
+SRC-DOC-POL-001-0507,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,31,,,,derived_locator,Derived from document location 31
+SRC-DOC-POL-001-0508,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,32,,,,derived_locator,Derived from document location 32
+SRC-DOC-POL-001-0509,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,33,,,,derived_locator,Derived from document location 33
+SRC-DOC-POL-001-0510,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,34,,,,derived_locator,Derived from document location 34
+SRC-DOC-POL-001-0511,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,35,,,,derived_locator,Derived from document location 35
+SRC-DOC-POL-001-0512,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,37,,,,derived_locator,Derived from document location 37
+SRC-DOC-POL-001-0513,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,38,,,,derived_locator,Derived from document location 38
+SRC-DOC-POL-001-0514,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,39,,,,derived_locator,Derived from document location 39
+SRC-DOC-POL-001-0515,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,40,,,,derived_locator,Derived from document location 40
+SRC-DOC-POL-001-0516,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,41,,,,derived_locator,Derived from document location 41
+SRC-DOC-POL-001-0517,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,42,,,,derived_locator,Derived from document location 42
+SRC-DOC-POL-001-0518,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,43,,,,derived_locator,Derived from document location 43
+SRC-DOC-POL-001-0519,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,45,,,,derived_locator,Derived from document location 45
+SRC-DOC-POL-001-0520,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,47,,,,derived_locator,Derived from document location 47
+SRC-DOC-POL-001-0521,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,48,,,,derived_locator,Derived from document location 48
+SRC-DOC-POL-001-0522,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,49,,,,derived_locator,Derived from document location 49
+SRC-DOC-POL-001-0523,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,5,,,,derived_locator,Derived from document location 5
+SRC-DOC-POL-001-0524,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,50,,,,derived_locator,Derived from document location 50
+SRC-DOC-POL-001-0525,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,51,,,,derived_locator,Derived from document location 51
+SRC-DOC-POL-001-0526,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,52,,,,derived_locator,Derived from document location 52
+SRC-DOC-POL-001-0527,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,53,,,,derived_locator,Derived from document location 53
+SRC-DOC-POL-001-0528,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,55,,,,derived_locator,Derived from document location 55
+SRC-DOC-POL-001-0529,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,56,,,,derived_locator,Derived from document location 56
+SRC-DOC-POL-001-0530,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,57,,,,derived_locator,Derived from document location 57
+SRC-DOC-POL-001-0531,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,59,,,,derived_locator,Derived from document location 59
+SRC-DOC-POL-001-0532,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,61,,,,derived_locator,Derived from document location 61
+SRC-DOC-POL-001-0533,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,62,,,,derived_locator,Derived from document location 62
+SRC-DOC-POL-001-0534,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,63,,,,derived_locator,Derived from document location 63
+SRC-DOC-POL-001-0535,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,64,,,,derived_locator,Derived from document location 64
+SRC-DOC-POL-001-0536,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,65,,,,derived_locator,Derived from document location 65
+SRC-DOC-POL-001-0537,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,66,,,,derived_locator,Derived from document location 66
+SRC-DOC-POL-001-0538,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,67,,,,derived_locator,Derived from document location 67
+SRC-DOC-POL-001-0539,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,68,,,,derived_locator,Derived from document location 68
+SRC-DOC-POL-001-0540,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,69,,,,derived_locator,Derived from document location 69
+SRC-DOC-POL-001-0541,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,7,,,,derived_locator,Derived from document location 7
+SRC-DOC-POL-001-0542,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,71,,,,derived_locator,Derived from document location 71
+SRC-DOC-POL-001-0543,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,73,,,,derived_locator,Derived from document location 73
+SRC-DOC-POL-001-0544,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,74,,,,derived_locator,Derived from document location 74
+SRC-DOC-POL-001-0545,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,75,,,,derived_locator,Derived from document location 75
+SRC-DOC-POL-001-0546,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,76,,,,derived_locator,Derived from document location 76
+SRC-DOC-POL-001-0547,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,77,,,,derived_locator,Derived from document location 77
+SRC-DOC-POL-001-0548,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,78,,,,derived_locator,Derived from document location 78
+SRC-DOC-POL-001-0549,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,79,,,,derived_locator,Derived from document location 79
+SRC-DOC-POL-001-0550,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,8,,,,derived_locator,Derived from document location 8
+SRC-DOC-POL-001-0551,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,80,,,,derived_locator,Derived from document location 80
+SRC-DOC-POL-001-0552,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,81,,,,derived_locator,Derived from document location 81
+SRC-DOC-POL-001-0553,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,83,,,,derived_locator,Derived from document location 83
+SRC-DOC-POL-001-0554,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,84,,,,derived_locator,Derived from document location 84
+SRC-DOC-POL-001-0555,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,85,,,,derived_locator,Derived from document location 85
+SRC-DOC-POL-001-0556,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,87,,,,derived_locator,Derived from document location 87
+SRC-DOC-POL-001-0557,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,89,,,,derived_locator,Derived from document location 89
+SRC-DOC-POL-001-0558,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,9,,,,derived_locator,Derived from document location 9
+SRC-DOC-POL-001-0559,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,90,,,,derived_locator,Derived from document location 90
+SRC-DOC-POL-001-0560,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,91,,,,derived_locator,Derived from document location 91
+SRC-DOC-POL-001-0561,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,92,,,,derived_locator,Derived from document location 92
+SRC-DOC-POL-001-0562,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,93,,,,derived_locator,Derived from document location 93
+SRC-DOC-POL-001-0563,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,94,,,,derived_locator,Derived from document location 94
+SRC-DOC-POL-001-0564,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,95,,,,derived_locator,Derived from document location 95
+SRC-DOC-POL-001-0565,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,96,,,,derived_locator,Derived from document location 96
+SRC-DOC-POL-001-0566,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,97,,,,derived_locator,Derived from document location 97
+SRC-DOC-POL-001-0567,DOC-POL-001,pdf_page,application/pdf,tmp/DOC-POL-001.pdf,99,,,,derived_locator,Derived from document location 99
+SRC-DOC-POL-002-0568,DOC-POL-002,document_section,application/x-hwp+zip,tmp/DOC-POL-002.hwpx,,section2,,,derived_locator,Derived from document location section2
+SRC-DOC-POL-002-0569,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image1.png,,section2,,,source_image,Figure asset for FIG-DOC-POL-002-001
+SRC-DOC-POL-002-0570,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image2.png,,section2,,,source_image,Figure asset for FIG-DOC-POL-002-002
+SRC-DOC-POL-002-0571,DOC-POL-002,document_section,application/x-hwp+zip,tmp/DOC-POL-002.hwpx,,section2-section7,,,derived_locator,Derived from document location section2-section7
+SRC-DOC-POL-002-0572,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image3.bmp,,section3,,,source_image,Figure asset for FIG-DOC-POL-002-003
+SRC-DOC-POL-002-0573,DOC-POL-002,document_section,application/x-hwp+zip,tmp/DOC-POL-002.hwpx,,section7,,,derived_locator,Derived from document location section7
+SRC-DOC-POL-002-0574,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image5.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-004
+SRC-DOC-POL-002-0575,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image6.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-005
+SRC-DOC-POL-002-0576,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image7.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-006
+SRC-DOC-POL-002-0577,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image8.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-007
+SRC-DOC-POL-002-0578,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image9.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-008
+SRC-DOC-POL-002-0579,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image10.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-009
+SRC-DOC-POL-002-0580,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image11.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-010
+SRC-DOC-POL-002-0581,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image12.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-011
+SRC-DOC-POL-002-0582,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image13.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-012
+SRC-DOC-POL-002-0583,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image14.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-013
+SRC-DOC-POL-002-0584,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image15.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-014
+SRC-DOC-POL-002-0585,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image16.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-015
+SRC-DOC-POL-002-0586,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image17.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-016
+SRC-DOC-POL-002-0587,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image18.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-017
+SRC-DOC-POL-002-0588,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image19.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-018
+SRC-DOC-POL-002-0589,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image20.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-019
+SRC-DOC-POL-002-0590,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image21.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-020
+SRC-DOC-POL-002-0591,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image14.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-021
+SRC-DOC-POL-002-0592,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image22.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-022
+SRC-DOC-POL-002-0593,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image23.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-023
+SRC-DOC-POL-002-0594,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image24.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-024
+SRC-DOC-POL-002-0595,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image25.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-025
+SRC-DOC-POL-002-0596,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image26.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-026
+SRC-DOC-POL-002-0597,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image1.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-027
+SRC-DOC-POL-002-0598,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image27.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-028
+SRC-DOC-POL-002-0599,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image28.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-029
+SRC-DOC-POL-002-0600,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image29.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-030
+SRC-DOC-POL-002-0601,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image30.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-031
+SRC-DOC-POL-002-0602,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image31.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-032
+SRC-DOC-POL-002-0603,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image32.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-033
+SRC-DOC-POL-002-0604,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image33.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-034
+SRC-DOC-POL-002-0605,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image34.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-035
+SRC-DOC-POL-002-0606,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image35.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-036
+SRC-DOC-POL-002-0607,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image36.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-037
+SRC-DOC-POL-002-0608,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image37.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-038
+SRC-DOC-POL-002-0609,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image38.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-039
+SRC-DOC-POL-002-0610,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image39.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-040
+SRC-DOC-POL-002-0611,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image40.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-041
+SRC-DOC-POL-002-0612,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image41.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-042
+SRC-DOC-POL-002-0613,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image42.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-043
+SRC-DOC-POL-002-0614,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image43.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-044
+SRC-DOC-POL-002-0615,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image44.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-045
+SRC-DOC-POL-002-0616,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image45.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-046
+SRC-DOC-POL-002-0617,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image46.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-047
+SRC-DOC-POL-002-0618,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image47.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-048
+SRC-DOC-POL-002-0619,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image48.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-049
+SRC-DOC-POL-002-0620,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image49.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-050
+SRC-DOC-POL-002-0621,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image50.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-051
+SRC-DOC-POL-002-0622,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image51.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-052
+SRC-DOC-POL-002-0623,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image52.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-053
+SRC-DOC-POL-002-0624,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image53.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-054
+SRC-DOC-POL-002-0625,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image2.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-055
+SRC-DOC-POL-002-0626,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image7.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-056
+SRC-DOC-POL-002-0627,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image10.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-057
+SRC-DOC-POL-002-0628,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image11.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-058
+SRC-DOC-POL-002-0629,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image8.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-059
+SRC-DOC-POL-002-0630,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image54.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-060
+SRC-DOC-POL-002-0631,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image55.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-061
+SRC-DOC-POL-002-0632,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image56.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-062
+SRC-DOC-POL-003-0633,DOC-POL-003,document_section,application/x-hwp+zip,tmp/DOC-POL-003.hwpx,,section0,,,derived_locator,Derived from document location section0
+SRC-DOC-POL-003-0634,DOC-POL-003,document_section,application/x-hwp+zip,tmp/DOC-POL-003.hwpx,,section0-section2,,,derived_locator,Derived from document location section0-section2
+SRC-DOC-POL-003-0635,DOC-POL-003,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image1.bmp,,section1,,,source_image,Figure asset for FIG-DOC-POL-003-001
+SRC-DOC-POL-003-0636,DOC-POL-003,document_section,application/x-hwp+zip,tmp/DOC-POL-003.hwpx,,section2,,,derived_locator,Derived from document location section2
+SRC-DOC-POL-003-0637,DOC-POL-003,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-003/image2.JPG,,section2,,,source_image,Figure asset for FIG-DOC-POL-003-002
+SRC-DOC-POL-003-0638,DOC-POL-003,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image3.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-003-003
+SRC-DOC-POL-003-0639,DOC-POL-003,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image4.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-003-004
+SRC-DOC-POL-003-0640,DOC-POL-003,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image5.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-003-005
+SRC-DOC-POL-003-0641,DOC-POL-003,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image6.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-003-006
+SRC-DOC-POL-003-0642,DOC-POL-003,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image7.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-003-007
+SRC-DOC-POL-003-0643,DOC-POL-003,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image8.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-003-008
+SRC-DOC-POL-003-0644,DOC-POL-003,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image9.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-003-009
+SRC-DOC-POL-003-0645,DOC-POL-003,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image10.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-003-010
+SRC-DOC-POL-004-0646,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image1.png,,section0,,,source_image,Figure asset for FIG-DOC-POL-004-001
+SRC-DOC-POL-004-0647,DOC-POL-004,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-004/image2.bmp,,section0,,,source_image,Figure asset for FIG-DOC-POL-004-002
+SRC-DOC-POL-004-0648,DOC-POL-004,document_section,application/x-hwp+zip,tmp/DOC-POL-004.hwpx,,section0,,,derived_locator,Derived from document location section0
+SRC-DOC-POL-004-0649,DOC-POL-004,document_section,application/x-hwp+zip,tmp/DOC-POL-004.hwpx,,section1,,,derived_locator,Derived from document location section1
+SRC-DOC-POL-004-0650,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image4.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-003
+SRC-DOC-POL-004-0651,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image5.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-004
+SRC-DOC-POL-004-0652,DOC-POL-004,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-004/image6.bmp,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-005
+SRC-DOC-POL-004-0653,DOC-POL-004,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-004/image7.jpg,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-006
+SRC-DOC-POL-004-0654,DOC-POL-004,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-004/image8.bmp,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-007
+SRC-DOC-POL-004-0655,DOC-POL-004,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-004/image9.bmp,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-008
+SRC-DOC-POL-004-0656,DOC-POL-004,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-004/image10.bmp,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-009
+SRC-DOC-POL-004-0657,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image11.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-010
+SRC-DOC-POL-004-0658,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image12.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-011
+SRC-DOC-POL-004-0659,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image13.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-012
+SRC-DOC-POL-004-0660,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image14.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-013
+SRC-DOC-POL-004-0661,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image15.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-014
+SRC-DOC-POL-004-0662,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image16.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-015
+SRC-DOC-POL-004-0663,DOC-POL-004,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-004/image17.jpg,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-016
+SRC-DOC-POL-004-0664,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image18.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-017
+SRC-DOC-POL-004-0665,DOC-POL-004,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-004/image19.bmp,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-018
+SRC-DOC-POL-004-0666,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image20.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-019
+SRC-DOC-POL-004-0667,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image21.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-020
+SRC-DOC-POL-004-0668,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image22.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-021
+SRC-DOC-POL-004-0669,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image23.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-022
+SRC-DOC-POL-004-0670,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image24.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-023
+SRC-DOC-POL-004-0671,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image25.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-024
+SRC-DOC-POL-004-0672,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image26.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-025
+SRC-DOC-POL-004-0673,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image27.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-026
+SRC-DOC-POL-004-0674,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image28.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-027
+SRC-DOC-POL-005-0675,DOC-POL-005,document_section,application/x-hwp+zip,tmp/DOC-POL-005.hwpx,,section2,,,derived_locator,Derived from document location section2
+SRC-DOC-POL-005-0676,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image1.png,,section2,,,source_image,Figure asset for FIG-DOC-POL-005-001
+SRC-DOC-POL-005-0677,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image2.png,,section2,,,source_image,Figure asset for FIG-DOC-POL-005-002
+SRC-DOC-POL-005-0678,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image3.png,,section2,,,source_image,Figure asset for FIG-DOC-POL-005-003
+SRC-DOC-POL-005-0679,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image4.png,,section2,,,source_image,Figure asset for FIG-DOC-POL-005-004
+SRC-DOC-POL-005-0680,DOC-POL-005,document_section,application/x-hwp+zip,tmp/DOC-POL-005.hwpx,,section3,,,derived_locator,Derived from document location section3
+SRC-DOC-POL-005-0681,DOC-POL-005,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-005/image5.bmp,,section3,,,source_image,Figure asset for FIG-DOC-POL-005-005
+SRC-DOC-POL-005-0682,DOC-POL-005,document_section,application/x-hwp+zip,tmp/DOC-POL-005.hwpx,,section5,,,derived_locator,Derived from document location section5
+SRC-DOC-POL-005-0683,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image7.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-006
+SRC-DOC-POL-005-0684,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image8.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-007
+SRC-DOC-POL-005-0685,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image9.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-008
+SRC-DOC-POL-005-0686,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image10.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-009
+SRC-DOC-POL-005-0687,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image11.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-010
+SRC-DOC-POL-005-0688,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image12.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-011
+SRC-DOC-POL-005-0689,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image13.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-012
+SRC-DOC-POL-005-0690,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image14.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-013
+SRC-DOC-POL-005-0691,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image4.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-014
+SRC-DOC-POL-005-0692,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-015
+SRC-DOC-POL-005-0693,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-016
+SRC-DOC-POL-005-0694,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-017
+SRC-DOC-POL-005-0695,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-018
+SRC-DOC-POL-005-0696,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-019
+SRC-DOC-POL-005-0697,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-020
+SRC-DOC-POL-005-0698,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-021
+SRC-DOC-POL-005-0699,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-022
+SRC-DOC-POL-005-0700,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-023
+SRC-DOC-POL-005-0701,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-024
+SRC-DOC-POL-005-0702,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-025
+SRC-DOC-POL-005-0703,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-026
+SRC-DOC-POL-005-0704,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-027
+SRC-DOC-POL-005-0705,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-028
+SRC-DOC-POL-005-0706,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-029
+SRC-DOC-POL-005-0707,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-030
+SRC-DOC-POL-005-0708,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-031
+SRC-DOC-POL-005-0709,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-032
+SRC-DOC-POL-005-0710,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-033
+SRC-DOC-POL-005-0711,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-034
+SRC-DOC-POL-005-0712,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-035
+SRC-DOC-POL-005-0713,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-036
+SRC-DOC-POL-005-0714,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-037
+SRC-DOC-POL-005-0715,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-038
+SRC-DOC-POL-005-0716,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-039
+SRC-DOC-POL-005-0717,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-040
+SRC-DOC-POL-005-0718,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-041
+SRC-DOC-POL-005-0719,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-042
+SRC-DOC-POL-005-0720,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-043
+SRC-DOC-POL-005-0721,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-044
+SRC-DOC-POL-005-0722,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-045
+SRC-DOC-POL-005-0723,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-046
+SRC-DOC-POL-005-0724,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-047
+SRC-DOC-POL-005-0725,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-048
+SRC-DOC-POL-005-0726,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-049
+SRC-DOC-POL-005-0727,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-050
+SRC-DOC-POL-005-0728,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-051
+SRC-DOC-POL-005-0729,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-052
+SRC-DOC-POL-005-0730,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-053
+SRC-DOC-POL-005-0731,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-054
+SRC-DOC-POL-005-0732,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-055
+SRC-DOC-POL-005-0733,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-056
+SRC-DOC-POL-005-0734,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-057
+SRC-DOC-POL-005-0735,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-058
+SRC-DOC-POL-005-0736,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-059
+SRC-DOC-POL-005-0737,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-060
+SRC-DOC-POL-005-0738,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-061
+SRC-DOC-POL-005-0739,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-062
+SRC-DOC-POL-005-0740,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-063
+SRC-DOC-POL-005-0741,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-064
+SRC-DOC-POL-005-0742,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-065
+SRC-DOC-POL-005-0743,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-066
+SRC-DOC-POL-005-0744,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-067
+SRC-DOC-POL-005-0745,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-068
+SRC-DOC-POL-005-0746,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-069
+SRC-DOC-POL-005-0747,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-070
+SRC-DOC-POL-005-0748,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-071
+SRC-DOC-POL-005-0749,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-072
+SRC-DOC-POL-005-0750,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-073
+SRC-DOC-POL-005-0751,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-074
+SRC-DOC-POL-005-0752,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-075
+SRC-DOC-POL-005-0753,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-076
+SRC-DOC-POL-005-0754,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-077
+SRC-DOC-POL-005-0755,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-078
+SRC-DOC-POL-005-0756,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-079
+SRC-DOC-POL-005-0757,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-080
+SRC-DOC-POL-005-0758,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-081
+SRC-DOC-POL-005-0759,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-082
+SRC-DOC-POL-005-0760,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-083
+SRC-DOC-POL-005-0761,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-084
+SRC-DOC-POL-005-0762,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-085
+SRC-DOC-POL-005-0763,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-086
+SRC-DOC-POL-005-0764,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-087
+SRC-DOC-POL-005-0765,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-088
+SRC-DOC-POL-005-0766,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-089
+SRC-DOC-POL-005-0767,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-090
+SRC-DOC-POL-005-0768,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-091
+SRC-DOC-POL-005-0769,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-092
+SRC-DOC-POL-005-0770,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-093
+SRC-DOC-POL-005-0771,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image18.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-094
+SRC-DOC-POL-005-0772,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-095
+SRC-DOC-POL-005-0773,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-096
+SRC-DOC-POL-005-0774,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-097
+SRC-DOC-POL-005-0775,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-098
+SRC-DOC-POL-005-0776,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-099
+SRC-DOC-POL-005-0777,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-100
+SRC-DOC-POL-005-0778,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-101
+SRC-DOC-POL-005-0779,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-102
+SRC-DOC-POL-005-0780,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-103
+SRC-DOC-POL-005-0781,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-104
+SRC-DOC-POL-005-0782,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-105
+SRC-DOC-POL-005-0783,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-106
+SRC-DOC-POL-005-0784,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-107
+SRC-DOC-POL-005-0785,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-108
+SRC-DOC-POL-005-0786,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-109
+SRC-DOC-POL-005-0787,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-110
+SRC-DOC-POL-005-0788,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-111
+SRC-DOC-POL-005-0789,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-112
+SRC-DOC-POL-005-0790,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-113
+SRC-DOC-POL-005-0791,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-114
+SRC-DOC-POL-005-0792,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-115
+SRC-DOC-POL-005-0793,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-116
+SRC-DOC-POL-005-0794,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-117
+SRC-DOC-POL-005-0795,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-118
+SRC-DOC-POL-005-0796,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-119
+SRC-DOC-POL-005-0797,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image19.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-120
+SRC-DOC-POL-005-0798,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-121
+SRC-DOC-POL-005-0799,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-122
+SRC-DOC-POL-005-0800,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-123
+SRC-DOC-POL-005-0801,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-124
+SRC-DOC-POL-005-0802,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-125
+SRC-DOC-POL-005-0803,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-126
+SRC-DOC-POL-005-0804,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-127
+SRC-DOC-POL-006-0805,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,1,,,,derived_locator,Derived from document location 1
+SRC-DOC-POL-006-0806,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,10,,,,derived_locator,Derived from document location 10
+SRC-DOC-POL-006-0807,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,11,,,,derived_locator,Derived from document location 11
+SRC-DOC-POL-006-0808,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,12,,,,derived_locator,Derived from document location 12
+SRC-DOC-POL-006-0809,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,13,,,,derived_locator,Derived from document location 13
+SRC-DOC-POL-006-0810,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,14,,,,derived_locator,Derived from document location 14
+SRC-DOC-POL-006-0811,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,15,,,,derived_locator,Derived from document location 15
+SRC-DOC-POL-006-0812,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,16,,,,derived_locator,Derived from document location 16
+SRC-DOC-POL-006-0813,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,17,,,,derived_locator,Derived from document location 17
+SRC-DOC-POL-006-0814,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,18,,,,derived_locator,Derived from document location 18
+SRC-DOC-POL-006-0815,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,19,,,,derived_locator,Derived from document location 19
+SRC-DOC-POL-006-0816,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,2,,,,derived_locator,Derived from document location 2
+SRC-DOC-POL-006-0817,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,20,,,,derived_locator,Derived from document location 20
+SRC-DOC-POL-006-0818,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,21,,,,derived_locator,Derived from document location 21
+SRC-DOC-POL-006-0819,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,22,,,,derived_locator,Derived from document location 22
+SRC-DOC-POL-006-0820,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,23,,,,derived_locator,Derived from document location 23
+SRC-DOC-POL-006-0821,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,24,,,,derived_locator,Derived from document location 24
+SRC-DOC-POL-006-0822,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,25,,,,derived_locator,Derived from document location 25
+SRC-DOC-POL-006-0823,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,26,,,,derived_locator,Derived from document location 26
+SRC-DOC-POL-006-0824,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,27,,,,derived_locator,Derived from document location 27
+SRC-DOC-POL-006-0825,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,28,,,,derived_locator,Derived from document location 28
+SRC-DOC-POL-006-0826,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,29,,,,derived_locator,Derived from document location 29
+SRC-DOC-POL-006-0827,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,3,,,,derived_locator,Derived from document location 3
+SRC-DOC-POL-006-0828,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,30,,,,derived_locator,Derived from document location 30
+SRC-DOC-POL-006-0829,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,31,,,,derived_locator,Derived from document location 31
+SRC-DOC-POL-006-0830,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,32,,,,derived_locator,Derived from document location 32
+SRC-DOC-POL-006-0831,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,33,,,,derived_locator,Derived from document location 33
+SRC-DOC-POL-006-0832,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,34,,,,derived_locator,Derived from document location 34
+SRC-DOC-POL-006-0833,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,35,,,,derived_locator,Derived from document location 35
+SRC-DOC-POL-006-0834,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,36,,,,derived_locator,Derived from document location 36
+SRC-DOC-POL-006-0835,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,36-38,,,,derived_locator,Derived from document location 36-38
+SRC-DOC-POL-006-0836,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,37,,,,derived_locator,Derived from document location 37
+SRC-DOC-POL-006-0837,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,38,,,,derived_locator,Derived from document location 38
+SRC-DOC-POL-006-0838,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,4,,,,derived_locator,Derived from document location 4
+SRC-DOC-POL-006-0839,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,5,,,,derived_locator,Derived from document location 5
+SRC-DOC-POL-006-0840,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,6,,,,derived_locator,Derived from document location 6
+SRC-DOC-POL-006-0841,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,7,,,,derived_locator,Derived from document location 7
+SRC-DOC-POL-006-0842,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,8,,,,derived_locator,Derived from document location 8
+SRC-DOC-POL-006-0843,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,9,,,,derived_locator,Derived from document location 9
+SRC-DOC-POL-007-0844,DOC-POL-007,document_section,application/x-hwp+zip,tmp/DOC-POL-007.hwpx,,section2,,,derived_locator,Derived from document location section2
+SRC-DOC-POL-007-0845,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image2.jpg,,section2,,,source_image,Figure asset for FIG-DOC-POL-007-001
+SRC-DOC-POL-007-0846,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image3.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-007-002
+SRC-DOC-POL-007-0847,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image4.bmp,,section4,,,source_image,Figure asset for FIG-DOC-POL-007-003
+SRC-DOC-POL-007-0848,DOC-POL-007,document_section,application/x-hwp+zip,tmp/DOC-POL-007.hwpx,,section8,,,derived_locator,Derived from document location section8
+SRC-DOC-POL-007-0849,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image6.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-004
+SRC-DOC-POL-007-0850,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image7.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-005
+SRC-DOC-POL-007-0851,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image8.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-006
+SRC-DOC-POL-007-0852,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image9.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-007
+SRC-DOC-POL-007-0853,DOC-POL-007,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-007/image10.png,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-008
+SRC-DOC-POL-007-0854,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image11.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-009
+SRC-DOC-POL-007-0855,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image12.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-010
+SRC-DOC-POL-007-0856,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image13.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-011
+SRC-DOC-POL-007-0857,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image14.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-012
+SRC-DOC-POL-007-0858,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image15.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-013
+SRC-DOC-POL-007-0859,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image14.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-014
+SRC-DOC-POL-007-0860,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image15.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-015
+SRC-DOC-POL-007-0861,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image16.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-016
+SRC-DOC-POL-007-0862,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image17.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-017
+SRC-DOC-POL-007-0863,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image18.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-018
+SRC-DOC-POL-007-0864,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image19.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-019
+SRC-DOC-POL-007-0865,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image20.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-020
+SRC-DOC-POL-007-0866,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image21.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-021
+SRC-DOC-POL-007-0867,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image22.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-022
+SRC-DOC-POL-007-0868,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image23.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-023
+SRC-DOC-POL-007-0869,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image24.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-024
+SRC-DOC-POL-007-0870,DOC-POL-007,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-007/image25.png,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-025
+SRC-DOC-POL-007-0871,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image26.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-026
+SRC-DOC-POL-007-0872,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image27.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-027
+SRC-DOC-POL-007-0873,DOC-POL-007,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-007/image25.png,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-028
+SRC-DOC-POL-007-0874,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image28.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-029
+SRC-DOC-POL-007-0875,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image29.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-030
+SRC-DOC-POL-007-0876,DOC-POL-007,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-007/image25.png,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-031
+SRC-DOC-POL-007-0877,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image30.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-032
+SRC-DOC-POL-007-0878,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image31.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-033
+SRC-DOC-POL-007-0879,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image32.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-034
+SRC-DOC-POL-007-0880,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image33.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-035
+SRC-DOC-POL-007-0881,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image33.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-036
+SRC-DOC-POL-007-0882,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image33.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-037
+SRC-DOC-POL-007-0883,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image34.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-038
+SRC-DOC-POL-007-0884,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image35.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-039
+SRC-DOC-POL-007-0885,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image36.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-040
+SRC-DOC-POL-007-0886,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image37.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-041
+SRC-DOC-POL-007-0887,DOC-POL-007,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-007/image38.png,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-042
+SRC-DOC-POL-007-0888,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image39.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-043
+SRC-DOC-POL-007-0889,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image40.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-044
+SRC-DOC-POL-007-0890,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image41.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-045
+SRC-DOC-POL-007-0891,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image42.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-046
+SRC-DOC-POL-007-0892,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image43.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-047
+SRC-DOC-POL-007-0893,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image44.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-048
+SRC-DOC-POL-007-0894,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image3.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-049
+SRC-DOC-POL-007-0895,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image45.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-050
+SRC-DOC-POL-007-0896,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image46.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-051
+SRC-DOC-POL-007-0897,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image47.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-052
+SRC-DOC-POL-007-0898,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image48.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-053
+SRC-DOC-POL-007-0899,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image49.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-054
+SRC-DOC-POL-007-0900,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image50.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-055
+SRC-DOC-POL-007-0901,DOC-POL-007,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-007/image51.png,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-056
+SRC-DOC-POL-008-0902,DOC-POL-008,document_section,application/x-hwp+zip,tmp/DOC-POL-008.hwpx,,section2,,,derived_locator,Derived from document location section2
+SRC-DOC-POL-008-0903,DOC-POL-008,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-008/image1.bmp,,section4,,,source_image,Figure asset for FIG-DOC-POL-008-001
+SRC-DOC-POL-008-0904,DOC-POL-008,document_section,application/x-hwp+zip,tmp/DOC-POL-008.hwpx,,section6,,,derived_locator,Derived from document location section6
+SRC-DOC-POL-008-0905,DOC-POL-008,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-008/image2.bmp,,section6,,,source_image,Figure asset for FIG-DOC-POL-008-002
+SRC-DOC-POL-009-0906,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image1.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-009-001
+SRC-DOC-POL-009-0907,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image2.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-009-002
+SRC-DOC-POL-009-0908,DOC-POL-009,document_section,application/x-hwp+zip,tmp/DOC-POL-009.hwpx,,section2,,,derived_locator,Derived from document location section2
+SRC-DOC-POL-009-0909,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image3.bmp,,section4,,,source_image,Figure asset for FIG-DOC-POL-009-003
+SRC-DOC-POL-009-0910,DOC-POL-009,document_section,application/x-hwp+zip,tmp/DOC-POL-009.hwpx,,section7,,,derived_locator,Derived from document location section7
+SRC-DOC-POL-009-0911,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image5.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-004
+SRC-DOC-POL-009-0912,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image6.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-005
+SRC-DOC-POL-009-0913,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image7.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-006
+SRC-DOC-POL-009-0914,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image8.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-007
+SRC-DOC-POL-009-0915,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image9.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-008
+SRC-DOC-POL-009-0916,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image10.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-009
+SRC-DOC-POL-009-0917,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image11.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-010
+SRC-DOC-POL-009-0918,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image12.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-011
+SRC-DOC-POL-009-0919,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image13.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-012
+SRC-DOC-POL-009-0920,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image14.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-013
+SRC-DOC-POL-009-0921,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image15.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-014
+SRC-DOC-POL-009-0922,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image16.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-015
+SRC-DOC-POL-009-0923,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image17.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-016
+SRC-DOC-POL-009-0924,DOC-POL-009,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-009/image18.jpg,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-017
+SRC-DOC-POL-009-0925,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image19.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-018
+SRC-DOC-POL-009-0926,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image20.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-019
+SRC-DOC-POL-009-0927,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image21.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-020
+SRC-DOC-POL-009-0928,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image22.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-021
+SRC-DOC-POL-009-0929,DOC-POL-009,document_section,application/x-hwp+zip,tmp/DOC-POL-009.hwpx,,section8,,,derived_locator,Derived from document location section8
+SRC-DOC-POL-009-0930,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image23.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-009-022
+SRC-DOC-POL-009-0931,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image24.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-009-023
+SRC-DOC-POL-009-0932,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image25.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-009-024
+SRC-DOC-POL-009-0933,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image26.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-009-025
+SRC-DOC-POL-009-0934,DOC-POL-009,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-009/image27.png,,section8,,,source_image,Figure asset for FIG-DOC-POL-009-026
+SRC-DOC-POL-009-0935,DOC-POL-009,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-009/image28.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-009-027
+SRC-DOC-POL-010-0936,DOC-POL-010,document_section,application/x-hwp+zip,tmp/DOC-POL-010.hwpx,,section2,,,derived_locator,Derived from document location section2
+SRC-DOC-POL-010-0937,DOC-POL-010,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image1.bmp,,section3,,,source_image,Figure asset for FIG-DOC-POL-010-001
+SRC-DOC-POL-010-0938,DOC-POL-010,document_section,application/x-hwp+zip,tmp/DOC-POL-010.hwpx,,section7,,,derived_locator,Derived from document location section7
+SRC-DOC-POL-010-0939,DOC-POL-010,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-010/image3.jpg,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-002
+SRC-DOC-POL-010-0940,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image4.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-003
+SRC-DOC-POL-010-0941,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image5.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-004
+SRC-DOC-POL-010-0942,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image6.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-005
+SRC-DOC-POL-010-0943,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image7.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-006
+SRC-DOC-POL-010-0944,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image8.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-007
+SRC-DOC-POL-010-0945,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image9.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-008
+SRC-DOC-POL-010-0946,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image10.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-009
+SRC-DOC-POL-010-0947,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image11.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-010
+SRC-DOC-POL-010-0948,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image12.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-011
+SRC-DOC-POL-010-0949,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image13.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-012
+SRC-DOC-POL-010-0950,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image14.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-013
+SRC-DOC-POL-010-0951,DOC-POL-010,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-010/image15.jpg,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-014
+SRC-DOC-POL-010-0952,DOC-POL-010,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-010/image16.jpg,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-015
+SRC-DOC-POL-010-0953,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image17.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-016
+SRC-DOC-POL-010-0954,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image18.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-017
+SRC-DOC-POL-010-0955,DOC-POL-010,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-010/image19.jpg,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-018
+SRC-DOC-POL-010-0956,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image20.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-019
+SRC-DOC-POL-010-0957,DOC-POL-010,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-010/image21.jpg,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-020
+SRC-DOC-POL-010-0958,DOC-POL-010,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-010/image22.jpg,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-021
+SRC-DOC-POL-010-0959,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image23.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-022
+SRC-DOC-POL-010-0960,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image24.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-023
+SRC-DOC-POL-010-0961,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image25.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-024
+SRC-DOC-POL-010-0962,DOC-POL-010,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-010/image26.jpg,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-025
+SRC-DOC-POL-010-0963,DOC-POL-010,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image27.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-026
+SRC-DOC-POL-010-0964,DOC-POL-010,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image28.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-027
+SRC-DOC-POL-010-0965,DOC-POL-010,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image29.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-028
+SRC-DOC-POL-010-0966,DOC-POL-010,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image30.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-029
+SRC-DOC-POL-010-0967,DOC-POL-010,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image31.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-030
+SRC-DOC-POL-010-0968,DOC-POL-010,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image32.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-031
+SRC-DOC-POL-010-0969,DOC-POL-010,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-010/image33.jpg,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-032
+SRC-DOC-POL-010-0970,DOC-POL-010,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image34.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-033
+SRC-DOC-POL-010-0971,DOC-POL-010,figure_image,application/octet-stream,work/02_structured-extraction/figures/assets/DOC-POL-010/image35.wmf,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-034
+SRC-DOC-POL-011-0972,DOC-POL-011,document_section,application/x-hwp+zip,tmp/DOC-POL-011.hwpx,,section2,,,derived_locator,Derived from document location section2
+SRC-DOC-POL-011-0973,DOC-POL-011,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-011/image1.bmp,,section3,,,source_image,Figure asset for FIG-DOC-POL-011-001
+SRC-DOC-POL-011-0974,DOC-POL-011,document_section,application/x-hwp+zip,tmp/DOC-POL-011.hwpx,,section5,,,derived_locator,Derived from document location section5
+SRC-DOC-POL-011-0975,DOC-POL-011,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-011/image2.bmp,,section5,,,source_image,Figure asset for FIG-DOC-POL-011-002
+SRC-DOC-POL-011-0976,DOC-POL-011,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-011/image3.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-011-003
+SRC-DOC-POL-011-0977,DOC-POL-011,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-011/image4.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-011-004
+SRC-DOC-POL-011-0978,DOC-POL-011,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-011/image5.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-011-005
+SRC-DOC-POL-011-0979,DOC-POL-011,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-011/image6.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-011-006
+SRC-DOC-POL-011-0980,DOC-POL-011,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-011/image7.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-011-007
+SRC-DOC-POL-011-0981,DOC-POL-011,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-011/image8.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-011-008
+SRC-DOC-POL-012-0982,DOC-POL-012,document_section,application/x-hwp+zip,tmp/DOC-POL-012.hwpx,,section0,,,derived_locator,Derived from document location section0
+SRC-DOC-POL-012-0983,DOC-POL-012,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-012/image1.bmp,,section0,,,source_image,Figure asset for FIG-DOC-POL-012-001
+SRC-DOC-POL-012-0984,DOC-POL-012,document_section,application/x-hwp+zip,tmp/DOC-POL-012.hwpx,,section2,,,derived_locator,Derived from document location section2
+SRC-DOC-POL-012-0985,DOC-POL-012,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-012/image3.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-012-002
+SRC-DOC-POL-012-0986,DOC-POL-012,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-012/image4.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-012-003
+SRC-DOC-POL-012-0987,DOC-POL-012,document_section,application/x-hwp+zip,tmp/DOC-POL-012.hwpx,,section3,,,derived_locator,Derived from document location section3
+SRC-DOC-POL-013-0988,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image1.png,,section2,,,source_image,Figure asset for FIG-DOC-POL-013-001
+SRC-DOC-POL-013-0989,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image2.png,,section2,,,source_image,Figure asset for FIG-DOC-POL-013-002
+SRC-DOC-POL-013-0990,DOC-POL-013,document_section,application/x-hwp+zip,tmp/DOC-POL-013.hwpx,,section2,,,derived_locator,Derived from document location section2
+SRC-DOC-POL-013-0991,DOC-POL-013,document_section,application/x-hwp+zip,tmp/DOC-POL-013.hwpx,,section2-section8,,,derived_locator,Derived from document location section2-section8
+SRC-DOC-POL-013-0992,DOC-POL-013,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-013/image3.bmp,,section4,,,source_image,Figure asset for FIG-DOC-POL-013-003
+SRC-DOC-POL-013-0993,DOC-POL-013,document_section,application/x-hwp+zip,tmp/DOC-POL-013.hwpx,,section8,,,derived_locator,Derived from document location section8
+SRC-DOC-POL-013-0994,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image1.png,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-004
+SRC-DOC-POL-013-0995,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image5.png,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-005
+SRC-DOC-POL-013-0996,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image6.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-006
+SRC-DOC-POL-013-0997,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image2.png,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-007
+SRC-DOC-POL-013-0998,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image7.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-008
+SRC-DOC-POL-013-0999,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image8.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-009
+SRC-DOC-POL-013-1000,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image9.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-010
+SRC-DOC-POL-013-1001,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image10.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-011
+SRC-DOC-POL-013-1002,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image11.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-012
+SRC-DOC-POL-013-1003,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image12.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-013
+SRC-DOC-POL-013-1004,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image13.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-014
+SRC-DOC-POL-013-1005,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image14.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-015
+SRC-DOC-POL-013-1006,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image15.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-016
+SRC-DOC-POL-013-1007,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image16.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-017
+SRC-DOC-POL-013-1008,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image17.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-018
+SRC-DOC-POL-013-1009,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image18.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-019
+SRC-DOC-POL-013-1010,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image19.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-020
+SRC-DOC-POL-013-1011,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image20.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-021
+SRC-DOC-POL-013-1012,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image21.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-022
+SRC-DOC-POL-013-1013,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image22.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-023
+SRC-DOC-POL-013-1014,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image23.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-024
+SRC-DOC-POL-013-1015,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image24.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-025
+SRC-DOC-POL-013-1016,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image25.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-026
+SRC-DOC-POL-013-1017,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image26.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-027
+SRC-DOC-POL-013-1018,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image27.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-028
+SRC-DOC-POL-013-1019,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image28.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-029
+SRC-DOC-POL-013-1020,DOC-POL-013,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-013/image29.PNG,,section8,,,source_image,Figure asset for FIG-DOC-POL-013-030
+SRC-DOC-REF-001-1021,DOC-REF-001,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-REF-001/page_001.png,document,,,,source_image,Figure asset for FIG-DOC-REF-001-001
+SRC-DOC-REF-001-1022,DOC-REF-001,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-REF-001/page_002.png,document,,,,source_image,Figure asset for FIG-DOC-REF-001-002
+SRC-DOC-REF-001-1023,DOC-REF-001,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-REF-001/page_003.png,document,,,,source_image,Figure asset for FIG-DOC-REF-001-003
+SRC-DOC-REF-001-1024,DOC-REF-001,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-REF-001/page_004.png,document,,,,source_image,Figure asset for FIG-DOC-REF-001-004
+SRC-DOC-REF-001-1025,DOC-REF-001,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-REF-001/page_005.png,document,,,,source_image,Figure asset for FIG-DOC-REF-001-005
+SRC-DOC-REF-001-1026,DOC-REF-001,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-REF-001/page_006.png,document,,,,source_image,Figure asset for FIG-DOC-REF-001-006
+SRC-DOC-REF-001-1027,DOC-REF-001,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-REF-001/page_007.png,document,,,,source_image,Figure asset for FIG-DOC-REF-001-007
+SRC-DOC-REF-001-1028,DOC-REF-001,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-REF-001/page_008.png,document,,,,source_image,Figure asset for FIG-DOC-REF-001-008
+SRC-DOC-REF-001-1029,DOC-REF-001,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-REF-001/page_009.png,document,,,,source_image,Figure asset for FIG-DOC-REF-001-009
+SRC-DOC-REF-001-1030,DOC-REF-001,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-REF-001/page_010.png,document,,,,source_image,Figure asset for FIG-DOC-REF-001-010
+SRC-DOC-REF-001-1031,DOC-REF-001,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-REF-001/page_011.png,document,,,,source_image,Figure asset for FIG-DOC-REF-001-011
+SRC-DOC-REF-001-1032,DOC-REF-001,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-REF-001/page_012.png,document,,,,source_image,Figure asset for FIG-DOC-REF-001-012
+SRC-DOC-REF-001-1033,DOC-REF-001,pdf_page,application/pdf,data/260312_정책-항목 구성(안).pdf,1,,,,derived_locator,Derived from document location 1
+SRC-DOC-REF-001-1034,DOC-REF-001,pdf_page,application/pdf,data/260312_정책-항목 구성(안).pdf,10,,,,derived_locator,Derived from document location 10
+SRC-DOC-REF-001-1035,DOC-REF-001,pdf_page,application/pdf,data/260312_정책-항목 구성(안).pdf,11,,,,derived_locator,Derived from document location 11
+SRC-DOC-REF-001-1036,DOC-REF-001,pdf_page,application/pdf,data/260312_정책-항목 구성(안).pdf,12,,,,derived_locator,Derived from document location 12
+SRC-DOC-REF-001-1037,DOC-REF-001,pdf_page,application/pdf,data/260312_정책-항목 구성(안).pdf,2,,,,derived_locator,Derived from document location 2
+SRC-DOC-REF-001-1038,DOC-REF-001,pdf_page,application/pdf,data/260312_정책-항목 구성(안).pdf,3,,,,derived_locator,Derived from document location 3
+SRC-DOC-REF-001-1039,DOC-REF-001,pdf_page,application/pdf,data/260312_정책-항목 구성(안).pdf,4,,,,derived_locator,Derived from document location 4
+SRC-DOC-REF-001-1040,DOC-REF-001,pdf_page,application/pdf,data/260312_정책-항목 구성(안).pdf,5,,,,derived_locator,Derived from document location 5
+SRC-DOC-REF-001-1041,DOC-REF-001,pdf_page,application/pdf,data/260312_정책-항목 구성(안).pdf,6,,,,derived_locator,Derived from document location 6
+SRC-DOC-REF-001-1042,DOC-REF-001,pdf_page,application/pdf,data/260312_정책-항목 구성(안).pdf,7,,,,derived_locator,Derived from document location 7
+SRC-DOC-REF-001-1043,DOC-REF-001,pdf_page,application/pdf,data/260312_정책-항목 구성(안).pdf,8,,,,derived_locator,Derived from document location 8
+SRC-DOC-REF-001-1044,DOC-REF-001,pdf_page,application/pdf,data/260312_정책-항목 구성(안).pdf,9,,,,derived_locator,Derived from document location 9
+SRC-DOC-REF-002-1045,DOC-REF-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-REF-002/page_001.png,document,,,,source_image,Figure asset for FIG-DOC-REF-002-001
+SRC-DOC-REF-002-1046,DOC-REF-002,pdf_page,application/pdf,data/260312_정책기술분야별 재구성(안).pdf,1,,,,derived_locator,Derived from document location 1

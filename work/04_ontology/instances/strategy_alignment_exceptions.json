@@ -1,0 +1,128 @@
+[
+  {
+    "exception_id": "STX-STR-010-001",
+    "strategy": {
+      "strategy_id": "STR-010",
+      "strategy_label": "디지털 헬스케어 서비스 혁신",
+      "recommended_source_basis": "DOC-POL-006; POL-012 reviewed healthcare cluster; STX-STR-010-001"
+    },
+    "reference": {
+      "document_id": "DOC-REF-002",
+      "canonical_table_id": "CTBL-DOC-REF-002-001",
+      "sequence_no": 10,
+      "strategy_label": "사이버 보안 및 AI 신뢰성 검증 기술 확보",
+      "content_summary": "데이터 중심 정보보호 및 AI 신뢰성 검증 기술 확보"
+    },
+    "alignment_status": "not_aligned",
+    "resolution_status": "keep_strategy_and_reference_separate",
+    "reviewed_evidence_count": 7,
+    "reviewed_policy_ids": [
+      "POL-001",
+      "POL-002",
+      "POL-012"
+    ],
+    "reviewed_policy_item_ids": [
+      "ITM-POL-001-00434",
+      "ITM-POL-001-00821",
+      "ITM-POL-001-00880",
+      "ITM-POL-001-00259",
+      "ITM-POL-002-00107",
+      "ITM-POL-012-00860",
+      "ITM-POL-012-01016"
+    ],
+    "reviewed_decision_keys": [
+      "SRD-POL-001-b7c6c2f050b4",
+      "SRD-POL-001-478f225fb7a9",
+      "SRD-POL-001-e95b676ce38b",
+      "SRD-POL-001-c45f4f3c2414",
+      "SRD-POL-002-7e20c0b580df",
+      "SRD-POL-012-3207f0439153",
+      "SRD-POL-012-6f87aec3eac5"
+    ],
+    "reviewed_primary_evidence_ids": [
+      "DRV-PAR-DOC-POL-001-01537",
+      "DRV-PAR-DOC-POL-001-01536",
+      "DRV-PAR-DOC-POL-001-00634",
+      "DRV-PAR-DOC-POL-001-00461",
+      "DRV-PAR-DOC-POL-002-00230",
+      "DRV-PAR-DOC-POL-006-00046",
+      "DRV-PAR-DOC-POL-006-00336"
+    ],
+    "evidence_records": [
+      {
+        "decision_key": "SRD-POL-001-b7c6c2f050b4",
+        "policy_id": "POL-001",
+        "policy_name": "123대 국정과제",
+        "policy_item_id": "ITM-POL-001-00434",
+        "bucket_label": "기술",
+        "item_label": "어촌의료취약지대상보건소비대면진료‧ 원격협진체계신설",
+        "primary_evidence_id": "DRV-PAR-DOC-POL-001-01537",
+        "evidence_preview": "어촌의료취약지대상보건소비대면진료‧ 원격협진체계신설"
+      },
+      {
+        "decision_key": "SRD-POL-001-478f225fb7a9",
+        "policy_id": "POL-001",
+        "policy_name": "123대 국정과제",
+        "policy_item_id": "ITM-POL-001-00821",
+        "bucket_label": "인프라·제도",
+        "item_label": "비대면진료확대",
+        "primary_evidence_id": "DRV-PAR-DOC-POL-001-01536",
+        "evidence_preview": "ㅇ (비대면진료확대) 사회적합의에기반해비대면진료를제도화하고, 농‧"
+      },
+      {
+        "decision_key": "SRD-POL-001-e95b676ce38b",
+        "policy_id": "POL-001",
+        "policy_name": "123대 국정과제",
+        "policy_item_id": "ITM-POL-001-00880",
+        "bucket_label": "인프라·제도",
+        "item_label": "의료데이터상호연계·공동활용기반마련및디지털기반의병원을 활용한연구플랫폼‧",
+        "primary_evidence_id": "DRV-PAR-DOC-POL-001-00634",
+        "evidence_preview": "- 의료데이터상호연계·공동활용기반마련및디지털기반의병원을 활용한연구플랫폼‧"
+      },
+      {
+        "decision_key": "SRD-POL-001-c45f4f3c2414",
+        "policy_id": "POL-001",
+        "policy_name": "123대 국정과제",
+        "policy_item_id": "ITM-POL-001-00259",
+        "bucket_label": "기술",
+        "item_label": "디지털보안·안전확보",
+        "primary_evidence_id": "DRV-PAR-DOC-POL-001-00461",
+        "evidence_preview": "ㅇ (디지털보안·안전확보) AI로지능화된사이버위협에효과적대응을 위해정보보호제도개편, AI기반보안시스템구축등추진"
+      },
+      {
+        "decision_key": "SRD-POL-002-7e20c0b580df",
+        "policy_id": "POL-002",
+        "policy_name": "AI-바이오 국가전략",
+        "policy_item_id": "ITM-POL-002-00107",
+        "bucket_label": "인프라·제도",
+        "item_label": "디지털헬스케어법",
+        "primary_evidence_id": "DRV-PAR-DOC-POL-002-00230",
+        "evidence_preview": "ㅇ (디지털헬스케어법) 디지털-데이터 기반 의료 혁신과 보건의료정보의 안전한 활용을 체계적으로 지원하는 법체계 마련"
+      },
+      {
+        "decision_key": "SRD-POL-012-3207f0439153",
+        "policy_id": "POL-012",
+        "policy_name": "초혁신경제 15대 프로젝트 추진계획",
+        "policy_item_id": "ITM-POL-012-00860",
+        "bucket_label": "기술",
+        "item_label": "K-디지털헬스케어",
+        "primary_evidence_id": "DRV-PAR-DOC-POL-006-00046",
+        "evidence_preview": "ㅇ (K-디지털헬스케어) 해외인수병원을 거점으로 중소․벤처기업을 지원하는 K-디지털헬스케어 新수출전략 정책지원 방안 마련(‘26. 1분기)"
+      },
+      {
+        "decision_key": "SRD-POL-012-6f87aec3eac5",
+        "policy_id": "POL-012",
+        "policy_name": "초혁신경제 15대 프로젝트 추진계획",
+        "policy_item_id": "ITM-POL-012-01016",
+        "bucket_label": "인프라·제도",
+        "item_label": "현재",
+        "primary_evidence_id": "DRV-PAR-DOC-POL-006-00336",
+        "evidence_preview": "- (현재) 국내의료인-외국의료인간원격협진만가능→(개선) 원격협진外국내의료인-외국인환자간비대면진료제도화"
+      }
+    ],
+    "notes": [
+      "Reviewed STR-010 mappings currently originate from healthcare-specific items in POL-012.",
+      "DOC-REF-002 row 10 should remain a reference-only cyber strategy row until a separate taxonomy change is approved."
+    ]
+  }
+]

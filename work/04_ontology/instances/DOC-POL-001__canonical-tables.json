@@ -1,0 +1,80 @@
+[
+  {
+    "canonical_table_id": "CTBL-DOC-POL-001-001",
+    "document_id": "DOC-POL-001",
+    "title_hint": "5대 국정목표 개요표",
+    "page_start": 9,
+    "page_end": 9,
+    "preferred_candidate_source": "pymupdf4llm_markdown",
+    "preferred_candidate_id": "PAR-DOC-POL-001-00066",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-001-MD-001",
+    "notes": "5대 국정목표를 1행 개요로 요약한 표."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-001-002",
+    "document_id": "DOC-POL-001",
+    "title_hint": "국정목표 1 국민이 하나되는 정치 국정과제표",
+    "page_start": 13,
+    "page_end": 13,
+    "preferred_candidate_source": "pymupdf4llm_markdown",
+    "preferred_candidate_id": "PAR-DOC-POL-001-00070",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-001-MD-002",
+    "notes": "국정목표 1의 추진전략, 국정과제, 주관부처를 나열한 표."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-001-003",
+    "document_id": "DOC-POL-001",
+    "title_hint": "국정목표 2 세계를 이끄는 혁신경제 국정과제표",
+    "page_start": 14,
+    "page_end": 14,
+    "preferred_candidate_source": "pymupdf4llm_markdown",
+    "preferred_candidate_id": "PAR-DOC-POL-001-00072",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-001-MD-003",
+    "notes": "국정목표 2의 추진전략, 국정과제, 주관부처를 나열한 표."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-001-004",
+    "document_id": "DOC-POL-001",
+    "title_hint": "국정목표 3 모두가 잘사는 균형성장 국정과제표",
+    "page_start": 15,
+    "page_end": 15,
+    "preferred_candidate_source": "pymupdf4llm_markdown",
+    "preferred_candidate_id": "PAR-DOC-POL-001-00074",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-001-MD-004",
+    "notes": "국정목표 3의 추진전략, 국정과제, 주관부처를 나열한 표."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-001-005",
+    "document_id": "DOC-POL-001",
+    "title_hint": "국정목표 4 기본이 튼튼한 사회 국정과제표",
+    "page_start": 16,
+    "page_end": 16,
+    "preferred_candidate_source": "pymupdf4llm_markdown",
+    "preferred_candidate_id": "PAR-DOC-POL-001-00076",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-001-MD-005",
+    "notes": "국정목표 4의 추진전략, 국정과제, 주관부처를 나열한 표."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-001-006",
+    "document_id": "DOC-POL-001",
+    "title_hint": "국정목표 5 국익 중심의 외교안보 국정과제표",
+    "page_start": 17,
+    "page_end": 17,
+    "preferred_candidate_source": "pymupdf4llm_markdown",
+    "preferred_candidate_id": "PAR-DOC-POL-001-00078",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-001-MD-006",
+    "notes": "외교안보 분야 국정과제표. source markdown의 중복 Col4는 cleaning 대상이지만 표 자체는 유지 가치가 높다."
+  }
+]

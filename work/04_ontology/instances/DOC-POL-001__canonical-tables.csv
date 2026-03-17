@@ -1,0 +1,7 @@
+canonical_table_id,document_id,title_hint,page_start,page_end,preferred_candidate_source,preferred_candidate_id,canonical_status,dashboard_ready,source_review_item_ids,notes
+CTBL-DOC-POL-001-001,DOC-POL-001,5대 국정목표 개요표,9,9,pymupdf4llm_markdown,PAR-DOC-POL-001-00066,ready,yes,TRV-DOC-POL-001-MD-001,5대 국정목표를 1행 개요로 요약한 표.
+CTBL-DOC-POL-001-002,DOC-POL-001,국정목표 1 국민이 하나되는 정치 국정과제표,13,13,pymupdf4llm_markdown,PAR-DOC-POL-001-00070,ready,yes,TRV-DOC-POL-001-MD-002,"국정목표 1의 추진전략, 국정과제, 주관부처를 나열한 표."
+CTBL-DOC-POL-001-003,DOC-POL-001,국정목표 2 세계를 이끄는 혁신경제 국정과제표,14,14,pymupdf4llm_markdown,PAR-DOC-POL-001-00072,ready,yes,TRV-DOC-POL-001-MD-003,"국정목표 2의 추진전략, 국정과제, 주관부처를 나열한 표."
+CTBL-DOC-POL-001-004,DOC-POL-001,국정목표 3 모두가 잘사는 균형성장 국정과제표,15,15,pymupdf4llm_markdown,PAR-DOC-POL-001-00074,ready,yes,TRV-DOC-POL-001-MD-004,"국정목표 3의 추진전략, 국정과제, 주관부처를 나열한 표."
+CTBL-DOC-POL-001-005,DOC-POL-001,국정목표 4 기본이 튼튼한 사회 국정과제표,16,16,pymupdf4llm_markdown,PAR-DOC-POL-001-00076,ready,yes,TRV-DOC-POL-001-MD-005,"국정목표 4의 추진전략, 국정과제, 주관부처를 나열한 표."
+CTBL-DOC-POL-001-006,DOC-POL-001,국정목표 5 국익 중심의 외교안보 국정과제표,17,17,pymupdf4llm_markdown,PAR-DOC-POL-001-00078,ready,yes,TRV-DOC-POL-001-MD-006,외교안보 분야 국정과제표. source markdown의 중복 Col4는 cleaning 대상이지만 표 자체는 유지 가치가 높다.

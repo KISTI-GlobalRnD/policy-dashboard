@@ -1,0 +1,1087 @@
+policy_item_taxonomy_map_id,policy_item_id,taxonomy_type,term_id,is_primary,confidence,review_status,notes
+PIT-ITM-POL-002-00001-01,ITM-POL-002-00001,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00001-SUB-01,ITM-POL-002-00001,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00001-02,ITM-POL-002-00001,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00001-SUB-02,ITM-POL-002-00001,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00002-01,ITM-POL-002-00002,tech_domain,TD-001,1,high,auto_mapped,score=18; subdomain=TSD-001-001
+PIT-ITM-POL-002-00002-SUB-01,ITM-POL-002-00002,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00003-01,ITM-POL-002-00003,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00003-SUB-01,ITM-POL-002-00003,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00003-02,ITM-POL-002-00003,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00003-SUB-02,ITM-POL-002-00003,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00004-01,ITM-POL-002-00004,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00004-SUB-01,ITM-POL-002-00004,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00004-02,ITM-POL-002-00004,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00004-SUB-02,ITM-POL-002-00004,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00005-01,ITM-POL-002-00005,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00005-SUB-01,ITM-POL-002-00005,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00005-02,ITM-POL-002-00005,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00005-SUB-02,ITM-POL-002-00005,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00006-01,ITM-POL-002-00006,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00006-SUB-01,ITM-POL-002-00006,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00006-02,ITM-POL-002-00006,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00006-SUB-02,ITM-POL-002-00006,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00007-01,ITM-POL-002-00007,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00007-SUB-01,ITM-POL-002-00007,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00007-02,ITM-POL-002-00007,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00007-SUB-02,ITM-POL-002-00007,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00008-01,ITM-POL-002-00008,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00008-SUB-01,ITM-POL-002-00008,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00008-02,ITM-POL-002-00008,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00008-SUB-02,ITM-POL-002-00008,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00009-01,ITM-POL-002-00009,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00009-SUB-01,ITM-POL-002-00009,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00009-02,ITM-POL-002-00009,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00009-SUB-02,ITM-POL-002-00009,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00010-01,ITM-POL-002-00010,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-005
+PIT-ITM-POL-002-00010-SUB-01,ITM-POL-002-00010,tech_subdomain,TSD-001-005,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00010-02,ITM-POL-002-00010,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00010-SUB-02,ITM-POL-002-00010,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00011-01,ITM-POL-002-00011,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00011-SUB-01,ITM-POL-002-00011,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00011-02,ITM-POL-002-00011,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00011-SUB-02,ITM-POL-002-00011,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00012-01,ITM-POL-002-00012,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00012-SUB-01,ITM-POL-002-00012,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00012-02,ITM-POL-002-00012,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00012-SUB-02,ITM-POL-002-00012,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00013-01,ITM-POL-002-00013,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00013-SUB-01,ITM-POL-002-00013,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00013-02,ITM-POL-002-00013,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00013-SUB-02,ITM-POL-002-00013,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00014-01,ITM-POL-002-00014,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00014-SUB-01,ITM-POL-002-00014,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00014-02,ITM-POL-002-00014,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00014-SUB-02,ITM-POL-002-00014,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00015-01,ITM-POL-002-00015,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00015-SUB-01,ITM-POL-002-00015,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00015-02,ITM-POL-002-00015,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-005
+PIT-ITM-POL-002-00015-SUB-02,ITM-POL-002-00015,tech_subdomain,TSD-011-005,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00016-01,ITM-POL-002-00016,tech_domain,TD-005,1,high,auto_mapped,score=11; subdomain=
+PIT-ITM-POL-002-00017-01,ITM-POL-002-00017,tech_domain,TD-005,1,high,auto_mapped,score=11; subdomain=
+PIT-ITM-POL-002-00018-01,ITM-POL-002-00018,tech_domain,TD-011,1,high,auto_mapped,score=10; subdomain=TSD-011-001
+PIT-ITM-POL-002-00018-SUB-01,ITM-POL-002-00018,tech_subdomain,TSD-011-001,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00019-01,ITM-POL-002-00019,tech_domain,TD-011,1,high,auto_mapped,score=13; subdomain=TSD-011-002
+PIT-ITM-POL-002-00019-SUB-01,ITM-POL-002-00019,tech_subdomain,TSD-011-002,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00020-01,ITM-POL-002-00020,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00020-SUB-01,ITM-POL-002-00020,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00020-02,ITM-POL-002-00020,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00020-SUB-02,ITM-POL-002-00020,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00021-01,ITM-POL-002-00021,tech_domain,TD-011,1,high,auto_mapped,score=15; subdomain=TSD-011-001
+PIT-ITM-POL-002-00021-SUB-01,ITM-POL-002-00021,tech_subdomain,TSD-011-001,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00022-01,ITM-POL-002-00022,tech_domain,TD-005,1,high,auto_mapped,score=11; subdomain=
+PIT-ITM-POL-002-00023-01,ITM-POL-002-00023,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00023-SUB-01,ITM-POL-002-00023,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00023-02,ITM-POL-002-00023,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00023-SUB-02,ITM-POL-002-00023,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00024-01,ITM-POL-002-00024,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00024-SUB-01,ITM-POL-002-00024,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00024-02,ITM-POL-002-00024,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00024-SUB-02,ITM-POL-002-00024,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00025-01,ITM-POL-002-00025,tech_domain,TD-011,1,high,auto_mapped,score=10; subdomain=TSD-011-001
+PIT-ITM-POL-002-00025-SUB-01,ITM-POL-002-00025,tech_subdomain,TSD-011-001,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00026-01,ITM-POL-002-00026,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00026-SUB-01,ITM-POL-002-00026,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00026-02,ITM-POL-002-00026,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00026-SUB-02,ITM-POL-002-00026,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00027-01,ITM-POL-002-00027,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-003
+PIT-ITM-POL-002-00027-SUB-01,ITM-POL-002-00027,tech_subdomain,TSD-001-003,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00027-02,ITM-POL-002-00027,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00027-SUB-02,ITM-POL-002-00027,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00028-01,ITM-POL-002-00028,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00028-SUB-01,ITM-POL-002-00028,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00028-02,ITM-POL-002-00028,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00028-SUB-02,ITM-POL-002-00028,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00029-01,ITM-POL-002-00029,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00029-SUB-01,ITM-POL-002-00029,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00029-02,ITM-POL-002-00029,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00029-SUB-02,ITM-POL-002-00029,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00030-01,ITM-POL-002-00030,tech_domain,TD-011,1,high,auto_mapped,score=10; subdomain=TSD-011-002
+PIT-ITM-POL-002-00030-SUB-01,ITM-POL-002-00030,tech_subdomain,TSD-011-002,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00031-01,ITM-POL-002-00031,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-004
+PIT-ITM-POL-002-00031-SUB-01,ITM-POL-002-00031,tech_subdomain,TSD-001-004,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00031-02,ITM-POL-002-00031,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00031-SUB-02,ITM-POL-002-00031,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00032-01,ITM-POL-002-00032,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-004
+PIT-ITM-POL-002-00032-SUB-01,ITM-POL-002-00032,tech_subdomain,TSD-001-004,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00032-02,ITM-POL-002-00032,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00032-SUB-02,ITM-POL-002-00032,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00033-01,ITM-POL-002-00033,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-002-00033-SUB-01,ITM-POL-002-00033,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00034-01,ITM-POL-002-00034,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00034-SUB-01,ITM-POL-002-00034,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00034-02,ITM-POL-002-00034,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00034-SUB-02,ITM-POL-002-00034,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00035-01,ITM-POL-002-00035,tech_domain,TD-011,1,high,auto_mapped,score=10; subdomain=TSD-011-001
+PIT-ITM-POL-002-00035-SUB-01,ITM-POL-002-00035,tech_subdomain,TSD-011-001,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00036-01,ITM-POL-002-00036,tech_domain,TD-011,1,high,auto_mapped,score=13; subdomain=TSD-011-001
+PIT-ITM-POL-002-00036-SUB-01,ITM-POL-002-00036,tech_subdomain,TSD-011-001,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00037-01,ITM-POL-002-00037,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00037-SUB-01,ITM-POL-002-00037,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00037-02,ITM-POL-002-00037,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00037-SUB-02,ITM-POL-002-00037,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00038-01,ITM-POL-002-00038,tech_domain,TD-011,1,high,auto_mapped,score=10; subdomain=TSD-011-003
+PIT-ITM-POL-002-00038-SUB-01,ITM-POL-002-00038,tech_subdomain,TSD-011-003,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00039-01,ITM-POL-002-00039,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00039-SUB-01,ITM-POL-002-00039,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00039-02,ITM-POL-002-00039,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00039-SUB-02,ITM-POL-002-00039,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00040-01,ITM-POL-002-00040,tech_domain,TD-011,1,high,auto_mapped,score=10; subdomain=TSD-011-003
+PIT-ITM-POL-002-00040-SUB-01,ITM-POL-002-00040,tech_subdomain,TSD-011-003,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00041-01,ITM-POL-002-00041,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-002-00041-SUB-01,ITM-POL-002-00041,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00041-02,ITM-POL-002-00041,tech_domain,TD-011,0,high,auto_mapped,score=10; subdomain=TSD-011-001
+PIT-ITM-POL-002-00041-SUB-02,ITM-POL-002-00041,tech_subdomain,TSD-011-001,0,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00042-01,ITM-POL-002-00042,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00042-SUB-01,ITM-POL-002-00042,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00042-02,ITM-POL-002-00042,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00042-SUB-02,ITM-POL-002-00042,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00043-01,ITM-POL-002-00043,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00043-SUB-01,ITM-POL-002-00043,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00043-02,ITM-POL-002-00043,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00043-SUB-02,ITM-POL-002-00043,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00044-01,ITM-POL-002-00044,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00044-SUB-01,ITM-POL-002-00044,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00044-02,ITM-POL-002-00044,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00044-SUB-02,ITM-POL-002-00044,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00045-01,ITM-POL-002-00045,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-004
+PIT-ITM-POL-002-00045-SUB-01,ITM-POL-002-00045,tech_subdomain,TSD-001-004,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00046-01,ITM-POL-002-00046,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-005
+PIT-ITM-POL-002-00046-SUB-01,ITM-POL-002-00046,tech_subdomain,TSD-001-005,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00046-02,ITM-POL-002-00046,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00046-SUB-02,ITM-POL-002-00046,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00047-01,ITM-POL-002-00047,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00047-SUB-01,ITM-POL-002-00047,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00047-02,ITM-POL-002-00047,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00047-SUB-02,ITM-POL-002-00047,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00048-01,ITM-POL-002-00048,tech_domain,TD-011,1,high,auto_mapped,score=13; subdomain=TSD-011-001
+PIT-ITM-POL-002-00048-SUB-01,ITM-POL-002-00048,tech_subdomain,TSD-011-001,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00049-01,ITM-POL-002-00049,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00049-SUB-01,ITM-POL-002-00049,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00049-02,ITM-POL-002-00049,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00049-SUB-02,ITM-POL-002-00049,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00050-01,ITM-POL-002-00050,tech_domain,TD-011,1,high,auto_mapped,score=10; subdomain=TSD-011-001
+PIT-ITM-POL-002-00050-SUB-01,ITM-POL-002-00050,tech_subdomain,TSD-011-001,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00051-01,ITM-POL-002-00051,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00051-SUB-01,ITM-POL-002-00051,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00051-02,ITM-POL-002-00051,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00051-SUB-02,ITM-POL-002-00051,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00052-01,ITM-POL-002-00052,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-005
+PIT-ITM-POL-002-00052-SUB-01,ITM-POL-002-00052,tech_subdomain,TSD-001-005,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00052-02,ITM-POL-002-00052,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00052-SUB-02,ITM-POL-002-00052,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00053-01,ITM-POL-002-00053,tech_domain,TD-011,1,high,auto_mapped,score=13; subdomain=TSD-011-003
+PIT-ITM-POL-002-00053-SUB-01,ITM-POL-002-00053,tech_subdomain,TSD-011-003,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00054-01,ITM-POL-002-00054,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-005
+PIT-ITM-POL-002-00054-SUB-01,ITM-POL-002-00054,tech_subdomain,TSD-001-005,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00054-02,ITM-POL-002-00054,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00054-SUB-02,ITM-POL-002-00054,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00055-01,ITM-POL-002-00055,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00055-SUB-01,ITM-POL-002-00055,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00055-02,ITM-POL-002-00055,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00055-SUB-02,ITM-POL-002-00055,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00056-01,ITM-POL-002-00056,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-003
+PIT-ITM-POL-002-00056-SUB-01,ITM-POL-002-00056,tech_subdomain,TSD-001-003,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00056-02,ITM-POL-002-00056,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00056-SUB-02,ITM-POL-002-00056,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00057-01,ITM-POL-002-00057,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00057-SUB-01,ITM-POL-002-00057,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00057-02,ITM-POL-002-00057,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-005
+PIT-ITM-POL-002-00057-SUB-02,ITM-POL-002-00057,tech_subdomain,TSD-011-005,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00058-01,ITM-POL-002-00058,tech_domain,TD-005,1,high,auto_mapped,score=11; subdomain=
+PIT-ITM-POL-002-00059-01,ITM-POL-002-00059,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-003
+PIT-ITM-POL-002-00059-SUB-01,ITM-POL-002-00059,tech_subdomain,TSD-001-003,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00059-02,ITM-POL-002-00059,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00059-SUB-02,ITM-POL-002-00059,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00060-01,ITM-POL-002-00060,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-002-00060-SUB-01,ITM-POL-002-00060,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00061-01,ITM-POL-002-00061,tech_domain,TD-011,1,high,auto_mapped,score=13; subdomain=TSD-011-001
+PIT-ITM-POL-002-00061-SUB-01,ITM-POL-002-00061,tech_subdomain,TSD-011-001,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00062-01,ITM-POL-002-00062,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00062-SUB-01,ITM-POL-002-00062,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00062-02,ITM-POL-002-00062,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-005
+PIT-ITM-POL-002-00062-SUB-02,ITM-POL-002-00062,tech_subdomain,TSD-011-005,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00063-01,ITM-POL-002-00063,tech_domain,TD-011,1,high,auto_mapped,score=13; subdomain=TSD-011-001
+PIT-ITM-POL-002-00063-SUB-01,ITM-POL-002-00063,tech_subdomain,TSD-011-001,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00064-01,ITM-POL-002-00064,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00064-SUB-01,ITM-POL-002-00064,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00064-02,ITM-POL-002-00064,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00064-SUB-02,ITM-POL-002-00064,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00065-01,ITM-POL-002-00065,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00065-SUB-01,ITM-POL-002-00065,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00065-02,ITM-POL-002-00065,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00065-SUB-02,ITM-POL-002-00065,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00066-01,ITM-POL-002-00066,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00066-SUB-01,ITM-POL-002-00066,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00066-02,ITM-POL-002-00066,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00066-SUB-02,ITM-POL-002-00066,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00067-01,ITM-POL-002-00067,tech_domain,TD-011,1,high,auto_mapped,score=10; subdomain=TSD-011-003
+PIT-ITM-POL-002-00067-SUB-01,ITM-POL-002-00067,tech_subdomain,TSD-011-003,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00068-01,ITM-POL-002-00068,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00068-SUB-01,ITM-POL-002-00068,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00068-02,ITM-POL-002-00068,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00068-SUB-02,ITM-POL-002-00068,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00069-01,ITM-POL-002-00069,tech_domain,TD-011,1,high,auto_mapped,score=10; subdomain=TSD-011-001
+PIT-ITM-POL-002-00069-SUB-01,ITM-POL-002-00069,tech_subdomain,TSD-011-001,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00070-01,ITM-POL-002-00070,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00070-SUB-01,ITM-POL-002-00070,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00070-02,ITM-POL-002-00070,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00070-SUB-02,ITM-POL-002-00070,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00071-01,ITM-POL-002-00071,tech_domain,TD-011,1,high,auto_mapped,score=10; subdomain=TSD-011-003
+PIT-ITM-POL-002-00071-SUB-01,ITM-POL-002-00071,tech_subdomain,TSD-011-003,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00072-01,ITM-POL-002-00072,tech_domain,TD-011,1,high,auto_mapped,score=10; subdomain=TSD-011-001
+PIT-ITM-POL-002-00072-SUB-01,ITM-POL-002-00072,tech_subdomain,TSD-011-001,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00073-01,ITM-POL-002-00073,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-002-00073-SUB-01,ITM-POL-002-00073,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00073-02,ITM-POL-002-00073,tech_domain,TD-011,0,high,auto_mapped,score=10; subdomain=TSD-011-001
+PIT-ITM-POL-002-00073-SUB-02,ITM-POL-002-00073,tech_subdomain,TSD-011-001,0,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00074-01,ITM-POL-002-00074,tech_domain,TD-011,1,high,auto_mapped,score=10; subdomain=TSD-011-001
+PIT-ITM-POL-002-00074-SUB-01,ITM-POL-002-00074,tech_subdomain,TSD-011-001,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00075-01,ITM-POL-002-00075,tech_domain,TD-010,1,high,auto_mapped,score=11; subdomain=TSD-010-004
+PIT-ITM-POL-002-00075-SUB-01,ITM-POL-002-00075,tech_subdomain,TSD-010-004,1,high,auto_mapped,derived_from=TD-010
+PIT-ITM-POL-002-00075-02,ITM-POL-002-00075,tech_domain,TD-011,0,high,auto_mapped,score=10; subdomain=TSD-011-001
+PIT-ITM-POL-002-00075-SUB-02,ITM-POL-002-00075,tech_subdomain,TSD-011-001,0,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00076-01,ITM-POL-002-00076,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00076-SUB-01,ITM-POL-002-00076,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00076-02,ITM-POL-002-00076,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00076-SUB-02,ITM-POL-002-00076,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00077-01,ITM-POL-002-00077,tech_domain,TD-011,1,high,auto_mapped,score=10; subdomain=TSD-011-003
+PIT-ITM-POL-002-00077-SUB-01,ITM-POL-002-00077,tech_subdomain,TSD-011-003,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00078-01,ITM-POL-002-00078,tech_domain,TD-011,1,high,auto_mapped,score=13; subdomain=TSD-011-002
+PIT-ITM-POL-002-00078-SUB-01,ITM-POL-002-00078,tech_subdomain,TSD-011-002,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00079-01,ITM-POL-002-00079,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-006
+PIT-ITM-POL-002-00079-SUB-01,ITM-POL-002-00079,tech_subdomain,TSD-001-006,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00079-02,ITM-POL-002-00079,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00079-SUB-02,ITM-POL-002-00079,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00080-01,ITM-POL-002-00080,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00080-SUB-01,ITM-POL-002-00080,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00080-02,ITM-POL-002-00080,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00080-SUB-02,ITM-POL-002-00080,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00081-01,ITM-POL-002-00081,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00081-SUB-01,ITM-POL-002-00081,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00081-02,ITM-POL-002-00081,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00081-SUB-02,ITM-POL-002-00081,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00082-01,ITM-POL-002-00082,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00082-SUB-01,ITM-POL-002-00082,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00082-02,ITM-POL-002-00082,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00082-SUB-02,ITM-POL-002-00082,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00083-01,ITM-POL-002-00083,tech_domain,TD-005,1,high,auto_mapped,score=11; subdomain=
+PIT-ITM-POL-002-00084-01,ITM-POL-002-00084,tech_domain,TD-011,1,high,auto_mapped,score=10; subdomain=TSD-011-001
+PIT-ITM-POL-002-00084-SUB-01,ITM-POL-002-00084,tech_subdomain,TSD-011-001,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00085-01,ITM-POL-002-00085,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00085-SUB-01,ITM-POL-002-00085,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00085-02,ITM-POL-002-00085,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00085-SUB-02,ITM-POL-002-00085,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00086-01,ITM-POL-002-00086,tech_domain,TD-011,1,high,auto_mapped,score=10; subdomain=TSD-011-002
+PIT-ITM-POL-002-00086-SUB-01,ITM-POL-002-00086,tech_subdomain,TSD-011-002,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00087-01,ITM-POL-002-00087,tech_domain,TD-011,1,high,auto_mapped,score=13; subdomain=TSD-011-003
+PIT-ITM-POL-002-00087-SUB-01,ITM-POL-002-00087,tech_subdomain,TSD-011-003,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00088-01,ITM-POL-002-00088,tech_domain,TD-011,1,high,auto_mapped,score=15; subdomain=TSD-011-001
+PIT-ITM-POL-002-00088-SUB-01,ITM-POL-002-00088,tech_subdomain,TSD-011-001,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00089-01,ITM-POL-002-00089,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00089-SUB-01,ITM-POL-002-00089,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00089-02,ITM-POL-002-00089,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00089-SUB-02,ITM-POL-002-00089,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00090-01,ITM-POL-002-00090,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-004
+PIT-ITM-POL-002-00090-SUB-01,ITM-POL-002-00090,tech_subdomain,TSD-001-004,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00091-01,ITM-POL-002-00091,tech_domain,TD-011,1,high,auto_mapped,score=10; subdomain=TSD-011-001
+PIT-ITM-POL-002-00091-SUB-01,ITM-POL-002-00091,tech_subdomain,TSD-011-001,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00092-01,ITM-POL-002-00092,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-002-00092-SUB-01,ITM-POL-002-00092,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00092-02,ITM-POL-002-00092,tech_domain,TD-011,0,high,auto_mapped,score=10; subdomain=TSD-011-001
+PIT-ITM-POL-002-00092-SUB-02,ITM-POL-002-00092,tech_subdomain,TSD-011-001,0,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00093-01,ITM-POL-002-00093,tech_domain,TD-011,1,high,auto_mapped,score=10; subdomain=TSD-011-001
+PIT-ITM-POL-002-00093-SUB-01,ITM-POL-002-00093,tech_subdomain,TSD-011-001,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00094-01,ITM-POL-002-00094,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-005
+PIT-ITM-POL-002-00094-SUB-01,ITM-POL-002-00094,tech_subdomain,TSD-001-005,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00094-02,ITM-POL-002-00094,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00094-SUB-02,ITM-POL-002-00094,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00095-01,ITM-POL-002-00095,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00095-SUB-01,ITM-POL-002-00095,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00095-02,ITM-POL-002-00095,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00095-SUB-02,ITM-POL-002-00095,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00096-01,ITM-POL-002-00096,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00096-SUB-01,ITM-POL-002-00096,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00096-02,ITM-POL-002-00096,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-005
+PIT-ITM-POL-002-00096-SUB-02,ITM-POL-002-00096,tech_subdomain,TSD-011-005,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00097-01,ITM-POL-002-00097,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00097-SUB-01,ITM-POL-002-00097,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00097-02,ITM-POL-002-00097,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00097-SUB-02,ITM-POL-002-00097,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00098-01,ITM-POL-002-00098,tech_domain,TD-011,1,high,auto_mapped,score=10; subdomain=TSD-011-001
+PIT-ITM-POL-002-00098-SUB-01,ITM-POL-002-00098,tech_subdomain,TSD-011-001,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00099-01,ITM-POL-002-00099,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-005
+PIT-ITM-POL-002-00099-SUB-01,ITM-POL-002-00099,tech_subdomain,TSD-001-005,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00099-02,ITM-POL-002-00099,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00099-SUB-02,ITM-POL-002-00099,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00100-01,ITM-POL-002-00100,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00100-SUB-01,ITM-POL-002-00100,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00100-02,ITM-POL-002-00100,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00100-SUB-02,ITM-POL-002-00100,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00101-01,ITM-POL-002-00101,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-004
+PIT-ITM-POL-002-00101-SUB-01,ITM-POL-002-00101,tech_subdomain,TSD-001-004,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00101-02,ITM-POL-002-00101,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00101-SUB-02,ITM-POL-002-00101,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00102-01,ITM-POL-002-00102,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-005
+PIT-ITM-POL-002-00102-SUB-01,ITM-POL-002-00102,tech_subdomain,TSD-001-005,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00102-02,ITM-POL-002-00102,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00102-SUB-02,ITM-POL-002-00102,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00103-01,ITM-POL-002-00103,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-005
+PIT-ITM-POL-002-00103-SUB-01,ITM-POL-002-00103,tech_subdomain,TSD-001-005,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00103-02,ITM-POL-002-00103,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00103-SUB-02,ITM-POL-002-00103,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00104-01,ITM-POL-002-00104,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00104-SUB-01,ITM-POL-002-00104,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00104-02,ITM-POL-002-00104,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00104-SUB-02,ITM-POL-002-00104,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00105-01,ITM-POL-002-00105,tech_domain,TD-011,1,high,auto_mapped,score=13; subdomain=TSD-011-001
+PIT-ITM-POL-002-00105-SUB-01,ITM-POL-002-00105,tech_subdomain,TSD-011-001,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00106-01,ITM-POL-002-00106,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-005
+PIT-ITM-POL-002-00106-SUB-01,ITM-POL-002-00106,tech_subdomain,TSD-001-005,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00106-02,ITM-POL-002-00106,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00106-SUB-02,ITM-POL-002-00106,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00107-01,ITM-POL-002-00107,tech_domain,TD-011,1,high,auto_mapped,score=16; subdomain=TSD-011-001
+PIT-ITM-POL-002-00107-SUB-01,ITM-POL-002-00107,tech_subdomain,TSD-011-001,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00108-01,ITM-POL-002-00108,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00108-SUB-01,ITM-POL-002-00108,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00108-02,ITM-POL-002-00108,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00108-SUB-02,ITM-POL-002-00108,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00109-01,ITM-POL-002-00109,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00109-SUB-01,ITM-POL-002-00109,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00109-02,ITM-POL-002-00109,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00109-SUB-02,ITM-POL-002-00109,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00110-01,ITM-POL-002-00110,tech_domain,TD-011,1,high,auto_mapped,score=13; subdomain=TSD-011-001
+PIT-ITM-POL-002-00110-SUB-01,ITM-POL-002-00110,tech_subdomain,TSD-011-001,1,high,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00111-01,ITM-POL-002-00111,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00111-SUB-01,ITM-POL-002-00111,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00111-02,ITM-POL-002-00111,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00111-SUB-02,ITM-POL-002-00111,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00112-01,ITM-POL-002-00112,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-003
+PIT-ITM-POL-002-00112-SUB-01,ITM-POL-002-00112,tech_subdomain,TSD-001-003,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00112-02,ITM-POL-002-00112,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00112-SUB-02,ITM-POL-002-00112,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00113-01,ITM-POL-002-00113,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-003
+PIT-ITM-POL-002-00113-SUB-01,ITM-POL-002-00113,tech_subdomain,TSD-001-003,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00113-02,ITM-POL-002-00113,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00113-SUB-02,ITM-POL-002-00113,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00114-01,ITM-POL-002-00114,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00114-SUB-01,ITM-POL-002-00114,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00114-02,ITM-POL-002-00114,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00114-SUB-02,ITM-POL-002-00114,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00115-01,ITM-POL-002-00115,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00115-SUB-01,ITM-POL-002-00115,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00115-02,ITM-POL-002-00115,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00115-SUB-02,ITM-POL-002-00115,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-002-00116-01,ITM-POL-002-00116,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-002-00116-SUB-01,ITM-POL-002-00116,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-002-00116-02,ITM-POL-002-00116,tech_domain,TD-011,0,medium,auto_mapped,score=7; subdomain=TSD-011-001
+PIT-ITM-POL-002-00116-SUB-02,ITM-POL-002-00116,tech_subdomain,TSD-011-001,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-003-00117-01,ITM-POL-003-00117,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00117-SUB-01,ITM-POL-003-00117,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00118-01,ITM-POL-003-00118,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00118-SUB-01,ITM-POL-003-00118,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00119-01,ITM-POL-003-00119,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00119-SUB-01,ITM-POL-003-00119,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00120-01,ITM-POL-003-00120,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00120-SUB-01,ITM-POL-003-00120,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00121-01,ITM-POL-003-00121,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00121-SUB-01,ITM-POL-003-00121,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00122-01,ITM-POL-003-00122,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-003-00122-SUB-01,ITM-POL-003-00122,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00123-01,ITM-POL-003-00123,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00123-SUB-01,ITM-POL-003-00123,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00124-01,ITM-POL-003-00124,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00124-SUB-01,ITM-POL-003-00124,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00125-01,ITM-POL-003-00125,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-003
+PIT-ITM-POL-003-00125-SUB-01,ITM-POL-003-00125,tech_subdomain,TSD-001-003,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00126-01,ITM-POL-003-00126,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00126-SUB-01,ITM-POL-003-00126,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00127-01,ITM-POL-003-00127,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-003
+PIT-ITM-POL-003-00127-SUB-01,ITM-POL-003-00127,tech_subdomain,TSD-001-003,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00128-01,ITM-POL-003-00128,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00128-SUB-01,ITM-POL-003-00128,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00129-01,ITM-POL-003-00129,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00129-SUB-01,ITM-POL-003-00129,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00130-01,ITM-POL-003-00130,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-003-00130-SUB-01,ITM-POL-003-00130,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00131-01,ITM-POL-003-00131,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-003-00131-SUB-01,ITM-POL-003-00131,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00132-01,ITM-POL-003-00132,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-003-00132-SUB-01,ITM-POL-003-00132,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00133-01,ITM-POL-003-00133,tech_domain,TD-002,1,high,auto_mapped,score=11; subdomain=
+PIT-ITM-POL-003-00133-02,ITM-POL-003-00133,tech_domain,TD-001,0,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-003-00133-SUB-02,ITM-POL-003-00133,tech_subdomain,TSD-001-001,0,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00134-01,ITM-POL-003-00134,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-003-00134-SUB-01,ITM-POL-003-00134,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00135-01,ITM-POL-003-00135,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-003-00135-SUB-01,ITM-POL-003-00135,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00136-01,ITM-POL-003-00136,tech_domain,TD-005,1,high,auto_mapped,score=11; subdomain=
+PIT-ITM-POL-003-00137-01,ITM-POL-003-00137,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-003-00137-SUB-01,ITM-POL-003-00137,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00138-01,ITM-POL-003-00138,tech_domain,TD-005,1,high,auto_mapped,score=11; subdomain=
+PIT-ITM-POL-003-00139-01,ITM-POL-003-00139,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00139-SUB-01,ITM-POL-003-00139,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00140-01,ITM-POL-003-00140,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-003-00140-SUB-01,ITM-POL-003-00140,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00141-01,ITM-POL-003-00141,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00141-SUB-01,ITM-POL-003-00141,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00142-01,ITM-POL-003-00142,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00142-SUB-01,ITM-POL-003-00142,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00143-01,ITM-POL-003-00143,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00143-SUB-01,ITM-POL-003-00143,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00144-01,ITM-POL-003-00144,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00144-SUB-01,ITM-POL-003-00144,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00145-01,ITM-POL-003-00145,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00145-SUB-01,ITM-POL-003-00145,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00146-01,ITM-POL-003-00146,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00146-SUB-01,ITM-POL-003-00146,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00147-01,ITM-POL-003-00147,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00147-SUB-01,ITM-POL-003-00147,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00148-01,ITM-POL-003-00148,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00148-SUB-01,ITM-POL-003-00148,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00149-01,ITM-POL-003-00149,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00149-SUB-01,ITM-POL-003-00149,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00150-01,ITM-POL-003-00150,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00150-SUB-01,ITM-POL-003-00150,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00151-01,ITM-POL-003-00151,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00151-SUB-01,ITM-POL-003-00151,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00152-01,ITM-POL-003-00152,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-003-00152-SUB-01,ITM-POL-003-00152,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00153-01,ITM-POL-003-00153,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00153-SUB-01,ITM-POL-003-00153,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00154-01,ITM-POL-003-00154,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00154-SUB-01,ITM-POL-003-00154,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00155-01,ITM-POL-003-00155,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00155-SUB-01,ITM-POL-003-00155,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00156-01,ITM-POL-003-00156,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00156-SUB-01,ITM-POL-003-00156,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00157-01,ITM-POL-003-00157,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00157-SUB-01,ITM-POL-003-00157,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00158-01,ITM-POL-003-00158,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00158-SUB-01,ITM-POL-003-00158,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00159-01,ITM-POL-003-00159,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00159-SUB-01,ITM-POL-003-00159,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00160-01,ITM-POL-003-00160,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00160-SUB-01,ITM-POL-003-00160,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00161-01,ITM-POL-003-00161,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00161-SUB-01,ITM-POL-003-00161,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00162-01,ITM-POL-003-00162,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00162-SUB-01,ITM-POL-003-00162,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00163-01,ITM-POL-003-00163,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00163-SUB-01,ITM-POL-003-00163,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00164-01,ITM-POL-003-00164,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00164-SUB-01,ITM-POL-003-00164,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00165-01,ITM-POL-003-00165,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00165-SUB-01,ITM-POL-003-00165,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00166-01,ITM-POL-003-00166,tech_domain,TD-005,1,high,auto_mapped,score=11; subdomain=
+PIT-ITM-POL-003-00167-01,ITM-POL-003-00167,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00167-SUB-01,ITM-POL-003-00167,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00168-01,ITM-POL-003-00168,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00168-SUB-01,ITM-POL-003-00168,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00169-01,ITM-POL-003-00169,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00169-SUB-01,ITM-POL-003-00169,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00170-01,ITM-POL-003-00170,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00170-SUB-01,ITM-POL-003-00170,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00171-01,ITM-POL-003-00171,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00171-SUB-01,ITM-POL-003-00171,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00172-01,ITM-POL-003-00172,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00172-SUB-01,ITM-POL-003-00172,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00173-01,ITM-POL-003-00173,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-004
+PIT-ITM-POL-003-00173-SUB-01,ITM-POL-003-00173,tech_subdomain,TSD-001-004,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00174-01,ITM-POL-003-00174,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-003-00174-SUB-01,ITM-POL-003-00174,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00175-01,ITM-POL-003-00175,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00175-SUB-01,ITM-POL-003-00175,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00176-01,ITM-POL-003-00176,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00176-SUB-01,ITM-POL-003-00176,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00177-01,ITM-POL-003-00177,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00177-SUB-01,ITM-POL-003-00177,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00178-01,ITM-POL-003-00178,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00178-SUB-01,ITM-POL-003-00178,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00179-01,ITM-POL-003-00179,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00179-SUB-01,ITM-POL-003-00179,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00180-01,ITM-POL-003-00180,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00180-SUB-01,ITM-POL-003-00180,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00181-01,ITM-POL-003-00181,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00181-SUB-01,ITM-POL-003-00181,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00182-01,ITM-POL-003-00182,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-003-00182-SUB-01,ITM-POL-003-00182,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00183-01,ITM-POL-003-00183,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-003-00183-SUB-01,ITM-POL-003-00183,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00184-01,ITM-POL-003-00184,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00184-SUB-01,ITM-POL-003-00184,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00185-01,ITM-POL-003-00185,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-003-00185-SUB-01,ITM-POL-003-00185,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00186-01,ITM-POL-003-00186,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00186-SUB-01,ITM-POL-003-00186,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00187-01,ITM-POL-003-00187,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00187-SUB-01,ITM-POL-003-00187,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00188-01,ITM-POL-003-00188,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00188-SUB-01,ITM-POL-003-00188,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00189-01,ITM-POL-003-00189,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-003-00189-SUB-01,ITM-POL-003-00189,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00190-01,ITM-POL-003-00190,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00190-SUB-01,ITM-POL-003-00190,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00191-01,ITM-POL-003-00191,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-005
+PIT-ITM-POL-003-00191-SUB-01,ITM-POL-003-00191,tech_subdomain,TSD-001-005,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00192-01,ITM-POL-003-00192,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-005
+PIT-ITM-POL-003-00192-SUB-01,ITM-POL-003-00192,tech_subdomain,TSD-001-005,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00193-01,ITM-POL-003-00193,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-003-00193-SUB-01,ITM-POL-003-00193,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-003-00194-01,ITM-POL-003-00194,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-001
+PIT-ITM-POL-003-00194-SUB-01,ITM-POL-003-00194,tech_subdomain,TSD-001-001,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-004-00195-01,ITM-POL-004-00195,tech_domain,TD-007,1,high,auto_mapped,score=13; subdomain=TSD-007-001
+PIT-ITM-POL-004-00195-SUB-01,ITM-POL-004-00195,tech_subdomain,TSD-007-001,1,high,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00196-01,ITM-POL-004-00196,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-004
+PIT-ITM-POL-004-00196-SUB-01,ITM-POL-004-00196,tech_subdomain,TSD-001-004,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-004-00196-02,ITM-POL-004-00196,tech_domain,TD-007,0,medium,auto_mapped,score=7; subdomain=TSD-007-003
+PIT-ITM-POL-004-00196-SUB-02,ITM-POL-004-00196,tech_subdomain,TSD-007-003,0,medium,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00197-01,ITM-POL-004-00197,tech_domain,TD-007,1,high,auto_mapped,score=13; subdomain=TSD-007-001
+PIT-ITM-POL-004-00197-SUB-01,ITM-POL-004-00197,tech_subdomain,TSD-007-001,1,high,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00198-01,ITM-POL-004-00198,tech_domain,TD-007,1,high,auto_mapped,score=10; subdomain=TSD-007-003
+PIT-ITM-POL-004-00198-SUB-01,ITM-POL-004-00198,tech_subdomain,TSD-007-003,1,high,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00199-01,ITM-POL-004-00199,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-004
+PIT-ITM-POL-004-00199-SUB-01,ITM-POL-004-00199,tech_subdomain,TSD-001-004,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-004-00199-02,ITM-POL-004-00199,tech_domain,TD-007,0,medium,auto_mapped,score=7; subdomain=TSD-007-003
+PIT-ITM-POL-004-00199-SUB-02,ITM-POL-004-00199,tech_subdomain,TSD-007-003,0,medium,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00200-01,ITM-POL-004-00200,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-004
+PIT-ITM-POL-004-00200-SUB-01,ITM-POL-004-00200,tech_subdomain,TSD-001-004,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-004-00200-02,ITM-POL-004-00200,tech_domain,TD-007,0,medium,auto_mapped,score=7; subdomain=TSD-007-003
+PIT-ITM-POL-004-00200-SUB-02,ITM-POL-004-00200,tech_subdomain,TSD-007-003,0,medium,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00201-01,ITM-POL-004-00201,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-004
+PIT-ITM-POL-004-00201-SUB-01,ITM-POL-004-00201,tech_subdomain,TSD-001-004,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-004-00202-01,ITM-POL-004-00202,tech_domain,TD-007,1,high,auto_mapped,score=10; subdomain=TSD-007-003
+PIT-ITM-POL-004-00202-SUB-01,ITM-POL-004-00202,tech_subdomain,TSD-007-003,1,high,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00203-01,ITM-POL-004-00203,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-004
+PIT-ITM-POL-004-00203-SUB-01,ITM-POL-004-00203,tech_subdomain,TSD-001-004,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-004-00203-02,ITM-POL-004-00203,tech_domain,TD-007,0,medium,auto_mapped,score=7; subdomain=TSD-007-003
+PIT-ITM-POL-004-00203-SUB-02,ITM-POL-004-00203,tech_subdomain,TSD-007-003,0,medium,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00204-01,ITM-POL-004-00204,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-004
+PIT-ITM-POL-004-00204-SUB-01,ITM-POL-004-00204,tech_subdomain,TSD-001-004,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-004-00204-02,ITM-POL-004-00204,tech_domain,TD-007,0,medium,auto_mapped,score=7; subdomain=TSD-007-003
+PIT-ITM-POL-004-00204-SUB-02,ITM-POL-004-00204,tech_subdomain,TSD-007-003,0,medium,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00205-01,ITM-POL-004-00205,tech_domain,TD-007,1,high,auto_mapped,score=10; subdomain=TSD-007-001
+PIT-ITM-POL-004-00205-SUB-01,ITM-POL-004-00205,tech_subdomain,TSD-007-001,1,high,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00206-01,ITM-POL-004-00206,tech_domain,TD-007,1,high,auto_mapped,score=13; subdomain=TSD-007-001
+PIT-ITM-POL-004-00206-SUB-01,ITM-POL-004-00206,tech_subdomain,TSD-007-001,1,high,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00207-01,ITM-POL-004-00207,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-004
+PIT-ITM-POL-004-00207-SUB-01,ITM-POL-004-00207,tech_subdomain,TSD-001-004,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-004-00207-02,ITM-POL-004-00207,tech_domain,TD-007,0,medium,auto_mapped,score=7; subdomain=TSD-007-003
+PIT-ITM-POL-004-00207-SUB-02,ITM-POL-004-00207,tech_subdomain,TSD-007-003,0,medium,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00208-01,ITM-POL-004-00208,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-004
+PIT-ITM-POL-004-00208-SUB-01,ITM-POL-004-00208,tech_subdomain,TSD-001-004,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-004-00208-02,ITM-POL-004-00208,tech_domain,TD-007,0,medium,auto_mapped,score=7; subdomain=TSD-007-003
+PIT-ITM-POL-004-00208-SUB-02,ITM-POL-004-00208,tech_subdomain,TSD-007-003,0,medium,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00209-01,ITM-POL-004-00209,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-004
+PIT-ITM-POL-004-00209-SUB-01,ITM-POL-004-00209,tech_subdomain,TSD-001-004,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-004-00209-02,ITM-POL-004-00209,tech_domain,TD-007,0,medium,auto_mapped,score=7; subdomain=TSD-007-003
+PIT-ITM-POL-004-00209-SUB-02,ITM-POL-004-00209,tech_subdomain,TSD-007-003,0,medium,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00210-01,ITM-POL-004-00210,tech_domain,TD-007,1,high,auto_mapped,score=10; subdomain=TSD-007-001
+PIT-ITM-POL-004-00210-SUB-01,ITM-POL-004-00210,tech_subdomain,TSD-007-001,1,high,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00211-01,ITM-POL-004-00211,tech_domain,TD-007,1,high,auto_mapped,score=16; subdomain=TSD-007-002
+PIT-ITM-POL-004-00211-SUB-01,ITM-POL-004-00211,tech_subdomain,TSD-007-002,1,high,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00212-01,ITM-POL-004-00212,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-003
+PIT-ITM-POL-004-00212-SUB-01,ITM-POL-004-00212,tech_subdomain,TSD-001-003,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-004-00212-02,ITM-POL-004-00212,tech_domain,TD-007,0,medium,auto_mapped,score=7; subdomain=TSD-007-003
+PIT-ITM-POL-004-00212-SUB-02,ITM-POL-004-00212,tech_subdomain,TSD-007-003,0,medium,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00213-01,ITM-POL-004-00213,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-004
+PIT-ITM-POL-004-00213-SUB-01,ITM-POL-004-00213,tech_subdomain,TSD-001-004,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-004-00213-02,ITM-POL-004-00213,tech_domain,TD-007,0,medium,auto_mapped,score=7; subdomain=TSD-007-003
+PIT-ITM-POL-004-00213-SUB-02,ITM-POL-004-00213,tech_subdomain,TSD-007-003,0,medium,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00214-01,ITM-POL-004-00214,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-004
+PIT-ITM-POL-004-00214-SUB-01,ITM-POL-004-00214,tech_subdomain,TSD-001-004,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-004-00214-02,ITM-POL-004-00214,tech_domain,TD-007,0,medium,auto_mapped,score=7; subdomain=TSD-007-003
+PIT-ITM-POL-004-00214-SUB-02,ITM-POL-004-00214,tech_subdomain,TSD-007-003,0,medium,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00215-01,ITM-POL-004-00215,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-004
+PIT-ITM-POL-004-00215-SUB-01,ITM-POL-004-00215,tech_subdomain,TSD-001-004,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-004-00215-02,ITM-POL-004-00215,tech_domain,TD-007,0,high,auto_mapped,score=10; subdomain=TSD-007-001
+PIT-ITM-POL-004-00215-SUB-02,ITM-POL-004-00215,tech_subdomain,TSD-007-001,0,high,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00216-01,ITM-POL-004-00216,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-004
+PIT-ITM-POL-004-00216-SUB-01,ITM-POL-004-00216,tech_subdomain,TSD-001-004,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-004-00216-02,ITM-POL-004-00216,tech_domain,TD-007,0,high,auto_mapped,score=10; subdomain=TSD-007-001
+PIT-ITM-POL-004-00216-SUB-02,ITM-POL-004-00216,tech_subdomain,TSD-007-001,0,high,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00217-01,ITM-POL-004-00217,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-004
+PIT-ITM-POL-004-00217-SUB-01,ITM-POL-004-00217,tech_subdomain,TSD-001-004,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-004-00217-02,ITM-POL-004-00217,tech_domain,TD-007,0,medium,auto_mapped,score=7; subdomain=TSD-007-003
+PIT-ITM-POL-004-00217-SUB-02,ITM-POL-004-00217,tech_subdomain,TSD-007-003,0,medium,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00218-01,ITM-POL-004-00218,tech_domain,TD-007,1,high,auto_mapped,score=10; subdomain=TSD-007-001
+PIT-ITM-POL-004-00218-SUB-01,ITM-POL-004-00218,tech_subdomain,TSD-007-001,1,high,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00219-01,ITM-POL-004-00219,tech_domain,TD-007,1,high,auto_mapped,score=13; subdomain=TSD-007-001
+PIT-ITM-POL-004-00219-SUB-01,ITM-POL-004-00219,tech_subdomain,TSD-007-001,1,high,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-004-00220-01,ITM-POL-004-00220,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-004
+PIT-ITM-POL-004-00220-SUB-01,ITM-POL-004-00220,tech_subdomain,TSD-001-004,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-004-00220-02,ITM-POL-004-00220,tech_domain,TD-007,0,medium,auto_mapped,score=7; subdomain=TSD-007-003
+PIT-ITM-POL-004-00220-SUB-02,ITM-POL-004-00220,tech_subdomain,TSD-007-003,0,medium,auto_mapped,derived_from=TD-007
+PIT-ITM-POL-005-00221-01,ITM-POL-005-00221,tech_domain,TD-009,1,high,auto_mapped,score=16; subdomain=TSD-009-001
+PIT-ITM-POL-005-00221-SUB-01,ITM-POL-005-00221,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00222-01,ITM-POL-005-00222,tech_domain,TD-009,1,high,auto_mapped,score=16; subdomain=TSD-009-001
+PIT-ITM-POL-005-00222-SUB-01,ITM-POL-005-00222,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00223-01,ITM-POL-005-00223,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00223-SUB-01,ITM-POL-005-00223,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00224-01,ITM-POL-005-00224,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00224-SUB-01,ITM-POL-005-00224,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00225-01,ITM-POL-005-00225,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00225-SUB-01,ITM-POL-005-00225,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00226-01,ITM-POL-005-00226,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00226-SUB-01,ITM-POL-005-00226,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00227-01,ITM-POL-005-00227,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00227-SUB-01,ITM-POL-005-00227,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00228-01,ITM-POL-005-00228,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-005
+PIT-ITM-POL-005-00228-SUB-01,ITM-POL-005-00228,tech_subdomain,TSD-009-005,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00229-01,ITM-POL-005-00229,tech_domain,TD-009,1,high,auto_mapped,score=16; subdomain=TSD-009-001
+PIT-ITM-POL-005-00229-SUB-01,ITM-POL-005-00229,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00230-01,ITM-POL-005-00230,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00230-SUB-01,ITM-POL-005-00230,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00231-01,ITM-POL-005-00231,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00231-SUB-01,ITM-POL-005-00231,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00232-01,ITM-POL-005-00232,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00232-SUB-01,ITM-POL-005-00232,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00233-01,ITM-POL-005-00233,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00233-SUB-01,ITM-POL-005-00233,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00234-01,ITM-POL-005-00234,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00234-SUB-01,ITM-POL-005-00234,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00235-01,ITM-POL-005-00235,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00235-SUB-01,ITM-POL-005-00235,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00236-01,ITM-POL-005-00236,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00236-SUB-01,ITM-POL-005-00236,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00237-01,ITM-POL-005-00237,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00237-SUB-01,ITM-POL-005-00237,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00238-01,ITM-POL-005-00238,tech_domain,TD-009,1,high,auto_mapped,score=16; subdomain=TSD-009-001
+PIT-ITM-POL-005-00238-SUB-01,ITM-POL-005-00238,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00239-01,ITM-POL-005-00239,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00239-SUB-01,ITM-POL-005-00239,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00240-01,ITM-POL-005-00240,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00240-SUB-01,ITM-POL-005-00240,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00240-02,ITM-POL-005-00240,tech_domain,TD-001,0,high,auto_mapped,score=12; subdomain=TSD-001-001
+PIT-ITM-POL-005-00240-SUB-02,ITM-POL-005-00240,tech_subdomain,TSD-001-001,0,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-005-00241-01,ITM-POL-005-00241,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00241-SUB-01,ITM-POL-005-00241,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00242-01,ITM-POL-005-00242,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00242-SUB-01,ITM-POL-005-00242,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00243-01,ITM-POL-005-00243,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00243-SUB-01,ITM-POL-005-00243,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00244-01,ITM-POL-005-00244,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00244-SUB-01,ITM-POL-005-00244,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00245-01,ITM-POL-005-00245,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00245-SUB-01,ITM-POL-005-00245,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00246-01,ITM-POL-005-00246,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00246-SUB-01,ITM-POL-005-00246,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00247-01,ITM-POL-005-00247,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00247-SUB-01,ITM-POL-005-00247,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00248-01,ITM-POL-005-00248,tech_domain,TD-009,1,high,auto_mapped,score=16; subdomain=TSD-009-001
+PIT-ITM-POL-005-00248-SUB-01,ITM-POL-005-00248,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00249-01,ITM-POL-005-00249,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00249-SUB-01,ITM-POL-005-00249,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00250-01,ITM-POL-005-00250,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00250-SUB-01,ITM-POL-005-00250,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00251-01,ITM-POL-005-00251,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00251-SUB-01,ITM-POL-005-00251,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00252-01,ITM-POL-005-00252,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00252-SUB-01,ITM-POL-005-00252,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00253-01,ITM-POL-005-00253,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00253-SUB-01,ITM-POL-005-00253,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00254-01,ITM-POL-005-00254,tech_domain,TD-009,1,high,auto_mapped,score=16; subdomain=TSD-009-001
+PIT-ITM-POL-005-00254-SUB-01,ITM-POL-005-00254,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00255-01,ITM-POL-005-00255,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00255-SUB-01,ITM-POL-005-00255,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00256-01,ITM-POL-005-00256,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00256-SUB-01,ITM-POL-005-00256,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00257-01,ITM-POL-005-00257,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00257-SUB-01,ITM-POL-005-00257,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00258-01,ITM-POL-005-00258,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00258-SUB-01,ITM-POL-005-00258,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00259-01,ITM-POL-005-00259,tech_domain,TD-009,1,high,auto_mapped,score=16; subdomain=TSD-009-001
+PIT-ITM-POL-005-00259-SUB-01,ITM-POL-005-00259,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00260-01,ITM-POL-005-00260,tech_domain,TD-009,1,high,auto_mapped,score=16; subdomain=TSD-009-001
+PIT-ITM-POL-005-00260-SUB-01,ITM-POL-005-00260,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00261-01,ITM-POL-005-00261,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00261-SUB-01,ITM-POL-005-00261,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00262-01,ITM-POL-005-00262,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00262-SUB-01,ITM-POL-005-00262,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00263-01,ITM-POL-005-00263,tech_domain,TD-009,1,high,auto_mapped,score=19; subdomain=TSD-009-001
+PIT-ITM-POL-005-00263-SUB-01,ITM-POL-005-00263,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00264-01,ITM-POL-005-00264,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00264-SUB-01,ITM-POL-005-00264,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00265-01,ITM-POL-005-00265,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00265-SUB-01,ITM-POL-005-00265,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00265-02,ITM-POL-005-00265,tech_domain,TD-001,0,medium,auto_mapped,score=9; subdomain=TSD-001-001
+PIT-ITM-POL-005-00265-SUB-02,ITM-POL-005-00265,tech_subdomain,TSD-001-001,0,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-005-00266-01,ITM-POL-005-00266,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00266-SUB-01,ITM-POL-005-00266,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00267-01,ITM-POL-005-00267,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00267-SUB-01,ITM-POL-005-00267,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00268-01,ITM-POL-005-00268,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00268-SUB-01,ITM-POL-005-00268,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00269-01,ITM-POL-005-00269,tech_domain,TD-009,1,high,auto_mapped,score=19; subdomain=TSD-009-001
+PIT-ITM-POL-005-00269-SUB-01,ITM-POL-005-00269,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00270-01,ITM-POL-005-00270,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00270-SUB-01,ITM-POL-005-00270,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00271-01,ITM-POL-005-00271,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00271-SUB-01,ITM-POL-005-00271,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00272-01,ITM-POL-005-00272,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00272-SUB-01,ITM-POL-005-00272,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00272-02,ITM-POL-005-00272,tech_domain,TD-001,0,medium,auto_mapped,score=9; subdomain=TSD-001-001
+PIT-ITM-POL-005-00272-SUB-02,ITM-POL-005-00272,tech_subdomain,TSD-001-001,0,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-005-00273-01,ITM-POL-005-00273,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00273-SUB-01,ITM-POL-005-00273,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00274-01,ITM-POL-005-00274,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00274-SUB-01,ITM-POL-005-00274,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00275-01,ITM-POL-005-00275,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00275-SUB-01,ITM-POL-005-00275,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00276-01,ITM-POL-005-00276,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00276-SUB-01,ITM-POL-005-00276,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00277-01,ITM-POL-005-00277,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00277-SUB-01,ITM-POL-005-00277,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00278-01,ITM-POL-005-00278,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00278-SUB-01,ITM-POL-005-00278,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00279-01,ITM-POL-005-00279,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00279-SUB-01,ITM-POL-005-00279,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00280-01,ITM-POL-005-00280,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00280-SUB-01,ITM-POL-005-00280,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00281-01,ITM-POL-005-00281,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00281-SUB-01,ITM-POL-005-00281,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00282-01,ITM-POL-005-00282,tech_domain,TD-009,1,high,auto_mapped,score=16; subdomain=TSD-009-001
+PIT-ITM-POL-005-00282-SUB-01,ITM-POL-005-00282,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00283-01,ITM-POL-005-00283,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00283-SUB-01,ITM-POL-005-00283,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00284-01,ITM-POL-005-00284,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00284-SUB-01,ITM-POL-005-00284,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00285-01,ITM-POL-005-00285,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00285-SUB-01,ITM-POL-005-00285,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00286-01,ITM-POL-005-00286,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00286-SUB-01,ITM-POL-005-00286,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00287-01,ITM-POL-005-00287,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00287-SUB-01,ITM-POL-005-00287,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00288-01,ITM-POL-005-00288,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00288-SUB-01,ITM-POL-005-00288,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00289-01,ITM-POL-005-00289,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00289-SUB-01,ITM-POL-005-00289,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00290-01,ITM-POL-005-00290,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-002
+PIT-ITM-POL-005-00290-SUB-01,ITM-POL-005-00290,tech_subdomain,TSD-009-002,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00291-01,ITM-POL-005-00291,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00291-SUB-01,ITM-POL-005-00291,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00292-01,ITM-POL-005-00292,tech_domain,TD-009,1,high,auto_mapped,score=16; subdomain=TSD-009-001
+PIT-ITM-POL-005-00292-SUB-01,ITM-POL-005-00292,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00293-01,ITM-POL-005-00293,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00293-SUB-01,ITM-POL-005-00293,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00294-01,ITM-POL-005-00294,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00294-SUB-01,ITM-POL-005-00294,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00295-01,ITM-POL-005-00295,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00295-SUB-01,ITM-POL-005-00295,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00296-01,ITM-POL-005-00296,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00296-SUB-01,ITM-POL-005-00296,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00297-01,ITM-POL-005-00297,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00297-SUB-01,ITM-POL-005-00297,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00298-01,ITM-POL-005-00298,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-002
+PIT-ITM-POL-005-00298-SUB-01,ITM-POL-005-00298,tech_subdomain,TSD-009-002,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00299-01,ITM-POL-005-00299,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00299-SUB-01,ITM-POL-005-00299,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00300-01,ITM-POL-005-00300,tech_domain,TD-009,1,high,auto_mapped,score=16; subdomain=TSD-009-001
+PIT-ITM-POL-005-00300-SUB-01,ITM-POL-005-00300,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00301-01,ITM-POL-005-00301,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00301-SUB-01,ITM-POL-005-00301,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00302-01,ITM-POL-005-00302,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00302-SUB-01,ITM-POL-005-00302,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00303-01,ITM-POL-005-00303,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00303-SUB-01,ITM-POL-005-00303,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00304-01,ITM-POL-005-00304,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00304-SUB-01,ITM-POL-005-00304,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00305-01,ITM-POL-005-00305,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00305-SUB-01,ITM-POL-005-00305,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00306-01,ITM-POL-005-00306,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00306-SUB-01,ITM-POL-005-00306,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00307-01,ITM-POL-005-00307,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00307-SUB-01,ITM-POL-005-00307,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00308-01,ITM-POL-005-00308,tech_domain,TD-004,1,high,auto_mapped,score=11; subdomain=
+PIT-ITM-POL-005-00308-02,ITM-POL-005-00308,tech_domain,TD-009,0,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00308-SUB-02,ITM-POL-005-00308,tech_subdomain,TSD-009-001,0,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00309-01,ITM-POL-005-00309,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00309-SUB-01,ITM-POL-005-00309,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00310-01,ITM-POL-005-00310,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00310-SUB-01,ITM-POL-005-00310,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00311-01,ITM-POL-005-00311,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00311-SUB-01,ITM-POL-005-00311,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00312-01,ITM-POL-005-00312,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00312-SUB-01,ITM-POL-005-00312,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00313-01,ITM-POL-005-00313,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00313-SUB-01,ITM-POL-005-00313,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00314-01,ITM-POL-005-00314,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00314-SUB-01,ITM-POL-005-00314,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00315-01,ITM-POL-005-00315,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00315-SUB-01,ITM-POL-005-00315,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00316-01,ITM-POL-005-00316,tech_domain,TD-009,1,high,auto_mapped,score=10; subdomain=TSD-009-001
+PIT-ITM-POL-005-00316-SUB-01,ITM-POL-005-00316,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-005-00317-01,ITM-POL-005-00317,tech_domain,TD-009,1,high,auto_mapped,score=13; subdomain=TSD-009-001
+PIT-ITM-POL-005-00317-SUB-01,ITM-POL-005-00317,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-006-00318-01,ITM-POL-006-00318,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00318-SUB-01,ITM-POL-006-00318,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00319-01,ITM-POL-006-00319,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00319-SUB-01,ITM-POL-006-00319,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00319-02,ITM-POL-006-00319,tech_domain,TD-009,0,medium,auto_mapped,score=9; subdomain=TSD-009-001
+PIT-ITM-POL-006-00319-SUB-02,ITM-POL-006-00319,tech_subdomain,TSD-009-001,0,medium,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-006-00320-01,ITM-POL-006-00320,tech_domain,TD-008,1,high,auto_mapped,score=13; subdomain=TSD-008-001
+PIT-ITM-POL-006-00320-SUB-01,ITM-POL-006-00320,tech_subdomain,TSD-008-001,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00321-01,ITM-POL-006-00321,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00321-SUB-01,ITM-POL-006-00321,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00322-01,ITM-POL-006-00322,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00322-SUB-01,ITM-POL-006-00322,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00323-01,ITM-POL-006-00323,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00323-SUB-01,ITM-POL-006-00323,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00324-01,ITM-POL-006-00324,tech_domain,TD-008,1,high,auto_mapped,score=13; subdomain=TSD-008-001
+PIT-ITM-POL-006-00324-SUB-01,ITM-POL-006-00324,tech_subdomain,TSD-008-001,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00325-01,ITM-POL-006-00325,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-001
+PIT-ITM-POL-006-00325-SUB-01,ITM-POL-006-00325,tech_subdomain,TSD-008-001,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00325-02,ITM-POL-006-00325,tech_domain,TD-009,0,medium,auto_mapped,score=9; subdomain=TSD-009-001
+PIT-ITM-POL-006-00325-SUB-02,ITM-POL-006-00325,tech_subdomain,TSD-009-001,0,medium,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-006-00326-01,ITM-POL-006-00326,tech_domain,TD-009,1,high,auto_mapped,score=12; subdomain=TSD-009-001
+PIT-ITM-POL-006-00326-SUB-01,ITM-POL-006-00326,tech_subdomain,TSD-009-001,1,high,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-006-00326-02,ITM-POL-006-00326,tech_domain,TD-008,0,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00326-SUB-02,ITM-POL-006-00326,tech_subdomain,TSD-008-006,0,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00327-01,ITM-POL-006-00327,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00327-SUB-01,ITM-POL-006-00327,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00328-01,ITM-POL-006-00328,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-002
+PIT-ITM-POL-006-00328-SUB-01,ITM-POL-006-00328,tech_subdomain,TSD-008-002,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00329-01,ITM-POL-006-00329,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00329-SUB-01,ITM-POL-006-00329,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00330-01,ITM-POL-006-00330,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00330-SUB-01,ITM-POL-006-00330,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00331-01,ITM-POL-006-00331,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00331-SUB-01,ITM-POL-006-00331,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00332-01,ITM-POL-006-00332,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00332-SUB-01,ITM-POL-006-00332,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00333-01,ITM-POL-006-00333,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00333-SUB-01,ITM-POL-006-00333,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00334-01,ITM-POL-006-00334,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00334-SUB-01,ITM-POL-006-00334,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00335-01,ITM-POL-006-00335,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00335-SUB-01,ITM-POL-006-00335,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00336-01,ITM-POL-006-00336,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00336-SUB-01,ITM-POL-006-00336,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00337-01,ITM-POL-006-00337,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00337-SUB-01,ITM-POL-006-00337,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00338-01,ITM-POL-006-00338,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-003
+PIT-ITM-POL-006-00338-SUB-01,ITM-POL-006-00338,tech_subdomain,TSD-008-003,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00339-01,ITM-POL-006-00339,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00339-SUB-01,ITM-POL-006-00339,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00340-01,ITM-POL-006-00340,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00340-SUB-01,ITM-POL-006-00340,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00341-01,ITM-POL-006-00341,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-003
+PIT-ITM-POL-006-00341-SUB-01,ITM-POL-006-00341,tech_subdomain,TSD-008-003,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00342-01,ITM-POL-006-00342,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00342-SUB-01,ITM-POL-006-00342,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00343-01,ITM-POL-006-00343,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00343-SUB-01,ITM-POL-006-00343,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00344-01,ITM-POL-006-00344,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-005
+PIT-ITM-POL-006-00344-SUB-01,ITM-POL-006-00344,tech_subdomain,TSD-008-005,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00345-01,ITM-POL-006-00345,tech_domain,TD-008,1,high,auto_mapped,score=13; subdomain=TSD-008-006
+PIT-ITM-POL-006-00345-SUB-01,ITM-POL-006-00345,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00346-01,ITM-POL-006-00346,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00346-SUB-01,ITM-POL-006-00346,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00347-01,ITM-POL-006-00347,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00347-SUB-01,ITM-POL-006-00347,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00348-01,ITM-POL-006-00348,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00348-SUB-01,ITM-POL-006-00348,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00349-01,ITM-POL-006-00349,tech_domain,TD-008,1,high,auto_mapped,score=13; subdomain=TSD-008-006
+PIT-ITM-POL-006-00349-SUB-01,ITM-POL-006-00349,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00350-01,ITM-POL-006-00350,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-005
+PIT-ITM-POL-006-00350-SUB-01,ITM-POL-006-00350,tech_subdomain,TSD-008-005,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00351-01,ITM-POL-006-00351,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00351-SUB-01,ITM-POL-006-00351,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00352-01,ITM-POL-006-00352,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00352-SUB-01,ITM-POL-006-00352,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00353-01,ITM-POL-006-00353,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00353-SUB-01,ITM-POL-006-00353,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00354-01,ITM-POL-006-00354,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00354-SUB-01,ITM-POL-006-00354,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00355-01,ITM-POL-006-00355,tech_domain,TD-008,1,high,auto_mapped,score=13; subdomain=TSD-008-006
+PIT-ITM-POL-006-00355-SUB-01,ITM-POL-006-00355,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00356-01,ITM-POL-006-00356,tech_domain,TD-008,1,high,auto_mapped,score=13; subdomain=TSD-008-001
+PIT-ITM-POL-006-00356-SUB-01,ITM-POL-006-00356,tech_subdomain,TSD-008-001,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00357-01,ITM-POL-006-00357,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00357-SUB-01,ITM-POL-006-00357,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00358-01,ITM-POL-006-00358,tech_domain,TD-008,1,high,auto_mapped,score=13; subdomain=TSD-008-001
+PIT-ITM-POL-006-00358-SUB-01,ITM-POL-006-00358,tech_subdomain,TSD-008-001,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00359-01,ITM-POL-006-00359,tech_domain,TD-001,1,high,auto_mapped,score=14; subdomain=TSD-001-007
+PIT-ITM-POL-006-00359-SUB-01,ITM-POL-006-00359,tech_subdomain,TSD-001-007,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-006-00360-01,ITM-POL-006-00360,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00360-SUB-01,ITM-POL-006-00360,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00361-01,ITM-POL-006-00361,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00361-SUB-01,ITM-POL-006-00361,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00362-01,ITM-POL-006-00362,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00362-SUB-01,ITM-POL-006-00362,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00363-01,ITM-POL-006-00363,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00363-SUB-01,ITM-POL-006-00363,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00364-01,ITM-POL-006-00364,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00364-SUB-01,ITM-POL-006-00364,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00365-01,ITM-POL-006-00365,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00365-SUB-01,ITM-POL-006-00365,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00366-01,ITM-POL-006-00366,tech_domain,TD-008,1,high,auto_mapped,score=13; subdomain=TSD-008-006
+PIT-ITM-POL-006-00366-SUB-01,ITM-POL-006-00366,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00367-01,ITM-POL-006-00367,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00367-SUB-01,ITM-POL-006-00367,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00368-01,ITM-POL-006-00368,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00368-SUB-01,ITM-POL-006-00368,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00369-01,ITM-POL-006-00369,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00369-SUB-01,ITM-POL-006-00369,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00369-02,ITM-POL-006-00369,tech_domain,TD-009,0,medium,auto_mapped,score=9; subdomain=TSD-009-001
+PIT-ITM-POL-006-00369-SUB-02,ITM-POL-006-00369,tech_subdomain,TSD-009-001,0,medium,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-006-00370-01,ITM-POL-006-00370,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00370-SUB-01,ITM-POL-006-00370,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00370-02,ITM-POL-006-00370,tech_domain,TD-009,0,medium,auto_mapped,score=9; subdomain=TSD-009-001
+PIT-ITM-POL-006-00370-SUB-02,ITM-POL-006-00370,tech_subdomain,TSD-009-001,0,medium,auto_mapped,derived_from=TD-009
+PIT-ITM-POL-006-00371-01,ITM-POL-006-00371,tech_domain,TD-008,1,high,auto_mapped,score=13; subdomain=TSD-008-006
+PIT-ITM-POL-006-00371-SUB-01,ITM-POL-006-00371,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00372-01,ITM-POL-006-00372,tech_domain,TD-008,1,high,auto_mapped,score=13; subdomain=TSD-008-006
+PIT-ITM-POL-006-00372-SUB-01,ITM-POL-006-00372,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00373-01,ITM-POL-006-00373,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00373-SUB-01,ITM-POL-006-00373,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00374-01,ITM-POL-006-00374,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00374-SUB-01,ITM-POL-006-00374,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00375-01,ITM-POL-006-00375,tech_domain,TD-008,1,high,auto_mapped,score=13; subdomain=TSD-008-006
+PIT-ITM-POL-006-00375-SUB-01,ITM-POL-006-00375,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00376-01,ITM-POL-006-00376,tech_domain,TD-008,1,high,auto_mapped,score=13; subdomain=TSD-008-006
+PIT-ITM-POL-006-00376-SUB-01,ITM-POL-006-00376,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00377-01,ITM-POL-006-00377,tech_domain,TD-008,1,high,auto_mapped,score=13; subdomain=TSD-008-006
+PIT-ITM-POL-006-00377-SUB-01,ITM-POL-006-00377,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00378-01,ITM-POL-006-00378,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00378-SUB-01,ITM-POL-006-00378,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00379-01,ITM-POL-006-00379,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00379-SUB-01,ITM-POL-006-00379,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-006-00380-01,ITM-POL-006-00380,tech_domain,TD-008,1,high,auto_mapped,score=10; subdomain=TSD-008-006
+PIT-ITM-POL-006-00380-SUB-01,ITM-POL-006-00380,tech_subdomain,TSD-008-006,1,high,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-007-00459-01,ITM-POL-007-00459,tech_domain,TD-010,1,high,auto_mapped,score=11; subdomain=TSD-010-004
+PIT-ITM-POL-007-00459-SUB-01,ITM-POL-007-00459,tech_subdomain,TSD-010-004,1,high,auto_mapped,derived_from=TD-010
+PIT-ITM-POL-007-00491-01,ITM-POL-007-00491,tech_domain,TD-005,1,high,auto_mapped,score=11; subdomain=
+PIT-ITM-POL-008-00523-01,ITM-POL-008-00523,tech_domain,TD-005,1,high,auto_mapped,score=11; subdomain=
+PIT-ITM-POL-009-00569-01,ITM-POL-009-00569,tech_domain,TD-005,1,high,auto_mapped,score=11; subdomain=
+PIT-ITM-POL-009-00593-01,ITM-POL-009-00593,tech_domain,TD-001,1,medium,auto_mapped,score=6; subdomain=TSD-001-005
+PIT-ITM-POL-009-00593-SUB-01,ITM-POL-009-00593,tech_subdomain,TSD-001-005,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-009-00597-01,ITM-POL-009-00597,tech_domain,TD-002,1,high,auto_mapped,score=11; subdomain=
+PIT-ITM-POL-009-00600-01,ITM-POL-009-00600,tech_domain,TD-003,1,high,auto_mapped,score=14; subdomain=
+PIT-ITM-POL-010-00658-01,ITM-POL-010-00658,tech_domain,TD-005,1,high,auto_mapped,score=11; subdomain=
+PIT-ITM-POL-010-00685-01,ITM-POL-010-00685,tech_domain,TD-005,1,high,auto_mapped,score=11; subdomain=
+PIT-ITM-POL-010-00741-01,ITM-POL-010-00741,tech_domain,TD-001,1,medium,auto_mapped,score=6; subdomain=TSD-001-007
+PIT-ITM-POL-010-00741-SUB-01,ITM-POL-010-00741,tech_subdomain,TSD-001-007,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-010-00759-01,ITM-POL-010-00759,tech_domain,TD-005,1,high,auto_mapped,score=11; subdomain=
+PIT-ITM-POL-011-00815-01,ITM-POL-011-00815,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-011-00815-SUB-01,ITM-POL-011-00815,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00816-01,ITM-POL-011-00816,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-011-00816-SUB-01,ITM-POL-011-00816,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00817-01,ITM-POL-011-00817,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-003
+PIT-ITM-POL-011-00817-SUB-01,ITM-POL-011-00817,tech_subdomain,TSD-001-003,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00818-01,ITM-POL-011-00818,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-011-00818-SUB-01,ITM-POL-011-00818,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00819-01,ITM-POL-011-00819,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-003
+PIT-ITM-POL-011-00819-SUB-01,ITM-POL-011-00819,tech_subdomain,TSD-001-003,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00820-01,ITM-POL-011-00820,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-005
+PIT-ITM-POL-011-00820-SUB-01,ITM-POL-011-00820,tech_subdomain,TSD-001-005,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00821-01,ITM-POL-011-00821,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-011-00821-SUB-01,ITM-POL-011-00821,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00822-01,ITM-POL-011-00822,tech_domain,TD-001,1,high,auto_mapped,score=13; subdomain=TSD-001-005
+PIT-ITM-POL-011-00822-SUB-01,ITM-POL-011-00822,tech_subdomain,TSD-001-005,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00823-01,ITM-POL-011-00823,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-008
+PIT-ITM-POL-011-00823-SUB-01,ITM-POL-011-00823,tech_subdomain,TSD-001-008,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00824-01,ITM-POL-011-00824,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-007
+PIT-ITM-POL-011-00824-SUB-01,ITM-POL-011-00824,tech_subdomain,TSD-001-007,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00825-01,ITM-POL-011-00825,tech_domain,TD-001,1,high,auto_mapped,score=13; subdomain=TSD-001-005
+PIT-ITM-POL-011-00825-SUB-01,ITM-POL-011-00825,tech_subdomain,TSD-001-005,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00826-01,ITM-POL-011-00826,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-008
+PIT-ITM-POL-011-00826-SUB-01,ITM-POL-011-00826,tech_subdomain,TSD-001-008,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00827-01,ITM-POL-011-00827,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-007
+PIT-ITM-POL-011-00827-SUB-01,ITM-POL-011-00827,tech_subdomain,TSD-001-007,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00828-01,ITM-POL-011-00828,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-008
+PIT-ITM-POL-011-00828-SUB-01,ITM-POL-011-00828,tech_subdomain,TSD-001-008,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00829-01,ITM-POL-011-00829,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-005
+PIT-ITM-POL-011-00829-SUB-01,ITM-POL-011-00829,tech_subdomain,TSD-001-005,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00830-01,ITM-POL-011-00830,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-005
+PIT-ITM-POL-011-00830-SUB-01,ITM-POL-011-00830,tech_subdomain,TSD-001-005,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00831-01,ITM-POL-011-00831,tech_domain,TD-001,1,high,auto_mapped,score=13; subdomain=TSD-001-004
+PIT-ITM-POL-011-00831-SUB-01,ITM-POL-011-00831,tech_subdomain,TSD-001-004,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00832-01,ITM-POL-011-00832,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-007
+PIT-ITM-POL-011-00832-SUB-01,ITM-POL-011-00832,tech_subdomain,TSD-001-007,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00833-01,ITM-POL-011-00833,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-007
+PIT-ITM-POL-011-00833-SUB-01,ITM-POL-011-00833,tech_subdomain,TSD-001-007,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00834-01,ITM-POL-011-00834,tech_domain,TD-001,1,high,auto_mapped,score=13; subdomain=TSD-001-001
+PIT-ITM-POL-011-00834-SUB-01,ITM-POL-011-00834,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00835-01,ITM-POL-011-00835,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-003
+PIT-ITM-POL-011-00835-SUB-01,ITM-POL-011-00835,tech_subdomain,TSD-001-003,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00836-01,ITM-POL-011-00836,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-007
+PIT-ITM-POL-011-00836-SUB-01,ITM-POL-011-00836,tech_subdomain,TSD-001-007,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00837-01,ITM-POL-011-00837,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-007
+PIT-ITM-POL-011-00837-SUB-01,ITM-POL-011-00837,tech_subdomain,TSD-001-007,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00838-01,ITM-POL-011-00838,tech_domain,TD-001,1,high,auto_mapped,score=13; subdomain=TSD-001-001
+PIT-ITM-POL-011-00838-SUB-01,ITM-POL-011-00838,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00839-01,ITM-POL-011-00839,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-011-00839-SUB-01,ITM-POL-011-00839,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00840-01,ITM-POL-011-00840,tech_domain,TD-001,1,high,auto_mapped,score=16; subdomain=TSD-001-005
+PIT-ITM-POL-011-00840-SUB-01,ITM-POL-011-00840,tech_subdomain,TSD-001-005,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00841-01,ITM-POL-011-00841,tech_domain,TD-001,1,high,auto_mapped,score=16; subdomain=TSD-001-007
+PIT-ITM-POL-011-00841-SUB-01,ITM-POL-011-00841,tech_subdomain,TSD-001-007,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00842-01,ITM-POL-011-00842,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-001
+PIT-ITM-POL-011-00842-SUB-01,ITM-POL-011-00842,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00843-01,ITM-POL-011-00843,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-008
+PIT-ITM-POL-011-00843-SUB-01,ITM-POL-011-00843,tech_subdomain,TSD-001-008,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00844-01,ITM-POL-011-00844,tech_domain,TD-001,1,high,auto_mapped,score=13; subdomain=TSD-001-005
+PIT-ITM-POL-011-00844-SUB-01,ITM-POL-011-00844,tech_subdomain,TSD-001-005,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00845-01,ITM-POL-011-00845,tech_domain,TD-001,1,high,auto_mapped,score=13; subdomain=TSD-001-001
+PIT-ITM-POL-011-00845-SUB-01,ITM-POL-011-00845,tech_subdomain,TSD-001-001,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00846-01,ITM-POL-011-00846,tech_domain,TD-001,1,high,auto_mapped,score=10; subdomain=TSD-001-008
+PIT-ITM-POL-011-00846-SUB-01,ITM-POL-011-00846,tech_subdomain,TSD-001-008,1,high,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00847-01,ITM-POL-011-00847,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-007
+PIT-ITM-POL-011-00847-SUB-01,ITM-POL-011-00847,tech_subdomain,TSD-001-007,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00848-01,ITM-POL-011-00848,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-008
+PIT-ITM-POL-011-00848-SUB-01,ITM-POL-011-00848,tech_subdomain,TSD-001-008,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-011-00849-01,ITM-POL-011-00849,tech_domain,TD-001,1,medium,auto_mapped,score=7; subdomain=TSD-001-008
+PIT-ITM-POL-011-00849-SUB-01,ITM-POL-011-00849,tech_subdomain,TSD-001-008,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-012-00855-01,ITM-POL-012-00855,tech_domain,TD-011,1,medium,auto_mapped,score=6; subdomain=TSD-011-001
+PIT-ITM-POL-012-00855-SUB-01,ITM-POL-012-00855,tech_subdomain,TSD-011-001,1,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-012-00865-01,ITM-POL-012-00865,tech_domain,TD-011,1,medium,auto_mapped,score=6; subdomain=TSD-011-001
+PIT-ITM-POL-012-00865-SUB-01,ITM-POL-012-00865,tech_subdomain,TSD-011-001,1,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-012-00868-01,ITM-POL-012-00868,tech_domain,TD-008,1,medium,auto_mapped,score=6; subdomain=TSD-008-006
+PIT-ITM-POL-012-00868-SUB-01,ITM-POL-012-00868,tech_subdomain,TSD-008-006,1,medium,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-012-00869-01,ITM-POL-012-00869,tech_domain,TD-008,1,medium,auto_mapped,score=6; subdomain=TSD-008-006
+PIT-ITM-POL-012-00869-SUB-01,ITM-POL-012-00869,tech_subdomain,TSD-008-006,1,medium,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-012-00870-01,ITM-POL-012-00870,tech_domain,TD-008,1,medium,auto_mapped,score=6; subdomain=TSD-008-006
+PIT-ITM-POL-012-00870-SUB-01,ITM-POL-012-00870,tech_subdomain,TSD-008-006,1,medium,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-012-00878-01,ITM-POL-012-00878,tech_domain,TD-011,1,medium,auto_mapped,score=6; subdomain=TSD-011-002
+PIT-ITM-POL-012-00878-SUB-01,ITM-POL-012-00878,tech_subdomain,TSD-011-002,1,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-012-00892-01,ITM-POL-012-00892,tech_domain,TD-002,1,high,auto_mapped,score=11; subdomain=
+PIT-ITM-POL-012-00903-01,ITM-POL-012-00903,tech_domain,TD-011,1,medium,auto_mapped,score=6; subdomain=TSD-011-002
+PIT-ITM-POL-012-00903-SUB-01,ITM-POL-012-00903,tech_subdomain,TSD-011-002,1,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-012-00904-01,ITM-POL-012-00904,tech_domain,TD-002,1,high,auto_mapped,score=11; subdomain=
+PIT-ITM-POL-012-00905-01,ITM-POL-012-00905,tech_domain,TD-011,1,medium,auto_mapped,score=6; subdomain=TSD-011-001
+PIT-ITM-POL-012-00905-SUB-01,ITM-POL-012-00905,tech_subdomain,TSD-011-001,1,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-012-00906-01,ITM-POL-012-00906,tech_domain,TD-008,1,medium,auto_mapped,score=6; subdomain=TSD-008-006
+PIT-ITM-POL-012-00906-SUB-01,ITM-POL-012-00906,tech_subdomain,TSD-008-006,1,medium,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-012-00922-01,ITM-POL-012-00922,tech_domain,TD-011,1,medium,auto_mapped,score=6; subdomain=TSD-011-006
+PIT-ITM-POL-012-00922-SUB-01,ITM-POL-012-00922,tech_subdomain,TSD-011-006,1,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-012-00931-01,ITM-POL-012-00931,tech_domain,TD-011,1,medium,auto_mapped,score=9; subdomain=TSD-011-003
+PIT-ITM-POL-012-00931-SUB-01,ITM-POL-012-00931,tech_subdomain,TSD-011-003,1,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-012-00939-01,ITM-POL-012-00939,tech_domain,TD-001,1,medium,auto_mapped,score=6; subdomain=TSD-001-006
+PIT-ITM-POL-012-00939-SUB-01,ITM-POL-012-00939,tech_subdomain,TSD-001-006,1,medium,auto_mapped,derived_from=TD-001
+PIT-ITM-POL-012-00939-02,ITM-POL-012-00939,tech_domain,TD-008,0,medium,auto_mapped,score=6; subdomain=TSD-008-006
+PIT-ITM-POL-012-00939-SUB-02,ITM-POL-012-00939,tech_subdomain,TSD-008-006,0,medium,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-012-00947-01,ITM-POL-012-00947,tech_domain,TD-005,1,medium,auto_mapped,score=6; subdomain=TSD-005-005
+PIT-ITM-POL-012-00947-SUB-01,ITM-POL-012-00947,tech_subdomain,TSD-005-005,1,medium,auto_mapped,derived_from=TD-005
+PIT-ITM-POL-012-00947-02,ITM-POL-012-00947,tech_domain,TD-011,0,medium,auto_mapped,score=6; subdomain=TSD-011-002
+PIT-ITM-POL-012-00947-SUB-02,ITM-POL-012-00947,tech_subdomain,TSD-011-002,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-012-00948-01,ITM-POL-012-00948,tech_domain,TD-011,1,medium,auto_mapped,score=6; subdomain=TSD-011-001
+PIT-ITM-POL-012-00948-SUB-01,ITM-POL-012-00948,tech_subdomain,TSD-011-001,1,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-012-00949-01,ITM-POL-012-00949,tech_domain,TD-005,1,high,auto_mapped,score=11; subdomain=
+PIT-ITM-POL-012-00950-01,ITM-POL-012-00950,tech_domain,TD-005,1,high,auto_mapped,score=11; subdomain=
+PIT-ITM-POL-012-00951-01,ITM-POL-012-00951,tech_domain,TD-002,1,high,auto_mapped,score=11; subdomain=
+PIT-ITM-POL-012-00961-01,ITM-POL-012-00961,tech_domain,TD-011,1,medium,auto_mapped,score=6; subdomain=TSD-011-001
+PIT-ITM-POL-012-00961-SUB-01,ITM-POL-012-00961,tech_subdomain,TSD-011-001,1,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-012-00971-01,ITM-POL-012-00971,tech_domain,TD-011,1,medium,auto_mapped,score=6; subdomain=TSD-011-003
+PIT-ITM-POL-012-00971-SUB-01,ITM-POL-012-00971,tech_subdomain,TSD-011-003,1,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-012-00984-01,ITM-POL-012-00984,tech_domain,TD-011,1,medium,auto_mapped,score=6; subdomain=
+PIT-ITM-POL-012-01008-01,ITM-POL-012-01008,tech_domain,TD-011,1,medium,auto_mapped,score=6; subdomain=TSD-011-001
+PIT-ITM-POL-012-01008-SUB-01,ITM-POL-012-01008,tech_subdomain,TSD-011-001,1,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-012-01029-01,ITM-POL-012-01029,tech_domain,TD-008,1,medium,auto_mapped,score=6; subdomain=TSD-008-006
+PIT-ITM-POL-012-01029-SUB-01,ITM-POL-012-01029,tech_subdomain,TSD-008-006,1,medium,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-012-01029-02,ITM-POL-012-01029,tech_domain,TD-011,0,medium,auto_mapped,score=6; subdomain=TSD-011-005
+PIT-ITM-POL-012-01029-SUB-02,ITM-POL-012-01029,tech_subdomain,TSD-011-005,0,medium,auto_mapped,derived_from=TD-011
+PIT-ITM-POL-012-01034-01,ITM-POL-012-01034,tech_domain,TD-008,1,medium,auto_mapped,score=6; subdomain=TSD-008-006
+PIT-ITM-POL-012-01034-SUB-01,ITM-POL-012-01034,tech_subdomain,TSD-008-006,1,medium,auto_mapped,derived_from=TD-008
+PIT-ITM-POL-012-01034-02,ITM-POL-012-01034,tech_domain,TD-011,0,medium,auto_mapped,score=6; subdomain=TSD-011-002
+PIT-ITM-POL-012-01034-SUB-02,ITM-POL-012-01034,tech_subdomain,TSD-011-002,0,medium,auto_mapped,derived_from=TD-011

@@ -1,0 +1,3305 @@
+@prefix po: <https://example.org/kr-msit-policy/ontology#> .
+@prefix res: <https://example.org/kr-msit-policy/resource/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://example.org/kr-msit-policy/resource/scheme/resource-categories>
+  a skos:ConceptScheme ;
+    skos:prefLabel "Resource Categories" .
+
+<https://example.org/kr-msit-policy/resource/scheme/strategies>
+  a skos:ConceptScheme ;
+    skos:prefLabel "Strategies" .
+
+<https://example.org/kr-msit-policy/resource/scheme/tech-domains>
+  a skos:ConceptScheme ;
+    skos:prefLabel "Technology Domains" .
+
+<https://example.org/kr-msit-policy/resource/scheme/tech-subdomains>
+  a skos:ConceptScheme ;
+    skos:prefLabel "Technology Subdomains" .
+
+<https://example.org/kr-msit-policy/resource/resource-category/technology>
+  a po:ResourceCategory, skos:Concept ;
+    dct:identifier "technology" ;
+    skos:prefLabel "기술" ;
+    po:descriptionText "기술 개발, 상용화, 실증, 제품화, 핵심 기술 확보 관련 항목" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/resource-categories> .
+
+<https://example.org/kr-msit-policy/resource/resource-category/infrastructure_institutional>
+  a po:ResourceCategory, skos:Concept ;
+    dct:identifier "infrastructure_institutional" ;
+    skos:prefLabel "인프라·제도" ;
+    po:descriptionText "플랫폼, 데이터, 장비, 실증환경, 거버넌스, 제도 개선, 재정·금융 지원 관련 항목" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/resource-categories> .
+
+<https://example.org/kr-msit-policy/resource/resource-category/talent>
+  a po:ResourceCategory, skos:Concept ;
+    dct:identifier "talent" ;
+    skos:prefLabel "인재" ;
+    po:descriptionText "인력양성, 교육, 연구인력 확보, 전문인력 유치 관련 항목" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/resource-categories> .
+
+<https://example.org/kr-msit-policy/resource/strategy/STR-001>
+  a po:Strategy, skos:Concept ;
+    dct:identifier "STR-001" ;
+    skos:prefLabel "AI G3 도약 및 전 산업 AX 확산" ;
+    po:descriptionText "독자 AI 모델, 공공·산업 AX, AI 컴퓨팅과 데이터 인프라 확산 전략." ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/strategies> .
+
+<https://example.org/kr-msit-policy/resource/strategy/STR-002>
+  a po:Strategy, skos:Concept ;
+    dct:identifier "STR-002" ;
+    skos:prefLabel "초격차 전략기술 확보 (반도체·이차전지)" ;
+    po:descriptionText "AI반도체, 첨단 패키징, 차세대 반도체와 이차전지 등 초격차 전략기술 확보 전략." ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/strategies> .
+
+<https://example.org/kr-msit-policy/resource/strategy/STR-003>
+  a po:Strategy, skos:Concept ;
+    dct:identifier "STR-003" ;
+    skos:prefLabel "바이오·헬스 글로벌 중심국가 도약" ;
+    po:descriptionText "AI 바이오, 신약 개발, 바이오 제조, 글로벌 상업화를 포함하는 바이오·헬스 전략." ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/strategies> .
+
+<https://example.org/kr-msit-policy/resource/strategy/STR-004>
+  a po:Strategy, skos:Concept ;
+    dct:identifier "STR-004" ;
+    skos:prefLabel "차세대 네트워크(6G) 및 지능형 인프라" ;
+    po:descriptionText "6G, AI 네트워크, 오픈랜, 국가 AI 고속도로와 지능형 네트워크 인프라 전략." ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/strategies> .
+
+<https://example.org/kr-msit-policy/resource/strategy/STR-005>
+  a po:Strategy, skos:Concept ;
+    dct:identifier "STR-005" ;
+    skos:prefLabel "우주항공 및 해양 기술주권 확보" ;
+    po:descriptionText "초고해상도 위성, 우주항공, 자율운항선박과 해양 분야 기술주권 전략." ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/strategies> .
+
+<https://example.org/kr-msit-policy/resource/strategy/STR-006>
+  a po:Strategy, skos:Concept ;
+    dct:identifier "STR-006" ;
+    skos:prefLabel "탄소중립 및 에너지 안보 (수소·SMR)" ;
+    po:descriptionText "그린수소, SMR, 해상풍력, HVDC, 태양광, 전력망을 포함하는 에너지 전환 전략." ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/strategies> .
+
+<https://example.org/kr-msit-policy/resource/strategy/STR-007>
+  a po:Strategy, skos:Concept ;
+    dct:identifier "STR-007" ;
+    skos:prefLabel "양자 정보통신 및 미래소재 선점" ;
+    po:descriptionText "양자 정보통신, 그래핀, 초전도, 차세대 소재 선점 전략." ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/strategies> .
+
+<https://example.org/kr-msit-policy/resource/strategy/STR-008>
+  a po:Strategy, skos:Concept ;
+    dct:identifier "STR-008" ;
+    skos:prefLabel "피지컬 AI 및 지능형 로봇 산업 육성" ;
+    po:descriptionText "피지컬 AI, 온디바이스 AI, 휴머노이드, 산업·서비스 로봇 생태계 육성 전략." ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/strategies> .
+
+<https://example.org/kr-msit-policy/resource/strategy/STR-009>
+  a po:Strategy, skos:Concept ;
+    dct:identifier "STR-009" ;
+    skos:prefLabel "미래 모빌리티(자율주행·UAM)" ;
+    po:descriptionText "자율주행, SDV, 차량용 반도체, UAM 등 미래 모빌리티 전환 전략." ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/strategies> .
+
+<https://example.org/kr-msit-policy/resource/strategy/STR-010>
+  a po:Strategy, skos:Concept ;
+    dct:identifier "STR-010" ;
+    skos:prefLabel "디지털 헬스케어 서비스 혁신" ;
+    po:descriptionText "K-디지털헬스케어, 의료 AI·의료기기, 비대면 진료, 해외 실증·인허가 지원을 묶는 임시 전략 라벨." ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/strategies> .
+
+<https://example.org/kr-msit-policy/resource/strategy/STR-011>
+  a po:Strategy, skos:Concept ;
+    dct:identifier "STR-011" ;
+    skos:prefLabel "디지털 콘텐츠 및 K-컬처 혁신" ;
+    po:descriptionText "AI 콘텐츠 제작, 게임·웹툰·영상·음악 등 K-콘텐츠 글로벌 경쟁력 강화 전략." ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/strategies> .
+
+<https://example.org/kr-msit-policy/resource/strategy/STR-012>
+  a po:Strategy, skos:Concept ;
+    dct:identifier "STR-012" ;
+    skos:prefLabel "스마트 농업 및 수산업 기술" ;
+    po:descriptionText "스마트농업, 스마트양식, 정밀 데이터 기반 농수산 기술과 식량안보 대응 전략." ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/strategies> .
+
+<https://example.org/kr-msit-policy/resource/strategy/STR-013>
+  a po:Strategy, skos:Concept ;
+    dct:identifier "STR-013" ;
+    skos:prefLabel "디지털 트윈 및 가상화 공정 혁신" ;
+    po:descriptionText "제조AX, AI 팩토리, 공정 혁신, 디지털 트윈과 가상화 기반 산업 혁신 전략." ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/strategies> .
+
+<https://example.org/kr-msit-policy/resource/strategy/STR-014>
+  a po:Strategy, skos:Concept ;
+    dct:identifier "STR-014" ;
+    skos:prefLabel "핵심 전략기술 자립 (LNG화물창·특수강)" ;
+    po:descriptionText "LNG 화물창, 특수탄소강 등 제조·소재 분야 전략기술 자립화 전략." ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/strategies> .
+
+<https://example.org/kr-msit-policy/resource/strategy/STR-015>
+  a po:Strategy, skos:Concept ;
+    dct:identifier "STR-015" ;
+    skos:prefLabel "감염병 대응 및 공중보건 기술 자립" ;
+    po:descriptionText "백신, mRNA, 감염병 대응, 공중보건 기술 자립과 보건안보 강화 전략." ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/strategies> .
+
+<https://example.org/kr-msit-policy/resource/tech-domain/TD-001>
+  a po:TechnologyDomain, skos:Concept ;
+    dct:identifier "TD-001" ;
+    skos:prefLabel "인공지능" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-domains> .
+
+<https://example.org/kr-msit-policy/resource/tech-domain/TD-002>
+  a po:TechnologyDomain, skos:Concept ;
+    dct:identifier "TD-002" ;
+    skos:prefLabel "에너지" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-domains> .
+
+<https://example.org/kr-msit-policy/resource/tech-domain/TD-003>
+  a po:TechnologyDomain, skos:Concept ;
+    dct:identifier "TD-003" ;
+    skos:prefLabel "이차전지" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-domains> .
+
+<https://example.org/kr-msit-policy/resource/tech-domain/TD-004>
+  a po:TechnologyDomain, skos:Concept ;
+    dct:identifier "TD-004" ;
+    skos:prefLabel "국방" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-domains> .
+
+<https://example.org/kr-msit-policy/resource/tech-domain/TD-005>
+  a po:TechnologyDomain, skos:Concept ;
+    dct:identifier "TD-005" ;
+    skos:prefLabel "소재" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-domains> .
+
+<https://example.org/kr-msit-policy/resource/tech-domain/TD-006>
+  a po:TechnologyDomain, skos:Concept ;
+    dct:identifier "TD-006" ;
+    skos:prefLabel "사이버보안" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-domains> .
+
+<https://example.org/kr-msit-policy/resource/tech-domain/TD-007>
+  a po:TechnologyDomain, skos:Concept ;
+    dct:identifier "TD-007" ;
+    skos:prefLabel "차세대통신" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-domains> .
+
+<https://example.org/kr-msit-policy/resource/tech-domain/TD-008>
+  a po:TechnologyDomain, skos:Concept ;
+    dct:identifier "TD-008" ;
+    skos:prefLabel "첨단로봇제조" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-domains> .
+
+<https://example.org/kr-msit-policy/resource/tech-domain/TD-009>
+  a po:TechnologyDomain, skos:Concept ;
+    dct:identifier "TD-009" ;
+    skos:prefLabel "반도체디스플레이" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-domains> .
+
+<https://example.org/kr-msit-policy/resource/tech-domain/TD-010>
+  a po:TechnologyDomain, skos:Concept ;
+    dct:identifier "TD-010" ;
+    skos:prefLabel "양자" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-domains> .
+
+<https://example.org/kr-msit-policy/resource/tech-domain/TD-011>
+  a po:TechnologyDomain, skos:Concept ;
+    dct:identifier "TD-011" ;
+    skos:prefLabel "첨단바이오" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-domains> .
+
+<https://example.org/kr-msit-policy/resource/tech-domain/TD-012>
+  a po:TechnologyDomain, skos:Concept ;
+    dct:identifier "TD-012" ;
+    skos:prefLabel "우주항공" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-domains> .
+
+<https://example.org/kr-msit-policy/resource/tech-domain/TD-013>
+  a po:TechnologyDomain, skos:Concept ;
+    dct:identifier "TD-013" ;
+    skos:prefLabel "해양" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-domains> .
+
+<https://example.org/kr-msit-policy/resource/tech-domain/TD-014>
+  a po:TechnologyDomain, skos:Concept ;
+    dct:identifier "TD-014" ;
+    skos:prefLabel "첨단모빌리티" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-domains> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-001>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-001-001" ;
+    skos:prefLabel "AI 한계극복·성능향상" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-002>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-001-002" ;
+    skos:prefLabel "AI 응용처 확장" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-003>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-001-003" ;
+    skos:prefLabel "AI 안전·신뢰" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-004>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-001-004" ;
+    skos:prefLabel "AI 컴퓨팅·네트워크" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-005>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-001-005" ;
+    skos:prefLabel "데이터 구축·처리" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-006>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-001-006" ;
+    skos:prefLabel "인력양성" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-007>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-001-007" ;
+    skos:prefLabel "산업 AX" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-008>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-001-008" ;
+    skos:prefLabel "공공 AX" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-002-001>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-002-001" ;
+    skos:prefLabel "재생에너지" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-002> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-002-002>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-002-002" ;
+    skos:prefLabel "전력망" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-002> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-002-003>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-002-003" ;
+    skos:prefLabel "수소" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-002> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-002-004>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-002-004" ;
+    skos:prefLabel "원자력" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-002> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-002-005>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-002-005" ;
+    skos:prefLabel "산업공정" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-002> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-002-006>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-002-006" ;
+    skos:prefLabel "CCUS" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-002> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-002-007>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-002-007" ;
+    skos:prefLabel "효율수요관리" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-002> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-002-008>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-002-008" ;
+    skos:prefLabel "친환경 모빌리티" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-002> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-002-009>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-002-009" ;
+    skos:prefLabel "자원순환" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-002> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-002-010>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-002-010" ;
+    skos:prefLabel "적응흡수" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-002> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-003-001>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-003-001" ;
+    skos:prefLabel "리튬이온전지" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-003> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-003-002>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-003-002" ;
+    skos:prefLabel "차세대전지" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-003> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-003-003>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-003-003" ;
+    skos:prefLabel "모듈·시스템" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-003> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-003-004>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-003-004" ;
+    skos:prefLabel "재사용·재활용" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-003> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-004-001>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-004-001" ;
+    skos:prefLabel "국방기술개발" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-004> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-004-002>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-004-002" ;
+    skos:prefLabel "무기체계개발" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-004> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-004-003>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-004-003" ;
+    skos:prefLabel "지휘정찰" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-004> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-004-004>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-004-004" ;
+    skos:prefLabel "기동화력" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-004> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-004-005>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-004-005" ;
+    skos:prefLabel "함정" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-004> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-004-006>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-004-006" ;
+    skos:prefLabel "항공기" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-004> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-004-007>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-004-007" ;
+    skos:prefLabel "유도무기" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-004> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-005-001>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-005-001" ;
+    skos:prefLabel "금속" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-005> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-005-002>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-005-002" ;
+    skos:prefLabel "세라믹" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-005> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-005-003>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-005-003" ;
+    skos:prefLabel "화학" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-005> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-005-004>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-005-004" ;
+    skos:prefLabel "섬유" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-005> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-005-005>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-005-005" ;
+    skos:prefLabel "탄소" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-005> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-005-006>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-005-006" ;
+    skos:prefLabel "나노" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-005> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-005-007>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-005-007" ;
+    skos:prefLabel "첨단미래" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-005> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-006-001>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-006-001" ;
+    skos:prefLabel "암호/인증" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-006> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-006-002>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-006-002" ;
+    skos:prefLabel "프라이버시" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-006> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-006-003>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-006-003" ;
+    skos:prefLabel "인프라/플랫폼" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-006> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-006-004>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-006-004" ;
+    skos:prefLabel "신기술융합보안" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-006> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-006-005>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-006-005" ;
+    skos:prefLabel "물리·현장보안" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-006> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-006-006>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-006-006" ;
+    skos:prefLabel "위협·정책 대응" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-006> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-007-001>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-007-001" ;
+    skos:prefLabel "차세대 유무선 통신" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-007> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-007-002>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-007-002" ;
+    skos:prefLabel "위성통신" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-007> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-007-003>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-007-003" ;
+    skos:prefLabel "네트워크·전파 기반강화" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-007> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-007-004>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-007-004" ;
+    skos:prefLabel "생태계 강화" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-007> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-008-001>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-008-001" ;
+    skos:prefLabel "로봇 HW" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-008> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-008-002>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-008-002" ;
+    skos:prefLabel "로봇 SW" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-008> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-008-003>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-008-003" ;
+    skos:prefLabel "서비스 솔루션" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-008> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-008-004>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-008-004" ;
+    skos:prefLabel "무인 자율화" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-008> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-008-005>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-008-005" ;
+    skos:prefLabel "제조장비 고도화" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-008> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-008-006>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-008-006" ;
+    skos:prefLabel "제조 데이터" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-008> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-008-007>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-008-007" ;
+    skos:prefLabel "시뮬레이션-현장 전이" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-008> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-009-001>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-009-001" ;
+    skos:prefLabel "인공지능 반도체" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-009> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-009-002>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-009-002" ;
+    skos:prefLabel "첨단 패키징" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-009> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-009-003>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-009-003" ;
+    skos:prefLabel "화합물·전력반도체" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-009> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-009-004>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-009-004" ;
+    skos:prefLabel "차세대 디스플레이" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-009> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-009-005>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-009-005" ;
+    skos:prefLabel "반도체·디스플레이 소부장" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-009> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-010-001>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-010-001" ;
+    skos:prefLabel "양자컴퓨팅" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-010> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-010-002>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-010-002" ;
+    skos:prefLabel "양자통신" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-010> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-010-003>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-010-003" ;
+    skos:prefLabel "양자센서" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-010> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-010-004>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-010-004" ;
+    skos:prefLabel "인프라/생태계" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-010> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-011-001>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-011-001" ;
+    skos:prefLabel "바이오·의료기술" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-011> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-011-002>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-011-002" ;
+    skos:prefLabel "의약품" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-011> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-011-003>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-011-003" ;
+    skos:prefLabel "의료기기" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-011> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-011-004>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-011-004" ;
+    skos:prefLabel "디지털바이오" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-011> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-011-005>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-011-005" ;
+    skos:prefLabel "바이오 제조" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-011> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-011-006>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-011-006" ;
+    skos:prefLabel "혁신생태계" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-011> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-012-001>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-012-001" ;
+    skos:prefLabel "위성" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-012> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-012-002>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-012-002" ;
+    skos:prefLabel "발사체" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-012> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-012-003>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-012-003" ;
+    skos:prefLabel "우주탐사" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-012> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-012-004>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-012-004" ;
+    skos:prefLabel "우주기반" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-012> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-012-005>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-012-005" ;
+    skos:prefLabel "신항공" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-012> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-012-006>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-012-006" ;
+    skos:prefLabel "항공부품" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-012> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-012-007>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-012-007" ;
+    skos:prefLabel "항공기반" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-012> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-013-001>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-013-001" ;
+    skos:prefLabel "친환경선박" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-013> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-013-002>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-013-002" ;
+    skos:prefLabel "스마트 해상운송체계" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-013> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-013-003>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-013-003" ;
+    skos:prefLabel "해양환경" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-013> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-013-004>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-013-004" ;
+    skos:prefLabel "해양자원탐사·극지" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-013> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-014-001>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-014-001" ;
+    skos:prefLabel "스마트 모빌리티" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-014> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-014-002>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-014-002" ;
+    skos:prefLabel "친환경 모빌리티" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-014> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-014-003>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-014-003" ;
+    skos:prefLabel "모빌리티 인프라" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-014> .
+
+<https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-014-004>
+  a po:TechnologySubdomain, skos:Concept ;
+    dct:identifier "TSD-014-004" ;
+    skos:prefLabel "모빌리티 서비스" ;
+    skos:inScheme <https://example.org/kr-msit-policy/resource/scheme/tech-subdomains> ;
+    skos:broader <https://example.org/kr-msit-policy/resource/tech-domain/TD-014> .
+
+<https://example.org/kr-msit-policy/resource/document/DOC-POL-002>
+  a po:PolicyDocument ;
+    dct:identifier "DOC-POL-002" ;
+    dct:title "AI-바이오 국가전략" ;
+    po:forPolicy <https://example.org/kr-msit-policy/resource/policy/POL-002> ;
+    po:descriptionText "1차 분석 범위" ;
+    po:locationValue "section" .
+
+<https://example.org/kr-msit-policy/resource/document/DOC-POL-007>
+  a po:PolicyDocument ;
+    dct:identifier "DOC-POL-007" ;
+    dct:title "AI반도체 산업 도약 전략" ;
+    po:forPolicy <https://example.org/kr-msit-policy/resource/policy/POL-005> ;
+    po:descriptionText "1차 분석 범위" ;
+    po:locationValue "section" .
+
+<https://example.org/kr-msit-policy/resource/document/DOC-POL-012>
+  a po:PolicyDocument ;
+    dct:identifier "DOC-POL-012" ;
+    dct:title "정부 AX사업 전주기 원스톱 지원방안" ;
+    po:forPolicy <https://example.org/kr-msit-policy/resource/policy/POL-011> ;
+    po:descriptionText "1차 분석 범위" ;
+    po:locationValue "section" .
+
+<https://example.org/kr-msit-policy/resource/policy/POL-002>
+  a po:Policy ;
+    dct:identifier "POL-002" ;
+    skos:prefLabel "AI-바이오 국가전략" ;
+    po:policyStatus "active" ;
+    po:hasDocument <https://example.org/kr-msit-policy/resource/document/DOC-POL-002> ;
+    po:hasBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-01> ;
+    po:hasBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-02> ;
+    po:hasBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-03> ;
+    po:primaryDocument <https://example.org/kr-msit-policy/resource/document/DOC-POL-002> .
+
+<https://example.org/kr-msit-policy/resource/policy/POL-005>
+  a po:Policy ;
+    dct:identifier "POL-005" ;
+    skos:prefLabel "AI반도체 산업 도약 전략" ;
+    po:policyStatus "active" ;
+    po:hasDocument <https://example.org/kr-msit-policy/resource/document/DOC-POL-007> ;
+    po:hasBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-01> ;
+    po:hasBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-02> ;
+    po:hasBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-03> ;
+    po:primaryDocument <https://example.org/kr-msit-policy/resource/document/DOC-POL-007> .
+
+<https://example.org/kr-msit-policy/resource/policy/POL-011>
+  a po:Policy ;
+    dct:identifier "POL-011" ;
+    skos:prefLabel "정부 AX사업 전주기 원스톱 지원방안" ;
+    po:policyStatus "active" ;
+    po:hasDocument <https://example.org/kr-msit-policy/resource/document/DOC-POL-012> ;
+    po:hasBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-011-01> ;
+    po:hasBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-011-02> ;
+    po:primaryDocument <https://example.org/kr-msit-policy/resource/document/DOC-POL-012> .
+
+<https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-01>
+  a po:PolicyBucket ;
+    dct:identifier "PBK-POL-002-01" ;
+    po:belongsToPolicy <https://example.org/kr-msit-policy/resource/policy/POL-002> ;
+    po:hasResourceCategory <https://example.org/kr-msit-policy/resource/resource-category/technology> ;
+    po:bucketStatus "ready" ;
+    po:hasPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-01> .
+
+<https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-02>
+  a po:PolicyBucket ;
+    dct:identifier "PBK-POL-002-02" ;
+    po:belongsToPolicy <https://example.org/kr-msit-policy/resource/policy/POL-002> ;
+    po:hasResourceCategory <https://example.org/kr-msit-policy/resource/resource-category/infrastructure_institutional> ;
+    po:bucketStatus "ready" ;
+    po:hasPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-02> ;
+    po:hasPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-03> .
+
+<https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-03>
+  a po:PolicyBucket ;
+    dct:identifier "PBK-POL-002-03" ;
+    po:belongsToPolicy <https://example.org/kr-msit-policy/resource/policy/POL-002> ;
+    po:hasResourceCategory <https://example.org/kr-msit-policy/resource/resource-category/talent> ;
+    po:bucketStatus "ready" ;
+    po:hasPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-04> .
+
+<https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-01>
+  a po:PolicyBucket ;
+    dct:identifier "PBK-POL-005-01" ;
+    po:belongsToPolicy <https://example.org/kr-msit-policy/resource/policy/POL-005> ;
+    po:hasResourceCategory <https://example.org/kr-msit-policy/resource/resource-category/technology> ;
+    po:bucketStatus "ready" ;
+    po:hasPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-01> .
+
+<https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-02>
+  a po:PolicyBucket ;
+    dct:identifier "PBK-POL-005-02" ;
+    po:belongsToPolicy <https://example.org/kr-msit-policy/resource/policy/POL-005> ;
+    po:hasResourceCategory <https://example.org/kr-msit-policy/resource/resource-category/infrastructure_institutional> ;
+    po:bucketStatus "ready" ;
+    po:hasPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-02> .
+
+<https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-03>
+  a po:PolicyBucket ;
+    dct:identifier "PBK-POL-005-03" ;
+    po:belongsToPolicy <https://example.org/kr-msit-policy/resource/policy/POL-005> ;
+    po:hasResourceCategory <https://example.org/kr-msit-policy/resource/resource-category/talent> ;
+    po:bucketStatus "ready" ;
+    po:hasPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-03> .
+
+<https://example.org/kr-msit-policy/resource/bucket/PBK-POL-011-01>
+  a po:PolicyBucket ;
+    dct:identifier "PBK-POL-011-01" ;
+    po:belongsToPolicy <https://example.org/kr-msit-policy/resource/policy/POL-011> ;
+    po:hasResourceCategory <https://example.org/kr-msit-policy/resource/resource-category/technology> ;
+    po:bucketStatus "ready" ;
+    po:hasPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-01> ;
+    po:hasPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-02> .
+
+<https://example.org/kr-msit-policy/resource/bucket/PBK-POL-011-02>
+  a po:PolicyBucket ;
+    dct:identifier "PBK-POL-011-02" ;
+    po:belongsToPolicy <https://example.org/kr-msit-policy/resource/policy/POL-011> ;
+    po:hasResourceCategory <https://example.org/kr-msit-policy/resource/resource-category/infrastructure_institutional> ;
+    po:bucketStatus "ready" ;
+    po:hasPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-03> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00001>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-002-00001" ;
+    skos:prefLabel "(가칭)국가 AI 바이오 연구소 설립 추진(’26년~)" ;
+    po:statementText "ㅇ (가칭)국가 AI 바이오 연구소 설립 추진(’26년~)" ;
+    po:descriptionText "Ⅳ. 향후계획 | ㅇ (가칭)국가 AI 바이오 연구소 설립 추진(’26년~)" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-01> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-01> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00038> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00001> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-003> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-011> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-001> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-011-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00060>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-002-00060" ;
+    skos:prefLabel "범용 모델 구축" ;
+    po:statementText "ㅇ (범용 모델 구축) ‘(가칭)국가 AI 바이오 연구소’를 중심으로 멀티모달-멀티스케일 바이오 파운데이션 모델 구축·개방 및 산업활용 확산" ;
+    po:descriptionText "□ 전략별 추진과제 | ㅇ (범용 모델 구축) ‘(가칭)국가 AI 바이오 연구소’를 중심으로 멀티모달-멀티스케일 바이오 파운데이션 모델 구축·개방 및 산업활용 확산" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-01> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-01> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00014> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00060> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-003> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00099>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-002-00099" ;
+    skos:prefLabel "K-BDS 중심 확보" ;
+    po:statementText "- (K-BDS 중심 확보) 고성능 전용인프라 구축과 연계, 국가바이오데이터통합플랫폼으로 수집‧연계하고 AI 기반 MCP모듈 구축‧운영" ;
+    po:descriptionText "□ 전략별 추진과제 | - (K-BDS 중심 확보) 고성능 전용인프라 구축과 연계, 국가바이오데이터통합플랫폼으로 수집‧연계하고 AI 기반 MCP모듈 구축‧운영" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-02> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-02> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00020> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00099> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-003> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-011> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-005> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-011-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00102>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-002-00102" ;
+    skos:prefLabel "거점에 구축된 인프라를 활용하여 생산된 데이터는 K-BDS에 등록하여 외부 연구자..." ;
+    po:statementText "- 거점에 구축된 인프라를 활용하여 생산된 데이터는 K-BDS에 등록하여 외부 연구자도 자유롭게 활용할 수 있도록 개방" ;
+    po:descriptionText "< 부처별 역할(예시) > | - 거점에 구축된 인프라를 활용하여 생산된 데이터는 K-BDS에 등록하여 외부 연구자도 자유롭게 활용할 수 있도록 개방" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-02> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-02> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00189> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00102> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-003> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-011> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-005> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-011-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00105>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-002-00105" ;
+    skos:prefLabel "규제 합리화" ;
+    po:statementText "□ (규제 합리화) 법제도 마련과 연계하여 인체유래물 데이터 및 보건의료 데이터 활용 편의를 제고하기 위한 규제 개선 추진" ;
+    po:descriptionText "< 부처별 역할(예시) > | □ (규제 합리화) 법제도 마련과 연계하여 인체유래물 데이터 및 보건의료 데이터 활용 편의를 제고하기 위한 규제 개선 추진" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-02> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-03> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00231> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00105> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-003> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-011> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-011-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00107>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-002-00107" ;
+    skos:prefLabel "디지털헬스케어법" ;
+    po:statementText "ㅇ (디지털헬스케어법) 디지털-데이터 기반 의료 혁신과 보건의료정보의 안전한 활용을 체계적으로 지원하는 법체계 마련" ;
+    po:descriptionText "< 부처별 역할(예시) > | ㅇ (디지털헬스케어법) 디지털-데이터 기반 의료 혁신과 보건의료정보의 안전한 활용을 체계적으로 지원하는 법체계 마련" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-02> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-03> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00230> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00107> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-010> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-011> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-011-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00108>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-002-00108" ;
+    skos:prefLabel "민간데이터 확보" ;
+    po:statementText "ㅇ (민간데이터 확보) 병원․기업 등이 자체 생산‧보유한 데이터의 활용 지원 후 K-BDS 등록(’26~), 민간 대용량 데이터 위탁운영* 등 추진" ;
+    po:descriptionText "< 부처별 역할(예시) > | ㅇ (민간데이터 확보) 병원․기업 등이 자체 생산‧보유한 데이터의 활용 지원 후 K-BDS 등록(’26~), 민간 대용량 데이터 위탁운영* 등 추진" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-02> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-02> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00212> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00108> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-003> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-011> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-001> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-011-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00111>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-002-00111" ;
+    skos:prefLabel "복수기관 기증 동의" ;
+    po:statementText "- (복수기관 기증 동의) 인체유래물 기증 동의 시 “복수기관 제공 동의” 방식을 적용하여 인체유래데이터의 활용성을 제고하고 부처 간 공유‧활용" ;
+    po:descriptionText "□ 전략별 추진과제 | - (복수기관 기증 동의) 인체유래물 기증 동의 시 “복수기관 제공 동의” 방식을 적용하여 인체유래데이터의 활용성을 제고하고 부처 간 공유‧활용" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-02> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-03> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00026> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00111> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-003> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-011> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-001> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-011-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00112>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-002-00112" ;
+    skos:prefLabel "인체유래물데이터 등을 안전하게 활용할 수 있는 폐쇄망 클라우드를 구축하고" ;
+    po:statementText "- 인체유래물데이터 등을 안전하게 활용할 수 있는 폐쇄망 클라우드를 구축하고, 데이터 활용규제 특례 적용* 추진" ;
+    po:descriptionText "< 부처별 역할(예시) > | - 인체유래물데이터 등을 안전하게 활용할 수 있는 폐쇄망 클라우드를 구축하고, 데이터 활용규제 특례 적용* 추진" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-02> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-03> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00187> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00112> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-003> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-011> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-003> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-011-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00113>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-002-00113" ;
+    skos:prefLabel "표준화" ;
+    po:statementText "ㅇ (표준화) 데이터 정합성·신뢰성을 확보하기 위해 메타데이터 및 데이터의 표준화를 지원*하고, 주요 분야별 STAR 데이터화** 추진" ;
+    po:descriptionText "< 부처별 역할(예시) > | ㅇ (표준화) 데이터 정합성·신뢰성을 확보하기 위해 메타데이터 및 데이터의 표준화를 지원*하고, 주요 분야별 STAR 데이터화** 추진" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-02> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-02> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00215> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00113> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-003> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-011> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-003> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-011-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00114>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-002-00114" ;
+    skos:prefLabel "품질선도" ;
+    po:statementText "ㅇ (품질선도) 품질선도센터를 확대 운영하고, 범부처 대상 5대 분야 품질관리 표준절차 등 시행으로 데이터 고품질화" ;
+    po:descriptionText "< 부처별 역할(예시) > | ㅇ (품질선도) 품질선도센터를 확대 운영하고, 범부처 대상 5대 분야 품질관리 표준절차 등 시행으로 데이터 고품질화" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-02> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-02> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00218> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00114> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-003> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-011> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-001> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-011-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00115>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-002-00115" ;
+    skos:prefLabel "AI 바이오 융합 인재를 양성하기 위한 교육이 점차 확대되고 있으나" ;
+    po:statementText "ㅇ AI 바이오 융합 인재를 양성하기 위한 교육이 점차 확대되고 있으나, 아직까지 AI·바이오 상호이해형 인력은 절대적으로 부족" ;
+    po:descriptionText "ㅇ AI 바이오 융합 인재를 양성하기 위한 교육이 점차 확대되고 있으나, 아직까지 AI·바이오 상호이해형 인력은 절대적으로 부족" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-03> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-04> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00080> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00115> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-003> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-011> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-001> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-011-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00116>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-002-00116" ;
+    skos:prefLabel "대학원-전문과정에 이르는 AI 바이오 융합 교육 트랙을 개설하여 전문 인재를 체계..." ;
+    po:statementText "- 대학원-전문과정에 이르는 AI 바이오 융합 교육 트랙을 개설하여 전문 인재를 체계적으로 양성하고, 산학 연계 프로그램 운영" ;
+    po:descriptionText "< 부처별 역할(예시) > | - 대학원-전문과정에 이르는 AI 바이오 융합 교육 트랙을 개설하여 전문 인재를 체계적으로 양성하고, 산학 연계 프로그램 운영" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-03> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-04> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00191> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00116> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-003> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-011> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-001> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-011-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00225>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-005-00225" ;
+    skos:prefLabel "①독자 AI모델과 연계한 성능 확보" ;
+    po:statementText "ㅇ ①독자 AI모델과 연계한 성능 확보, ②테스트베드 구축, ③평가·피드백 등 ‘K-NPU 프로젝트’ 가동으로 독자 AI모델+국산 NPU 패키지化(~’27)" ;
+    po:descriptionText "□ 추진과제 | ㅇ ①독자 AI모델과 연계한 성능 확보, ②테스트베드 구축, ③평가·피드백 등 ‘K-NPU 프로젝트’ 가동으로 독자 AI모델+국산 NPU 패키지化(~’27)" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-01> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-01> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00017> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00225> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-002> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-009> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-009-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00242>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-005-00242" ;
+    skos:prefLabel "○ (실증) 실제 서비스 환경에 대응하는 대규모 K-NPU 테스트베드 구축* 및..." ;
+    po:statementText "○ (실증) 실제 서비스 환경에 대응하는 대규모 K-NPU 테스트베드 구축* 및 독자 AI모델+NPU 실증·최적화**(’26~)로 K-AI+NPU 패키지化 지원" ;
+    po:descriptionText "< 독자 AI모델-NPU 연계성 확보 방안(예시) > | ○ (실증) 실제 서비스 환경에 대응하는 대규모 K-NPU 테스트베드 구축* 및 독자 AI모델+NPU 실증·최적화**(’26~)로 K-AI+NPU 패키지化 지원" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-01> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-01> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00131> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00242> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-002> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-009> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-009-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00283>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-005-00283" ;
+    skos:prefLabel "성과 검증" ;
+    po:statementText "- (성과 검증) ‘K-Perf’와 연계한 상용 서비스 수준 검증 추진" ;
+    po:descriptionText "< (예시) 뉴로모픽 AI반도체 사업화 지원 체계 > | - (성과 검증) ‘K-Perf’와 연계한 상용 서비스 수준 검증 추진" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-01> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-01> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00177> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00283> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-002> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-009> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-009-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00284>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-005-00284" ;
+    skos:prefLabel "성능 확보" ;
+    po:statementText "- (성능 확보) 독자 AI모델 등 최신 AI모델 맞춤형 NPU 고도화" ;
+    po:descriptionText "< K-AI+NPU 패키지 구현 기본방향 > | - (성능 확보) 독자 AI모델 등 최신 AI모델 맞춤형 NPU 고도화" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-01> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-01> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00123> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00284> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-002> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-009> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-009-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00287>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-005-00287" ;
+    skos:prefLabel "실증·사업화" ;
+    po:statementText "- (실증·사업화) 국산 NPU 조기상용화를 위한 실증·사업화 지원체계 구축" ;
+    po:descriptionText "< 독자 AI모델-NPU 연계성 확보 방안(예시) > | - (실증·사업화) 국산 NPU 조기상용화를 위한 실증·사업화 지원체계 구축" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-01> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-01> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00130> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00287> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-002> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-009> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-009-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00304>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-005-00304" ;
+    skos:prefLabel "○ (수요-공급기업) ➊수요-공급기업 간 구매계약에 따른 초기 투자비용 충당 및..." ;
+    po:statementText "○ (수요-공급기업) ➊수요-공급기업 간 구매계약에 따른 초기 투자비용 충당 및 ➋IP 평가보증을 통한 유동성 확보 등 초저리 대출 등 지원" ;
+    po:descriptionText "< 주요 과제 예시 > | ○ (수요-공급기업) ➊수요-공급기업 간 구매계약에 따른 초기 투자비용 충당 및 ➋IP 평가보증을 통한 유동성 확보 등 초저리 대출 등 지원" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-02> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-02> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00235> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00304> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-002> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-009> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-009-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00306>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-005-00306" ;
+    skos:prefLabel "○ NPU 기반 AI컴퓨팅 인프라·설비 통합투자 등에 대한 세액 공제 신설*로 수..." ;
+    po:statementText "○ NPU 기반 AI컴퓨팅 인프라·설비 통합투자 등에 대한 세액 공제 신설*로 수요기업 도입 인센티브 제공(’26~)" ;
+    po:descriptionText "< 주요 과제 예시 > | ○ NPU 기반 AI컴퓨팅 인프라·설비 통합투자 등에 대한 세액 공제 신설*로 수요기업 도입 인센티브 제공(’26~)" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-02> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-02> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00237> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00306> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-002> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-009> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-009-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00310>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-005-00310" ;
+    skos:prefLabel "직·간접 투자" ;
+    po:statementText "- 직·간접 투자, 장기 저리 대출 등 다양한 정책금융 프로그램을 기업 수요에 따라 맞춤형으로 제공하여 최적의 재무 포트폴리오 구성 지원" ;
+    po:descriptionText "< 주요 과제 예시 > | - 직·간접 투자, 장기 저리 대출 등 다양한 정책금융 프로그램을 기업 수요에 따라 맞춤형으로 제공하여 최적의 재무 포트폴리오 구성 지원" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-02> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-02> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00231> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00310> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-002> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-009> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-009-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00311>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-005-00311" ;
+    skos:prefLabel "투자" ;
+    po:statementText "- (투자) 대규모 투·융자 프로그램을 통한 성장 단계별 맞춤형 지원" ;
+    po:descriptionText "< 주요 과제 예시 > | - (투자) 대규모 투·융자 프로그램을 통한 성장 단계별 맞춤형 지원" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-02> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-02> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00228> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00311> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-002> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-009> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-009-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00312>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-005-00312" ;
+    skos:prefLabel "○ (글로벌 연계교육) 글로벌 기업·대학과 연계한 글로벌 탑티어급 인력 양성으로..." ;
+    po:statementText "○ (글로벌 연계교육) 글로벌 기업·대학과 연계한 글로벌 탑티어급 인력 양성으로 국내 AI반도체 산업계 혁신 역량 제고" ;
+    po:descriptionText "< 주요 과제 예시 > | ○ (글로벌 연계교육) 글로벌 기업·대학과 연계한 글로벌 탑티어급 인력 양성으로 국내 AI반도체 산업계 혁신 역량 제고" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-03> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-03> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00242> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00312> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-002> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-009> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-009-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00313>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-005-00313" ;
+    skos:prefLabel "○ (재직자 재교육) 현직 경험과 반도체 지식을 기반으로 시스템 전반의 설계 역량..." ;
+    po:statementText "○ (재직자 재교육) 현직 경험과 반도체 지식을 기반으로 시스템 전반의 설계 역량을 갖춘 ‘기업 맞춤형 설계 전문가’ 양성 추진" ;
+    po:descriptionText "< 주요 과제 예시 > | ○ (재직자 재교육) 현직 경험과 반도체 지식을 기반으로 시스템 전반의 설계 역량을 갖춘 ‘기업 맞춤형 설계 전문가’ 양성 추진" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-03> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-03> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00250> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00313> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-002> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-009> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-009-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00314>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-005-00314" ;
+    skos:prefLabel "○ (체험형 실습교육) 공공 나노팹 주도로 칩 제작 서비스를 연계한 학부 설계교육..." ;
+    po:statementText "○ (체험형 실습교육) 공공 나노팹 주도로 칩 제작 서비스를 연계한 학부 설계교육 커리큘럼 연계 과정 개발·제공을 통한 학부 설계인력 양성" ;
+    po:descriptionText "< 주요 과제 예시 > | ○ (체험형 실습교육) 공공 나노팹 주도로 칩 제작 서비스를 연계한 학부 설계교육 커리큘럼 연계 과정 개발·제공을 통한 학부 설계인력 양성" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-03> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-03> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00249> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00314> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-002> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-009> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-009-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00315>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-005-00315" ;
+    skos:prefLabel "○ (학·석사연계) 기업과 대학이 함께 설계하는 실전문제 해결형 학·석사 연계 교..." ;
+    po:statementText "○ (학·석사연계) 기업과 대학이 함께 설계하는 실전문제 해결형 학·석사 연계 교육과정 확대*를 통해 총 110명 이상 양성 추진(~’30)" ;
+    po:descriptionText "< 주요 과제 예시 > | ○ (학·석사연계) 기업과 대학이 함께 설계하는 실전문제 해결형 학·석사 연계 교육과정 확대*를 통해 총 110명 이상 양성 추진(~’30)" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-03> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-03> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00244> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00315> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-002> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-009> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-009-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00317>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-005-00317" ;
+    skos:prefLabel "실무인재" ;
+    po:statementText "- (실무인재) 현장 중심 인재 양성을 통한 팹리스 인력난 해소 지원" ;
+    po:descriptionText "< 주요 과제 예시 > | - (실무인재) 현장 중심 인재 양성을 통한 팹리스 인력난 해소 지원" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-03> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-03> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00243> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00317> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-002> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-009> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-009-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00817>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-011-00817" ;
+    skos:prefLabel "AI모델 개발을 넘어 현장에서의 AI 실증을 통해 실사용 데이터를 수집하여 AI모..." ;
+    po:statementText "ㅇ AI모델 개발을 넘어 현장에서의 AI 실증을 통해 실사용 데이터를 수집하여 AI모델·서비스를 고도화할 수 있도록 실증특례 등을 지원" ;
+    po:descriptionText "⑦ (규제 해소 지원) 가명정보 활용 원스톱 컨설팅·인프라 제공(이노베이션존), 「AI기본법」(‘26.1. 시행) 상 AI안전·신뢰 제도(고영향AI, 첨단AI안전성 등) 이행 컨설팅 지원 등을 통해 법적 리스크 해소 지원 | ㅇ AI모델 개발을 넘어 현장에서의 AI 실증을 통해 실사용 데이터를 수집하여 AI모델·서비스를 고도화할 수 있도록 실증특례 등을 지원" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-011-01> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-02> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00082> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00817> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-001> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-003> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00818>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-011-00818" ;
+    skos:prefLabel "AI전담기관" ;
+    po:statementText "ㅇ AI전담기관, 분야별 대표 AX기업으로 구성된 ‘AX자문단’을 운영하여, 희망부처(전담기관) 대상으로 AX기획 컨설팅을 지원하고," ;
+    po:descriptionText "① (기획) 분야별 중요도가 높은 AX프로젝트는 범정부 차원에서 집중 지원 | ㅇ AI전담기관, 분야별 대표 AX기업으로 구성된 ‘AX자문단’을 운영하여, 희망부처(전담기관) 대상으로 AX기획 컨설팅을 지원하고," ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-011-01> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-01> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00011> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00818> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-001> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00822>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-011-00822" ;
+    skos:prefLabel "GPU 제공" ;
+    po:statementText "ㅇ (GPU 제공) 특화 분야 AI모델 개발·서비스 등을 위해 GPU 자원이 필요한 경우, 정부 보유 첨단 GPU를 지원*" ;
+    po:descriptionText "⑤ (AI인프라 지원) AX 수행과정(데이터 구축-AI모델 개발-AI실증·고도화 등)에서 소관부처가 필요로 하는 인프라를 맞춤형 지원 | ㅇ (GPU 제공) 특화 분야 AI모델 개발·서비스 등을 위해 GPU 자원이 필요한 경우, 정부 보유 첨단 GPU를 지원*" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-011-01> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-02> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00072> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00822> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-001> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-005> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00830>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-011-00830" ;
+    skos:prefLabel "데이터 확보" ;
+    po:statementText "ㅇ (데이터 확보) 데이터 소관기관 등과 협업하여 미개방 공공데이터 등 제공" ;
+    po:descriptionText "⑤ (AI인프라 지원) AX 수행과정(데이터 구축-AI모델 개발-AI실증·고도화 등)에서 소관부처가 필요로 하는 인프라를 맞춤형 지원 | ㅇ (데이터 확보) 데이터 소관기관 등과 협업하여 미개방 공공데이터 등 제공" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-011-01> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-02> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00071> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00830> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-001> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-005> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00831>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-011-00831" ;
+    skos:prefLabel "범정부 AI공통기반" ;
+    po:statementText "ㅇ (범정부 AI공통기반) 보안이 확보된 환경에서 민간 AI 모델, 컴퓨팅 자원(GPU) 할당이 가능한 AI 서비스 개발 인프라 활용 지원" ;
+    po:descriptionText "⑤ (AI인프라 지원) AX 수행과정(데이터 구축-AI모델 개발-AI실증·고도화 등)에서 소관부처가 필요로 하는 인프라를 맞춤형 지원 | ㅇ (범정부 AI공통기반) 보안이 확보된 환경에서 민간 AI 모델, 컴퓨팅 자원(GPU) 할당이 가능한 AI 서비스 개발 인프라 활용 지원" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-011-01> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-02> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00076> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00831> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-001> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-004> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00832>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-011-00832" ;
+    skos:prefLabel "부처(전담기관)가 AX기획에 참고할 수 있도록 분야별 AX성공사례" ;
+    po:statementText "- 부처(전담기관)가 AX기획에 참고할 수 있도록 분야별 AX성공사례, 기술스택별 주요기업·제품 상세정보 등을 담은 ‘AX가이드라인’ 마련" ;
+    po:descriptionText "① (기획) 분야별 중요도가 높은 AX프로젝트는 범정부 차원에서 집중 지원 | - 부처(전담기관)가 AX기획에 참고할 수 있도록 분야별 AX성공사례, 기술스택별 주요기업·제품 상세정보 등을 담은 ‘AX가이드라인’ 마련" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-011-01> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-01> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00012> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00832> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-001> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-007> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00833>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-011-00833" ;
+    skos:prefLabel "부처(전담기관)가 AX사업 기획에 참고할 수 있도록 분야별 AX성공사례" ;
+    po:statementText "ㅇ 부처(전담기관)가 AX사업 기획에 참고할 수 있도록 분야별 AX성공사례, 기술스택별 주요기업·제품 정보 등을 담은 ‘AX가이드라인*’ 마련" ;
+    po:descriptionText "② (부처 AX기획 지원) 분야별 대표 AX기업·전문가로 구성된 ‘AX자문단*’을 운영하여, 희망부처(전담기관) 대상으로 AX사업 기획·컨설팅 지원 | ㅇ 부처(전담기관)가 AX사업 기획에 참고할 수 있도록 분야별 AX성공사례, 기술스택별 주요기업·제품 정보 등을 담은 ‘AX가이드라인*’ 마련" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-011-01> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-01> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00059> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00833> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-001> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-007> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00835>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-011-00835" ;
+    skos:prefLabel "성능·신뢰성 검증" ;
+    po:statementText "ㅇ (성능·신뢰성 검증) AI평가·인증 전문기관(TTA 등) 인력·인프라(평가데이터셋·도구)을 활용하여 개발된 AI모델·서비스의 성능·신뢰성 검증을 지원" ;
+    po:descriptionText "⑤ (AI인프라 지원) AX 수행과정(데이터 구축-AI모델 개발-AI실증·고도화 등)에서 소관부처가 필요로 하는 인프라를 맞춤형 지원 | ㅇ (성능·신뢰성 검증) AI평가·인증 전문기관(TTA 등) 인력·인프라(평가데이터셋·도구)을 활용하여 개발된 AI모델·서비스의 성능·신뢰성 검증을 지원" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-011-01> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-02> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00074> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00835> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-001> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-003> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00836>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-011-00836" ;
+    skos:prefLabel "신기술 활용 및 새로운 분야 AX적용은 AX사전 컨설팅*(PoC)(과기정통부) 추진 후" ;
+    po:statementText "ㅇ 신기술 활용 및 새로운 분야 AX적용은 AX사전 컨설팅*(PoC)(과기정통부) 추진 후, 이어서 소관부처가 AX 본사업을 추진하는 방안도 검토" ;
+    po:descriptionText "② (부처 AX기획 지원) 분야별 대표 AX기업·전문가로 구성된 ‘AX자문단*’을 운영하여, 희망부처(전담기관) 대상으로 AX사업 기획·컨설팅 지원 | ㅇ 신기술 활용 및 새로운 분야 AX적용은 AX사전 컨설팅*(PoC)(과기정통부) 추진 후, 이어서 소관부처가 AX 본사업을 추진하는 방안도 검토" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-011-01> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-01> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00061> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00836> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-001> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-007> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00846>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-011-00846" ;
+    skos:prefLabel "‘가칭AX 원스톱 지원센터’" ;
+    po:statementText "□ ‘가칭AX 원스톱 지원센터’, ‘공공AI사업지원센터’ 운영 : ’26.2.~" ;
+    po:descriptionText "< 범정부 AX 추진거버넌스(안) > | □ ‘가칭AX 원스톱 지원센터’, ‘공공AI사업지원센터’ 운영 : ’26.2.~" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-011-02> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-03> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00097> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00846> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-001> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-008> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00847>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-011-00847" ;
+    skos:prefLabel "’26년 부처별 AX사업 본격 지원" ;
+    po:statementText "□ ’26년 부처별 AX사업 본격 지원 : ’26.2.~" ;
+    po:descriptionText "< 범정부 AX 추진거버넌스(안) > | □ ’26년 부처별 AX사업 본격 지원 : ’26.2.~" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-011-02> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-03> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00098> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00847> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-001> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-007> .
+
+<https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00848>
+  a po:PolicyItem ;
+    dct:identifier "ITM-POL-011-00848" ;
+    skos:prefLabel "지역·분야별 AX 수요·투자 및 진행현황" ;
+    po:statementText "ㅇ 지역·분야별 AX 수요·투자 및 진행현황, 민간·공공 보유 AX자원 등을 종합 분석한 ‘국가 AX지도’를 구축·제공하여 민관 투자계획 수립에 활용 지원" ;
+    po:descriptionText "① (범정부 AX통합 관리) 부처수요 등을 반영하여 분야별 중요도가 높은 AX프로젝트는 범정부 차원에서 집중 지원 | ㅇ 지역·분야별 AX 수요·투자 및 진행현황, 민간·공공 보유 AX자원 등을 종합 분석한 ‘국가 AX지도’를 구축·제공하여 민관 투자계획 수립에 활용 지원" ;
+    po:itemStatus "auto_candidate" ;
+    po:belongsToBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-011-02> ;
+    po:groupedInPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-03> ;
+    po:hasEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00056> ;
+    po:hasDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00848> ;
+    po:hasStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-001> ;
+    po:hasTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-008> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-01>
+  a po:PolicyItemGroup ;
+    dct:identifier "PIG-POL-002-01" ;
+    skos:prefLabel "국가 AI 바이오 연구소 및 파운데이션 모델" ;
+    po:summaryText "국가 연구거점을 중심으로 바이오 파운데이션 모델을 구축·개방하는 대표 묶음" ;
+    po:descriptionText "국가 AI 바이오 연구소 설립과 범용 바이오 파운데이션 모델 구축을 하나의 대표 항목으로 묶은 샘플 큐레이션이다." ;
+    po:groupStatus "sample_curated" ;
+    po:belongsToPolicyBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-01> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00001> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00060> ;
+    po:hasPolicyItemContent <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-002-01-01> ;
+    po:hasPolicyItemContent <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-002-01-02> ;
+    po:hasGroupDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-GRP-PIG-POL-002-01> ;
+    po:hasRepresentativeStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-003> ;
+    po:hasRepresentativeTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasRepresentativeTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-011> ;
+    po:hasRepresentativeTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-001> ;
+    po:hasRepresentativeTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-011-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-02>
+  a po:PolicyItemGroup ;
+    dct:identifier "PIG-POL-002-02" ;
+    skos:prefLabel "바이오 데이터 플랫폼 및 개방체계" ;
+    po:summaryText "K-BDS 중심 통합플랫폼과 데이터 개방·표준화·품질관리를 함께 보여주는 대표 묶음" ;
+    po:descriptionText "데이터 수집·연계, 개방, 표준화, 품질 고도화를 하나의 운영 체계로 묶은 샘플 큐레이션이다." ;
+    po:groupStatus "sample_curated" ;
+    po:belongsToPolicyBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-02> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00099> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00102> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00108> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00113> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00114> ;
+    po:hasPolicyItemContent <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-002-02-01> ;
+    po:hasPolicyItemContent <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-002-02-02> ;
+    po:hasGroupDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-GRP-PIG-POL-002-02> ;
+    po:hasRepresentativeStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-003> ;
+    po:hasRepresentativeTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasRepresentativeTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-011> ;
+    po:hasRepresentativeTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-005> ;
+    po:hasRepresentativeTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-011-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-03>
+  a po:PolicyItemGroup ;
+    dct:identifier "PIG-POL-002-03" ;
+    skos:prefLabel "AI 바이오 법제·규제 개선" ;
+    po:summaryText "데이터 활용 법체계와 규제특례를 함께 정리한 대표 묶음" ;
+    po:descriptionText "데이터 활용 편의를 높이는 법제도와 안전한 활용 특례를 함께 묶은 샘플 큐레이션이다." ;
+    po:groupStatus "sample_curated" ;
+    po:belongsToPolicyBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-02> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00105> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00107> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00111> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00112> ;
+    po:hasPolicyItemContent <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-002-03-01> ;
+    po:hasPolicyItemContent <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-002-03-02> ;
+    po:hasGroupDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-GRP-PIG-POL-002-03> ;
+    po:hasRepresentativeStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-003> ;
+    po:hasRepresentativeStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-010> ;
+    po:hasRepresentativeTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-011> ;
+    po:hasRepresentativeTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-011-001> ;
+    po:hasRepresentativeTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-003> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-04>
+  a po:PolicyItemGroup ;
+    dct:identifier "PIG-POL-002-04" ;
+    skos:prefLabel "AI-바이오 융합 인재양성 트랙" ;
+    po:summaryText "융합 교육 부족 문제와 전문 교육트랙 개설을 함께 보여주는 인재 샘플" ;
+    po:descriptionText "AI와 바이오를 함께 이해하는 인재 양성을 위한 교육트랙 구성 예시다." ;
+    po:groupStatus "sample_curated" ;
+    po:belongsToPolicyBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-002-03> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00116> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00115> ;
+    po:hasPolicyItemContent <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-002-04-01> ;
+    po:hasGroupDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-GRP-PIG-POL-002-04> ;
+    po:hasRepresentativeStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-003> ;
+    po:hasRepresentativeTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasRepresentativeTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-011> ;
+    po:hasRepresentativeTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-001> ;
+    po:hasRepresentativeTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-011-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-01>
+  a po:PolicyItemGroup ;
+    dct:identifier "PIG-POL-005-01" ;
+    skos:prefLabel "K-NPU 성능 고도화 및 실증" ;
+    po:summaryText "독자 AI모델 연계 성능 고도화와 테스트베드·검증·사업화를 묶은 대표 샘플" ;
+    po:descriptionText "AI반도체 전략에서 핵심 기술 고도화와 실증·사업화를 함께 묶은 샘플 큐레이션이다." ;
+    po:groupStatus "sample_curated" ;
+    po:belongsToPolicyBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-01> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00242> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00225> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00283> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00284> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00287> ;
+    po:hasPolicyItemContent <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-005-01-01> ;
+    po:hasPolicyItemContent <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-005-01-02> ;
+    po:hasGroupDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-GRP-PIG-POL-005-01> ;
+    po:hasRepresentativeStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-002> ;
+    po:hasRepresentativeTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-009> ;
+    po:hasRepresentativeTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-009-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-02>
+  a po:PolicyItemGroup ;
+    dct:identifier "PIG-POL-005-02" ;
+    skos:prefLabel "AI반도체 금융·세제 지원" ;
+    po:summaryText "정책금융과 세제 인센티브를 함께 보여주는 인프라·제도 샘플" ;
+    po:descriptionText "초기 투자비용 지원, 직간접 투자, 대규모 투융자, 세액 공제를 한데 묶은 샘플 큐레이션이다." ;
+    po:groupStatus "sample_curated" ;
+    po:belongsToPolicyBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-02> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00311> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00304> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00306> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00310> ;
+    po:hasPolicyItemContent <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-005-02-01> ;
+    po:hasPolicyItemContent <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-005-02-02> ;
+    po:hasGroupDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-GRP-PIG-POL-005-02> ;
+    po:hasRepresentativeStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-002> ;
+    po:hasRepresentativeTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-009> ;
+    po:hasRepresentativeTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-009-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-03>
+  a po:PolicyItemGroup ;
+    dct:identifier "PIG-POL-005-03" ;
+    skos:prefLabel "AI반도체 인재양성 체계" ;
+    po:summaryText "글로벌·고급 인재와 현장형 실무인재 양성을 함께 보여주는 인재 샘플" ;
+    po:descriptionText "AI반도체 고급 인재와 실무형 인재 양성을 하나의 대표 항목으로 묶은 샘플 큐레이션이다." ;
+    po:groupStatus "sample_curated" ;
+    po:belongsToPolicyBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-005-03> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00317> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00312> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00313> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00314> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00315> ;
+    po:hasPolicyItemContent <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-005-03-01> ;
+    po:hasPolicyItemContent <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-005-03-02> ;
+    po:hasGroupDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-GRP-PIG-POL-005-03> ;
+    po:hasRepresentativeStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-002> ;
+    po:hasRepresentativeTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-009> ;
+    po:hasRepresentativeTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-009-001> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-01>
+  a po:PolicyItemGroup ;
+    dct:identifier "PIG-POL-011-01" ;
+    skos:prefLabel "AX 기획 컨설팅 및 가이드라인" ;
+    po:summaryText "부처 AX기획 초기 단계의 컨설팅과 가이드라인 제공을 묶은 대표 샘플" ;
+    po:descriptionText "AX자문단, AX가이드라인, AX사전 컨설팅을 하나의 기획 지원 패키지로 묶은 샘플 큐레이션이다." ;
+    po:groupStatus "sample_curated" ;
+    po:belongsToPolicyBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-011-01> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00832> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00818> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00833> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00836> ;
+    po:hasPolicyItemContent <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-011-01-01> ;
+    po:hasPolicyItemContent <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-011-01-02> ;
+    po:hasGroupDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-GRP-PIG-POL-011-01> ;
+    po:hasRepresentativeStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-001> ;
+    po:hasRepresentativeTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasRepresentativeTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-007> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-02>
+  a po:PolicyItemGroup ;
+    dct:identifier "PIG-POL-011-02" ;
+    skos:prefLabel "공공 AX 실행 인프라 지원" ;
+    po:summaryText "GPU, 데이터, 공통기반, 검증을 묶은 실행 지원 패키지" ;
+    po:descriptionText "공공 AX 본사업에 필요한 자원 지원과 검증 체계를 대표 내용으로 묶은 샘플 큐레이션이다." ;
+    po:groupStatus "sample_curated" ;
+    po:belongsToPolicyBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-011-01> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00831> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00817> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00822> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00830> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00835> ;
+    po:hasPolicyItemContent <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-011-02-01> ;
+    po:hasPolicyItemContent <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-011-02-02> ;
+    po:hasGroupDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-GRP-PIG-POL-011-02> ;
+    po:hasRepresentativeStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-001> ;
+    po:hasRepresentativeTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasRepresentativeTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-004> ;
+    po:hasRepresentativeTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-005> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-03>
+  a po:PolicyItemGroup ;
+    dct:identifier "PIG-POL-011-03" ;
+    skos:prefLabel "AX 원스톱 운영체계 및 국가 AX지도" ;
+    po:summaryText "운영 거버넌스와 국가 AX 현황 가시화를 함께 보여주는 인프라·제도 샘플" ;
+    po:descriptionText "AX 원스톱 지원센터 운영과 국가 AX지도 구축을 하나의 운영체계로 묶은 샘플 큐레이션이다." ;
+    po:groupStatus "sample_curated" ;
+    po:belongsToPolicyBucket <https://example.org/kr-msit-policy/resource/bucket/PBK-POL-011-02> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00846> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00847> ;
+    po:groupsPolicyItem <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00848> ;
+    po:hasPolicyItemContent <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-011-03-01> ;
+    po:hasPolicyItemContent <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-011-03-02> ;
+    po:hasGroupDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-GRP-PIG-POL-011-03> ;
+    po:hasRepresentativeStrategy <https://example.org/kr-msit-policy/resource/strategy/STR-001> ;
+    po:hasRepresentativeTechDomain <https://example.org/kr-msit-policy/resource/tech-domain/TD-001> ;
+    po:hasRepresentativeTechSubdomain <https://example.org/kr-msit-policy/resource/tech-subdomain/TSD-001-008> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-002-01-01>
+  a po:PolicyItemContent ;
+    dct:identifier "PIC-POL-002-01-01" ;
+    skos:prefLabel "국가 연구거점 설립" ;
+    po:contentStatementText "(가칭) 국가 AI 바이오 연구소를 설립해 국가 차원의 AI-바이오 연구개발 거점을 구축한다." ;
+    po:summaryText "연구소 설립을 통해 국가 차원의 전담 거점을 만든다." ;
+    po:contentType "institution_setup" ;
+    po:contentStatus "sample_curated" ;
+    po:belongsToPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-01> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00038> ;
+    po:hasContentDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-002-01-01> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-002-01-02>
+  a po:PolicyItemContent ;
+    dct:identifier "PIC-POL-002-01-02" ;
+    skos:prefLabel "바이오 파운데이션 모델 구축·개방" ;
+    po:contentStatementText "연구소를 중심으로 멀티모달-멀티스케일 바이오 파운데이션 모델을 구축하고 산업 활용을 확산한다." ;
+    po:summaryText "범용 바이오 파운데이션 모델을 구축·개방한다." ;
+    po:contentType "model_development" ;
+    po:contentStatus "sample_curated" ;
+    po:belongsToPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-01> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00014> ;
+    po:hasContentDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-002-01-02> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-002-02-01>
+  a po:PolicyItemContent ;
+    dct:identifier "PIC-POL-002-02-01" ;
+    skos:prefLabel "K-BDS 중심 데이터 통합·개방" ;
+    po:contentStatementText "K-BDS를 국가바이오데이터통합플랫폼으로 고도화하고 민간·거점 데이터를 연계해 외부 연구자 활용까지 개방한다." ;
+    po:summaryText "통합플랫폼 구축과 데이터 개방을 함께 추진한다." ;
+    po:contentType "platform_operation" ;
+    po:contentStatus "sample_curated" ;
+    po:belongsToPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-02> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00020> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00189> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00212> ;
+    po:hasContentDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-002-02-01> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-002-02-02>
+  a po:PolicyItemContent ;
+    dct:identifier "PIC-POL-002-02-02" ;
+    skos:prefLabel "데이터 표준화·품질관리 강화" ;
+    po:contentStatementText "메타데이터와 데이터 표준화를 지원하고 품질선도 체계를 확대해 바이오 데이터 품질을 높인다." ;
+    po:summaryText "표준화와 품질관리 체계를 함께 강화한다." ;
+    po:contentType "standard_quality_management" ;
+    po:contentStatus "sample_curated" ;
+    po:belongsToPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-02> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00215> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00218> ;
+    po:hasContentDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-002-02-02> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-002-03-01>
+  a po:PolicyItemContent ;
+    dct:identifier "PIC-POL-002-03-01" ;
+    skos:prefLabel "데이터 활용 법체계 정비" ;
+    po:contentStatementText "인체유래물·보건의료 데이터 활용 편의를 높이는 규제 개선과 디지털헬스케어 법체계를 정비한다." ;
+    po:summaryText "데이터 활용 법체계를 정비한다." ;
+    po:contentType "regulation_reform" ;
+    po:contentStatus "sample_curated" ;
+    po:belongsToPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-03> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00231> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00230> ;
+    po:hasContentDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-002-03-01> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-002-03-02>
+  a po:PolicyItemContent ;
+    dct:identifier "PIC-POL-002-03-02" ;
+    skos:prefLabel "안전한 데이터 활용 특례" ;
+    po:contentStatementText "복수기관 기증 동의와 폐쇄망 클라우드 등 안전한 데이터 활용 특례를 도입해 활용성을 높인다." ;
+    po:summaryText "데이터 활용 특례와 안전조치를 함께 마련한다." ;
+    po:contentType "secure_data_use" ;
+    po:contentStatus "sample_curated" ;
+    po:belongsToPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-03> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00026> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00187> ;
+    po:hasContentDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-002-03-02> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-002-04-01>
+  a po:PolicyItemContent ;
+    dct:identifier "PIC-POL-002-04-01" ;
+    skos:prefLabel "대학원-전문과정 융합 교육트랙" ;
+    po:contentStatementText "대학원부터 전문과정까지 이어지는 AI-바이오 융합 교육트랙을 개설하고 산학 연계 프로그램을 운영한다." ;
+    po:summaryText "융합 교육트랙을 개설해 전문 인재를 양성한다." ;
+    po:contentType "training_program" ;
+    po:contentStatus "sample_curated" ;
+    po:belongsToPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-04> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00191> ;
+    po:hasContentDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-002-04-01> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-005-01-01>
+  a po:PolicyItemContent ;
+    dct:identifier "PIC-POL-005-01-01" ;
+    skos:prefLabel "독자 AI모델 연계 성능 고도화" ;
+    po:contentStatementText "독자 AI모델과 국산 NPU의 연계성을 높여 최신 AI모델 맞춤형 성능을 확보한다." ;
+    po:summaryText "국산 NPU 성능을 독자 AI모델과 함께 고도화한다." ;
+    po:contentType "performance_advancement" ;
+    po:contentStatus "sample_curated" ;
+    po:belongsToPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-01> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00017> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00123> ;
+    po:hasContentDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-005-01-01> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-005-01-02>
+  a po:PolicyItemContent ;
+    dct:identifier "PIC-POL-005-01-02" ;
+    skos:prefLabel "테스트베드·검증·사업화 지원" ;
+    po:contentStatementText "대규모 K-NPU 테스트베드, 성과 검증, 실증·사업화 지원체계를 함께 구축한다." ;
+    po:summaryText "K-NPU 테스트베드와 사업화 지원체계를 구축한다." ;
+    po:contentType "testbed_and_validation" ;
+    po:contentStatus "sample_curated" ;
+    po:belongsToPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-01> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00131> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00177> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00130> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-FIG-DOC-POL-007-008> ;
+    po:hasContentDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-005-01-02> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-005-02-01>
+  a po:PolicyItemContent ;
+    dct:identifier "PIC-POL-005-02-01" ;
+    skos:prefLabel "정책금융 프로그램 제공" ;
+    po:contentStatementText "수요-공급기업 지원, 직간접 투자, 성장 단계별 대규모 투·융자를 포함한 정책금융 프로그램을 제공한다." ;
+    po:summaryText "정책금융과 투자 프로그램을 패키지로 제공한다." ;
+    po:contentType "policy_finance" ;
+    po:contentStatus "sample_curated" ;
+    po:belongsToPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-02> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00235> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00231> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00228> ;
+    po:hasContentDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-005-02-01> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-005-02-02>
+  a po:PolicyItemContent ;
+    dct:identifier "PIC-POL-005-02-02" ;
+    skos:prefLabel "세제 인센티브 제공" ;
+    po:contentStatementText "NPU 기반 AI컴퓨팅 인프라·설비 투자에 대한 세액 공제를 통해 수요기업 도입 인센티브를 제공한다." ;
+    po:summaryText "세제 인센티브로 수요기업 도입을 촉진한다." ;
+    po:contentType "tax_incentive" ;
+    po:contentStatus "sample_curated" ;
+    po:belongsToPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-02> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00237> ;
+    po:hasContentDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-005-02-02> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-005-03-01>
+  a po:PolicyItemContent ;
+    dct:identifier "PIC-POL-005-03-01" ;
+    skos:prefLabel "글로벌·고급 인재 양성" ;
+    po:contentStatementText "글로벌 기업·대학 연계교육과 학·석사 연계과정을 통해 AI반도체 고급 인재를 양성한다." ;
+    po:summaryText "글로벌 연계형 고급 인재를 양성한다." ;
+    po:contentType "advanced_talent_training" ;
+    po:contentStatus "sample_curated" ;
+    po:belongsToPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-03> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00242> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00244> ;
+    po:hasContentDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-005-03-01> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-005-03-02>
+  a po:PolicyItemContent ;
+    dct:identifier "PIC-POL-005-03-02" ;
+    skos:prefLabel "현장형 실무인재 및 재교육" ;
+    po:contentStatementText "체험형 실습교육과 재직자 재교육을 통해 팹리스 현장형 설계 인력을 양성한다." ;
+    po:summaryText "현장형 실무인재와 재직자 재교육을 함께 추진한다." ;
+    po:contentType "workforce_training" ;
+    po:contentStatus "sample_curated" ;
+    po:belongsToPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-03> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00250> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00249> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00243> ;
+    po:hasContentDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-005-03-02> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-011-01-01>
+  a po:PolicyItemContent ;
+    dct:identifier "PIC-POL-011-01-01" ;
+    skos:prefLabel "부처 대상 AX 기획 컨설팅" ;
+    po:contentStatementText "AX자문단과 사전 컨설팅(PoC)을 통해 부처와 전담기관의 AX 기획을 지원한다." ;
+    po:summaryText "AX 기획 단계의 컨설팅을 제공한다." ;
+    po:contentType "planning_support" ;
+    po:contentStatus "sample_curated" ;
+    po:belongsToPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-01> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00011> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00061> ;
+    po:hasContentDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-011-01-01> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-011-01-02>
+  a po:PolicyItemContent ;
+    dct:identifier "PIC-POL-011-01-02" ;
+    skos:prefLabel "분야별 AX 가이드라인 제공" ;
+    po:contentStatementText "분야별 AX 성공사례와 기술 스택 정보를 담은 가이드라인을 마련해 AX사업 기획 참고자료로 제공한다." ;
+    po:summaryText "부처가 참고할 AX 가이드라인을 제공한다." ;
+    po:contentType "guideline_support" ;
+    po:contentStatus "sample_curated" ;
+    po:belongsToPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-01> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00012> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00059> ;
+    po:hasContentDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-011-01-02> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-011-02-01>
+  a po:PolicyItemContent ;
+    dct:identifier "PIC-POL-011-02-01" ;
+    skos:prefLabel "GPU·데이터·공통기반 지원" ;
+    po:contentStatementText "특화 AI모델 개발을 위한 GPU와 데이터, 범정부 AI공통기반을 함께 지원한다." ;
+    po:summaryText "공공 AX 실행에 필요한 자원을 통합 지원한다." ;
+    po:contentType "resource_support" ;
+    po:contentStatus "sample_curated" ;
+    po:belongsToPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-02> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00072> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00071> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00076> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-CTBL-DOC-POL-012-003> ;
+    po:hasContentDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-011-02-01> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-011-02-02>
+  a po:PolicyItemContent ;
+    dct:identifier "PIC-POL-011-02-02" ;
+    skos:prefLabel "성능 검증 및 실증 지원" ;
+    po:contentStatementText "현장 실증과 성능·신뢰성 검증을 지원해 AX사업 결과물의 품질을 높인다." ;
+    po:summaryText "실증과 검증을 함께 지원한다." ;
+    po:contentType "validation_support" ;
+    po:contentStatus "sample_curated" ;
+    po:belongsToPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-02> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00082> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00074> ;
+    po:hasContentDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-011-02-02> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-011-03-01>
+  a po:PolicyItemContent ;
+    dct:identifier "PIC-POL-011-03-01" ;
+    skos:prefLabel "AX 원스톱 지원센터 운영" ;
+    po:contentStatementText "AX 원스톱 지원센터와 공공AI사업지원센터를 운영해 부처별 AX사업 지원을 본격화한다." ;
+    po:summaryText "원스톱 운영체계를 구축한다." ;
+    po:contentType "program_operation" ;
+    po:contentStatus "sample_curated" ;
+    po:belongsToPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-03> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00097> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00098> ;
+    po:hasContentDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-011-03-01> .
+
+<https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-011-03-02>
+  a po:PolicyItemContent ;
+    dct:identifier "PIC-POL-011-03-02" ;
+    skos:prefLabel "국가 AX지도 구축" ;
+    po:contentStatementText "지역·분야별 AX 수요와 투자, 보유 자원을 종합 분석한 국가 AX지도를 구축해 민관 투자계획 수립에 활용한다." ;
+    po:summaryText "국가 AX 현황을 지도 형태로 제공한다." ;
+    po:contentType "mapping_and_monitoring" ;
+    po:contentStatus "sample_curated" ;
+    po:belongsToPolicyItemGroup <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-03> ;
+    po:hasContentEvidence <https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00056> ;
+    po:hasContentDisplayText <https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-011-03-02> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-002-01-01>
+  a po:DisplayText ;
+    dct:identifier "DSP-CNT-PIC-POL-002-01-01" ;
+    po:displayRole "policy_item_content_card" ;
+    dct:title "국가 연구거점 설립" ;
+    po:summaryText "연구소 설립을 통해 국가 차원의 전담 거점을 만든다." ;
+    po:descriptionText "(가칭) 국가 AI 바이오 연구소를 설립해 국가 차원의 AI-바이오 연구개발 거점을 구축한다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-002-01-01> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-002-01-02>
+  a po:DisplayText ;
+    dct:identifier "DSP-CNT-PIC-POL-002-01-02" ;
+    po:displayRole "policy_item_content_card" ;
+    dct:title "바이오 파운데이션 모델 구축·개방" ;
+    po:summaryText "범용 바이오 파운데이션 모델을 구축·개방한다." ;
+    po:descriptionText "연구소를 중심으로 멀티모달-멀티스케일 바이오 파운데이션 모델을 구축하고 산업 활용을 확산한다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-002-01-02> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-002-02-01>
+  a po:DisplayText ;
+    dct:identifier "DSP-CNT-PIC-POL-002-02-01" ;
+    po:displayRole "policy_item_content_card" ;
+    dct:title "K-BDS 중심 데이터 통합·개방" ;
+    po:summaryText "통합플랫폼 구축과 데이터 개방을 함께 추진한다." ;
+    po:descriptionText "K-BDS를 국가바이오데이터통합플랫폼으로 고도화하고 민간·거점 데이터를 연계해 외부 연구자 활용까지 개방한다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-002-02-01> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-002-02-02>
+  a po:DisplayText ;
+    dct:identifier "DSP-CNT-PIC-POL-002-02-02" ;
+    po:displayRole "policy_item_content_card" ;
+    dct:title "데이터 표준화·품질관리 강화" ;
+    po:summaryText "표준화와 품질관리 체계를 함께 강화한다." ;
+    po:descriptionText "메타데이터와 데이터 표준화를 지원하고 품질선도 체계를 확대해 바이오 데이터 품질을 높인다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-002-02-02> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-002-03-01>
+  a po:DisplayText ;
+    dct:identifier "DSP-CNT-PIC-POL-002-03-01" ;
+    po:displayRole "policy_item_content_card" ;
+    dct:title "데이터 활용 법체계 정비" ;
+    po:summaryText "데이터 활용 법체계를 정비한다." ;
+    po:descriptionText "인체유래물·보건의료 데이터 활용 편의를 높이는 규제 개선과 디지털헬스케어 법체계를 정비한다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-002-03-01> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-002-03-02>
+  a po:DisplayText ;
+    dct:identifier "DSP-CNT-PIC-POL-002-03-02" ;
+    po:displayRole "policy_item_content_card" ;
+    dct:title "안전한 데이터 활용 특례" ;
+    po:summaryText "데이터 활용 특례와 안전조치를 함께 마련한다." ;
+    po:descriptionText "복수기관 기증 동의와 폐쇄망 클라우드 등 안전한 데이터 활용 특례를 도입해 활용성을 높인다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-002-03-02> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-002-04-01>
+  a po:DisplayText ;
+    dct:identifier "DSP-CNT-PIC-POL-002-04-01" ;
+    po:displayRole "policy_item_content_card" ;
+    dct:title "대학원-전문과정 융합 교육트랙" ;
+    po:summaryText "융합 교육트랙을 개설해 전문 인재를 양성한다." ;
+    po:descriptionText "대학원부터 전문과정까지 이어지는 AI-바이오 융합 교육트랙을 개설하고 산학 연계 프로그램을 운영한다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-002-04-01> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-005-01-01>
+  a po:DisplayText ;
+    dct:identifier "DSP-CNT-PIC-POL-005-01-01" ;
+    po:displayRole "policy_item_content_card" ;
+    dct:title "독자 AI모델 연계 성능 고도화" ;
+    po:summaryText "국산 NPU 성능을 독자 AI모델과 함께 고도화한다." ;
+    po:descriptionText "독자 AI모델과 국산 NPU의 연계성을 높여 최신 AI모델 맞춤형 성능을 확보한다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-005-01-01> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-005-01-02>
+  a po:DisplayText ;
+    dct:identifier "DSP-CNT-PIC-POL-005-01-02" ;
+    po:displayRole "policy_item_content_card" ;
+    dct:title "테스트베드·검증·사업화 지원" ;
+    po:summaryText "K-NPU 테스트베드와 사업화 지원체계를 구축한다." ;
+    po:descriptionText "대규모 K-NPU 테스트베드, 성과 검증, 실증·사업화 지원체계를 함께 구축한다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-005-01-02> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-005-02-01>
+  a po:DisplayText ;
+    dct:identifier "DSP-CNT-PIC-POL-005-02-01" ;
+    po:displayRole "policy_item_content_card" ;
+    dct:title "정책금융 프로그램 제공" ;
+    po:summaryText "정책금융과 투자 프로그램을 패키지로 제공한다." ;
+    po:descriptionText "수요-공급기업 지원, 직간접 투자, 성장 단계별 대규모 투·융자를 포함한 정책금융 프로그램을 제공한다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-005-02-01> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-005-02-02>
+  a po:DisplayText ;
+    dct:identifier "DSP-CNT-PIC-POL-005-02-02" ;
+    po:displayRole "policy_item_content_card" ;
+    dct:title "세제 인센티브 제공" ;
+    po:summaryText "세제 인센티브로 수요기업 도입을 촉진한다." ;
+    po:descriptionText "NPU 기반 AI컴퓨팅 인프라·설비 투자에 대한 세액 공제를 통해 수요기업 도입 인센티브를 제공한다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-005-02-02> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-005-03-01>
+  a po:DisplayText ;
+    dct:identifier "DSP-CNT-PIC-POL-005-03-01" ;
+    po:displayRole "policy_item_content_card" ;
+    dct:title "글로벌·고급 인재 양성" ;
+    po:summaryText "글로벌 연계형 고급 인재를 양성한다." ;
+    po:descriptionText "글로벌 기업·대학 연계교육과 학·석사 연계과정을 통해 AI반도체 고급 인재를 양성한다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-005-03-01> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-005-03-02>
+  a po:DisplayText ;
+    dct:identifier "DSP-CNT-PIC-POL-005-03-02" ;
+    po:displayRole "policy_item_content_card" ;
+    dct:title "현장형 실무인재 및 재교육" ;
+    po:summaryText "현장형 실무인재와 재직자 재교육을 함께 추진한다." ;
+    po:descriptionText "체험형 실습교육과 재직자 재교육을 통해 팹리스 현장형 설계 인력을 양성한다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-005-03-02> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-011-01-01>
+  a po:DisplayText ;
+    dct:identifier "DSP-CNT-PIC-POL-011-01-01" ;
+    po:displayRole "policy_item_content_card" ;
+    dct:title "부처 대상 AX 기획 컨설팅" ;
+    po:summaryText "AX 기획 단계의 컨설팅을 제공한다." ;
+    po:descriptionText "AX자문단과 사전 컨설팅(PoC)을 통해 부처와 전담기관의 AX 기획을 지원한다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-011-01-01> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-011-01-02>
+  a po:DisplayText ;
+    dct:identifier "DSP-CNT-PIC-POL-011-01-02" ;
+    po:displayRole "policy_item_content_card" ;
+    dct:title "분야별 AX 가이드라인 제공" ;
+    po:summaryText "부처가 참고할 AX 가이드라인을 제공한다." ;
+    po:descriptionText "분야별 AX 성공사례와 기술 스택 정보를 담은 가이드라인을 마련해 AX사업 기획 참고자료로 제공한다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-011-01-02> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-011-02-01>
+  a po:DisplayText ;
+    dct:identifier "DSP-CNT-PIC-POL-011-02-01" ;
+    po:displayRole "policy_item_content_card" ;
+    dct:title "GPU·데이터·공통기반 지원" ;
+    po:summaryText "공공 AX 실행에 필요한 자원을 통합 지원한다." ;
+    po:descriptionText "특화 AI모델 개발을 위한 GPU와 데이터, 범정부 AI공통기반을 함께 지원한다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-011-02-01> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-011-02-02>
+  a po:DisplayText ;
+    dct:identifier "DSP-CNT-PIC-POL-011-02-02" ;
+    po:displayRole "policy_item_content_card" ;
+    dct:title "성능 검증 및 실증 지원" ;
+    po:summaryText "실증과 검증을 함께 지원한다." ;
+    po:descriptionText "현장 실증과 성능·신뢰성 검증을 지원해 AX사업 결과물의 품질을 높인다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-011-02-02> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-011-03-01>
+  a po:DisplayText ;
+    dct:identifier "DSP-CNT-PIC-POL-011-03-01" ;
+    po:displayRole "policy_item_content_card" ;
+    dct:title "AX 원스톱 지원센터 운영" ;
+    po:summaryText "원스톱 운영체계를 구축한다." ;
+    po:descriptionText "AX 원스톱 지원센터와 공공AI사업지원센터를 운영해 부처별 AX사업 지원을 본격화한다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-011-03-01> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-CNT-PIC-POL-011-03-02>
+  a po:DisplayText ;
+    dct:identifier "DSP-CNT-PIC-POL-011-03-02" ;
+    po:displayRole "policy_item_content_card" ;
+    dct:title "국가 AX지도 구축" ;
+    po:summaryText "국가 AX 현황을 지도 형태로 제공한다." ;
+    po:descriptionText "지역·분야별 AX 수요와 투자, 보유 자원을 종합 분석한 국가 AX지도를 구축해 민관 투자계획 수립에 활용한다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-content/PIC-POL-011-03-02> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-GRP-PIG-POL-002-01>
+  a po:DisplayText ;
+    dct:identifier "DSP-GRP-PIG-POL-002-01" ;
+    po:displayRole "policy_item_group_card" ;
+    dct:title "국가 AI 바이오 연구소 및 파운데이션 모델" ;
+    po:summaryText "국가 연구거점을 중심으로 바이오 파운데이션 모델을 구축·개방하는 대표 묶음" ;
+    po:descriptionText "국가 AI 바이오 연구소 설립과 범용 바이오 파운데이션 모델 구축을 하나의 대표 항목으로 묶은 샘플 큐레이션이다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-01> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-GRP-PIG-POL-002-02>
+  a po:DisplayText ;
+    dct:identifier "DSP-GRP-PIG-POL-002-02" ;
+    po:displayRole "policy_item_group_card" ;
+    dct:title "바이오 데이터 플랫폼 및 개방체계" ;
+    po:summaryText "K-BDS 중심 통합플랫폼과 데이터 개방·표준화·품질관리를 함께 보여주는 대표 묶음" ;
+    po:descriptionText "데이터 수집·연계, 개방, 표준화, 품질 고도화를 하나의 운영 체계로 묶은 샘플 큐레이션이다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-02> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-GRP-PIG-POL-002-03>
+  a po:DisplayText ;
+    dct:identifier "DSP-GRP-PIG-POL-002-03" ;
+    po:displayRole "policy_item_group_card" ;
+    dct:title "AI 바이오 법제·규제 개선" ;
+    po:summaryText "데이터 활용 법체계와 규제특례를 함께 정리한 대표 묶음" ;
+    po:descriptionText "데이터 활용 편의를 높이는 법제도와 안전한 활용 특례를 함께 묶은 샘플 큐레이션이다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-03> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-GRP-PIG-POL-002-04>
+  a po:DisplayText ;
+    dct:identifier "DSP-GRP-PIG-POL-002-04" ;
+    po:displayRole "policy_item_group_card" ;
+    dct:title "AI-바이오 융합 인재양성 트랙" ;
+    po:summaryText "융합 교육 부족 문제와 전문 교육트랙 개설을 함께 보여주는 인재 샘플" ;
+    po:descriptionText "AI와 바이오를 함께 이해하는 인재 양성을 위한 교육트랙 구성 예시다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-002-04> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-GRP-PIG-POL-005-01>
+  a po:DisplayText ;
+    dct:identifier "DSP-GRP-PIG-POL-005-01" ;
+    po:displayRole "policy_item_group_card" ;
+    dct:title "K-NPU 성능 고도화 및 실증" ;
+    po:summaryText "독자 AI모델 연계 성능 고도화와 테스트베드·검증·사업화를 묶은 대표 샘플" ;
+    po:descriptionText "AI반도체 전략에서 핵심 기술 고도화와 실증·사업화를 함께 묶은 샘플 큐레이션이다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-01> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-GRP-PIG-POL-005-02>
+  a po:DisplayText ;
+    dct:identifier "DSP-GRP-PIG-POL-005-02" ;
+    po:displayRole "policy_item_group_card" ;
+    dct:title "AI반도체 금융·세제 지원" ;
+    po:summaryText "정책금융과 세제 인센티브를 함께 보여주는 인프라·제도 샘플" ;
+    po:descriptionText "초기 투자비용 지원, 직간접 투자, 대규모 투융자, 세액 공제를 한데 묶은 샘플 큐레이션이다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-02> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-GRP-PIG-POL-005-03>
+  a po:DisplayText ;
+    dct:identifier "DSP-GRP-PIG-POL-005-03" ;
+    po:displayRole "policy_item_group_card" ;
+    dct:title "AI반도체 인재양성 체계" ;
+    po:summaryText "글로벌·고급 인재와 현장형 실무인재 양성을 함께 보여주는 인재 샘플" ;
+    po:descriptionText "AI반도체 고급 인재와 실무형 인재 양성을 하나의 대표 항목으로 묶은 샘플 큐레이션이다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-005-03> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-GRP-PIG-POL-011-01>
+  a po:DisplayText ;
+    dct:identifier "DSP-GRP-PIG-POL-011-01" ;
+    po:displayRole "policy_item_group_card" ;
+    dct:title "AX 기획 컨설팅 및 가이드라인" ;
+    po:summaryText "부처 AX기획 초기 단계의 컨설팅과 가이드라인 제공을 묶은 대표 샘플" ;
+    po:descriptionText "AX자문단, AX가이드라인, AX사전 컨설팅을 하나의 기획 지원 패키지로 묶은 샘플 큐레이션이다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-01> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-GRP-PIG-POL-011-02>
+  a po:DisplayText ;
+    dct:identifier "DSP-GRP-PIG-POL-011-02" ;
+    po:displayRole "policy_item_group_card" ;
+    dct:title "공공 AX 실행 인프라 지원" ;
+    po:summaryText "GPU, 데이터, 공통기반, 검증을 묶은 실행 지원 패키지" ;
+    po:descriptionText "공공 AX 본사업에 필요한 자원 지원과 검증 체계를 대표 내용으로 묶은 샘플 큐레이션이다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-02> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-GRP-PIG-POL-011-03>
+  a po:DisplayText ;
+    dct:identifier "DSP-GRP-PIG-POL-011-03" ;
+    po:displayRole "policy_item_group_card" ;
+    dct:title "AX 원스톱 운영체계 및 국가 AX지도" ;
+    po:summaryText "운영 거버넌스와 국가 AX 현황 가시화를 함께 보여주는 인프라·제도 샘플" ;
+    po:descriptionText "AX 원스톱 지원센터 운영과 국가 AX지도 구축을 하나의 운영체계로 묶은 샘플 큐레이션이다." ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item-group/PIG-POL-011-03> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00001>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-002-00001" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "(가칭)국가 AI 바이오 연구소 설립 추진(’26년~)" ;
+    po:summaryText "ㅇ (가칭)국가 AI 바이오 연구소 설립 추진(’26년~)" ;
+    po:descriptionText "Ⅳ. 향후계획" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00001> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00060>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-002-00060" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "범용 모델 구축" ;
+    po:summaryText "ㅇ (범용 모델 구축) ‘(가칭)국가 AI 바이오 연구소’를 중심으로 멀티모달-멀티스케일 바이오 파운데이션 모델 구축·개방 및 산업활용 확산" ;
+    po:descriptionText "□ 전략별 추진과제" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00060> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00099>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-002-00099" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "K-BDS 중심 확보" ;
+    po:summaryText "- (K-BDS 중심 확보) 고성능 전용인프라 구축과 연계, 국가바이오데이터통합플랫폼으로 수집‧연계하고 AI 기반 MCP모듈 구축‧운영" ;
+    po:descriptionText "□ 전략별 추진과제" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00099> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00102>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-002-00102" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "거점에 구축된 인프라를 활용하여 생산된 데이터는 K-BDS에 등록하여 외부 연구자..." ;
+    po:summaryText "- 거점에 구축된 인프라를 활용하여 생산된 데이터는 K-BDS에 등록하여 외부 연구자도 자유롭게 활용할 수 있도록 개방" ;
+    po:descriptionText "< 부처별 역할(예시) >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00102> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00105>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-002-00105" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "규제 합리화" ;
+    po:summaryText "□ (규제 합리화) 법제도 마련과 연계하여 인체유래물 데이터 및 보건의료 데이터 활용 편의를 제고하기 위한 규제 개선 추진" ;
+    po:descriptionText "< 부처별 역할(예시) >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00105> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00107>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-002-00107" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "디지털헬스케어법" ;
+    po:summaryText "ㅇ (디지털헬스케어법) 디지털-데이터 기반 의료 혁신과 보건의료정보의 안전한 활용을 체계적으로 지원하는 법체계 마련" ;
+    po:descriptionText "< 부처별 역할(예시) >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00107> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00108>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-002-00108" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "민간데이터 확보" ;
+    po:summaryText "ㅇ (민간데이터 확보) 병원․기업 등이 자체 생산‧보유한 데이터의 활용 지원 후 K-BDS 등록(’26~), 민간 대용량 데이터 위탁운영* 등 추진" ;
+    po:descriptionText "< 부처별 역할(예시) >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00108> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00111>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-002-00111" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "복수기관 기증 동의" ;
+    po:summaryText "- (복수기관 기증 동의) 인체유래물 기증 동의 시 “복수기관 제공 동의” 방식을 적용하여 인체유래데이터의 활용성을 제고하고 부처 간 공유‧활용" ;
+    po:descriptionText "□ 전략별 추진과제" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00111> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00112>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-002-00112" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "인체유래물데이터 등을 안전하게 활용할 수 있는 폐쇄망 클라우드를 구축하고" ;
+    po:summaryText "- 인체유래물데이터 등을 안전하게 활용할 수 있는 폐쇄망 클라우드를 구축하고, 데이터 활용규제 특례 적용* 추진" ;
+    po:descriptionText "< 부처별 역할(예시) >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00112> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00113>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-002-00113" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "표준화" ;
+    po:summaryText "ㅇ (표준화) 데이터 정합성·신뢰성을 확보하기 위해 메타데이터 및 데이터의 표준화를 지원*하고, 주요 분야별 STAR 데이터화** 추진" ;
+    po:descriptionText "< 부처별 역할(예시) >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00113> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00114>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-002-00114" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "품질선도" ;
+    po:summaryText "ㅇ (품질선도) 품질선도센터를 확대 운영하고, 범부처 대상 5대 분야 품질관리 표준절차 등 시행으로 데이터 고품질화" ;
+    po:descriptionText "< 부처별 역할(예시) >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00114> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00115>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-002-00115" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "AI 바이오 융합 인재를 양성하기 위한 교육이 점차 확대되고 있으나" ;
+    po:summaryText "ㅇ AI 바이오 융합 인재를 양성하기 위한 교육이 점차 확대되고 있으나, 아직까지 AI·바이오 상호이해형 인력은 절대적으로 부족" ;
+    po:descriptionText "" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00115> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-002-00116>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-002-00116" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "대학원-전문과정에 이르는 AI 바이오 융합 교육 트랙을 개설하여 전문 인재를 체계..." ;
+    po:summaryText "- 대학원-전문과정에 이르는 AI 바이오 융합 교육 트랙을 개설하여 전문 인재를 체계적으로 양성하고, 산학 연계 프로그램 운영" ;
+    po:descriptionText "< 부처별 역할(예시) >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-002-00116> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00225>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-005-00225" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "①독자 AI모델과 연계한 성능 확보" ;
+    po:summaryText "ㅇ ①독자 AI모델과 연계한 성능 확보, ②테스트베드 구축, ③평가·피드백 등 ‘K-NPU 프로젝트’ 가동으로 독자 AI모델+국산 NPU 패키지化(~’27)" ;
+    po:descriptionText "□ 추진과제" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00225> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00242>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-005-00242" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "○ (실증) 실제 서비스 환경에 대응하는 대규모 K-NPU 테스트베드 구축* 및..." ;
+    po:summaryText "○ (실증) 실제 서비스 환경에 대응하는 대규모 K-NPU 테스트베드 구축* 및 독자 AI모델+NPU 실증·최적화**(’26~)로 K-AI+NPU 패키지化 지원" ;
+    po:descriptionText "< 독자 AI모델-NPU 연계성 확보 방안(예시) >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00242> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00283>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-005-00283" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "성과 검증" ;
+    po:summaryText "- (성과 검증) ‘K-Perf’와 연계한 상용 서비스 수준 검증 추진" ;
+    po:descriptionText "< (예시) 뉴로모픽 AI반도체 사업화 지원 체계 >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00283> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00284>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-005-00284" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "성능 확보" ;
+    po:summaryText "- (성능 확보) 독자 AI모델 등 최신 AI모델 맞춤형 NPU 고도화" ;
+    po:descriptionText "< K-AI+NPU 패키지 구현 기본방향 >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00284> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00287>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-005-00287" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "실증·사업화" ;
+    po:summaryText "- (실증·사업화) 국산 NPU 조기상용화를 위한 실증·사업화 지원체계 구축" ;
+    po:descriptionText "< 독자 AI모델-NPU 연계성 확보 방안(예시) >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00287> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00304>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-005-00304" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "○ (수요-공급기업) ➊수요-공급기업 간 구매계약에 따른 초기 투자비용 충당 및..." ;
+    po:summaryText "○ (수요-공급기업) ➊수요-공급기업 간 구매계약에 따른 초기 투자비용 충당 및 ➋IP 평가보증을 통한 유동성 확보 등 초저리 대출 등 지원" ;
+    po:descriptionText "< 주요 과제 예시 >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00304> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00306>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-005-00306" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "○ NPU 기반 AI컴퓨팅 인프라·설비 통합투자 등에 대한 세액 공제 신설*로 수..." ;
+    po:summaryText "○ NPU 기반 AI컴퓨팅 인프라·설비 통합투자 등에 대한 세액 공제 신설*로 수요기업 도입 인센티브 제공(’26~)" ;
+    po:descriptionText "< 주요 과제 예시 >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00306> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00310>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-005-00310" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "직·간접 투자" ;
+    po:summaryText "- 직·간접 투자, 장기 저리 대출 등 다양한 정책금융 프로그램을 기업 수요에 따라 맞춤형으로 제공하여 최적의 재무 포트폴리오 구성 지원" ;
+    po:descriptionText "< 주요 과제 예시 >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00310> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00311>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-005-00311" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "투자" ;
+    po:summaryText "- (투자) 대규모 투·융자 프로그램을 통한 성장 단계별 맞춤형 지원" ;
+    po:descriptionText "< 주요 과제 예시 >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00311> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00312>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-005-00312" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "○ (글로벌 연계교육) 글로벌 기업·대학과 연계한 글로벌 탑티어급 인력 양성으로..." ;
+    po:summaryText "○ (글로벌 연계교육) 글로벌 기업·대학과 연계한 글로벌 탑티어급 인력 양성으로 국내 AI반도체 산업계 혁신 역량 제고" ;
+    po:descriptionText "< 주요 과제 예시 >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00312> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00313>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-005-00313" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "○ (재직자 재교육) 현직 경험과 반도체 지식을 기반으로 시스템 전반의 설계 역량..." ;
+    po:summaryText "○ (재직자 재교육) 현직 경험과 반도체 지식을 기반으로 시스템 전반의 설계 역량을 갖춘 ‘기업 맞춤형 설계 전문가’ 양성 추진" ;
+    po:descriptionText "< 주요 과제 예시 >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00313> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00314>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-005-00314" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "○ (체험형 실습교육) 공공 나노팹 주도로 칩 제작 서비스를 연계한 학부 설계교육..." ;
+    po:summaryText "○ (체험형 실습교육) 공공 나노팹 주도로 칩 제작 서비스를 연계한 학부 설계교육 커리큘럼 연계 과정 개발·제공을 통한 학부 설계인력 양성" ;
+    po:descriptionText "< 주요 과제 예시 >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00314> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00315>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-005-00315" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "○ (학·석사연계) 기업과 대학이 함께 설계하는 실전문제 해결형 학·석사 연계 교..." ;
+    po:summaryText "○ (학·석사연계) 기업과 대학이 함께 설계하는 실전문제 해결형 학·석사 연계 교육과정 확대*를 통해 총 110명 이상 양성 추진(~’30)" ;
+    po:descriptionText "< 주요 과제 예시 >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00315> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-005-00317>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-005-00317" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "실무인재" ;
+    po:summaryText "- (실무인재) 현장 중심 인재 양성을 통한 팹리스 인력난 해소 지원" ;
+    po:descriptionText "< 주요 과제 예시 >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-005-00317> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00817>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-011-00817" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "AI모델 개발을 넘어 현장에서의 AI 실증을 통해 실사용 데이터를 수집하여 AI모..." ;
+    po:summaryText "ㅇ AI모델 개발을 넘어 현장에서의 AI 실증을 통해 실사용 데이터를 수집하여 AI모델·서비스를 고도화할 수 있도록 실증특례 등을 지원" ;
+    po:descriptionText "⑦ (규제 해소 지원) 가명정보 활용 원스톱 컨설팅·인프라 제공(이노베이션존), 「AI기본법」(‘26.1. 시행) 상 AI안전·신뢰 제도(고영향AI, 첨단AI안전성 등) 이행 컨설팅 지원 등을 통해 법적 리스크 해소 지원" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00817> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00818>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-011-00818" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "AI전담기관" ;
+    po:summaryText "ㅇ AI전담기관, 분야별 대표 AX기업으로 구성된 ‘AX자문단’을 운영하여, 희망부처(전담기관) 대상으로 AX기획 컨설팅을 지원하고," ;
+    po:descriptionText "① (기획) 분야별 중요도가 높은 AX프로젝트는 범정부 차원에서 집중 지원" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00818> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00822>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-011-00822" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "GPU 제공" ;
+    po:summaryText "ㅇ (GPU 제공) 특화 분야 AI모델 개발·서비스 등을 위해 GPU 자원이 필요한 경우, 정부 보유 첨단 GPU를 지원*" ;
+    po:descriptionText "⑤ (AI인프라 지원) AX 수행과정(데이터 구축-AI모델 개발-AI실증·고도화 등)에서 소관부처가 필요로 하는 인프라를 맞춤형 지원" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00822> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00830>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-011-00830" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "데이터 확보" ;
+    po:summaryText "ㅇ (데이터 확보) 데이터 소관기관 등과 협업하여 미개방 공공데이터 등 제공" ;
+    po:descriptionText "⑤ (AI인프라 지원) AX 수행과정(데이터 구축-AI모델 개발-AI실증·고도화 등)에서 소관부처가 필요로 하는 인프라를 맞춤형 지원" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00830> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00831>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-011-00831" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "범정부 AI공통기반" ;
+    po:summaryText "ㅇ (범정부 AI공통기반) 보안이 확보된 환경에서 민간 AI 모델, 컴퓨팅 자원(GPU) 할당이 가능한 AI 서비스 개발 인프라 활용 지원" ;
+    po:descriptionText "⑤ (AI인프라 지원) AX 수행과정(데이터 구축-AI모델 개발-AI실증·고도화 등)에서 소관부처가 필요로 하는 인프라를 맞춤형 지원" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00831> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00832>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-011-00832" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "부처(전담기관)가 AX기획에 참고할 수 있도록 분야별 AX성공사례" ;
+    po:summaryText "- 부처(전담기관)가 AX기획에 참고할 수 있도록 분야별 AX성공사례, 기술스택별 주요기업·제품 상세정보 등을 담은 ‘AX가이드라인’ 마련" ;
+    po:descriptionText "① (기획) 분야별 중요도가 높은 AX프로젝트는 범정부 차원에서 집중 지원" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00832> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00833>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-011-00833" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "부처(전담기관)가 AX사업 기획에 참고할 수 있도록 분야별 AX성공사례" ;
+    po:summaryText "ㅇ 부처(전담기관)가 AX사업 기획에 참고할 수 있도록 분야별 AX성공사례, 기술스택별 주요기업·제품 정보 등을 담은 ‘AX가이드라인*’ 마련" ;
+    po:descriptionText "② (부처 AX기획 지원) 분야별 대표 AX기업·전문가로 구성된 ‘AX자문단*’을 운영하여, 희망부처(전담기관) 대상으로 AX사업 기획·컨설팅 지원" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00833> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00835>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-011-00835" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "성능·신뢰성 검증" ;
+    po:summaryText "ㅇ (성능·신뢰성 검증) AI평가·인증 전문기관(TTA 등) 인력·인프라(평가데이터셋·도구)을 활용하여 개발된 AI모델·서비스의 성능·신뢰성 검증을 지원" ;
+    po:descriptionText "⑤ (AI인프라 지원) AX 수행과정(데이터 구축-AI모델 개발-AI실증·고도화 등)에서 소관부처가 필요로 하는 인프라를 맞춤형 지원" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00835> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00836>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-011-00836" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "신기술 활용 및 새로운 분야 AX적용은 AX사전 컨설팅*(PoC)(과기정통부) 추진 후" ;
+    po:summaryText "ㅇ 신기술 활용 및 새로운 분야 AX적용은 AX사전 컨설팅*(PoC)(과기정통부) 추진 후, 이어서 소관부처가 AX 본사업을 추진하는 방안도 검토" ;
+    po:descriptionText "② (부처 AX기획 지원) 분야별 대표 AX기업·전문가로 구성된 ‘AX자문단*’을 운영하여, 희망부처(전담기관) 대상으로 AX사업 기획·컨설팅 지원" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00836> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00846>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-011-00846" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "‘가칭AX 원스톱 지원센터’" ;
+    po:summaryText "□ ‘가칭AX 원스톱 지원센터’, ‘공공AI사업지원센터’ 운영 : ’26.2.~" ;
+    po:descriptionText "< 범정부 AX 추진거버넌스(안) >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00846> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00847>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-011-00847" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "’26년 부처별 AX사업 본격 지원" ;
+    po:summaryText "□ ’26년 부처별 AX사업 본격 지원 : ’26.2.~" ;
+    po:descriptionText "< 범정부 AX 추진거버넌스(안) >" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00847> .
+
+<https://example.org/kr-msit-policy/resource/display-text/DSP-POL-011-00848>
+  a po:DisplayText ;
+    dct:identifier "DSP-POL-011-00848" ;
+    po:displayRole "policy_item_summary" ;
+    dct:title "지역·분야별 AX 수요·투자 및 진행현황" ;
+    po:summaryText "ㅇ 지역·분야별 AX 수요·투자 및 진행현황, 민간·공공 보유 AX자원 등을 종합 분석한 ‘국가 AX지도’를 구축·제공하여 민관 투자계획 수립에 활용 지원" ;
+    po:descriptionText "① (범정부 AX통합 관리) 부처수요 등을 반영하여 분야별 중요도가 높은 AX프로젝트는 범정부 차원에서 집중 지원" ;
+    po:displayFor <https://example.org/kr-msit-policy/resource/policy-item/ITM-POL-011-00848> .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00014>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-002-00014" ;
+    po:descriptionText "ㅇ (범용 모델 구축) ‘(가칭)국가 AI 바이오 연구소’를 중심으로 멀티모달-멀티스케일 바이오 파운데이션 모델 구축·개방 및 산업활용 확산" ;
+    po:pageNo "section2" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00020>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-002-00020" ;
+    po:descriptionText "- (K-BDS 중심 확보) 고성능 전용인프라 구축과 연계, 국가바이오데이터통합플랫폼으로 수집‧연계하고 AI 기반 MCP모듈 구축‧운영" ;
+    po:pageNo "section2" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00026>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-002-00026" ;
+    po:descriptionText "- (복수기관 기증 동의) 인체유래물 기증 동의 시 “복수기관 제공 동의” 방식을 적용하여 인체유래데이터의 활용성을 제고하고 부처 간 공유‧활용" ;
+    po:pageNo "section2" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00038>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-002-00038" ;
+    po:descriptionText "ㅇ (가칭)국가 AI 바이오 연구소 설립 추진(’26년~)" ;
+    po:pageNo "section2" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00080>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-002-00080" ;
+    po:descriptionText "ㅇ AI 바이오 융합 인재를 양성하기 위한 교육이 점차 확대되고 있으나, 아직까지 AI·바이오 상호이해형 인력은 절대적으로 부족" ;
+    po:pageNo "section7" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00187>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-002-00187" ;
+    po:descriptionText "- 인체유래물데이터 등을 안전하게 활용할 수 있는 폐쇄망 클라우드를 구축하고, 데이터 활용규제 특례 적용* 추진" ;
+    po:pageNo "section7" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00189>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-002-00189" ;
+    po:descriptionText "- 거점에 구축된 인프라를 활용하여 생산된 데이터는 K-BDS에 등록하여 외부 연구자도 자유롭게 활용할 수 있도록 개방" ;
+    po:pageNo "section7" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00191>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-002-00191" ;
+    po:descriptionText "- 대학원-전문과정에 이르는 AI 바이오 융합 교육 트랙을 개설하여 전문 인재를 체계적으로 양성하고, 산학 연계 프로그램 운영" ;
+    po:pageNo "section7" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00212>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-002-00212" ;
+    po:descriptionText "ㅇ (민간데이터 확보) 병원․기업 등이 자체 생산‧보유한 데이터의 활용 지원 후 K-BDS 등록(’26~), 민간 대용량 데이터 위탁운영* 등 추진" ;
+    po:pageNo "section7" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00215>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-002-00215" ;
+    po:descriptionText "ㅇ (표준화) 데이터 정합성·신뢰성을 확보하기 위해 메타데이터 및 데이터의 표준화를 지원*하고, 주요 분야별 STAR 데이터화** 추진" ;
+    po:pageNo "section7" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00218>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-002-00218" ;
+    po:descriptionText "ㅇ (품질선도) 품질선도센터를 확대 운영하고, 범부처 대상 5대 분야 품질관리 표준절차 등 시행으로 데이터 고품질화" ;
+    po:pageNo "section7" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00230>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-002-00230" ;
+    po:descriptionText "ㅇ (디지털헬스케어법) 디지털-데이터 기반 의료 혁신과 보건의료정보의 안전한 활용을 체계적으로 지원하는 법체계 마련" ;
+    po:pageNo "section7" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00231>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-002-00231" ;
+    po:descriptionText "□ (규제 합리화) 법제도 마련과 연계하여 인체유래물 데이터 및 보건의료 데이터 활용 편의를 제고하기 위한 규제 개선 추진" ;
+    po:pageNo "section7" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00017>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-007-00017" ;
+    po:descriptionText "ㅇ ①독자 AI모델과 연계한 성능 확보, ②테스트베드 구축, ③평가·피드백 등 ‘K-NPU 프로젝트’ 가동으로 독자 AI모델+국산 NPU 패키지化(~’27)" ;
+    po:pageNo "section2" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00123>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-007-00123" ;
+    po:descriptionText "- (성능 확보) 독자 AI모델 등 최신 AI모델 맞춤형 NPU 고도화" ;
+    po:pageNo "section8" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00130>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-007-00130" ;
+    po:descriptionText "- (실증·사업화) 국산 NPU 조기상용화를 위한 실증·사업화 지원체계 구축" ;
+    po:pageNo "section8" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00131>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-007-00131" ;
+    po:descriptionText "○ (실증) 실제 서비스 환경에 대응하는 대규모 K-NPU 테스트베드 구축* 및 독자 AI모델+NPU 실증·최적화**(’26~)로 K-AI+NPU 패키지化 지원" ;
+    po:pageNo "section8" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00177>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-007-00177" ;
+    po:descriptionText "- (성과 검증) ‘K-Perf’와 연계한 상용 서비스 수준 검증 추진" ;
+    po:pageNo "section8" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00228>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-007-00228" ;
+    po:descriptionText "- (투자) 대규모 투·융자 프로그램을 통한 성장 단계별 맞춤형 지원" ;
+    po:pageNo "section8" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00231>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-007-00231" ;
+    po:descriptionText "- 직·간접 투자, 장기 저리 대출 등 다양한 정책금융 프로그램을 기업 수요에 따라 맞춤형으로 제공하여 최적의 재무 포트폴리오 구성 지원" ;
+    po:pageNo "section8" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00235>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-007-00235" ;
+    po:descriptionText "○ (수요-공급기업) ➊수요-공급기업 간 구매계약에 따른 초기 투자비용 충당 및 ➋IP 평가보증을 통한 유동성 확보 등 초저리 대출 등 지원" ;
+    po:pageNo "section8" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00237>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-007-00237" ;
+    po:descriptionText "○ NPU 기반 AI컴퓨팅 인프라·설비 통합투자 등에 대한 세액 공제 신설*로 수요기업 도입 인센티브 제공(’26~)" ;
+    po:pageNo "section8" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00242>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-007-00242" ;
+    po:descriptionText "○ (글로벌 연계교육) 글로벌 기업·대학과 연계한 글로벌 탑티어급 인력 양성으로 국내 AI반도체 산업계 혁신 역량 제고" ;
+    po:pageNo "section8" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00243>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-007-00243" ;
+    po:descriptionText "- (실무인재) 현장 중심 인재 양성을 통한 팹리스 인력난 해소 지원" ;
+    po:pageNo "section8" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00244>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-007-00244" ;
+    po:descriptionText "○ (학·석사연계) 기업과 대학이 함께 설계하는 실전문제 해결형 학·석사 연계 교육과정 확대*를 통해 총 110명 이상 양성 추진(~’30)" ;
+    po:pageNo "section8" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00249>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-007-00249" ;
+    po:descriptionText "○ (체험형 실습교육) 공공 나노팹 주도로 칩 제작 서비스를 연계한 학부 설계교육 커리큘럼 연계 과정 개발·제공을 통한 학부 설계인력 양성" ;
+    po:pageNo "section8" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00250>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-007-00250" ;
+    po:descriptionText "○ (재직자 재교육) 현직 경험과 반도체 지식을 기반으로 시스템 전반의 설계 역량을 갖춘 ‘기업 맞춤형 설계 전문가’ 양성 추진" ;
+    po:pageNo "section8" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00011>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-012-00011" ;
+    po:descriptionText "ㅇ AI전담기관, 분야별 대표 AX기업으로 구성된 ‘AX자문단’을 운영하여, 희망부처(전담기관) 대상으로 AX기획 컨설팅을 지원하고," ;
+    po:pageNo "section0" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00012>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-012-00012" ;
+    po:descriptionText "- 부처(전담기관)가 AX기획에 참고할 수 있도록 분야별 AX성공사례, 기술스택별 주요기업·제품 상세정보 등을 담은 ‘AX가이드라인’ 마련" ;
+    po:pageNo "section0" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00056>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-012-00056" ;
+    po:descriptionText "ㅇ 지역·분야별 AX 수요·투자 및 진행현황, 민간·공공 보유 AX자원 등을 종합 분석한 ‘국가 AX지도’를 구축·제공하여 민관 투자계획 수립에 활용 지원" ;
+    po:pageNo "section3" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00059>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-012-00059" ;
+    po:descriptionText "ㅇ 부처(전담기관)가 AX사업 기획에 참고할 수 있도록 분야별 AX성공사례, 기술스택별 주요기업·제품 정보 등을 담은 ‘AX가이드라인*’ 마련" ;
+    po:pageNo "section3" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00061>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-012-00061" ;
+    po:descriptionText "ㅇ 신기술 활용 및 새로운 분야 AX적용은 AX사전 컨설팅*(PoC)(과기정통부) 추진 후, 이어서 소관부처가 AX 본사업을 추진하는 방안도 검토" ;
+    po:pageNo "section3" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00071>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-012-00071" ;
+    po:descriptionText "ㅇ (데이터 확보) 데이터 소관기관 등과 협업하여 미개방 공공데이터 등 제공" ;
+    po:pageNo "section3" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00072>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-012-00072" ;
+    po:descriptionText "ㅇ (GPU 제공) 특화 분야 AI모델 개발·서비스 등을 위해 GPU 자원이 필요한 경우, 정부 보유 첨단 GPU를 지원*" ;
+    po:pageNo "section3" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00074>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-012-00074" ;
+    po:descriptionText "ㅇ (성능·신뢰성 검증) AI평가·인증 전문기관(TTA 등) 인력·인프라(평가데이터셋·도구)을 활용하여 개발된 AI모델·서비스의 성능·신뢰성 검증을 지원" ;
+    po:pageNo "section3" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00076>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-012-00076" ;
+    po:descriptionText "ㅇ (범정부 AI공통기반) 보안이 확보된 환경에서 민간 AI 모델, 컴퓨팅 자원(GPU) 할당이 가능한 AI 서비스 개발 인프라 활용 지원" ;
+    po:pageNo "section3" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00082>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-012-00082" ;
+    po:descriptionText "ㅇ AI모델 개발을 넘어 현장에서의 AI 실증을 통해 실사용 데이터를 수집하여 AI모델·서비스를 고도화할 수 있도록 실증특례 등을 지원" ;
+    po:pageNo "section3" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00097>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-012-00097" ;
+    po:descriptionText "□ ‘가칭AX 원스톱 지원센터’, ‘공공AI사업지원센터’ 운영 : ’26.2.~" ;
+    po:pageNo "section3" .
+
+<https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00098>
+  a po:EvidenceParagraph ;
+    dct:identifier "PAR-DOC-POL-012-00098" ;
+    po:descriptionText "□ ’26년 부처별 AX사업 본격 지원 : ’26.2.~" ;
+    po:pageNo "section3" .
+
+<https://example.org/kr-msit-policy/resource/evidence-table/CTBL-DOC-POL-012-003>
+  a po:EvidenceTable ;
+    dct:identifier "CTBL-DOC-POL-012-003" ;
+    dct:title "GPU / · 정부가 확보한 첨단GPU 1만장 중 일정량 할당 및 활용 지원 / 󰊱기획" ;
+    po:pageNo "section3" .
+
+<https://example.org/kr-msit-policy/resource/evidence-figure/FIG-DOC-POL-007-008>
+  a po:EvidenceFigure ;
+    dct:identifier "FIG-DOC-POL-007-008" ;
+    dct:title "그림입니다.\n원본 그림의 이름: 그림1.png\n원본 그림의 크기: 가로 2564pixel, 세로 1053pixel" ;
+    po:summaryText "그림1.png" ;
+    po:pageNo "section8" ;
+    po:assetPathOrUrl "work/02_structured-extraction/figures/assets/DOC-POL-007/image10.png" ;
+    po:descriptionText "parent_table_id=TBL-DOC-POL-007-021 | internal_asset_path=BinData/image10.png | binary_item_id=image10" .
+
+<https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-002-0001>
+  a po:SourceAsset ;
+    dct:identifier "SRC-DOC-POL-002-0001" ;
+    po:assetPathOrUrl "tmp/DOC-POL-002.hwpx" ;
+    po:sectionId "section2" ;
+    po:descriptionText "Derived from document location section2" .
+
+<https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-002-0006>
+  a po:SourceAsset ;
+    dct:identifier "SRC-DOC-POL-002-0006" ;
+    po:assetPathOrUrl "tmp/DOC-POL-002.hwpx" ;
+    po:sectionId "section7" ;
+    po:descriptionText "Derived from document location section7" .
+
+<https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-007-0277>
+  a po:SourceAsset ;
+    dct:identifier "SRC-DOC-POL-007-0277" ;
+    po:assetPathOrUrl "tmp/DOC-POL-007.hwpx" ;
+    po:sectionId "section2" ;
+    po:descriptionText "Derived from document location section2" .
+
+<https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-007-0281>
+  a po:SourceAsset ;
+    dct:identifier "SRC-DOC-POL-007-0281" ;
+    po:assetPathOrUrl "tmp/DOC-POL-007.hwpx" ;
+    po:sectionId "section8" ;
+    po:descriptionText "Derived from document location section8" .
+
+<https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-007-0286>
+  a po:SourceAsset ;
+    dct:identifier "SRC-DOC-POL-007-0286" ;
+    po:assetPathOrUrl "work/02_structured-extraction/figures/assets/DOC-POL-007/image10.png" ;
+    po:sectionId "section8" ;
+    po:descriptionText "Figure asset for FIG-DOC-POL-007-008" .
+
+<https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-012-0415>
+  a po:SourceAsset ;
+    dct:identifier "SRC-DOC-POL-012-0415" ;
+    po:assetPathOrUrl "tmp/DOC-POL-012.hwpx" ;
+    po:sectionId "section0" ;
+    po:descriptionText "Derived from document location section0" .
+
+<https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-012-0420>
+  a po:SourceAsset ;
+    dct:identifier "SRC-DOC-POL-012-0420" ;
+    po:assetPathOrUrl "tmp/DOC-POL-012.hwpx" ;
+    po:sectionId "section3" ;
+    po:descriptionText "Derived from document location section3" .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-CTBL-DOC-POL-012-003>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-CTBL-DOC-POL-012-003" ;
+    po:representationType "canonical_table" ;
+    po:locationType "page_range" ;
+    po:locationValue "section3" ;
+    po:summaryText "GPU / · 정부가 확보한 첨단GPU 1만장 중 일정량 할당 및 활용 지원 / 󰊱기획" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-012-0420> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-table/CTBL-DOC-POL-012-003> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-FIG-DOC-POL-007-008>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-FIG-DOC-POL-007-008" ;
+    po:representationType "figure_or_diagram" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section8" ;
+    po:summaryText "그림1.png" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-007-0286> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-figure/FIG-DOC-POL-007-008> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00014>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-002-00014" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section2" ;
+    po:summaryText "ㅇ (범용 모델 구축) ‘(가칭)국가 AI 바이오 연구소’를 중심으로 멀티모달-멀티스케일 바이오 파운데이션 모델 구축·개방 및 산업활용 확산" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-002-0001> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00014> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00020>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-002-00020" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section2" ;
+    po:summaryText "- (K-BDS 중심 확보) 고성능 전용인프라 구축과 연계, 국가바이오데이터통합플랫폼으로 수집‧연계하고 AI 기반 MCP모듈 구축‧운영" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-002-0001> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00020> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00026>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-002-00026" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section2" ;
+    po:summaryText "- (복수기관 기증 동의) 인체유래물 기증 동의 시 “복수기관 제공 동의” 방식을 적용하여 인체유래데이터의 활용성을 제고하고 부처 간 공유‧활용" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-002-0001> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00026> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00038>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-002-00038" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section2" ;
+    po:summaryText "ㅇ (가칭)국가 AI 바이오 연구소 설립 추진(’26년~)" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-002-0001> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00038> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00080>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-002-00080" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section7" ;
+    po:summaryText "ㅇ AI 바이오 융합 인재를 양성하기 위한 교육이 점차 확대되고 있으나, 아직까지 AI·바이오 상호이해형 인력은 절대적으로 부족" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-002-0006> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00080> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00187>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-002-00187" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section7" ;
+    po:summaryText "- 인체유래물데이터 등을 안전하게 활용할 수 있는 폐쇄망 클라우드를 구축하고, 데이터 활용규제 특례 적용* 추진" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-002-0006> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00187> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00189>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-002-00189" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section7" ;
+    po:summaryText "- 거점에 구축된 인프라를 활용하여 생산된 데이터는 K-BDS에 등록하여 외부 연구자도 자유롭게 활용할 수 있도록 개방" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-002-0006> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00189> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00191>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-002-00191" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section7" ;
+    po:summaryText "- 대학원-전문과정에 이르는 AI 바이오 융합 교육 트랙을 개설하여 전문 인재를 체계적으로 양성하고, 산학 연계 프로그램 운영" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-002-0006> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00191> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00212>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-002-00212" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section7" ;
+    po:summaryText "ㅇ (민간데이터 확보) 병원․기업 등이 자체 생산‧보유한 데이터의 활용 지원 후 K-BDS 등록(’26~), 민간 대용량 데이터 위탁운영* 등 추진" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-002-0006> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00212> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00215>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-002-00215" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section7" ;
+    po:summaryText "ㅇ (표준화) 데이터 정합성·신뢰성을 확보하기 위해 메타데이터 및 데이터의 표준화를 지원*하고, 주요 분야별 STAR 데이터화** 추진" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-002-0006> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00215> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00218>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-002-00218" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section7" ;
+    po:summaryText "ㅇ (품질선도) 품질선도센터를 확대 운영하고, 범부처 대상 5대 분야 품질관리 표준절차 등 시행으로 데이터 고품질화" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-002-0006> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00218> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00230>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-002-00230" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section7" ;
+    po:summaryText "ㅇ (디지털헬스케어법) 디지털-데이터 기반 의료 혁신과 보건의료정보의 안전한 활용을 체계적으로 지원하는 법체계 마련" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-002-0006> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00230> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-002-00231>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-002-00231" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section7" ;
+    po:summaryText "□ (규제 합리화) 법제도 마련과 연계하여 인체유래물 데이터 및 보건의료 데이터 활용 편의를 제고하기 위한 규제 개선 추진" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-002-0006> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-002-00231> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00017>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-007-00017" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section2" ;
+    po:summaryText "ㅇ ①독자 AI모델과 연계한 성능 확보, ②테스트베드 구축, ③평가·피드백 등 ‘K-NPU 프로젝트’ 가동으로 독자 AI모델+국산 NPU 패키지化(~’27)" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-007-0277> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00017> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00123>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-007-00123" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section8" ;
+    po:summaryText "- (성능 확보) 독자 AI모델 등 최신 AI모델 맞춤형 NPU 고도화" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-007-0281> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00123> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00130>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-007-00130" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section8" ;
+    po:summaryText "- (실증·사업화) 국산 NPU 조기상용화를 위한 실증·사업화 지원체계 구축" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-007-0281> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00130> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00131>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-007-00131" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section8" ;
+    po:summaryText "○ (실증) 실제 서비스 환경에 대응하는 대규모 K-NPU 테스트베드 구축* 및 독자 AI모델+NPU 실증·최적화**(’26~)로 K-AI+NPU 패키지化 지원" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-007-0281> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00131> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00177>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-007-00177" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section8" ;
+    po:summaryText "- (성과 검증) ‘K-Perf’와 연계한 상용 서비스 수준 검증 추진" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-007-0281> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00177> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00228>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-007-00228" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section8" ;
+    po:summaryText "- (투자) 대규모 투·융자 프로그램을 통한 성장 단계별 맞춤형 지원" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-007-0281> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00228> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00231>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-007-00231" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section8" ;
+    po:summaryText "- 직·간접 투자, 장기 저리 대출 등 다양한 정책금융 프로그램을 기업 수요에 따라 맞춤형으로 제공하여 최적의 재무 포트폴리오 구성 지원" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-007-0281> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00231> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00235>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-007-00235" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section8" ;
+    po:summaryText "○ (수요-공급기업) ➊수요-공급기업 간 구매계약에 따른 초기 투자비용 충당 및 ➋IP 평가보증을 통한 유동성 확보 등 초저리 대출 등 지원" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-007-0281> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00235> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00237>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-007-00237" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section8" ;
+    po:summaryText "○ NPU 기반 AI컴퓨팅 인프라·설비 통합투자 등에 대한 세액 공제 신설*로 수요기업 도입 인센티브 제공(’26~)" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-007-0281> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00237> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00242>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-007-00242" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section8" ;
+    po:summaryText "○ (글로벌 연계교육) 글로벌 기업·대학과 연계한 글로벌 탑티어급 인력 양성으로 국내 AI반도체 산업계 혁신 역량 제고" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-007-0281> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00242> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00243>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-007-00243" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section8" ;
+    po:summaryText "- (실무인재) 현장 중심 인재 양성을 통한 팹리스 인력난 해소 지원" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-007-0281> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00243> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00244>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-007-00244" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section8" ;
+    po:summaryText "○ (학·석사연계) 기업과 대학이 함께 설계하는 실전문제 해결형 학·석사 연계 교육과정 확대*를 통해 총 110명 이상 양성 추진(~’30)" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-007-0281> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00244> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00249>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-007-00249" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section8" ;
+    po:summaryText "○ (체험형 실습교육) 공공 나노팹 주도로 칩 제작 서비스를 연계한 학부 설계교육 커리큘럼 연계 과정 개발·제공을 통한 학부 설계인력 양성" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-007-0281> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00249> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-007-00250>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-007-00250" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section8" ;
+    po:summaryText "○ (재직자 재교육) 현직 경험과 반도체 지식을 기반으로 시스템 전반의 설계 역량을 갖춘 ‘기업 맞춤형 설계 전문가’ 양성 추진" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-007-0281> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-007-00250> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00011>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-012-00011" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section0" ;
+    po:summaryText "ㅇ AI전담기관, 분야별 대표 AX기업으로 구성된 ‘AX자문단’을 운영하여, 희망부처(전담기관) 대상으로 AX기획 컨설팅을 지원하고," ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-012-0415> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00011> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00012>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-012-00012" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section0" ;
+    po:summaryText "- 부처(전담기관)가 AX기획에 참고할 수 있도록 분야별 AX성공사례, 기술스택별 주요기업·제품 상세정보 등을 담은 ‘AX가이드라인’ 마련" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-012-0415> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00012> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00056>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-012-00056" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section3" ;
+    po:summaryText "ㅇ 지역·분야별 AX 수요·투자 및 진행현황, 민간·공공 보유 AX자원 등을 종합 분석한 ‘국가 AX지도’를 구축·제공하여 민관 투자계획 수립에 활용 지원" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-012-0420> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00056> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00059>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-012-00059" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section3" ;
+    po:summaryText "ㅇ 부처(전담기관)가 AX사업 기획에 참고할 수 있도록 분야별 AX성공사례, 기술스택별 주요기업·제품 정보 등을 담은 ‘AX가이드라인*’ 마련" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-012-0420> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00059> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00061>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-012-00061" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section3" ;
+    po:summaryText "ㅇ 신기술 활용 및 새로운 분야 AX적용은 AX사전 컨설팅*(PoC)(과기정통부) 추진 후, 이어서 소관부처가 AX 본사업을 추진하는 방안도 검토" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-012-0420> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00061> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00071>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-012-00071" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section3" ;
+    po:summaryText "ㅇ (데이터 확보) 데이터 소관기관 등과 협업하여 미개방 공공데이터 등 제공" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-012-0420> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00071> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00072>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-012-00072" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section3" ;
+    po:summaryText "ㅇ (GPU 제공) 특화 분야 AI모델 개발·서비스 등을 위해 GPU 자원이 필요한 경우, 정부 보유 첨단 GPU를 지원*" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-012-0420> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00072> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00074>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-012-00074" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section3" ;
+    po:summaryText "ㅇ (성능·신뢰성 검증) AI평가·인증 전문기관(TTA 등) 인력·인프라(평가데이터셋·도구)을 활용하여 개발된 AI모델·서비스의 성능·신뢰성 검증을 지원" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-012-0420> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00074> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00076>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-012-00076" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section3" ;
+    po:summaryText "ㅇ (범정부 AI공통기반) 보안이 확보된 환경에서 민간 AI 모델, 컴퓨팅 자원(GPU) 할당이 가능한 AI 서비스 개발 인프라 활용 지원" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-012-0420> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00076> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00082>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-012-00082" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section3" ;
+    po:summaryText "ㅇ AI모델 개발을 넘어 현장에서의 AI 실증을 통해 실사용 데이터를 수집하여 AI모델·서비스를 고도화할 수 있도록 실증특례 등을 지원" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-012-0420> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00082> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00097>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-012-00097" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section3" ;
+    po:summaryText "□ ‘가칭AX 원스톱 지원센터’, ‘공공AI사업지원센터’ 운영 : ’26.2.~" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-012-0420> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00097> .
+
+<https://example.org/kr-msit-policy/resource/derived-representation/DRV-PAR-DOC-POL-012-00098>
+  a po:DerivedRepresentation ;
+    dct:identifier "DRV-PAR-DOC-POL-012-00098" ;
+    po:representationType "normalized_paragraph" ;
+    po:locationType "page_or_section" ;
+    po:locationValue "section3" ;
+    po:summaryText "□ ’26년 부처별 AX사업 본격 지원 : ’26.2.~" ;
+    prov:wasDerivedFrom <https://example.org/kr-msit-policy/resource/source-asset/SRC-DOC-POL-012-0420> ;
+    po:representsEvidenceObject <https://example.org/kr-msit-policy/resource/evidence-paragraph/PAR-DOC-POL-012-00098> .

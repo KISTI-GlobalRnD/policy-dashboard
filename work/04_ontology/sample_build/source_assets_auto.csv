@@ -1,0 +1,421 @@
+source_asset_id,document_id,asset_type,mime_type,asset_path_or_url,page_no,section_id,bbox_json,thumbnail_path,quality_status,notes
+SRC-DOC-POL-002-0001,DOC-POL-002,document_section,application/x-hwp+zip,tmp/DOC-POL-002.hwpx,,section2,,,derived_locator,Derived from document location section2
+SRC-DOC-POL-002-0002,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image1.png,,section2,,,source_image,Figure asset for FIG-DOC-POL-002-001
+SRC-DOC-POL-002-0003,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image2.png,,section2,,,source_image,Figure asset for FIG-DOC-POL-002-002
+SRC-DOC-POL-002-0004,DOC-POL-002,document_section,application/x-hwp+zip,tmp/DOC-POL-002.hwpx,,section2-section7,,,derived_locator,Derived from document location section2-section7
+SRC-DOC-POL-002-0005,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image3.bmp,,section3,,,source_image,Figure asset for FIG-DOC-POL-002-003
+SRC-DOC-POL-002-0006,DOC-POL-002,document_section,application/x-hwp+zip,tmp/DOC-POL-002.hwpx,,section7,,,derived_locator,Derived from document location section7
+SRC-DOC-POL-002-0007,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image5.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-004
+SRC-DOC-POL-002-0008,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image6.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-005
+SRC-DOC-POL-002-0009,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image7.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-006
+SRC-DOC-POL-002-0010,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image8.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-007
+SRC-DOC-POL-002-0011,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image9.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-008
+SRC-DOC-POL-002-0012,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image10.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-009
+SRC-DOC-POL-002-0013,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image11.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-010
+SRC-DOC-POL-002-0014,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image12.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-011
+SRC-DOC-POL-002-0015,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image13.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-012
+SRC-DOC-POL-002-0016,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image14.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-013
+SRC-DOC-POL-002-0017,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image15.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-014
+SRC-DOC-POL-002-0018,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image16.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-015
+SRC-DOC-POL-002-0019,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image17.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-016
+SRC-DOC-POL-002-0020,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image18.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-017
+SRC-DOC-POL-002-0021,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image19.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-018
+SRC-DOC-POL-002-0022,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image20.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-019
+SRC-DOC-POL-002-0023,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image21.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-020
+SRC-DOC-POL-002-0024,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image14.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-021
+SRC-DOC-POL-002-0025,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image22.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-022
+SRC-DOC-POL-002-0026,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image23.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-023
+SRC-DOC-POL-002-0027,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image24.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-024
+SRC-DOC-POL-002-0028,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image25.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-025
+SRC-DOC-POL-002-0029,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image26.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-026
+SRC-DOC-POL-002-0030,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image1.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-027
+SRC-DOC-POL-002-0031,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image27.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-028
+SRC-DOC-POL-002-0032,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image28.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-029
+SRC-DOC-POL-002-0033,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image29.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-030
+SRC-DOC-POL-002-0034,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image30.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-031
+SRC-DOC-POL-002-0035,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image31.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-032
+SRC-DOC-POL-002-0036,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image32.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-033
+SRC-DOC-POL-002-0037,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image33.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-034
+SRC-DOC-POL-002-0038,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image34.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-035
+SRC-DOC-POL-002-0039,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image35.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-036
+SRC-DOC-POL-002-0040,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image36.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-037
+SRC-DOC-POL-002-0041,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image37.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-038
+SRC-DOC-POL-002-0042,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image38.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-039
+SRC-DOC-POL-002-0043,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image39.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-040
+SRC-DOC-POL-002-0044,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image40.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-041
+SRC-DOC-POL-002-0045,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image41.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-042
+SRC-DOC-POL-002-0046,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image42.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-043
+SRC-DOC-POL-002-0047,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image43.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-044
+SRC-DOC-POL-002-0048,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image44.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-045
+SRC-DOC-POL-002-0049,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image45.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-046
+SRC-DOC-POL-002-0050,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image46.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-047
+SRC-DOC-POL-002-0051,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image47.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-048
+SRC-DOC-POL-002-0052,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image48.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-049
+SRC-DOC-POL-002-0053,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image49.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-050
+SRC-DOC-POL-002-0054,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image50.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-051
+SRC-DOC-POL-002-0055,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image51.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-052
+SRC-DOC-POL-002-0056,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image52.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-053
+SRC-DOC-POL-002-0057,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image53.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-054
+SRC-DOC-POL-002-0058,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image2.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-055
+SRC-DOC-POL-002-0059,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image7.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-056
+SRC-DOC-POL-002-0060,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image10.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-057
+SRC-DOC-POL-002-0061,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image11.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-058
+SRC-DOC-POL-002-0062,DOC-POL-002,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image8.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-059
+SRC-DOC-POL-002-0063,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image54.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-060
+SRC-DOC-POL-002-0064,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image55.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-061
+SRC-DOC-POL-002-0065,DOC-POL-002,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-002/image56.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-002-062
+SRC-DOC-POL-003-0066,DOC-POL-003,document_section,application/x-hwp+zip,tmp/DOC-POL-003.hwpx,,section0,,,derived_locator,Derived from document location section0
+SRC-DOC-POL-003-0067,DOC-POL-003,document_section,application/x-hwp+zip,tmp/DOC-POL-003.hwpx,,section0-section2,,,derived_locator,Derived from document location section0-section2
+SRC-DOC-POL-003-0068,DOC-POL-003,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image1.bmp,,section1,,,source_image,Figure asset for FIG-DOC-POL-003-001
+SRC-DOC-POL-003-0069,DOC-POL-003,document_section,application/x-hwp+zip,tmp/DOC-POL-003.hwpx,,section2,,,derived_locator,Derived from document location section2
+SRC-DOC-POL-003-0070,DOC-POL-003,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-003/image2.JPG,,section2,,,source_image,Figure asset for FIG-DOC-POL-003-002
+SRC-DOC-POL-003-0071,DOC-POL-003,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image3.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-003-003
+SRC-DOC-POL-003-0072,DOC-POL-003,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image4.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-003-004
+SRC-DOC-POL-003-0073,DOC-POL-003,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image5.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-003-005
+SRC-DOC-POL-003-0074,DOC-POL-003,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image6.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-003-006
+SRC-DOC-POL-003-0075,DOC-POL-003,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image7.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-003-007
+SRC-DOC-POL-003-0076,DOC-POL-003,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image8.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-003-008
+SRC-DOC-POL-003-0077,DOC-POL-003,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image9.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-003-009
+SRC-DOC-POL-003-0078,DOC-POL-003,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image10.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-003-010
+SRC-DOC-POL-004-0079,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image1.png,,section0,,,source_image,Figure asset for FIG-DOC-POL-004-001
+SRC-DOC-POL-004-0080,DOC-POL-004,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-004/image2.bmp,,section0,,,source_image,Figure asset for FIG-DOC-POL-004-002
+SRC-DOC-POL-004-0081,DOC-POL-004,document_section,application/x-hwp+zip,tmp/DOC-POL-004.hwpx,,section0,,,derived_locator,Derived from document location section0
+SRC-DOC-POL-004-0082,DOC-POL-004,document_section,application/x-hwp+zip,tmp/DOC-POL-004.hwpx,,section1,,,derived_locator,Derived from document location section1
+SRC-DOC-POL-004-0083,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image4.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-003
+SRC-DOC-POL-004-0084,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image5.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-004
+SRC-DOC-POL-004-0085,DOC-POL-004,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-004/image6.bmp,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-005
+SRC-DOC-POL-004-0086,DOC-POL-004,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-004/image7.jpg,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-006
+SRC-DOC-POL-004-0087,DOC-POL-004,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-004/image8.bmp,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-007
+SRC-DOC-POL-004-0088,DOC-POL-004,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-004/image9.bmp,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-008
+SRC-DOC-POL-004-0089,DOC-POL-004,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-004/image10.bmp,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-009
+SRC-DOC-POL-004-0090,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image11.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-010
+SRC-DOC-POL-004-0091,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image12.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-011
+SRC-DOC-POL-004-0092,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image13.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-012
+SRC-DOC-POL-004-0093,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image14.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-013
+SRC-DOC-POL-004-0094,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image15.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-014
+SRC-DOC-POL-004-0095,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image16.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-015
+SRC-DOC-POL-004-0096,DOC-POL-004,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-004/image17.jpg,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-016
+SRC-DOC-POL-004-0097,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image18.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-017
+SRC-DOC-POL-004-0098,DOC-POL-004,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-004/image19.bmp,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-018
+SRC-DOC-POL-004-0099,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image20.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-019
+SRC-DOC-POL-004-0100,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image21.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-020
+SRC-DOC-POL-004-0101,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image22.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-021
+SRC-DOC-POL-004-0102,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image23.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-022
+SRC-DOC-POL-004-0103,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image24.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-023
+SRC-DOC-POL-004-0104,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image25.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-024
+SRC-DOC-POL-004-0105,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image26.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-025
+SRC-DOC-POL-004-0106,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image27.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-026
+SRC-DOC-POL-004-0107,DOC-POL-004,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-004/image28.png,,section1,,,source_image,Figure asset for FIG-DOC-POL-004-027
+SRC-DOC-POL-005-0108,DOC-POL-005,document_section,application/x-hwp+zip,tmp/DOC-POL-005.hwpx,,section2,,,derived_locator,Derived from document location section2
+SRC-DOC-POL-005-0109,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image1.png,,section2,,,source_image,Figure asset for FIG-DOC-POL-005-001
+SRC-DOC-POL-005-0110,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image2.png,,section2,,,source_image,Figure asset for FIG-DOC-POL-005-002
+SRC-DOC-POL-005-0111,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image3.png,,section2,,,source_image,Figure asset for FIG-DOC-POL-005-003
+SRC-DOC-POL-005-0112,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image4.png,,section2,,,source_image,Figure asset for FIG-DOC-POL-005-004
+SRC-DOC-POL-005-0113,DOC-POL-005,document_section,application/x-hwp+zip,tmp/DOC-POL-005.hwpx,,section3,,,derived_locator,Derived from document location section3
+SRC-DOC-POL-005-0114,DOC-POL-005,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-005/image5.bmp,,section3,,,source_image,Figure asset for FIG-DOC-POL-005-005
+SRC-DOC-POL-005-0115,DOC-POL-005,document_section,application/x-hwp+zip,tmp/DOC-POL-005.hwpx,,section5,,,derived_locator,Derived from document location section5
+SRC-DOC-POL-005-0116,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image7.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-006
+SRC-DOC-POL-005-0117,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image8.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-007
+SRC-DOC-POL-005-0118,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image9.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-008
+SRC-DOC-POL-005-0119,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image10.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-009
+SRC-DOC-POL-005-0120,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image11.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-010
+SRC-DOC-POL-005-0121,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image12.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-011
+SRC-DOC-POL-005-0122,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image13.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-012
+SRC-DOC-POL-005-0123,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image14.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-013
+SRC-DOC-POL-005-0124,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image4.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-014
+SRC-DOC-POL-005-0125,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-015
+SRC-DOC-POL-005-0126,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-016
+SRC-DOC-POL-005-0127,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-017
+SRC-DOC-POL-005-0128,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-018
+SRC-DOC-POL-005-0129,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-019
+SRC-DOC-POL-005-0130,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-020
+SRC-DOC-POL-005-0131,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-021
+SRC-DOC-POL-005-0132,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-022
+SRC-DOC-POL-005-0133,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-023
+SRC-DOC-POL-005-0134,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-024
+SRC-DOC-POL-005-0135,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-025
+SRC-DOC-POL-005-0136,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-026
+SRC-DOC-POL-005-0137,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-027
+SRC-DOC-POL-005-0138,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-028
+SRC-DOC-POL-005-0139,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-029
+SRC-DOC-POL-005-0140,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-030
+SRC-DOC-POL-005-0141,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-031
+SRC-DOC-POL-005-0142,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-032
+SRC-DOC-POL-005-0143,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-033
+SRC-DOC-POL-005-0144,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-034
+SRC-DOC-POL-005-0145,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-035
+SRC-DOC-POL-005-0146,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-036
+SRC-DOC-POL-005-0147,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-037
+SRC-DOC-POL-005-0148,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-038
+SRC-DOC-POL-005-0149,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-039
+SRC-DOC-POL-005-0150,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-040
+SRC-DOC-POL-005-0151,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-041
+SRC-DOC-POL-005-0152,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-042
+SRC-DOC-POL-005-0153,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-043
+SRC-DOC-POL-005-0154,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-044
+SRC-DOC-POL-005-0155,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-045
+SRC-DOC-POL-005-0156,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-046
+SRC-DOC-POL-005-0157,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-047
+SRC-DOC-POL-005-0158,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-048
+SRC-DOC-POL-005-0159,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-049
+SRC-DOC-POL-005-0160,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-050
+SRC-DOC-POL-005-0161,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-051
+SRC-DOC-POL-005-0162,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-052
+SRC-DOC-POL-005-0163,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-053
+SRC-DOC-POL-005-0164,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-054
+SRC-DOC-POL-005-0165,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-055
+SRC-DOC-POL-005-0166,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-056
+SRC-DOC-POL-005-0167,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-057
+SRC-DOC-POL-005-0168,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-058
+SRC-DOC-POL-005-0169,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-059
+SRC-DOC-POL-005-0170,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-060
+SRC-DOC-POL-005-0171,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-061
+SRC-DOC-POL-005-0172,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-062
+SRC-DOC-POL-005-0173,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-063
+SRC-DOC-POL-005-0174,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-064
+SRC-DOC-POL-005-0175,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-065
+SRC-DOC-POL-005-0176,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-066
+SRC-DOC-POL-005-0177,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-067
+SRC-DOC-POL-005-0178,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-068
+SRC-DOC-POL-005-0179,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-069
+SRC-DOC-POL-005-0180,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-070
+SRC-DOC-POL-005-0181,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-071
+SRC-DOC-POL-005-0182,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-072
+SRC-DOC-POL-005-0183,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-073
+SRC-DOC-POL-005-0184,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-074
+SRC-DOC-POL-005-0185,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-075
+SRC-DOC-POL-005-0186,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-076
+SRC-DOC-POL-005-0187,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-077
+SRC-DOC-POL-005-0188,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-078
+SRC-DOC-POL-005-0189,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-079
+SRC-DOC-POL-005-0190,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-080
+SRC-DOC-POL-005-0191,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-081
+SRC-DOC-POL-005-0192,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-082
+SRC-DOC-POL-005-0193,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-083
+SRC-DOC-POL-005-0194,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-084
+SRC-DOC-POL-005-0195,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-085
+SRC-DOC-POL-005-0196,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-086
+SRC-DOC-POL-005-0197,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-087
+SRC-DOC-POL-005-0198,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-088
+SRC-DOC-POL-005-0199,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-089
+SRC-DOC-POL-005-0200,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-090
+SRC-DOC-POL-005-0201,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-091
+SRC-DOC-POL-005-0202,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-092
+SRC-DOC-POL-005-0203,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-093
+SRC-DOC-POL-005-0204,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image18.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-094
+SRC-DOC-POL-005-0205,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-095
+SRC-DOC-POL-005-0206,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-096
+SRC-DOC-POL-005-0207,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-097
+SRC-DOC-POL-005-0208,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-098
+SRC-DOC-POL-005-0209,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-099
+SRC-DOC-POL-005-0210,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-100
+SRC-DOC-POL-005-0211,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-101
+SRC-DOC-POL-005-0212,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-102
+SRC-DOC-POL-005-0213,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-103
+SRC-DOC-POL-005-0214,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-104
+SRC-DOC-POL-005-0215,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-105
+SRC-DOC-POL-005-0216,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-106
+SRC-DOC-POL-005-0217,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-107
+SRC-DOC-POL-005-0218,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-108
+SRC-DOC-POL-005-0219,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-109
+SRC-DOC-POL-005-0220,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-110
+SRC-DOC-POL-005-0221,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-111
+SRC-DOC-POL-005-0222,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-112
+SRC-DOC-POL-005-0223,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-113
+SRC-DOC-POL-005-0224,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-114
+SRC-DOC-POL-005-0225,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-115
+SRC-DOC-POL-005-0226,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-116
+SRC-DOC-POL-005-0227,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-117
+SRC-DOC-POL-005-0228,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-118
+SRC-DOC-POL-005-0229,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-119
+SRC-DOC-POL-005-0230,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image19.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-120
+SRC-DOC-POL-005-0231,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-121
+SRC-DOC-POL-005-0232,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-122
+SRC-DOC-POL-005-0233,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-123
+SRC-DOC-POL-005-0234,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-124
+SRC-DOC-POL-005-0235,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-125
+SRC-DOC-POL-005-0236,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-126
+SRC-DOC-POL-005-0237,DOC-POL-005,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-005-127
+SRC-DOC-POL-006-0238,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,1,,,,derived_locator,Derived from document location 1
+SRC-DOC-POL-006-0239,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,10,,,,derived_locator,Derived from document location 10
+SRC-DOC-POL-006-0240,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,11,,,,derived_locator,Derived from document location 11
+SRC-DOC-POL-006-0241,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,12,,,,derived_locator,Derived from document location 12
+SRC-DOC-POL-006-0242,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,13,,,,derived_locator,Derived from document location 13
+SRC-DOC-POL-006-0243,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,14,,,,derived_locator,Derived from document location 14
+SRC-DOC-POL-006-0244,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,15,,,,derived_locator,Derived from document location 15
+SRC-DOC-POL-006-0245,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,16,,,,derived_locator,Derived from document location 16
+SRC-DOC-POL-006-0246,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,17,,,,derived_locator,Derived from document location 17
+SRC-DOC-POL-006-0247,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,18,,,,derived_locator,Derived from document location 18
+SRC-DOC-POL-006-0248,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,19,,,,derived_locator,Derived from document location 19
+SRC-DOC-POL-006-0249,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,2,,,,derived_locator,Derived from document location 2
+SRC-DOC-POL-006-0250,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,20,,,,derived_locator,Derived from document location 20
+SRC-DOC-POL-006-0251,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,21,,,,derived_locator,Derived from document location 21
+SRC-DOC-POL-006-0252,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,22,,,,derived_locator,Derived from document location 22
+SRC-DOC-POL-006-0253,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,23,,,,derived_locator,Derived from document location 23
+SRC-DOC-POL-006-0254,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,24,,,,derived_locator,Derived from document location 24
+SRC-DOC-POL-006-0255,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,25,,,,derived_locator,Derived from document location 25
+SRC-DOC-POL-006-0256,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,26,,,,derived_locator,Derived from document location 26
+SRC-DOC-POL-006-0257,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,27,,,,derived_locator,Derived from document location 27
+SRC-DOC-POL-006-0258,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,28,,,,derived_locator,Derived from document location 28
+SRC-DOC-POL-006-0259,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,29,,,,derived_locator,Derived from document location 29
+SRC-DOC-POL-006-0260,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,3,,,,derived_locator,Derived from document location 3
+SRC-DOC-POL-006-0261,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,30,,,,derived_locator,Derived from document location 30
+SRC-DOC-POL-006-0262,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,31,,,,derived_locator,Derived from document location 31
+SRC-DOC-POL-006-0263,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,32,,,,derived_locator,Derived from document location 32
+SRC-DOC-POL-006-0264,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,33,,,,derived_locator,Derived from document location 33
+SRC-DOC-POL-006-0265,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,34,,,,derived_locator,Derived from document location 34
+SRC-DOC-POL-006-0266,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,35,,,,derived_locator,Derived from document location 35
+SRC-DOC-POL-006-0267,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,36,,,,derived_locator,Derived from document location 36
+SRC-DOC-POL-006-0268,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,36-38,,,,derived_locator,Derived from document location 36-38
+SRC-DOC-POL-006-0269,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,37,,,,derived_locator,Derived from document location 37
+SRC-DOC-POL-006-0270,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,38,,,,derived_locator,Derived from document location 38
+SRC-DOC-POL-006-0271,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,4,,,,derived_locator,Derived from document location 4
+SRC-DOC-POL-006-0272,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,5,,,,derived_locator,Derived from document location 5
+SRC-DOC-POL-006-0273,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,6,,,,derived_locator,Derived from document location 6
+SRC-DOC-POL-006-0274,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,7,,,,derived_locator,Derived from document location 7
+SRC-DOC-POL-006-0275,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,8,,,,derived_locator,Derived from document location 8
+SRC-DOC-POL-006-0276,DOC-POL-006,pdf_page,application/pdf,tmp/DOC-POL-006.pdf,9,,,,derived_locator,Derived from document location 9
+SRC-DOC-POL-007-0277,DOC-POL-007,document_section,application/x-hwp+zip,tmp/DOC-POL-007.hwpx,,section2,,,derived_locator,Derived from document location section2
+SRC-DOC-POL-007-0278,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image2.jpg,,section2,,,source_image,Figure asset for FIG-DOC-POL-007-001
+SRC-DOC-POL-007-0279,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image3.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-007-002
+SRC-DOC-POL-007-0280,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image4.bmp,,section4,,,source_image,Figure asset for FIG-DOC-POL-007-003
+SRC-DOC-POL-007-0281,DOC-POL-007,document_section,application/x-hwp+zip,tmp/DOC-POL-007.hwpx,,section8,,,derived_locator,Derived from document location section8
+SRC-DOC-POL-007-0282,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image6.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-004
+SRC-DOC-POL-007-0283,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image7.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-005
+SRC-DOC-POL-007-0284,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image8.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-006
+SRC-DOC-POL-007-0285,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image9.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-007
+SRC-DOC-POL-007-0286,DOC-POL-007,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-007/image10.png,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-008
+SRC-DOC-POL-007-0287,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image11.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-009
+SRC-DOC-POL-007-0288,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image12.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-010
+SRC-DOC-POL-007-0289,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image13.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-011
+SRC-DOC-POL-007-0290,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image14.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-012
+SRC-DOC-POL-007-0291,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image15.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-013
+SRC-DOC-POL-007-0292,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image14.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-014
+SRC-DOC-POL-007-0293,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image15.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-015
+SRC-DOC-POL-007-0294,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image16.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-016
+SRC-DOC-POL-007-0295,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image17.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-017
+SRC-DOC-POL-007-0296,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image18.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-018
+SRC-DOC-POL-007-0297,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image19.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-019
+SRC-DOC-POL-007-0298,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image20.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-020
+SRC-DOC-POL-007-0299,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image21.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-021
+SRC-DOC-POL-007-0300,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image22.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-022
+SRC-DOC-POL-007-0301,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image23.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-023
+SRC-DOC-POL-007-0302,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image24.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-024
+SRC-DOC-POL-007-0303,DOC-POL-007,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-007/image25.png,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-025
+SRC-DOC-POL-007-0304,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image26.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-026
+SRC-DOC-POL-007-0305,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image27.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-027
+SRC-DOC-POL-007-0306,DOC-POL-007,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-007/image25.png,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-028
+SRC-DOC-POL-007-0307,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image28.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-029
+SRC-DOC-POL-007-0308,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image29.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-030
+SRC-DOC-POL-007-0309,DOC-POL-007,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-007/image25.png,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-031
+SRC-DOC-POL-007-0310,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image30.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-032
+SRC-DOC-POL-007-0311,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image31.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-033
+SRC-DOC-POL-007-0312,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image32.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-034
+SRC-DOC-POL-007-0313,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image33.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-035
+SRC-DOC-POL-007-0314,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image33.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-036
+SRC-DOC-POL-007-0315,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image33.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-037
+SRC-DOC-POL-007-0316,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image34.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-038
+SRC-DOC-POL-007-0317,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image35.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-039
+SRC-DOC-POL-007-0318,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image36.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-040
+SRC-DOC-POL-007-0319,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image37.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-041
+SRC-DOC-POL-007-0320,DOC-POL-007,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-007/image38.png,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-042
+SRC-DOC-POL-007-0321,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image39.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-043
+SRC-DOC-POL-007-0322,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image40.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-044
+SRC-DOC-POL-007-0323,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image41.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-045
+SRC-DOC-POL-007-0324,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image42.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-046
+SRC-DOC-POL-007-0325,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image43.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-047
+SRC-DOC-POL-007-0326,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image44.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-048
+SRC-DOC-POL-007-0327,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image3.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-049
+SRC-DOC-POL-007-0328,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image45.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-050
+SRC-DOC-POL-007-0329,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image46.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-051
+SRC-DOC-POL-007-0330,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image47.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-052
+SRC-DOC-POL-007-0331,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image48.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-053
+SRC-DOC-POL-007-0332,DOC-POL-007,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-007/image49.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-054
+SRC-DOC-POL-007-0333,DOC-POL-007,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image50.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-055
+SRC-DOC-POL-007-0334,DOC-POL-007,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-007/image51.png,,section8,,,source_image,Figure asset for FIG-DOC-POL-007-056
+SRC-DOC-POL-008-0335,DOC-POL-008,document_section,application/x-hwp+zip,tmp/DOC-POL-008.hwpx,,section2,,,derived_locator,Derived from document location section2
+SRC-DOC-POL-008-0336,DOC-POL-008,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-008/image1.bmp,,section4,,,source_image,Figure asset for FIG-DOC-POL-008-001
+SRC-DOC-POL-008-0337,DOC-POL-008,document_section,application/x-hwp+zip,tmp/DOC-POL-008.hwpx,,section6,,,derived_locator,Derived from document location section6
+SRC-DOC-POL-008-0338,DOC-POL-008,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-008/image2.bmp,,section6,,,source_image,Figure asset for FIG-DOC-POL-008-002
+SRC-DOC-POL-009-0339,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image1.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-009-001
+SRC-DOC-POL-009-0340,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image2.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-009-002
+SRC-DOC-POL-009-0341,DOC-POL-009,document_section,application/x-hwp+zip,tmp/DOC-POL-009.hwpx,,section2,,,derived_locator,Derived from document location section2
+SRC-DOC-POL-009-0342,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image3.bmp,,section4,,,source_image,Figure asset for FIG-DOC-POL-009-003
+SRC-DOC-POL-009-0343,DOC-POL-009,document_section,application/x-hwp+zip,tmp/DOC-POL-009.hwpx,,section7,,,derived_locator,Derived from document location section7
+SRC-DOC-POL-009-0344,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image5.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-004
+SRC-DOC-POL-009-0345,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image6.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-005
+SRC-DOC-POL-009-0346,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image7.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-006
+SRC-DOC-POL-009-0347,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image8.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-007
+SRC-DOC-POL-009-0348,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image9.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-008
+SRC-DOC-POL-009-0349,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image10.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-009
+SRC-DOC-POL-009-0350,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image11.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-010
+SRC-DOC-POL-009-0351,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image12.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-011
+SRC-DOC-POL-009-0352,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image13.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-012
+SRC-DOC-POL-009-0353,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image14.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-013
+SRC-DOC-POL-009-0354,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image15.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-014
+SRC-DOC-POL-009-0355,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image16.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-015
+SRC-DOC-POL-009-0356,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image17.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-016
+SRC-DOC-POL-009-0357,DOC-POL-009,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-009/image18.jpg,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-017
+SRC-DOC-POL-009-0358,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image19.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-018
+SRC-DOC-POL-009-0359,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image20.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-019
+SRC-DOC-POL-009-0360,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image21.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-020
+SRC-DOC-POL-009-0361,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image22.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-009-021
+SRC-DOC-POL-009-0362,DOC-POL-009,document_section,application/x-hwp+zip,tmp/DOC-POL-009.hwpx,,section8,,,derived_locator,Derived from document location section8
+SRC-DOC-POL-009-0363,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image23.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-009-022
+SRC-DOC-POL-009-0364,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image24.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-009-023
+SRC-DOC-POL-009-0365,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image25.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-009-024
+SRC-DOC-POL-009-0366,DOC-POL-009,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image26.bmp,,section8,,,source_image,Figure asset for FIG-DOC-POL-009-025
+SRC-DOC-POL-009-0367,DOC-POL-009,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-009/image27.png,,section8,,,source_image,Figure asset for FIG-DOC-POL-009-026
+SRC-DOC-POL-009-0368,DOC-POL-009,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-009/image28.jpg,,section8,,,source_image,Figure asset for FIG-DOC-POL-009-027
+SRC-DOC-POL-010-0369,DOC-POL-010,document_section,application/x-hwp+zip,tmp/DOC-POL-010.hwpx,,section2,,,derived_locator,Derived from document location section2
+SRC-DOC-POL-010-0370,DOC-POL-010,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image1.bmp,,section3,,,source_image,Figure asset for FIG-DOC-POL-010-001
+SRC-DOC-POL-010-0371,DOC-POL-010,document_section,application/x-hwp+zip,tmp/DOC-POL-010.hwpx,,section7,,,derived_locator,Derived from document location section7
+SRC-DOC-POL-010-0372,DOC-POL-010,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-010/image3.jpg,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-002
+SRC-DOC-POL-010-0373,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image4.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-003
+SRC-DOC-POL-010-0374,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image5.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-004
+SRC-DOC-POL-010-0375,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image6.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-005
+SRC-DOC-POL-010-0376,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image7.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-006
+SRC-DOC-POL-010-0377,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image8.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-007
+SRC-DOC-POL-010-0378,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image9.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-008
+SRC-DOC-POL-010-0379,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image10.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-009
+SRC-DOC-POL-010-0380,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image11.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-010
+SRC-DOC-POL-010-0381,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image12.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-011
+SRC-DOC-POL-010-0382,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image13.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-012
+SRC-DOC-POL-010-0383,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image14.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-013
+SRC-DOC-POL-010-0384,DOC-POL-010,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-010/image15.jpg,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-014
+SRC-DOC-POL-010-0385,DOC-POL-010,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-010/image16.jpg,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-015
+SRC-DOC-POL-010-0386,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image17.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-016
+SRC-DOC-POL-010-0387,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image18.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-017
+SRC-DOC-POL-010-0388,DOC-POL-010,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-010/image19.jpg,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-018
+SRC-DOC-POL-010-0389,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image20.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-019
+SRC-DOC-POL-010-0390,DOC-POL-010,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-010/image21.jpg,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-020
+SRC-DOC-POL-010-0391,DOC-POL-010,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-010/image22.jpg,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-021
+SRC-DOC-POL-010-0392,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image23.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-022
+SRC-DOC-POL-010-0393,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image24.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-023
+SRC-DOC-POL-010-0394,DOC-POL-010,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-010/image25.png,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-024
+SRC-DOC-POL-010-0395,DOC-POL-010,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-010/image26.jpg,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-025
+SRC-DOC-POL-010-0396,DOC-POL-010,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image27.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-026
+SRC-DOC-POL-010-0397,DOC-POL-010,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image28.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-027
+SRC-DOC-POL-010-0398,DOC-POL-010,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image29.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-028
+SRC-DOC-POL-010-0399,DOC-POL-010,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image30.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-029
+SRC-DOC-POL-010-0400,DOC-POL-010,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image31.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-030
+SRC-DOC-POL-010-0401,DOC-POL-010,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image32.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-031
+SRC-DOC-POL-010-0402,DOC-POL-010,figure_image,image/jpeg,work/02_structured-extraction/figures/assets/DOC-POL-010/image33.jpg,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-032
+SRC-DOC-POL-010-0403,DOC-POL-010,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image34.bmp,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-033
+SRC-DOC-POL-010-0404,DOC-POL-010,figure_image,application/octet-stream,work/02_structured-extraction/figures/assets/DOC-POL-010/image35.wmf,,section7,,,source_image,Figure asset for FIG-DOC-POL-010-034
+SRC-DOC-POL-011-0405,DOC-POL-011,document_section,application/x-hwp+zip,tmp/DOC-POL-011.hwpx,,section2,,,derived_locator,Derived from document location section2
+SRC-DOC-POL-011-0406,DOC-POL-011,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-011/image1.bmp,,section3,,,source_image,Figure asset for FIG-DOC-POL-011-001
+SRC-DOC-POL-011-0407,DOC-POL-011,document_section,application/x-hwp+zip,tmp/DOC-POL-011.hwpx,,section5,,,derived_locator,Derived from document location section5
+SRC-DOC-POL-011-0408,DOC-POL-011,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-011/image2.bmp,,section5,,,source_image,Figure asset for FIG-DOC-POL-011-002
+SRC-DOC-POL-011-0409,DOC-POL-011,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-011/image3.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-011-003
+SRC-DOC-POL-011-0410,DOC-POL-011,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-011/image4.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-011-004
+SRC-DOC-POL-011-0411,DOC-POL-011,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-011/image5.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-011-005
+SRC-DOC-POL-011-0412,DOC-POL-011,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-011/image6.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-011-006
+SRC-DOC-POL-011-0413,DOC-POL-011,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-011/image7.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-011-007
+SRC-DOC-POL-011-0414,DOC-POL-011,figure_image,image/png,work/02_structured-extraction/figures/assets/DOC-POL-011/image8.png,,section5,,,source_image,Figure asset for FIG-DOC-POL-011-008
+SRC-DOC-POL-012-0415,DOC-POL-012,document_section,application/x-hwp+zip,tmp/DOC-POL-012.hwpx,,section0,,,derived_locator,Derived from document location section0
+SRC-DOC-POL-012-0416,DOC-POL-012,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-012/image1.bmp,,section0,,,source_image,Figure asset for FIG-DOC-POL-012-001
+SRC-DOC-POL-012-0417,DOC-POL-012,document_section,application/x-hwp+zip,tmp/DOC-POL-012.hwpx,,section2,,,derived_locator,Derived from document location section2
+SRC-DOC-POL-012-0418,DOC-POL-012,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-012/image3.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-012-002
+SRC-DOC-POL-012-0419,DOC-POL-012,figure_image,image/bmp,work/02_structured-extraction/figures/assets/DOC-POL-012/image4.bmp,,section2,,,source_image,Figure asset for FIG-DOC-POL-012-003
+SRC-DOC-POL-012-0420,DOC-POL-012,document_section,application/x-hwp+zip,tmp/DOC-POL-012.hwpx,,section3,,,derived_locator,Derived from document location section3

@@ -1,0 +1,20 @@
+{
+  "document_id": "DOC-POL-005",
+  "workbench_path": "work/04_ontology/review_workbenches/DOC-POL-005__policy-item-review-workbench.csv",
+  "run_status": "completed",
+  "reviewed_source_row_count": 24,
+  "reviewed_decision_counts": {
+    "drop": 5,
+    "attach_as_background": 10,
+    "keep": 9
+  },
+  "reviewed_item_count": 9,
+  "display_text_count": 9,
+  "evidence_link_count": 9,
+  "taxonomy_row_count": 0,
+  "ignored_reviewed_row_count": 15,
+  "unresolved_merge_count": 0,
+  "issue_count": 0,
+  "issue_counts": {},
+  "issues": []
+}

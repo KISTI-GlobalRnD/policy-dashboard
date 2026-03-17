@@ -1,0 +1,6 @@
+canonical_table_id,document_id,title_hint,page_start,page_end,preferred_candidate_source,preferred_candidate_id,canonical_status,dashboard_ready,source_review_item_ids,notes
+CTBL-DOC-POL-008-001,DOC-POL-008,(‘26년) / 팁스(창업) / 스케일업 팁스(성장),section6,section6,pymupdf_find_tables,TBL-DOC-POL-008-015,ready,yes,TRV-DOC-POL-008-JS-015,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-008-002,DOC-POL-008,DCP RFP / 부처 / 중기부,section6,section6,pymupdf_find_tables,TBL-DOC-POL-008-018,ready,yes,TRV-DOC-POL-008-JS-018,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-008-003,DOC-POL-008,구분 / 트랙 구분 / 지원조건,section6,section6,pymupdf_find_tables,TBL-DOC-POL-008-021,ready,yes,TRV-DOC-POL-008-JS-021,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-008-004,DOC-POL-008,(단위 : 억원),section6,section6,pymupdf_find_tables,TBL-DOC-POL-008-023,ready,yes,TRV-DOC-POL-008-JS-023,1차 heuristic seed로 생성된 canonical table.
+CTBL-DOC-POL-008-005,DOC-POL-008,팁스 지역별 운영사 현황,section6,section6,pymupdf_find_tables,TBL-DOC-POL-008-024,ready,yes,TRV-DOC-POL-008-JS-024,지역별 팁스 운영사 수와 예시 운영사 표.

@@ -1,0 +1,93 @@
+[
+  {
+    "canonical_table_id": "CTBL-DOC-POL-006-001",
+    "document_id": "DOC-POL-006",
+    "title_hint": "선정기준 비교표",
+    "page_start": 8,
+    "page_end": 8,
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-006-003",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-006-MD-001|TRV-DOC-POL-006-JS-003",
+    "notes": "3개 분야의 선정기준 비교표."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-006-002",
+    "document_id": "DOC-POL-006",
+    "title_hint": "고온초전도자석 유형별 응용분야",
+    "page_start": 13,
+    "page_end": 13,
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-006-007",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-006-MD-003|TRV-DOC-POL-006-JS-007",
+    "notes": "자석 형상과 응용분야를 대응시키는 표."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-006-003",
+    "document_id": "DOC-POL-006",
+    "title_hint": "바이오 의약 산업 현황 및 목표",
+    "page_start": 18,
+    "page_end": 18,
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-006-010",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-006-MD-004|TRV-DOC-POL-006-JS-010",
+    "notes": "바이오의약품 수출, 제약사, 블록버스터 신약, 임상시험 목표를 제시하는 표."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-006-004",
+    "document_id": "DOC-POL-006",
+    "title_hint": "K-디지털헬스케어 주요 기업 사례",
+    "page_start": 22,
+    "page_end": 22,
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-006-012",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-006-MD-005|TRV-DOC-POL-006-JS-012",
+    "notes": "기업, 국가, 주요내용을 정리한 사례 표."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-006-005",
+    "document_id": "DOC-POL-006",
+    "title_hint": "ICT 기반 의료시스템 유형",
+    "page_start": 24,
+    "page_end": 24,
+    "preferred_candidate_source": "pymupdf_find_tables",
+    "preferred_candidate_id": "TBL-DOC-POL-006-014",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-006-MD-006|TRV-DOC-POL-006-JS-014",
+    "notes": "병원정보시스템, 원격의료, AI 진단 보조, 모바일 헬스 유형 정의 표."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-006-006",
+    "document_id": "DOC-POL-006",
+    "title_hint": "ICT 기반 해외진출 지원사업 지원 현황",
+    "page_start": 25,
+    "page_end": 25,
+    "preferred_candidate_source": "manual_normalized",
+    "preferred_candidate_id": "CTBL-DOC-POL-006-006__normalized",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-006-MD-007|TRV-DOC-POL-006-JS-015",
+    "notes": "PDF 원본 page 25 시각 검토를 바탕으로 연도/수치 셀을 정규화한 표."
+  },
+  {
+    "canonical_table_id": "CTBL-DOC-POL-006-007",
+    "document_id": "DOC-POL-006",
+    "title_hint": "초혁신경제 15대 프로젝트 세부 일정",
+    "page_start": 36,
+    "page_end": 38,
+    "preferred_candidate_source": "manual_merged",
+    "preferred_candidate_id": "CTBL-DOC-POL-006-007__merged",
+    "canonical_status": "ready",
+    "dashboard_ready": "yes",
+    "source_review_item_ids": "TRV-DOC-POL-006-MD-008|TRV-DOC-POL-006-JS-018|TRV-DOC-POL-006-MD-009|TRV-DOC-POL-006-JS-019|TRV-DOC-POL-006-MD-010|TRV-DOC-POL-006-JS-020",
+    "notes": "PDF 원본 pages 36-38 시각 검토를 바탕으로 다중 페이지 일정표를 병합한 표."
+  }
+]
