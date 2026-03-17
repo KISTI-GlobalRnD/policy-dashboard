@@ -1,0 +1,248 @@
+{
+  "snapshot_date": "2026-03-17",
+  "snapshot_kind": "ontology-dashboard-frozen-snapshot",
+  "status": "frozen",
+  "summary": {
+    "ontology_validation_status": "pass",
+    "ontology_issue_count": 0,
+    "technology_lens_validation_status": "pass",
+    "technology_lens_issue_count": 0,
+    "active_strategy_review_queue_count": 0,
+    "strategy_review_status_counts": {
+      "reviewed": 226,
+      "no_strategy": 1278
+    },
+    "policy_item_count": 1697,
+    "derived_representation_count": 7810,
+    "source_asset_count": 1046,
+    "paragraph_source_map": {
+      "document_count": 34,
+      "paragraph_count": 7784,
+      "mapped_count": 7778,
+      "coverage_ratio": 0.999229
+    }
+  },
+  "files": [
+    {
+      "source_path": "work/04_ontology/ontology.sqlite",
+      "snapshot_path": "work/04_ontology/exports/snapshots/2026-03-17/ontology.sqlite",
+      "size_bytes": 19034112,
+      "sha256": "8858b70671868f190357a66e819f293581a2c2c911cd8b748b0cfefaedbbcd8b"
+    },
+    {
+      "source_path": "work/04_ontology/ontology_curated_sample.sqlite",
+      "snapshot_path": "work/04_ontology/exports/snapshots/2026-03-17/ontology_curated_sample.sqlite",
+      "size_bytes": 8536064,
+      "sha256": "81f026e881eac67f9d9b57479e1f80e1e0bdc60c078a8879025561e6f7ab2d01"
+    },
+    {
+      "source_path": "work/04_ontology/exports/policy-ontology.jsonld",
+      "snapshot_path": "work/04_ontology/exports/snapshots/2026-03-17/policy-ontology.jsonld",
+      "size_bytes": 14745259,
+      "sha256": "3f0fb1faeaeaed4ce4b662046f1aa7b63def6cf1c108edb9f6089885acb7cc7d"
+    },
+    {
+      "source_path": "work/04_ontology/exports/policy-ontology.ttl",
+      "snapshot_path": "work/04_ontology/exports/snapshots/2026-03-17/policy-ontology.ttl",
+      "size_bytes": 13529179,
+      "sha256": "6f627f7a5e156dc97f9e66c71fbe0f4c12e8d4708712063c7ea34c2271545514"
+    },
+    {
+      "source_path": "qa/ontology/2026-03-17_ontology-store-validation.json",
+      "snapshot_path": "work/04_ontology/exports/snapshots/2026-03-17/2026-03-17_ontology-store-validation.json",
+      "size_bytes": 5304,
+      "sha256": "34122b9d32f61027637f141d3343b4cc972c640f7643578eb60258f6b711e974"
+    },
+    {
+      "source_path": "qa/ontology/2026-03-17_paragraph-source-map-report.json",
+      "snapshot_path": "work/04_ontology/exports/snapshots/2026-03-17/2026-03-17_paragraph-source-map-report.json",
+      "size_bytes": 4032,
+      "sha256": "c938ede312e7260eeca2710010fb95a010e841b2b0c9f18f7c95462eb1062019"
+    },
+    {
+      "source_path": "work/05_dashboard/data-contracts/technology-lens.json",
+      "snapshot_path": "work/05_dashboard/data-contracts/snapshots/2026-03-17/technology-lens.json",
+      "size_bytes": 433445,
+      "sha256": "cc8f9d307c833a8d05c4559bd1894a41a7ee8d0abb7e8aa8dccca03f9c96f3f3"
+    },
+    {
+      "source_path": "work/05_dashboard/data-contracts/sample-dashboard.json",
+      "snapshot_path": "work/05_dashboard/data-contracts/snapshots/2026-03-17/sample-dashboard.json",
+      "size_bytes": 3127046,
+      "sha256": "2e039f6448796ffcce67a5e2f4563256d2d574050088fae9d357232356889272"
+    },
+    {
+      "source_path": "work/05_dashboard/index.html",
+      "snapshot_path": "work/05_dashboard/data-contracts/snapshots/2026-03-17/index.html",
+      "size_bytes": 23188,
+      "sha256": "9af364c0b4e8692ebba24d330b02c768265338e3495475807e625b8878784a75"
+    },
+    {
+      "source_path": "work/05_dashboard/briefing.css",
+      "snapshot_path": "work/05_dashboard/data-contracts/snapshots/2026-03-17/briefing.css",
+      "size_bytes": 11553,
+      "sha256": "203fdf13bd8dc2610fa7d2d8980be3a0fa02f8c92066e39cf3466e0b257a2756"
+    },
+    {
+      "source_path": "qa/ontology/2026-03-17_technology-lens-validation.json",
+      "snapshot_path": "work/05_dashboard/data-contracts/snapshots/2026-03-17/2026-03-17_technology-lens-validation.json",
+      "size_bytes": 197,
+      "sha256": "8cf42f47f2a2b022594965a61d5abded2d51ba83acbbb9b9e381005ae2b5f910"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/assets/index-Be9LYFBM.css",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/assets/index-Be9LYFBM.css",
+      "size_bytes": 36991,
+      "sha256": "8e4085dfaf42886dea703dbb5a3899af3dd4729b5a6daf95f662fc75b53bc70a"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/assets/index-joldZjqx.js",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/assets/index-joldZjqx.js",
+      "size_bytes": 389695,
+      "sha256": "8ca5050db451ce404e93607dbae6b7f3c29f34900d033e1862d390031e5ceeab"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/data/curated-content-sample-pack.json",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/data/curated-content-sample-pack.json",
+      "size_bytes": 111029,
+      "sha256": "9afdb1d764cb774a57fe1df2847b299e6459bcf93c4125a021fca2ed62314c25"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/data/curated-content-sample-summary.json",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/data/curated-content-sample-summary.json",
+      "size_bytes": 1290,
+      "sha256": "522d27a8210d90daa4b4f9cde70b7ec598f27a10417f7e6c1bd02cee6a5ddce3"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/data/mapping-support.json",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/data/mapping-support.json",
+      "size_bytes": 1711,
+      "sha256": "7fbdc1be5517822e2c68736c7275aeae49dd6b69c8332889c0fb879b14f43b72"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/data/mapping-workbench-pack.json",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/data/mapping-workbench-pack.json",
+      "size_bytes": 223708,
+      "sha256": "1222a0ce9ea6f4a3f1bc0501c9254a9c0c16c23a37a04b85d1f581042ff785c3"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/data/mapping-workbench-summary.json",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/data/mapping-workbench-summary.json",
+      "size_bytes": 1331,
+      "sha256": "c4062df2139987d01d50c19a60a3f004300e0749b3ba76d540a559a5b1e3c64f"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/data/mapping-workbench-support.json",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/data/mapping-workbench-support.json",
+      "size_bytes": 6098,
+      "sha256": "0f9eaf8c24823bf5c363943670813b4ff7280ca9ad7b22022a6faa61b19c3e6d"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/data/sample-dashboard.json",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/data/sample-dashboard.json",
+      "size_bytes": 3127046,
+      "sha256": "2e039f6448796ffcce67a5e2f4563256d2d574050088fae9d357232356889272"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/data/technology-lens.json",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/data/technology-lens.json",
+      "size_bytes": 462108,
+      "sha256": "e7270c6d3ccdb613e09cdd7cbc0a6dad918c9e20269dd9cedbd4a8a9f33d367a"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/index.html",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/index.html",
+      "size_bytes": 422,
+      "sha256": "7af9d0059a12e5a9692b6a3ce1732247e454b43e2f96a90771402e0fb84b0eb4"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/source-assets/data/260312_12개 정책 문헌 자료.zip",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/source-assets/data/260312_12개 정책 문헌 자료.zip",
+      "size_bytes": 85803040,
+      "sha256": "19ef800eb612808052f4e0c311350c81a9caa1936c827eefc248bc69ba9bd1c4"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/source-assets/tmp/DOC-POL-001.pdf",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/source-assets/tmp/DOC-POL-001.pdf",
+      "size_bytes": 1970638,
+      "sha256": "9f414e33db3a7eabd482fc2e527891bd246603ed73ea7ed3872bd9cc84ad7546"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/source-assets/tmp/DOC-POL-002.hwpx",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/source-assets/tmp/DOC-POL-002.hwpx",
+      "size_bytes": 4227492,
+      "sha256": "0a7b1f8826d2af6e941db13ec05567e743364c6badb22dcfe2fac7951f77de16"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/source-assets/tmp/DOC-POL-003.hwpx",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/source-assets/tmp/DOC-POL-003.hwpx",
+      "size_bytes": 535802,
+      "sha256": "ef2aa2bfa2edfbc729f715002fce48c1dcd5051edd408990ddb10cd536f1a2cb"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/source-assets/tmp/DOC-POL-004.hwpx",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/source-assets/tmp/DOC-POL-004.hwpx",
+      "size_bytes": 2077396,
+      "sha256": "684fdaa43f4ed24a17cd92a9724c2b725800879d31135142e6012131722b0a7e"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/source-assets/tmp/DOC-POL-005.hwpx",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/source-assets/tmp/DOC-POL-005.hwpx",
+      "size_bytes": 7927892,
+      "sha256": "ff25d5f66417f0d4a06492f9f90709bbee988ae391669400aa0029238e8244b9"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/source-assets/tmp/DOC-POL-006.pdf",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/source-assets/tmp/DOC-POL-006.pdf",
+      "size_bytes": 1586184,
+      "sha256": "5c10f6b728e6b1eef15607ec0e3e3b9f58d1c4d168b1d400b9fc59d355df460f"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/source-assets/tmp/DOC-POL-007.hwpx",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/source-assets/tmp/DOC-POL-007.hwpx",
+      "size_bytes": 5470367,
+      "sha256": "476d3bb145f74e84701badbc4b6a7b33fd926b40cedce7ad6d046f25226c59dd"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/source-assets/tmp/DOC-POL-008.hwpx",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/source-assets/tmp/DOC-POL-008.hwpx",
+      "size_bytes": 134652,
+      "sha256": "e19c45172f73b6c956e288e256735c42d1cb082f6d28925e7429bfae3b8a0d50"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/source-assets/tmp/DOC-POL-009.hwpx",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/source-assets/tmp/DOC-POL-009.hwpx",
+      "size_bytes": 13634479,
+      "sha256": "717043d84fee3acca1f5be1145651ef9007bb9e9e9475dfa397b3ce4f51b3a44"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/source-assets/tmp/DOC-POL-010.hwpx",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/source-assets/tmp/DOC-POL-010.hwpx",
+      "size_bytes": 1466473,
+      "sha256": "921af6c504176d4c7078abb9ed53c3297653cd9300c79cd6e7c081b1d574a38c"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/source-assets/tmp/DOC-POL-011.hwpx",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/source-assets/tmp/DOC-POL-011.hwpx",
+      "size_bytes": 310520,
+      "sha256": "736ff34127150435fa34658307635e0bbf24382201228b6a5a28929861d15881"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/source-assets/tmp/DOC-POL-012.hwpx",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/source-assets/tmp/DOC-POL-012.hwpx",
+      "size_bytes": 594844,
+      "sha256": "50690807124e2872f759a0bf33ed8703a8e35505ed7f0da16d415cfbb0cf53a0"
+    },
+    {
+      "source_path": "work/05_dashboard/frontend/dist/source-assets/work/02_structured-extraction/figures/assets/DOC-POL-007/image10.png",
+      "snapshot_path": "work/05_dashboard/frontend/dist-snapshots/2026-03-17/source-assets/work/02_structured-extraction/figures/assets/DOC-POL-007/image10.png",
+      "size_bytes": 494100,
+      "sha256": "12360f6a30b56021a0c41e10a7ec771cbec241cf3856645890e13b2a068d0187"
+    }
+  ],
+  "source_refs": {
+    "extraction_snapshot": "work/02_structured-extraction/manifests/batch_runs/2026-03-17_extraction-completion-snapshot.json",
+    "strategy_review_decision_summary": "qa/ontology/review_queues/policy-item-strategy-review-decisions-summary.json",
+    "strategy_review_batch_summary": "qa/ontology/review_packets/strategy-review-batch-index-summary.json"
+  }
+}

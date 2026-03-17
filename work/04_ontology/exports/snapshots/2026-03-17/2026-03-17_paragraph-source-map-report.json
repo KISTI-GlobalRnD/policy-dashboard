@@ -1,0 +1,206 @@
+[
+  {
+    "document_id": "DOC-BMK-002",
+    "paragraph_count": 1025,
+    "mapped_count": 1025,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-BMK-005",
+    "paragraph_count": 247,
+    "mapped_count": 247,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-BMK-006",
+    "paragraph_count": 1033,
+    "mapped_count": 1033,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-CTX-001",
+    "paragraph_count": 5,
+    "mapped_count": 5,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-CTX-002",
+    "paragraph_count": 2,
+    "mapped_count": 2,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-CTX-003",
+    "paragraph_count": 3,
+    "mapped_count": 3,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-CTX-004",
+    "paragraph_count": 2,
+    "mapped_count": 2,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-CTX-005",
+    "paragraph_count": 5,
+    "mapped_count": 5,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-CTX-006",
+    "paragraph_count": 3,
+    "mapped_count": 3,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-CTX-007",
+    "paragraph_count": 12,
+    "mapped_count": 12,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-CTX-008",
+    "paragraph_count": 3,
+    "mapped_count": 3,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-CTX-009",
+    "paragraph_count": 15,
+    "mapped_count": 15,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-CTX-010",
+    "paragraph_count": 8,
+    "mapped_count": 8,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-CTX-011",
+    "paragraph_count": 4,
+    "mapped_count": 4,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-CTX-012",
+    "paragraph_count": 5,
+    "mapped_count": 5,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-CTX-013",
+    "paragraph_count": 3,
+    "mapped_count": 3,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-CTX-014",
+    "paragraph_count": 5,
+    "mapped_count": 5,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-POL-001",
+    "paragraph_count": 2179,
+    "mapped_count": 2179,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-POL-002",
+    "paragraph_count": 239,
+    "mapped_count": 236,
+    "unmapped_count": 3
+  },
+  {
+    "document_id": "DOC-POL-003",
+    "paragraph_count": 132,
+    "mapped_count": 132,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-POL-004",
+    "paragraph_count": 195,
+    "mapped_count": 195,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-POL-005",
+    "paragraph_count": 485,
+    "mapped_count": 482,
+    "unmapped_count": 3
+  },
+  {
+    "document_id": "DOC-POL-006-DOCX",
+    "paragraph_count": 0,
+    "mapped_count": 0,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-POL-006-HWPX",
+    "paragraph_count": 490,
+    "mapped_count": 490,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-POL-006",
+    "paragraph_count": 496,
+    "mapped_count": 496,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-POL-007",
+    "paragraph_count": 261,
+    "mapped_count": 261,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-POL-008",
+    "paragraph_count": 100,
+    "mapped_count": 100,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-POL-009",
+    "paragraph_count": 292,
+    "mapped_count": 292,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-POL-010",
+    "paragraph_count": 185,
+    "mapped_count": 185,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-POL-011",
+    "paragraph_count": 65,
+    "mapped_count": 65,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-POL-012",
+    "paragraph_count": 98,
+    "mapped_count": 98,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-POL-013",
+    "paragraph_count": 162,
+    "mapped_count": 162,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-REF-001",
+    "paragraph_count": 24,
+    "mapped_count": 24,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-REF-002",
+    "paragraph_count": 1,
+    "mapped_count": 1,
+    "unmapped_count": 0
+  }
+]
