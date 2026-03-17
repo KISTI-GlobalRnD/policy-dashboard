@@ -1,0 +1,380 @@
+review_item_id,figure_id,document_id,title,doc_role,include_status,location,figure_type,extraction_method,extraction_confidence,has_source_bbox,generic_caption,caption,summary,asset_path,suggested_class,rationale,keep_for_dashboard,review_status,quality_status,reviewer_notes
+FRV-DOC-POL-005-001,FIG-DOC-POL-005-001,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림11.png
+원본 그림의 크기: 가로 2560pixel, 세로 566pixel",그림11.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image1.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-002,FIG-DOC-POL-005-002,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림12.png
+원본 그림의 크기: 가로 2560pixel, 세로 567pixel",그림12.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image2.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-003,FIG-DOC-POL-005-003,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림13.png
+원본 그림의 크기: 가로 2560pixel, 세로 566pixel",그림13.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image3.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-004,FIG-DOC-POL-005-004,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 1301pixel, 세로 1706pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image4.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-005,FIG-DOC-POL-005-005,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section3,image,hwpx-xml-parser,medium,0,0,,,work/02_structured-extraction/figures/assets/DOC-POL-005/image5.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-006,FIG-DOC-POL-005-006,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 1114pixel, 세로 551pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image7.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-007,FIG-DOC-POL-005-007,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림5.png
+원본 그림의 크기: 가로 2452pixel, 세로 675pixel",그림5.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image8.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-008,FIG-DOC-POL-005-008,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림6.png
+원본 그림의 크기: 가로 2452pixel, 세로 765pixel",그림6.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image9.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-009,FIG-DOC-POL-005-009,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림7.png
+원본 그림의 크기: 가로 2452pixel, 세로 817pixel",그림7.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image10.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-010,FIG-DOC-POL-005-010,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 1404pixel, 세로 1033pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image11.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-011,FIG-DOC-POL-005-011,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림11.png
+원본 그림의 크기: 가로 2560pixel, 세로 566pixel",그림11.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image12.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-012,FIG-DOC-POL-005-012,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림12.png
+원본 그림의 크기: 가로 2560pixel, 세로 567pixel",그림12.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image13.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-013,FIG-DOC-POL-005-013,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림13.png
+원본 그림의 크기: 가로 2560pixel, 세로 566pixel",그림13.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image14.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-014,FIG-DOC-POL-005-014,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 1301pixel, 세로 1706pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image4.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-015,FIG-DOC-POL-005-015,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-016,FIG-DOC-POL-005-016,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-017,FIG-DOC-POL-005-017,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-018,FIG-DOC-POL-005-018,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-019,FIG-DOC-POL-005-019,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-020,FIG-DOC-POL-005-020,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-021,FIG-DOC-POL-005-021,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-022,FIG-DOC-POL-005-022,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-023,FIG-DOC-POL-005-023,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-024,FIG-DOC-POL-005-024,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-025,FIG-DOC-POL-005-025,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-026,FIG-DOC-POL-005-026,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-027,FIG-DOC-POL-005-027,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-028,FIG-DOC-POL-005-028,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-029,FIG-DOC-POL-005-029,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-030,FIG-DOC-POL-005-030,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-031,FIG-DOC-POL-005-031,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-032,FIG-DOC-POL-005-032,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-033,FIG-DOC-POL-005-033,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-034,FIG-DOC-POL-005-034,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-035,FIG-DOC-POL-005-035,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-036,FIG-DOC-POL-005-036,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-037,FIG-DOC-POL-005-037,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-038,FIG-DOC-POL-005-038,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-039,FIG-DOC-POL-005-039,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-040,FIG-DOC-POL-005-040,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-041,FIG-DOC-POL-005-041,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-042,FIG-DOC-POL-005-042,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-043,FIG-DOC-POL-005-043,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-044,FIG-DOC-POL-005-044,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-045,FIG-DOC-POL-005-045,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-046,FIG-DOC-POL-005-046,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-047,FIG-DOC-POL-005-047,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-048,FIG-DOC-POL-005-048,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-049,FIG-DOC-POL-005-049,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-050,FIG-DOC-POL-005-050,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-051,FIG-DOC-POL-005-051,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-052,FIG-DOC-POL-005-052,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-053,FIG-DOC-POL-005-053,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-054,FIG-DOC-POL-005-054,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-055,FIG-DOC-POL-005-055,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-056,FIG-DOC-POL-005-056,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-057,FIG-DOC-POL-005-057,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-058,FIG-DOC-POL-005-058,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-059,FIG-DOC-POL-005-059,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-060,FIG-DOC-POL-005-060,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-061,FIG-DOC-POL-005-061,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-062,FIG-DOC-POL-005-062,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-063,FIG-DOC-POL-005-063,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-064,FIG-DOC-POL-005-064,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-065,FIG-DOC-POL-005-065,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-066,FIG-DOC-POL-005-066,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-067,FIG-DOC-POL-005-067,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-068,FIG-DOC-POL-005-068,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-069,FIG-DOC-POL-005-069,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-070,FIG-DOC-POL-005-070,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-071,FIG-DOC-POL-005-071,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-072,FIG-DOC-POL-005-072,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-073,FIG-DOC-POL-005-073,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-074,FIG-DOC-POL-005-074,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-075,FIG-DOC-POL-005-075,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-076,FIG-DOC-POL-005-076,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-077,FIG-DOC-POL-005-077,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-078,FIG-DOC-POL-005-078,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-079,FIG-DOC-POL-005-079,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-080,FIG-DOC-POL-005-080,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-081,FIG-DOC-POL-005-081,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-082,FIG-DOC-POL-005-082,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-083,FIG-DOC-POL-005-083,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-084,FIG-DOC-POL-005-084,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-085,FIG-DOC-POL-005-085,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-086,FIG-DOC-POL-005-086,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-087,FIG-DOC-POL-005-087,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-088,FIG-DOC-POL-005-088,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-089,FIG-DOC-POL-005-089,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-090,FIG-DOC-POL-005-090,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-091,FIG-DOC-POL-005-091,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-092,FIG-DOC-POL-005-092,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-093,FIG-DOC-POL-005-093,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-094,FIG-DOC-POL-005-094,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 1400pixel, 세로 459pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image18.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-095,FIG-DOC-POL-005-095,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-096,FIG-DOC-POL-005-096,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-097,FIG-DOC-POL-005-097,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-098,FIG-DOC-POL-005-098,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-099,FIG-DOC-POL-005-099,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-100,FIG-DOC-POL-005-100,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-101,FIG-DOC-POL-005-101,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-102,FIG-DOC-POL-005-102,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-103,FIG-DOC-POL-005-103,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-104,FIG-DOC-POL-005-104,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-105,FIG-DOC-POL-005-105,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-106,FIG-DOC-POL-005-106,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-107,FIG-DOC-POL-005-107,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-108,FIG-DOC-POL-005-108,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-109,FIG-DOC-POL-005-109,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-110,FIG-DOC-POL-005-110,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-111,FIG-DOC-POL-005-111,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-112,FIG-DOC-POL-005-112,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-113,FIG-DOC-POL-005-113,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-114,FIG-DOC-POL-005-114,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-115,FIG-DOC-POL-005-115,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-116,FIG-DOC-POL-005-116,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-117,FIG-DOC-POL-005-117,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-118,FIG-DOC-POL-005-118,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-119,FIG-DOC-POL-005-119,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-120,FIG-DOC-POL-005-120,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 1370pixel, 세로 389pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image19.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-121,FIG-DOC-POL-005-121,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 146pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-122,FIG-DOC-POL-005-122,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-123,FIG-DOC-POL-005-123,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-124,FIG-DOC-POL-005-124,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 82pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image17.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-125,FIG-DOC-POL-005-125,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-126,FIG-DOC-POL-005-126,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-005-127,FIG-DOC-POL-005-127,DOC-POL-005,연구개발 생태계 혁신방안,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 113pixel, 세로 81pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-005/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,

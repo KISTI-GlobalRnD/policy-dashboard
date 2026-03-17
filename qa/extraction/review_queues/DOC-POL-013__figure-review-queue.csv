@@ -1,0 +1,89 @@
+review_item_id,figure_id,document_id,title,doc_role,include_status,location,figure_type,extraction_method,extraction_confidence,has_source_bbox,generic_caption,caption,summary,asset_path,suggested_class,rationale,keep_for_dashboard,review_status,quality_status,reviewer_notes
+FRV-DOC-POL-013-001,FIG-DOC-POL-013-001,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림2.png
+원본 그림의 크기: 가로 1756pixel, 세로 2313pixel",그림2.png,work/02_structured-extraction/figures/assets/DOC-POL-013/image1.png,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-002,FIG-DOC-POL-013-002,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림4.png
+원본 그림의 크기: 가로 1851pixel, 세로 446pixel",그림4.png,work/02_structured-extraction/figures/assets/DOC-POL-013/image2.png,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-003,FIG-DOC-POL-013-003,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section4,image,hwpx-xml-parser,medium,0,0,,,work/02_structured-extraction/figures/assets/DOC-POL-013/image3.bmp,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-004,FIG-DOC-POL-013-004,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림2.png
+원본 그림의 크기: 가로 1756pixel, 세로 2313pixel",그림2.png,work/02_structured-extraction/figures/assets/DOC-POL-013/image1.png,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-005,FIG-DOC-POL-013-005,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림3.png
+원본 그림의 크기: 가로 2292pixel, 세로 1201pixel",그림3.png,work/02_structured-extraction/figures/assets/DOC-POL-013/image5.png,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-006,FIG-DOC-POL-013-006,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드4.PNG
+원본 그림의 크기: 가로 1123pixel, 세로 1587pixel",슬라이드4.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image6.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-007,FIG-DOC-POL-013-007,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림4.png
+원본 그림의 크기: 가로 1851pixel, 세로 446pixel",그림4.png,work/02_structured-extraction/figures/assets/DOC-POL-013/image2.png,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-008,FIG-DOC-POL-013-008,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드6.PNG
+원본 그림의 크기: 가로 1123pixel, 세로 1587pixel",슬라이드6.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image7.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-009,FIG-DOC-POL-013-009,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드7.PNG
+원본 그림의 크기: 가로 1123pixel, 세로 1587pixel",슬라이드7.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image8.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-010,FIG-DOC-POL-013-010,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드8.PNG
+원본 그림의 크기: 가로 1123pixel, 세로 1587pixel",슬라이드8.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image9.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-011,FIG-DOC-POL-013-011,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드9.PNG
+원본 그림의 크기: 가로 1753pixel, 세로 2602pixel",슬라이드9.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image10.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-012,FIG-DOC-POL-013-012,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드10.PNG
+원본 그림의 크기: 가로 1123pixel, 세로 1587pixel",슬라이드10.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image11.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-013,FIG-DOC-POL-013-013,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드11.PNG
+원본 그림의 크기: 가로 1123pixel, 세로 1587pixel",슬라이드11.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image12.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-014,FIG-DOC-POL-013-014,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드12.PNG
+원본 그림의 크기: 가로 1123pixel, 세로 1587pixel",슬라이드12.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image13.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-015,FIG-DOC-POL-013-015,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드13.PNG
+원본 그림의 크기: 가로 1123pixel, 세로 1587pixel",슬라이드13.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image14.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-016,FIG-DOC-POL-013-016,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드14.PNG
+원본 그림의 크기: 가로 1123pixel, 세로 1587pixel",슬라이드14.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image15.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-017,FIG-DOC-POL-013-017,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드15.PNG
+원본 그림의 크기: 가로 1123pixel, 세로 1587pixel",슬라이드15.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image16.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-018,FIG-DOC-POL-013-018,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드16.PNG
+원본 그림의 크기: 가로 1123pixel, 세로 1587pixel",슬라이드16.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image17.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-019,FIG-DOC-POL-013-019,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드17.PNG
+원본 그림의 크기: 가로 1123pixel, 세로 1587pixel",슬라이드17.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image18.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-020,FIG-DOC-POL-013-020,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드18.PNG
+원본 그림의 크기: 가로 1123pixel, 세로 1587pixel",슬라이드18.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image19.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-021,FIG-DOC-POL-013-021,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드19.PNG
+원본 그림의 크기: 가로 1753pixel, 세로 2968pixel",슬라이드19.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image20.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-022,FIG-DOC-POL-013-022,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드20.PNG
+원본 그림의 크기: 가로 1123pixel, 세로 1587pixel",슬라이드20.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image21.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-023,FIG-DOC-POL-013-023,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드21.PNG
+원본 그림의 크기: 가로 1123pixel, 세로 1587pixel",슬라이드21.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image22.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-024,FIG-DOC-POL-013-024,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드22.PNG
+원본 그림의 크기: 가로 1123pixel, 세로 1587pixel",슬라이드22.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image23.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-025,FIG-DOC-POL-013-025,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드23.PNG
+원본 그림의 크기: 가로 1123pixel, 세로 1587pixel",슬라이드23.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image24.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-026,FIG-DOC-POL-013-026,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드24.PNG
+원본 그림의 크기: 가로 1123pixel, 세로 1587pixel",슬라이드24.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image25.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-027,FIG-DOC-POL-013-027,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드25.PNG
+원본 그림의 크기: 가로 1123pixel, 세로 1587pixel",슬라이드25.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image26.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-028,FIG-DOC-POL-013-028,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드26.PNG
+원본 그림의 크기: 가로 1123pixel, 세로 1587pixel",슬라이드26.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image27.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-029,FIG-DOC-POL-013-029,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드27.PNG
+원본 그림의 크기: 가로 1123pixel, 세로 1587pixel",슬라이드27.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image28.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,
+FRV-DOC-POL-013-030,FIG-DOC-POL-013-030,DOC-POL-013,범부처 기술관리체계 정비 및 협업 강화 방향,policy_source,hold,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 슬라이드28.PNG
+원본 그림의 크기: 가로 1123pixel, 세로 1587pixel",슬라이드28.PNG,work/02_structured-extraction/figures/assets/DOC-POL-013/image29.PNG,deferred_hold_image,embedded image in hold-scope document,no,review_required,deferred_hold,

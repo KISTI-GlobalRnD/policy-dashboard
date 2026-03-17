@@ -1,0 +1,11 @@
+{
+  "decision_count": 30,
+  "status_counts": {
+    "revised": 20,
+    "rejected": 5,
+    "approved": 5
+  },
+  "updated_master_rows": 30,
+  "reviewer_name": "codex_manual_technology_lens_review",
+  "decision_csv": "qa/ontology/review_queues/technology-lens-review-decisions.csv"
+}

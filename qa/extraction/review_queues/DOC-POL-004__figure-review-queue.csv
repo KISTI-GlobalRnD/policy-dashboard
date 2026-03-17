@@ -1,0 +1,81 @@
+review_item_id,figure_id,document_id,title,doc_role,include_status,location,figure_type,extraction_method,extraction_confidence,has_source_bbox,generic_caption,caption,summary,asset_path,suggested_class,rationale,keep_for_dashboard,review_status,quality_status,reviewer_notes
+FRV-DOC-POL-004-001,FIG-DOC-POL-004-001,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section0,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 비전.png
+원본 그림의 크기: 가로 1081pixel, 세로 1494pixel",비전.png,work/02_structured-extraction/figures/assets/DOC-POL-004/image1.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-002,FIG-DOC-POL-004-002,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section0,image,hwpx-xml-parser,medium,0,0,,,work/02_structured-extraction/figures/assets/DOC-POL-004/image2.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-003,FIG-DOC-POL-004-003,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림7.png
+원본 그림의 크기: 가로 1830pixel, 세로 726pixel",그림7.png,work/02_structured-extraction/figures/assets/DOC-POL-004/image4.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-004,FIG-DOC-POL-004-004,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 미국.png
+원본 그림의 크기: 가로 255pixel, 세로 134pixel
+사진 찍은 날짜: 2017년 08월 10일 오후 2:57",미국.png,work/02_structured-extraction/figures/assets/DOC-POL-004/image5.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-005,FIG-DOC-POL-004-005,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000030f80003.bmp
+원본 그림의 크기: 가로 900pixel, 세로 600pixel",CLP000030f80003.bmp,work/02_structured-extraction/figures/assets/DOC-POL-004/image6.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-006,FIG-DOC-POL-004-006,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.jpeg
+원본 그림의 크기: 가로 164pixel, 세로 108pixel",image1.jpeg,work/02_structured-extraction/figures/assets/DOC-POL-004/image7.jpg,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-007,FIG-DOC-POL-004-007,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00003c246a16.bmp
+원본 그림의 크기: 가로 470pixel, 세로 154pixel",CLP00003c246a16.bmp,work/02_structured-extraction/figures/assets/DOC-POL-004/image8.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-008,FIG-DOC-POL-004-008,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00003c240001.bmp
+원본 그림의 크기: 가로 186pixel, 세로 61pixel",CLP00003c240001.bmp,work/02_structured-extraction/figures/assets/DOC-POL-004/image9.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-009,FIG-DOC-POL-004-009,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00003c240003.bmp
+원본 그림의 크기: 가로 188pixel, 세로 67pixel",CLP00003c240003.bmp,work/02_structured-extraction/figures/assets/DOC-POL-004/image10.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-010,FIG-DOC-POL-004-010,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림1.png
+원본 그림의 크기: 가로 126pixel, 세로 69pixel",그림1.png,work/02_structured-extraction/figures/assets/DOC-POL-004/image11.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-011,FIG-DOC-POL-004-011,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 제목 없음.png
+원본 그림의 크기: 가로 1558pixel, 세로 1080pixel",제목 없음.png,work/02_structured-extraction/figures/assets/DOC-POL-004/image12.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-012,FIG-DOC-POL-004-012,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 비전.png
+원본 그림의 크기: 가로 1081pixel, 세로 1494pixel",비전.png,work/02_structured-extraction/figures/assets/DOC-POL-004/image13.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-013,FIG-DOC-POL-004-013,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림5.png
+원본 그림의 크기: 가로 1994pixel, 세로 870pixel",그림5.png,work/02_structured-extraction/figures/assets/DOC-POL-004/image14.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-014,FIG-DOC-POL-004-014,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00000d3f0001.png
+원본 그림의 크기: 가로 4143pixel, 세로 2099pixel",CLP00000d3f0001.png,work/02_structured-extraction/figures/assets/DOC-POL-004/image15.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-015,FIG-DOC-POL-004-015,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: Screenshot 2025-10-15 at 4.43.02 PM.png
+원본 그림의 크기: 가로 1934pixel, 세로 982pixel",Screenshot 2025-10-15 at 4.43.02 PM.png,work/02_structured-extraction/figures/assets/DOC-POL-004/image16.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-016,FIG-DOC-POL-004-016,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: KakaoTalk_Photo_2025-10-18-22-25-16.jpeg
+원본 그림의 크기: 가로 720pixel, 세로 405pixel",KakaoTalk_Photo_2025-10-18-22-25-16.jpeg,work/02_structured-extraction/figures/assets/DOC-POL-004/image17.jpg,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-017,FIG-DOC-POL-004-017,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 1108pixel, 세로 1005pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-004/image18.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-018,FIG-DOC-POL-004-018,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00004d2444c1.bmp
+원본 그림의 크기: 가로 2308pixel, 세로 837pixel",CLP00004d2444c1.bmp,work/02_structured-extraction/figures/assets/DOC-POL-004/image19.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-019,FIG-DOC-POL-004-019,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 1645pixel, 세로 1342pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-004/image20.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-020,FIG-DOC-POL-004-020,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 연구동료.png
+원본 그림의 크기: 가로 1976pixel, 세로 1109pixel",연구동료.png,work/02_structured-extraction/figures/assets/DOC-POL-004/image21.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-021,FIG-DOC-POL-004-021,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림9.png
+원본 그림의 크기: 가로 1598pixel, 세로 140pixel",그림9.png,work/02_structured-extraction/figures/assets/DOC-POL-004/image22.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-022,FIG-DOC-POL-004-022,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림4.png
+원본 그림의 크기: 가로 1935pixel, 세로 602pixel",그림4.png,work/02_structured-extraction/figures/assets/DOC-POL-004/image23.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-023,FIG-DOC-POL-004-023,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림13.png
+원본 그림의 크기: 가로 1935pixel, 세로 445pixel",그림13.png,work/02_structured-extraction/figures/assets/DOC-POL-004/image24.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-024,FIG-DOC-POL-004-024,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림10.png
+원본 그림의 크기: 가로 1357pixel, 세로 230pixel",그림10.png,work/02_structured-extraction/figures/assets/DOC-POL-004/image25.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-025,FIG-DOC-POL-004-025,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림6.png
+원본 그림의 크기: 가로 1671pixel, 세로 154pixel",그림6.png,work/02_structured-extraction/figures/assets/DOC-POL-004/image26.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-026,FIG-DOC-POL-004-026,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: nais.png
+원본 그림의 크기: 가로 1920pixel, 세로 537pixel",nais.png,work/02_structured-extraction/figures/assets/DOC-POL-004/image27.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-004-027,FIG-DOC-POL-004-027,DOC-POL-004,과학기술xAI 국가전략,policy_source,include,section1,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림1.png
+원본 그림의 크기: 가로 3508pixel, 세로 2250pixel",그림1.png,work/02_structured-extraction/figures/assets/DOC-POL-004/image28.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,

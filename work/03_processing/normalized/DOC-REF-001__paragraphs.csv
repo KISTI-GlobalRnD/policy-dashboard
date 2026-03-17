@@ -1,0 +1,25 @@
+paragraph_id,document_id,page_no,page_block_order,block_type,text,source_line_count,merged_block_count,normalization_actions,source_mode
+PAR-DOC-REF-001-00001,DOC-REF-001,1,1,paragraph,구분 내용 기술,3,3,merged_continuation|merged_continuation,bbox_text
+PAR-DOC-REF-001-00002,DOC-REF-001,1,2,paragraph,인공지능(AI),1,1,,bbox_text
+PAR-DOC-REF-001-00003,DOC-REF-001,2,1,paragraph,구분 늙요 내용,3,3,merged_continuation|merged_continuation,bbox_text
+PAR-DOC-REF-001-00004,DOC-REF-001,3,1,paragraph,구분 늙요 내용 기술,4,4,merged_continuation|merged_continuation|merged_continuation,bbox_text
+PAR-DOC-REF-001-00005,DOC-REF-001,3,2,paragraph,"과학기술 A파운데이션모델 개발 6대 분야(바이오, 지구과학, 수학, 재료·화학, 반도체-디스플레이, 이차전지)",2,2,merged_continuation,bbox_text
+PAR-DOC-REF-001-00006,DOC-REF-001,4,1,paragraph,구분 융h,2,2,merged_continuation,bbox_text
+PAR-DOC-REF-001-00007,DOC-REF-001,5,1,paragraph,시반도처,1,1,,bbox_text
+PAR-DOC-REF-001-00008,DOC-REF-001,5,2,paragraph,구분 내용,2,2,merged_continuation,bbox_text
+PAR-DOC-REF-001-00009,DOC-REF-001,6,1,paragraph,제조AX주신방상,1,1,,bbox_text
+PAR-DOC-REF-001-00010,DOC-REF-001,6,2,paragraph,구분 내용,2,2,merged_continuation,bbox_text
+PAR-DOC-REF-001-00011,DOC-REF-001,7,1,paragraph,구분 내용 인프라및제도,3,3,merged_continuation|merged_continuation,bbox_text
+PAR-DOC-REF-001-00012,DOC-REF-001,7,2,paragraph,기초연구진흥법 개정 기초연구 투자 일정 비을 의무화(예 10%이상),2,2,merged_continuation,bbox_text
+PAR-DOC-REF-001-00013,DOC-REF-001,8,1,paragraph,구분 내용 인프라및제도,3,3,merged_continuation|merged_continuation,bbox_text
+PAR-DOC-REF-001-00014,DOC-REF-001,8,2,paragraph,) 장장정장정장정영정,2,2,merged_continuation,bbox_text
+PAR-DOC-REF-001-00015,DOC-REF-001,9,1,paragraph,구분 내용,2,2,merged_continuation,bbox_text
+PAR-DOC-REF-001-00016,DOC-REF-001,9,2,paragraph,기술 과학기술×AI,2,2,merged_continuation,bbox_text
+PAR-DOC-REF-001-00017,DOC-REF-001,9,3,paragraph,"주요 분야별 특화모델 개발·확보, 연구데이터 공유",1,1,,bbox_text
+PAR-DOC-REF-001-00018,DOC-REF-001,9,4,paragraph,"기술 주력기술(반도체, 이차전지)",2,2,merged_continuation,bbox_text
+PAR-DOC-REF-001-00019,DOC-REF-001,10,1,paragraph,구개발 생태계 여신방,1,1,,bbox_text
+PAR-DOC-REF-001-00020,DOC-REF-001,10,2,paragraph,구분 내용,2,2,merged_continuation,bbox_text
+PAR-DOC-REF-001-00021,DOC-REF-001,10,3,paragraph,기술 AI용합연구기술,2,2,merged_continuation,bbox_text
+PAR-DOC-REF-001-00022,DOC-REF-001,11,1,paragraph,구분 내용,2,2,merged_continuation,bbox_text
+PAR-DOC-REF-001-00023,DOC-REF-001,12,1,paragraph,초혁신경제 15대 프로직은 수신계원(수정진),1,1,,bbox_text
+PAR-DOC-REF-001-00024,DOC-REF-001,12,2,paragraph,/시,1,1,,bbox_text

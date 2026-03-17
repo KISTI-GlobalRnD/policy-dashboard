@@ -1,0 +1,928 @@
+{
+  "sample_scope": {
+    "pack_id": "technology-lens-seed-draft-pack-v1",
+    "generated_from": "work/05_dashboard/data-contracts/technology-lens.json + technology-lens-curation-queue.csv",
+    "purpose": "Bulk seed draft pack for technology domains that do not yet have curated groups.",
+    "policy_count": 3,
+    "group_count": 11,
+    "content_count": 11
+  },
+  "policies": [
+    {
+      "policy_id": "POL-012",
+      "policy_name": "초혁신경제 15대 프로젝트 추진계획",
+      "buckets": [
+        {
+          "policy_bucket_id": "PBK-POL-012-01",
+          "resource_category_id": "technology",
+          "resource_category_label": "기술",
+          "groups": [
+            {
+              "policy_item_group_id": "PIG-SEED-TD-002-01",
+              "group_label": "초전도체",
+              "group_summary": "ㅇ (초전도체) 고온초전도자석원천기술을고도화하고의료, 에너지, 교통등응용분야를 중심으로실용화기술및프로토타입개발",
+              "group_description": "DOC-POL-006 | policy_action",
+              "taxonomies": [
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-002",
+                  "label": "에너지",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-007",
+                  "label": "양자 정보통신 및 미래소재 선점",
+                  "is_primary": true
+                }
+              ],
+              "member_items": [
+                {
+                  "policy_item_id": "ITM-POL-012-RV-00001",
+                  "item_label": "초전도체",
+                  "item_statement": "ㅇ (초전도체) 고온초전도자석원천기술을고도화하고의료, 에너지, 교통등응용분야를 중심으로실용화기술및프로토타입개발",
+                  "member_role": "representative_item",
+                  "is_representative": true,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-006-00041"
+                }
+              ],
+              "contents": [
+                {
+                  "policy_item_content_id": "PIC-SEED-TD-002-01-01",
+                  "content_label": "초전도체",
+                  "content_statement": "ㅇ (초전도체) 고온초전도자석원천기술을고도화하고의료, 에너지, 교통등응용분야를 중심으로실용화기술및프로토타입개발",
+                  "content_summary": "ㅇ (초전도체) 고온초전도자석원천기술을고도화하고의료, 에너지, 교통등응용분야를 중심으로실용화기술및프로토타입개발",
+                  "content_type": "policy_action",
+                  "display_order": 1,
+                  "evidence": [
+                    {
+                      "source_policy_item_id": "ITM-POL-012-RV-00001",
+                      "source_policy_item_label": "초전도체",
+                      "derived_representation_id": "DRV-PAR-DOC-POL-006-00041",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-006-00041",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-006",
+                      "location_type": "page_or_section",
+                      "location_value": "4",
+                      "evidence_text": "ㅇ (초전도체) 고온초전도자석원천기술을고도화하고의료, 에너지, 교통등응용분야를 중심으로실용화기술및프로토타입개발",
+                      "evidence_label": "primary_support",
+                      "structured_payload_path": "",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-006-00041",
+                          "source_asset_id": "SRC-DOC-POL-006-0838",
+                          "asset_type": "pdf_page",
+                          "asset_path_or_url": "tmp/DOC-POL-006.pdf",
+                          "page_no": "4",
+                          "section_id": ""
+                        }
+                      ]
+                    },
+                    {
+                      "source_policy_item_id": "ITM-POL-012-RV-00001",
+                      "source_policy_item_label": "초전도체",
+                      "derived_representation_id": "DRV-PAR-DOC-POL-006-00042",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-006-00042",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-006",
+                      "location_type": "page_or_section",
+                      "location_value": "4",
+                      "evidence_text": "※ 고온초전도마그넷기술개발(‘22~’26, ‘26년 93억원), 고온초전도자석실용화기술개발",
+                      "evidence_label": "secondary_support",
+                      "structured_payload_path": "",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-006-00042",
+                          "source_asset_id": "SRC-DOC-POL-006-0838",
+                          "asset_type": "pdf_page",
+                          "asset_path_or_url": "tmp/DOC-POL-006.pdf",
+                          "page_no": "4",
+                          "section_id": ""
+                        }
+                      ]
+                    },
+                    {
+                      "source_policy_item_id": "ITM-POL-012-RV-00001",
+                      "source_policy_item_label": "초전도체",
+                      "derived_representation_id": "DRV-PAR-DOC-POL-006-00043",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-006-00043",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-006",
+                      "location_type": "page_or_section",
+                      "location_value": "4",
+                      "evidence_text": "(‘26~’30, ‘26년 45억원)",
+                      "evidence_label": "secondary_support",
+                      "structured_payload_path": "",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-006-00043",
+                          "source_asset_id": "SRC-DOC-POL-006-0838",
+                          "asset_type": "pdf_page",
+                          "asset_path_or_url": "tmp/DOC-POL-006.pdf",
+                          "page_no": "4",
+                          "section_id": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "policy_id": "POL-001",
+      "policy_name": "123대 국정과제",
+      "buckets": [
+        {
+          "policy_bucket_id": "PBK-POL-001-01",
+          "resource_category_id": "technology",
+          "resource_category_label": "기술",
+          "groups": [
+            {
+              "policy_item_group_id": "PIG-SEED-TD-003-02",
+              "group_label": "3대위기업종(석유화학·철강·이차전지) 특단대책강구",
+              "group_summary": "- 3대위기업종(석유화학·철강·이차전지) 특단대책강구, 산업위기지역패키지지원",
+              "group_description": "- 3대위기업종(석유화학·철강·이차전지) 특단대책강구, 산업위기지역패키지지원",
+              "taxonomies": [
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-003",
+                  "label": "이차전지",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-002",
+                  "label": "초격차 전략기술 확보 (반도체·이차전지)",
+                  "is_primary": true
+                }
+              ],
+              "member_items": [
+                {
+                  "policy_item_id": "ITM-POL-001-00012",
+                  "item_label": "3대위기업종(석유화학·철강·이차전지) 특단대책강구",
+                  "item_statement": "- 3대위기업종(석유화학·철강·이차전지) 특단대책강구, 산업위기지역패키지지원",
+                  "member_role": "representative_item",
+                  "is_representative": true,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-001-00970"
+                }
+              ],
+              "contents": [
+                {
+                  "policy_item_content_id": "PIC-SEED-TD-003-02-01",
+                  "content_label": "3대위기업종(석유화학·철강·이차전지) 특단대책강구",
+                  "content_statement": "- 3대위기업종(석유화학·철강·이차전지) 특단대책강구, 산업위기지역패키지지원",
+                  "content_summary": "- 3대위기업종(석유화학·철강·이차전지) 특단대책강구, 산업위기지역패키지지원",
+                  "content_type": "policy_action",
+                  "display_order": 1,
+                  "evidence": [
+                    {
+                      "source_policy_item_id": "ITM-POL-001-00012",
+                      "source_policy_item_label": "3대위기업종(석유화학·철강·이차전지) 특단대책강구",
+                      "derived_representation_id": "DRV-PAR-DOC-POL-001-00970",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-001-00970",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-001",
+                      "location_type": "page_or_section",
+                      "location_value": "91",
+                      "evidence_text": "- 3대위기업종(석유화학·철강·이차전지) 특단대책강구, 산업위기지역패키지지원",
+                      "evidence_label": "primary_support",
+                      "structured_payload_path": "",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-001-00970",
+                          "source_asset_id": "SRC-DOC-POL-001-0560",
+                          "asset_type": "pdf_page",
+                          "asset_path_or_url": "tmp/DOC-POL-001.pdf",
+                          "page_no": "91",
+                          "section_id": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "policy_item_group_id": "PIG-SEED-TD-004-03",
+              "group_label": "국방AI 첨단기술활용",
+              "group_summary": "ㅇ (국방AI 첨단기술활용) AI 신속개발·활용을 위해국방데이터관리·보안 체계를개선하고, 맞춤형획득프로세스를마련하며, 인프라투자확대",
+              "group_description": "ㅇ (국방AI 첨단기술활용) AI 신속개발·활용을 위해국방데이터관리·보안 체계를개선하고, 맞춤형획득프로세스를마련하며, 인프라투자확대",
+              "taxonomies": [
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-004",
+                  "label": "국방",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-001",
+                  "label": "AI G3 도약 및 전 산업 AX 확산",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-004",
+                  "label": "차세대 네트워크(6G) 및 지능형 인프라",
+                  "is_primary": false
+                },
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-008",
+                  "label": "피지컬 AI 및 지능형 로봇 산업 육성",
+                  "is_primary": false
+                }
+              ],
+              "member_items": [
+                {
+                  "policy_item_id": "ITM-POL-001-00157",
+                  "item_label": "국방AI 첨단기술활용",
+                  "item_statement": "ㅇ (국방AI 첨단기술활용) AI 신속개발·활용을 위해국방데이터관리·보안 체계를개선하고, 맞춤형획득프로세스를마련하며, 인프라투자확대",
+                  "member_role": "representative_item",
+                  "is_representative": true,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-001-01932"
+                }
+              ],
+              "contents": [
+                {
+                  "policy_item_content_id": "PIC-SEED-TD-004-03-01",
+                  "content_label": "국방AI 첨단기술활용",
+                  "content_statement": "ㅇ (국방AI 첨단기술활용) AI 신속개발·활용을 위해국방데이터관리·보안 체계를개선하고, 맞춤형획득프로세스를마련하며, 인프라투자확대",
+                  "content_summary": "ㅇ (국방AI 첨단기술활용) AI 신속개발·활용을 위해국방데이터관리·보안 체계를개선하고, 맞춤형획득프로세스를마련하며, 인프라투자확대",
+                  "content_type": "policy_action",
+                  "display_order": 1,
+                  "evidence": [
+                    {
+                      "source_policy_item_id": "ITM-POL-001-00157",
+                      "source_policy_item_label": "국방AI 첨단기술활용",
+                      "derived_representation_id": "DRV-PAR-DOC-POL-001-01932",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-001-01932",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-001",
+                      "location_type": "page_or_section",
+                      "location_value": "175",
+                      "evidence_text": "ㅇ (국방AI 첨단기술활용) AI 신속개발·활용을 위해국방데이터관리·보안 체계를개선하고, 맞춤형획득프로세스를마련하며, 인프라투자확대",
+                      "evidence_label": "primary_support",
+                      "structured_payload_path": "",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-001-01932",
+                          "source_asset_id": "SRC-DOC-POL-001-0479",
+                          "asset_type": "pdf_page",
+                          "asset_path_or_url": "tmp/DOC-POL-001.pdf",
+                          "page_no": "175",
+                          "section_id": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "policy_item_group_id": "PIG-SEED-TD-005-04",
+              "group_label": "수소환원제철(철강)",
+              "group_summary": "- 수소환원제철(철강), 스페셜티소재(석유화학) 등탄소감축·고부가가치화추진",
+              "group_description": "- 수소환원제철(철강), 스페셜티소재(석유화학) 등탄소감축·고부가가치화추진",
+              "taxonomies": [
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-005",
+                  "label": "소재",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_subdomain",
+                  "term_id": "TSD-005-003",
+                  "label": "화학",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-006",
+                  "label": "탄소중립 및 에너지 안보 (수소·SMR)",
+                  "is_primary": true
+                }
+              ],
+              "member_items": [
+                {
+                  "policy_item_id": "ITM-POL-001-00386",
+                  "item_label": "수소환원제철(철강)",
+                  "item_statement": "- 수소환원제철(철강), 스페셜티소재(석유화학) 등탄소감축·고부가가치화추진",
+                  "member_role": "representative_item",
+                  "is_representative": true,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-001-00602"
+                }
+              ],
+              "contents": [
+                {
+                  "policy_item_content_id": "PIC-SEED-TD-005-04-01",
+                  "content_label": "수소환원제철(철강)",
+                  "content_statement": "- 수소환원제철(철강), 스페셜티소재(석유화학) 등탄소감축·고부가가치화추진",
+                  "content_summary": "- 수소환원제철(철강), 스페셜티소재(석유화학) 등탄소감축·고부가가치화추진",
+                  "content_type": "policy_action",
+                  "display_order": 1,
+                  "evidence": [
+                    {
+                      "source_policy_item_id": "ITM-POL-001-00386",
+                      "source_policy_item_label": "수소환원제철(철강)",
+                      "derived_representation_id": "DRV-PAR-DOC-POL-001-00602",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-001-00602",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-001",
+                      "location_type": "page_or_section",
+                      "location_value": "62",
+                      "evidence_text": "- 수소환원제철(철강), 스페셜티소재(석유화학) 등탄소감축·고부가가치화추진",
+                      "evidence_label": "primary_support",
+                      "structured_payload_path": "",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-001-00602",
+                          "source_asset_id": "SRC-DOC-POL-001-0533",
+                          "asset_type": "pdf_page",
+                          "asset_path_or_url": "tmp/DOC-POL-001.pdf",
+                          "page_no": "62",
+                          "section_id": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "policy_item_group_id": "PIG-SEED-TD-006-05",
+              "group_label": "디지털보안·안전확보",
+              "group_summary": "ㅇ (디지털보안·안전확보) AI로지능화된사이버위협에효과적대응을 위해정보보호제도개편, AI기반보안시스템구축등추진",
+              "group_description": "ㅇ (디지털보안·안전확보) AI로지능화된사이버위협에효과적대응을 위해정보보호제도개편, AI기반보안시스템구축등추진",
+              "taxonomies": [
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-006",
+                  "label": "사이버보안",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_subdomain",
+                  "term_id": "TSD-006-006",
+                  "label": "위협·정책 대응",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-001",
+                  "label": "AI G3 도약 및 전 산업 AX 확산",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-008",
+                  "label": "피지컬 AI 및 지능형 로봇 산업 육성",
+                  "is_primary": false
+                },
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-010",
+                  "label": "디지털 헬스케어 서비스 혁신",
+                  "is_primary": false
+                }
+              ],
+              "member_items": [
+                {
+                  "policy_item_id": "ITM-POL-001-00259",
+                  "item_label": "디지털보안·안전확보",
+                  "item_statement": "ㅇ (디지털보안·안전확보) AI로지능화된사이버위협에효과적대응을 위해정보보호제도개편, AI기반보안시스템구축등추진",
+                  "member_role": "representative_item",
+                  "is_representative": true,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-001-00461"
+                }
+              ],
+              "contents": [
+                {
+                  "policy_item_content_id": "PIC-SEED-TD-006-05-01",
+                  "content_label": "디지털보안·안전확보",
+                  "content_statement": "ㅇ (디지털보안·안전확보) AI로지능화된사이버위협에효과적대응을 위해정보보호제도개편, AI기반보안시스템구축등추진",
+                  "content_summary": "ㅇ (디지털보안·안전확보) AI로지능화된사이버위협에효과적대응을 위해정보보호제도개편, AI기반보안시스템구축등추진",
+                  "content_type": "policy_action",
+                  "display_order": 1,
+                  "evidence": [
+                    {
+                      "source_policy_item_id": "ITM-POL-001-00259",
+                      "source_policy_item_label": "디지털보안·안전확보",
+                      "derived_representation_id": "DRV-PAR-DOC-POL-001-00461",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-001-00461",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-001",
+                      "location_type": "page_or_section",
+                      "location_value": "50",
+                      "evidence_text": "ㅇ (디지털보안·안전확보) AI로지능화된사이버위협에효과적대응을 위해정보보호제도개편, AI기반보안시스템구축등추진",
+                      "evidence_label": "primary_support",
+                      "structured_payload_path": "",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-001-00461",
+                          "source_asset_id": "SRC-DOC-POL-001-0524",
+                          "asset_type": "pdf_page",
+                          "asset_path_or_url": "tmp/DOC-POL-001.pdf",
+                          "page_no": "50",
+                          "section_id": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "policy_item_group_id": "PIG-SEED-TD-007-06",
+              "group_label": "초지능네트워크구축",
+              "group_summary": "ㅇ (초지능네트워크구축) AI에최적화된6세대이동통신(6G) 상용화와 실시간･",
+              "group_description": "ㅇ (초지능네트워크구축) AI에최적화된6세대이동통신(6G) 상용화와 실시간･",
+              "taxonomies": [
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-007",
+                  "label": "차세대통신",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_subdomain",
+                  "term_id": "TSD-007-001",
+                  "label": "차세대 유무선 통신",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-004",
+                  "label": "차세대 네트워크(6G) 및 지능형 인프라",
+                  "is_primary": true
+                }
+              ],
+              "member_items": [
+                {
+                  "policy_item_id": "ITM-POL-001-00614",
+                  "item_label": "초지능네트워크구축",
+                  "item_statement": "ㅇ (초지능네트워크구축) AI에최적화된6세대이동통신(6G) 상용화와 실시간･",
+                  "member_role": "representative_item",
+                  "is_representative": true,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-001-00403"
+                }
+              ],
+              "contents": [
+                {
+                  "policy_item_content_id": "PIC-SEED-TD-007-06-01",
+                  "content_label": "초지능네트워크구축",
+                  "content_statement": "ㅇ (초지능네트워크구축) AI에최적화된6세대이동통신(6G) 상용화와 실시간･",
+                  "content_summary": "ㅇ (초지능네트워크구축) AI에최적화된6세대이동통신(6G) 상용화와 실시간･",
+                  "content_type": "policy_action",
+                  "display_order": 1,
+                  "evidence": [
+                    {
+                      "source_policy_item_id": "ITM-POL-001-00614",
+                      "source_policy_item_label": "초지능네트워크구축",
+                      "derived_representation_id": "DRV-PAR-DOC-POL-001-00403",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-001-00403",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-001",
+                      "location_type": "page_or_section",
+                      "location_value": "47",
+                      "evidence_text": "ㅇ (초지능네트워크구축) AI에최적화된6세대이동통신(6G) 상용화와 실시간･",
+                      "evidence_label": "primary_support",
+                      "structured_payload_path": "",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-001-00403",
+                          "source_asset_id": "SRC-DOC-POL-001-0520",
+                          "asset_type": "pdf_page",
+                          "asset_path_or_url": "tmp/DOC-POL-001.pdf",
+                          "page_no": "47",
+                          "section_id": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "policy_item_group_id": "PIG-SEED-TD-008-07",
+              "group_label": "고부가가치서비스업육성",
+              "group_summary": "ㅇ (고부가가치서비스업육성) AI를활용한교통·물류·안전등핵심서비스 생산성제고및新서비스발굴과함께제조업등과의산업간융합지원",
+              "group_description": "ㅇ (고부가가치서비스업육성) AI를활용한교통·물류·안전등핵심서비스 생산성제고및新서비스발굴과함께제조업등과의산업간융합지원",
+              "taxonomies": [
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-008",
+                  "label": "첨단로봇제조",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_subdomain",
+                  "term_id": "TSD-008-003",
+                  "label": "서비스 솔루션",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-001",
+                  "label": "AI G3 도약 및 전 산업 AX 확산",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-008",
+                  "label": "피지컬 AI 및 지능형 로봇 산업 육성",
+                  "is_primary": false
+                }
+              ],
+              "member_items": [
+                {
+                  "policy_item_id": "ITM-POL-001-00106",
+                  "item_label": "고부가가치서비스업육성",
+                  "item_statement": "ㅇ (고부가가치서비스업육성) AI를활용한교통·물류·안전등핵심서비스 생산성제고및新서비스발굴과함께제조업등과의산업간융합지원",
+                  "member_role": "representative_item",
+                  "is_representative": true,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-001-00650"
+                }
+              ],
+              "contents": [
+                {
+                  "policy_item_content_id": "PIC-SEED-TD-008-07-01",
+                  "content_label": "고부가가치서비스업육성",
+                  "content_statement": "ㅇ (고부가가치서비스업육성) AI를활용한교통·물류·안전등핵심서비스 생산성제고및新서비스발굴과함께제조업등과의산업간융합지원",
+                  "content_summary": "ㅇ (고부가가치서비스업육성) AI를활용한교통·물류·안전등핵심서비스 생산성제고및新서비스발굴과함께제조업등과의산업간융합지원",
+                  "content_type": "policy_action",
+                  "display_order": 1,
+                  "evidence": [
+                    {
+                      "source_policy_item_id": "ITM-POL-001-00106",
+                      "source_policy_item_label": "고부가가치서비스업육성",
+                      "derived_representation_id": "DRV-PAR-DOC-POL-001-00650",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-001-00650",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-001",
+                      "location_type": "page_or_section",
+                      "location_value": "65",
+                      "evidence_text": "ㅇ (고부가가치서비스업육성) AI를활용한교통·물류·안전등핵심서비스 생산성제고및新서비스발굴과함께제조업등과의산업간융합지원",
+                      "evidence_label": "primary_support",
+                      "structured_payload_path": "",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-001-00650",
+                          "source_asset_id": "SRC-DOC-POL-001-0536",
+                          "asset_type": "pdf_page",
+                          "asset_path_or_url": "tmp/DOC-POL-001.pdf",
+                          "page_no": "65",
+                          "section_id": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "policy_item_group_id": "PIG-SEED-TD-012-09",
+              "group_label": "첨단기술산업기반구축",
+              "group_summary": "ㅇ (첨단기술산업기반구축) AI, 항공엔진, 반도체, 우주, 드론·로봇등첨단 전략분야R&D 및인프라투자를확대하여한국형빅테크기업육성",
+              "group_description": "ㅇ (첨단기술산업기반구축) AI, 항공엔진, 반도체, 우주, 드론·로봇등첨단 전략분야R&D 및인프라투자를확대하여한국형빅테크기업육성",
+              "taxonomies": [
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-012",
+                  "label": "우주항공",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-008",
+                  "label": "피지컬 AI 및 지능형 로봇 산업 육성",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-001",
+                  "label": "AI G3 도약 및 전 산업 AX 확산",
+                  "is_primary": false
+                }
+              ],
+              "member_items": [
+                {
+                  "policy_item_id": "ITM-POL-001-00599",
+                  "item_label": "첨단기술산업기반구축",
+                  "item_statement": "ㅇ (첨단기술산업기반구축) AI, 항공엔진, 반도체, 우주, 드론·로봇등첨단 전략분야R&D 및인프라투자를확대하여한국형빅테크기업육성",
+                  "member_role": "representative_item",
+                  "is_representative": true,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-001-01988"
+                }
+              ],
+              "contents": [
+                {
+                  "policy_item_content_id": "PIC-SEED-TD-012-09-01",
+                  "content_label": "첨단기술산업기반구축",
+                  "content_statement": "ㅇ (첨단기술산업기반구축) AI, 항공엔진, 반도체, 우주, 드론·로봇등첨단 전략분야R&D 및인프라투자를확대하여한국형빅테크기업육성",
+                  "content_summary": "ㅇ (첨단기술산업기반구축) AI, 항공엔진, 반도체, 우주, 드론·로봇등첨단 전략분야R&D 및인프라투자를확대하여한국형빅테크기업육성",
+                  "content_type": "policy_action",
+                  "display_order": 1,
+                  "evidence": [
+                    {
+                      "source_policy_item_id": "ITM-POL-001-00599",
+                      "source_policy_item_label": "첨단기술산업기반구축",
+                      "derived_representation_id": "DRV-PAR-DOC-POL-001-01988",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-001-01988",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-001",
+                      "location_type": "page_or_section",
+                      "location_value": "179",
+                      "evidence_text": "ㅇ (첨단기술산업기반구축) AI, 항공엔진, 반도체, 우주, 드론·로봇등첨단 전략분야R&D 및인프라투자를확대하여한국형빅테크기업육성",
+                      "evidence_label": "primary_support",
+                      "structured_payload_path": "",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-001-01988",
+                          "source_asset_id": "SRC-DOC-POL-001-0483",
+                          "asset_type": "pdf_page",
+                          "asset_path_or_url": "tmp/DOC-POL-001.pdf",
+                          "page_no": "179",
+                          "section_id": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "policy_item_group_id": "PIG-SEED-TD-013-10",
+              "group_label": "산업경쟁력강화",
+              "group_summary": "ㅇ (산업경쟁력강화) 차세대태양전지조기상용화, 해상풍력터빈·부품·기자재기술개발, 설치선건조및전용항만설치",
+              "group_description": "ㅇ (산업경쟁력강화) 차세대태양전지조기상용화, 해상풍력터빈·부품·기자재기술개발, 설치선건조및전용항만설치",
+              "taxonomies": [
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-013",
+                  "label": "해양",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-006",
+                  "label": "탄소중립 및 에너지 안보 (수소·SMR)",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-004",
+                  "label": "차세대 네트워크(6G) 및 지능형 인프라",
+                  "is_primary": false
+                }
+              ],
+              "member_items": [
+                {
+                  "policy_item_id": "ITM-POL-001-00351",
+                  "item_label": "산업경쟁력강화",
+                  "item_statement": "ㅇ (산업경쟁력강화) 차세대태양전지조기상용화, 해상풍력터빈·부품·기자재기술개발, 설치선건조및전용항만설치",
+                  "member_role": "representative_item",
+                  "is_representative": true,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-001-00765"
+                }
+              ],
+              "contents": [
+                {
+                  "policy_item_content_id": "PIC-SEED-TD-013-10-01",
+                  "content_label": "산업경쟁력강화",
+                  "content_statement": "ㅇ (산업경쟁력강화) 차세대태양전지조기상용화, 해상풍력터빈·부품·기자재기술개발, 설치선건조및전용항만설치",
+                  "content_summary": "ㅇ (산업경쟁력강화) 차세대태양전지조기상용화, 해상풍력터빈·부품·기자재기술개발, 설치선건조및전용항만설치",
+                  "content_type": "policy_action",
+                  "display_order": 1,
+                  "evidence": [
+                    {
+                      "source_policy_item_id": "ITM-POL-001-00351",
+                      "source_policy_item_label": "산업경쟁력강화",
+                      "derived_representation_id": "DRV-PAR-DOC-POL-001-00765",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-001-00765",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-001",
+                      "location_type": "page_or_section",
+                      "location_value": "74",
+                      "evidence_text": "ㅇ (산업경쟁력강화) 차세대태양전지조기상용화, 해상풍력터빈·부품·기자재기술개발, 설치선건조및전용항만설치",
+                      "evidence_label": "primary_support",
+                      "structured_payload_path": "",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-001-00765",
+                          "source_asset_id": "SRC-DOC-POL-001-0544",
+                          "asset_type": "pdf_page",
+                          "asset_path_or_url": "tmp/DOC-POL-001.pdf",
+                          "page_no": "74",
+                          "section_id": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "policy_item_group_id": "PIG-SEED-TD-014-11",
+              "group_label": "자율주행실현",
+              "group_summary": "- (자율주행실현) 레벨4 자율차출시및대중교통등공공서비스활용, 자율주행AI 학습센터등인프라구축, E2E 차세대모델기술개발",
+              "group_description": "- (자율주행실현) 레벨4 자율차출시및대중교통등공공서비스활용, 자율주행AI 학습센터등인프라구축, E2E 차세대모델기술개발",
+              "taxonomies": [
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-014",
+                  "label": "첨단모빌리티",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_subdomain",
+                  "term_id": "TSD-014-003",
+                  "label": "모빌리티 인프라",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-009",
+                  "label": "미래 모빌리티(자율주행·UAM)",
+                  "is_primary": true
+                }
+              ],
+              "member_items": [
+                {
+                  "policy_item_id": "ITM-POL-001-00503",
+                  "item_label": "자율주행실현",
+                  "item_statement": "- (자율주행실현) 레벨4 자율차출시및대중교통등공공서비스활용, 자율주행AI 학습센터등인프라구축, E2E 차세대모델기술개발",
+                  "member_role": "representative_item",
+                  "is_representative": true,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-001-00613"
+                }
+              ],
+              "contents": [
+                {
+                  "policy_item_content_id": "PIC-SEED-TD-014-11-01",
+                  "content_label": "자율주행실현",
+                  "content_statement": "- (자율주행실현) 레벨4 자율차출시및대중교통등공공서비스활용, 자율주행AI 학습센터등인프라구축, E2E 차세대모델기술개발",
+                  "content_summary": "- (자율주행실현) 레벨4 자율차출시및대중교통등공공서비스활용, 자율주행AI 학습센터등인프라구축, E2E 차세대모델기술개발",
+                  "content_type": "policy_action",
+                  "display_order": 1,
+                  "evidence": [
+                    {
+                      "source_policy_item_id": "ITM-POL-001-00503",
+                      "source_policy_item_label": "자율주행실현",
+                      "derived_representation_id": "DRV-PAR-DOC-POL-001-00613",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-001-00613",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-001",
+                      "location_type": "page_or_section",
+                      "location_value": "63",
+                      "evidence_text": "- (자율주행실현) 레벨4 자율차출시및대중교통등공공서비스활용, 자율주행AI 학습센터등인프라구축, E2E 차세대모델기술개발",
+                      "evidence_label": "primary_support",
+                      "structured_payload_path": "",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-001-00613",
+                          "source_asset_id": "SRC-DOC-POL-001-0534",
+                          "asset_type": "pdf_page",
+                          "asset_path_or_url": "tmp/DOC-POL-001.pdf",
+                          "page_no": "63",
+                          "section_id": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "policy_id": "POL-002",
+      "policy_name": "AI-바이오 국가전략",
+      "buckets": [
+        {
+          "policy_bucket_id": "PBK-POL-002-01",
+          "resource_category_id": "technology",
+          "resource_category_label": "기술",
+          "groups": [
+            {
+              "policy_item_group_id": "PIG-SEED-TD-010-08",
+              "group_label": "양자컴 활용",
+              "group_summary": "□ (양자컴 활용) 양자컴퓨터-슈퍼컴퓨터 하이브리드 시스템을 구축(KISTI, ’25~’28)하고, 이를 활용해 신약 개발, 바이오 분야 등의 난제 해결 지원",
+              "group_description": "< 바이오 전용 고성능 컴퓨팅 인프라 구축계획 >",
+              "taxonomies": [
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-010",
+                  "label": "양자",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_domain",
+                  "term_id": "TD-011",
+                  "label": "첨단바이오",
+                  "is_primary": false
+                },
+                {
+                  "taxonomy_type": "tech_subdomain",
+                  "term_id": "TSD-010-004",
+                  "label": "인프라/생태계",
+                  "is_primary": true
+                },
+                {
+                  "taxonomy_type": "tech_subdomain",
+                  "term_id": "TSD-011-001",
+                  "label": "바이오·의료기술",
+                  "is_primary": false
+                },
+                {
+                  "taxonomy_type": "strategy",
+                  "term_id": "STR-003",
+                  "label": "바이오·헬스 글로벌 중심국가 도약",
+                  "is_primary": true
+                }
+              ],
+              "member_items": [
+                {
+                  "policy_item_id": "ITM-POL-002-01155",
+                  "item_label": "양자컴 활용",
+                  "item_statement": "□ (양자컴 활용) 양자컴퓨터-슈퍼컴퓨터 하이브리드 시스템을 구축(KISTI, ’25~’28)하고, 이를 활용해 신약 개발, 바이오 분야 등의 난제 해결 지원",
+                  "member_role": "representative_item",
+                  "is_representative": true,
+                  "derived_representation_id": "DRV-PAR-DOC-POL-002-00238"
+                }
+              ],
+              "contents": [
+                {
+                  "policy_item_content_id": "PIC-SEED-TD-010-08-01",
+                  "content_label": "양자컴 활용",
+                  "content_statement": "□ (양자컴 활용) 양자컴퓨터-슈퍼컴퓨터 하이브리드 시스템을 구축(KISTI, ’25~’28)하고, 이를 활용해 신약 개발, 바이오 분야 등의 난제 해결 지원",
+                  "content_summary": "□ (양자컴 활용) 양자컴퓨터-슈퍼컴퓨터 하이브리드 시스템을 구축(KISTI, ’25~’28)하고, 이를 활용해 신약 개발, 바이오 분야 등의 난제 해결 지원",
+                  "content_type": "policy_action",
+                  "display_order": 1,
+                  "evidence": [
+                    {
+                      "source_policy_item_id": "ITM-POL-002-01155",
+                      "source_policy_item_label": "양자컴 활용",
+                      "derived_representation_id": "DRV-PAR-DOC-POL-002-00238",
+                      "source_object_type": "paragraph",
+                      "source_object_id": "PAR-DOC-POL-002-00238",
+                      "representation_type": "normalized_paragraph",
+                      "document_id": "DOC-POL-002",
+                      "location_type": "page_or_section",
+                      "location_value": "section7",
+                      "evidence_text": "□ (양자컴 활용) 양자컴퓨터-슈퍼컴퓨터 하이브리드 시스템을 구축(KISTI, ’25~’28)하고, 이를 활용해 신약 개발, 바이오 분야 등의 난제 해결 지원",
+                      "evidence_label": "primary_support",
+                      "structured_payload_path": "",
+                      "table_json_path": "",
+                      "source_assets": [
+                        {
+                          "derived_representation_id": "DRV-PAR-DOC-POL-002-00238",
+                          "source_asset_id": "SRC-DOC-POL-002-0573",
+                          "asset_type": "document_section",
+                          "asset_path_or_url": "tmp/DOC-POL-002.hwpx",
+                          "page_no": "",
+                          "section_id": "section7"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "document_id": "DOC-BMK-005",
+  "source_page_chunk_path": "work/02_structured-extraction/text/DOC-BMK-005_pages.json",
+  "source_bbox_block_path": "work/02_structured-extraction/text/DOC-BMK-005_blocks.json",
+  "page_count": 141,
+  "paragraph_count": 247,
+  "text_paragraph_count": 245,
+  "table_block_count": 2,
+  "removed_footer_count": 290,
+  "skipped_table_overlap_count": 48,
+  "skipped_noise_count": 3,
+  "merge_count": 2657
+}

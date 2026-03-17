@@ -1,0 +1,52 @@
+{
+  "review_item_updates": {
+    "FRV-DOC-POL-011-001": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "문서 공통 태극마크 아이콘으로 정책 의미를 담는 figure가 아니라 제외."
+    },
+    "FRV-DOC-POL-011-002": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "AI 에이전트·피지컬AI 확산에 따른 무선 백홀 용량 증가 추이를 보여주는 핵심 차트로 유지."
+    },
+    "FRV-DOC-POL-011-003": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "6G 상용화와 완전자율 AI 네트워크 기술 로드맵을 요약한 대표 배너형 도식으로 유지."
+    },
+    "FRV-DOC-POL-011-004": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "배너형 도식에 삽입된 개별 아이콘 조각으로 단독 의미가 약해 제외."
+    },
+    "FRV-DOC-POL-011-005": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "배너형 도식에 삽입된 개별 아이콘 조각으로 단독 의미가 약해 제외."
+    },
+    "FRV-DOC-POL-011-006": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "배너형 도식에 삽입된 개별 아이콘 조각으로 단독 의미가 약해 제외."
+    },
+    "FRV-DOC-POL-011-007": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "배너형 도식에 삽입된 개별 아이콘 조각으로 단독 의미가 약해 제외."
+    },
+    "FRV-DOC-POL-011-008": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "배너형 도식에 삽입된 개별 아이콘 조각으로 단독 의미가 약해 제외."
+    }
+  }
+}

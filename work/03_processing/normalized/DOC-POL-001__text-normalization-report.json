@@ -1,0 +1,13 @@
+{
+  "document_id": "DOC-POL-001",
+  "source_page_chunk_path": "work/02_structured-extraction/text/DOC-POL-001_pages.json",
+  "source_bbox_block_path": "work/02_structured-extraction/text/DOC-POL-001_blocks.json",
+  "page_count": 195,
+  "paragraph_count": 2179,
+  "text_paragraph_count": 2173,
+  "table_block_count": 6,
+  "removed_footer_count": 258,
+  "skipped_table_overlap_count": 144,
+  "skipped_noise_count": 1,
+  "merge_count": 1121
+}

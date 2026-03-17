@@ -1,0 +1,51 @@
+review_item_id,document_id,source_format,page_no,candidate_source,candidate_id,rows,cols,preview_text,suggested_class,heuristic_reason,keep_for_dashboard,merge_group_hint,canonical_table_id,review_status,reviewer_notes,treat_as_char,text_wrap
+TRV-DOC-POL-003-JS-001,DOC-POL-003,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-003-001,1,1,,layout_false_positive,empty_table_box,no,,,review_required,,0,IN_FRONT_OF_TEXT
+TRV-DOC-POL-003-JS-002,DOC-POL-003,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-003-002,2,4,"의안번호 | 제 3 호 | 의결
+사항",layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-003,DOC-POL-003,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-003-003,1,1,제조AX (M.AX) 추진방향(안),layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-004,DOC-POL-003,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-003-004,1,1,과학기술관계장관회의,layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-005,DOC-POL-003,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-003-005,2,3,제 출 자 | 산업통상부장관 | 김정관,layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-006,DOC-POL-003,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-003-006,1,1,제조AX (M.AX) 추진방향(안) (요약),layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-007,DOC-POL-003,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-003-007,4,2,전 략 | 내 용,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-008,DOC-POL-003,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-003-008,7,1,제조AX (M.AX) 추진방향(안),review_required,single_column_info_box,review,,,review_required,,0,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-009,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-009,3,1,제조AX (M.AX) 추진방향(안),review_required,single_column_info_box,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-010,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-010,1,2,I | 추진 배경,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-011,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-011,1,1,"⇒ 단순한 기술 도입을 넘어서, AI를 활용하여 우리 제조업의 DNA를 근본적으로 혁신하는 ‘제조AX(M.AX)’를 통해 미래 경쟁력 확보 필요",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-012,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-012,1,2,II | 제조AX 3대 전략,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-013,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-013,4,2,전 략 | 내 용,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-014,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-014,1,2,III | 3대 전략별 추진 과제,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-015,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-015,1,1,➊ 산(수요-공급)·학·연이 모두 함께하는 제조AX 생태계 구축,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-016,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-016,1,1,"￭ (구성) AI 팩토리, 휴머노이드, 자율주행차, 자율운항선박 등 10개 분과로 구성
+￭ (참여) 각 분과별로 핵심 제조·부품 기업, AI 개발 기업, 학계·연구기관 등 참여
+￭ (기능) 업종별 데이터 공유 및 표준화, 특화 AI 모델 공동 개발 및 실증 협력",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-017,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-017,1,1,➋ 세계 최고 수준의 업종별 특화 AI 모델로 제조 공정 혁신,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-018,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-018,1,1,"￭ (고품질 데이터) 각 업종을 대표하고 있는 앵커 기업들이 선도 사업에 대거 참여
+￭ (연 결 데이터) 업종 내 공급망의 대·중견·중소 기업간 AI를 수직적으로 확산",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-019,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-019,1,1,"￭ (유통·물류) 무인매장, 매장자동화, AI기반 수요예측 등 ‘플래그십 프로젝트’ 추진
+￭ (디 자 인) 기획, 컨셉 디자인, 생산 연동 등 全주기 AI 기술개발·서비스 제공",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-020,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-020,1,1,➌ AI가 탑재된 임바디드(embodied) 제품 신시장 창출,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-021,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-021,1,1,◈ AI 반도체 개발 및 정책 패키지 지원 등 제조AX 기반 확충,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-022,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-022,6,2,구 분 | 내 용,structured_table,hwpx_grid_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-023,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-023,1,2,IV | 향후 조치 계획,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-024,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-024,1,3,참 고 | 제조AX 업종별 세부 추진방안,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-025,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-025,1,2,분야 1 | 생산성 혁신 : 제조 全주기 AI 전환으로 기초체력 강화,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-026,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-026,1,1,󰊱 AI 팩토리 : 제조 업종별 특화 AI 모델 개발,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-027,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-027,3,2,유 형 | 프로젝트 예시,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-028,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-028,1,1,󰊲 AI 제조 서비스 : AI 산업 표준 선점 및 AI 디자인 개발,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-029,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-029,1,1,󰊳 유통물류 : AI 프로젝트 발굴 및 확산 기반 마련,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-030,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-030,1,1,"⦁ (무인매장) 무인기반 효율강화, 비구매데이터, 자동화된 매장관리 → 유통 피지컬 AI 구현
+⦁ (제조물류) AI, 로보틱스 결합으로 입고-출고 까지 全물류 과정 지능화 → 생산성 향상",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-031,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-031,1,2,분야 2 | 신시장 창출 : AI 기반 제품 혁신으로 신성장 동력 확보,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-032,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-032,1,1,󰊱 자율주행차 : 자율주행 Sovereign 기술 확보,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-033,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-033,1,1,󰊲 휴머노이드 : 현장 특화형 휴머노이드 로봇 양산,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-034,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-034,1,1,󰊳 자율운항선박 : 완전자율운항 기술 확보 및 대규모 실증,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-035,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-035,1,1,󰊴 AI 가전 : AI 가전 육성 및 핵심 부품 국산화,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-036,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-036,2,3,"AI아기침대: 수면단계별 생체
+신호 분석, 최적 수면환경 제공 | AI그릴 가전: 고기, 생선 등을 셰프급으로 자동 조리 | AI올인원 안마기: 신체·피부·멘탈 AI통합 관리",layout_false_positive,small_hwpx_layout_box,no,,,review_required,,0,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-037,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-037,1,1,󰊵 AI 방산 : AI 방산 융합 생태계 구축,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-038,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-038,1,1,󰊶 AI 바이오 : 신약개발 기간 단축 및 제조공정 디지털 트윈,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-039,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-039,1,1,󰊷 AI 반도체 : K-온디바이스 AI반도체 개발,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-040,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-040,4,7,"온디바이스
+AI반도체
+풀스택 | 수요 맞춤형 온디바이스 AI 반도체, AI SW, 모듈 등 개발 · 실증",structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-003-JS-041,DOC-POL-003,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-003-041,3,2,산업통상부 산업정책관 산업인공지능혁신과,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM

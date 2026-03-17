@@ -1,0 +1,4 @@
+paragraph_id,document_id,page_no,page_block_order,block_type,text,source_line_count,merged_block_count,normalization_actions,source_mode
+PAR-DOC-CTX-003-00001,DOC-CTX-003,1,1,paragraph,참고 융 :그,2,2,merged_continuation,bbox_text
+PAR-DOC-CTX-003-00002,DOC-CTX-003,1,2,paragraph,소재·나노분과,1,1,,bbox_text
+PAR-DOC-CTX-003-00003,DOC-CTX-003,1,3,heading,<세부 기술(정책)분류체계>,1,1,,bbox_text

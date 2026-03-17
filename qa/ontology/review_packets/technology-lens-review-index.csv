@@ -1,0 +1,12 @@
+tech_domain_id,tech_domain_label,output_csv,active_item_count,pending_count,approved_count,revised_count,rejected_count,deferred_count,inactive_count
+TD-002,에너지,TD-002__에너지__technology-lens-review.csv,0,0,0,2,1,0,3
+TD-003,이차전지,TD-003__이차전지__technology-lens-review.csv,0,0,0,2,0,0,2
+TD-004,국방,TD-004__국방__technology-lens-review.csv,0,0,0,2,1,0,3
+TD-005,소재,TD-005__소재__technology-lens-review.csv,0,0,1,2,0,0,3
+TD-006,사이버보안,TD-006__사이버보안__technology-lens-review.csv,0,0,1,1,0,0,2
+TD-007,차세대통신,TD-007__차세대통신__technology-lens-review.csv,0,0,1,2,0,0,3
+TD-008,첨단로봇제조,TD-008__첨단로봇제조__technology-lens-review.csv,0,0,0,1,2,0,3
+TD-010,양자,TD-010__양자__technology-lens-review.csv,0,0,0,2,0,0,2
+TD-012,우주항공,TD-012__우주항공__technology-lens-review.csv,0,0,1,1,1,0,3
+TD-013,해양,TD-013__해양__technology-lens-review.csv,0,0,0,3,0,0,3
+TD-014,첨단모빌리티,TD-014__첨단모빌리티__technology-lens-review.csv,0,0,1,2,0,0,3

@@ -1,0 +1,12 @@
+policy_item_group_member_id,policy_item_group_id,policy_item_id,member_role,is_representative,confidence,notes
+PGM-SEED-TD-002-01-01,PIG-SEED-TD-002-01,ITM-POL-012-RV-00001,representative_item,1,medium,seed draft from PIG-PROV-ITM-POL-012-RV-00001
+PGM-SEED-TD-003-02-01,PIG-SEED-TD-003-02,ITM-POL-001-00012,representative_item,1,high,seed draft from PIG-PROV-ITM-POL-001-00012
+PGM-SEED-TD-004-03-01,PIG-SEED-TD-004-03,ITM-POL-001-00157,representative_item,1,high,seed draft from PIG-PROV-ITM-POL-001-00157
+PGM-SEED-TD-005-04-01,PIG-SEED-TD-005-04,ITM-POL-001-00386,representative_item,1,high,seed draft from PIG-PROV-ITM-POL-001-00386
+PGM-SEED-TD-006-05-01,PIG-SEED-TD-006-05,ITM-POL-001-00259,representative_item,1,medium,seed draft from PIG-PROV-ITM-POL-001-00259
+PGM-SEED-TD-007-06-01,PIG-SEED-TD-007-06,ITM-POL-001-00614,representative_item,1,medium,seed draft from PIG-PROV-ITM-POL-001-00614
+PGM-SEED-TD-008-07-01,PIG-SEED-TD-008-07,ITM-POL-001-00106,representative_item,1,medium,seed draft from PIG-PROV-ITM-POL-001-00106
+PGM-SEED-TD-010-08-01,PIG-SEED-TD-010-08,ITM-POL-002-01155,representative_item,1,high,seed draft from PIG-PROV-ITM-POL-002-01155
+PGM-SEED-TD-012-09-01,PIG-SEED-TD-012-09,ITM-POL-001-00599,representative_item,1,medium,seed draft from PIG-PROV-ITM-POL-001-00599
+PGM-SEED-TD-013-10-01,PIG-SEED-TD-013-10,ITM-POL-001-00351,representative_item,1,medium,seed draft from PIG-PROV-ITM-POL-001-00351
+PGM-SEED-TD-014-11-01,PIG-SEED-TD-014-11,ITM-POL-001-00503,representative_item,1,medium,seed draft from PIG-PROV-ITM-POL-001-00503

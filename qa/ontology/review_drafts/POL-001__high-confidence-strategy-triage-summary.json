@@ -1,0 +1,25 @@
+{
+  "reviewer_name": "codex_manual_pol001_high_confidence",
+  "decision_count": 112,
+  "status_counts": {
+    "no_strategy": 108,
+    "reviewed": 4
+  },
+  "confidence_counts": {
+    "high": 112
+  },
+  "kept_pending_count": 11,
+  "kept_pending_keys": [
+    "SRD-POL-001-0625b3b4d848",
+    "SRD-POL-001-07b2894d6a17",
+    "SRD-POL-001-0b8be7b63563",
+    "SRD-POL-001-21516e5f7e06",
+    "SRD-POL-001-436176f287ab",
+    "SRD-POL-001-5ac8d236b66a",
+    "SRD-POL-001-8f7f69aff899",
+    "SRD-POL-001-ab1c14a81c40",
+    "SRD-POL-001-b4ae20fe8655",
+    "SRD-POL-001-b658acfefab4",
+    "SRD-POL-001-c339787f762d"
+  ]
+}

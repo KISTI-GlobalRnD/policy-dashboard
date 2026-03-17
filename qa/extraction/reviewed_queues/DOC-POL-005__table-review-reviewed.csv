@@ -1,0 +1,122 @@
+review_item_id,document_id,source_format,page_no,candidate_source,candidate_id,rows,cols,preview_text,suggested_class,heuristic_reason,keep_for_dashboard,merge_group_hint,canonical_table_id,review_status,reviewer_notes,treat_as_char,text_wrap
+TRV-DOC-POL-005-JS-001,DOC-POL-005,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-005-001,1,1,,layout_false_positive,empty_table_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,0,IN_FRONT_OF_TEXT
+TRV-DOC-POL-005-JS-002,DOC-POL-005,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-005-002,2,4,"의안번호 | 제 7 호 | 의결
+사항",layout_false_positive,front_matter_table,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-003,DOC-POL-005,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-005-003,1,1,"과학기술로 미래를 선도하는
+연구개발 생태계 혁신방안(안)",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-004,DOC-POL-005,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-005-004,1,1,과학기술관계장관회의,layout_false_positive,front_matter_table,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-005,DOC-POL-005,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-005-005,4,5,제 출 자 | 기획재정부장관 | 구윤철 | 과학기술정보통신부장관,layout_false_positive,front_matter_table,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-006,DOC-POL-005,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-005-006,1,1,과학기술로 미래를 선도하는 연구개발 생태계 혁신방안(안) (요약),layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-007,DOC-POL-005,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-005-007,1,1,,layout_false_positive,empty_table_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-008,DOC-POL-005,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-005-008,1,1,,layout_false_positive,empty_table_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-009,DOC-POL-005,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-005-009,1,1,,layout_false_positive,empty_table_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-010,DOC-POL-005,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-005-010,4,2,구 분 | 주요 내용,structured_table,hwpx_grid_table,yes,,CTBL-DOC-POL-005-001,reviewed,1차 heuristic seed. 구조표 후보로 유지.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-011,DOC-POL-005,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-005-011,5,2,구 분 | 주요 내용,structured_table,hwpx_grid_table,yes,,CTBL-DOC-POL-005-002,reviewed,1차 heuristic seed. 구조표 후보로 유지.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-012,DOC-POL-005,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-005-012,4,2,구 분 | 주요 내용,structured_table,hwpx_grid_table,yes,,CTBL-DOC-POL-005-003,reviewed,1차 heuristic seed. 구조표 후보로 유지.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-013,DOC-POL-005,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-005-013,3,2,구 분 | 주요 내용,review_required,hwpx_needs_manual_review,yes,,CTBL-DOC-POL-005-017,reviewed,PBS 폐지와 우수연구자 확보 내용을 비교하는 구조표로 유지.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-014,DOC-POL-005,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-005-014,4,2,구 분 | 주요 내용,structured_table,hwpx_grid_table,yes,,CTBL-DOC-POL-005-004,reviewed,1차 heuristic seed. 구조표 후보로 유지.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-015,DOC-POL-005,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-005-015,4,2,구 분 | 주요 내용,structured_table,hwpx_grid_table,yes,,CTBL-DOC-POL-005-005,reviewed,1차 heuristic seed. 구조표 후보로 유지.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-016,DOC-POL-005,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-005-016,3,2,구 분 | 주요 내용,review_required,hwpx_needs_manual_review,yes,,CTBL-DOC-POL-005-018,reviewed,투자시스템과 대형R&D 개선 내용을 비교하는 구조표로 유지.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-017,DOC-POL-005,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-005-017,4,2,구 분 | 주요 내용,structured_table,hwpx_grid_table,yes,,CTBL-DOC-POL-005-006,reviewed,1차 heuristic seed. 구조표 후보로 유지.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-018,DOC-POL-005,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-005-018,6,2,구 분 | 주요 내용,structured_table,hwpx_grid_table,yes,,CTBL-DOC-POL-005-007,reviewed,1차 heuristic seed. 구조표 후보로 유지.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-019,DOC-POL-005,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-005-019,3,3,< 과학기술로 미래를 선도하는 연구개발 생태계 혁신방안 >,layout_false_positive,heading_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-020,DOC-POL-005,hwpx,section3,pymupdf_find_tables,TBL-DOC-POL-005-020,7,2,"과학기술로 미래를 선도하는
+연구개발 생태계 혁신방안(안) | 2025 - 11
+(7호)",structured_table,hwpx_grid_table,yes,,CTBL-DOC-POL-005-008,reviewed,1차 heuristic seed. 구조표 후보로 유지.,0,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-021,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-021,1,1,Ⅰ. 추진배경,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-022,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-022,1,1,1. R&D 생태계 혁신의 필요성,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-023,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-023,1,1," “진짜 필요한 연구를 하자. 정부 보고를 위한 형식적인 연구는 지양해야 하며, 행정에 너무 많은 에너지를 쏟지 말자”
+(’25.7.4, 타운홀 미팅 ‘충청의 마음을 듣다’ 시 대통령 말씀 中)",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-024,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-024,1,1,"□ 급격한 예산 조정, 현장과 맞지 않는 제도의 누적으로 연구생태계 위축",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-025,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-025,1,1,"□ 한편, 국가 성장을 위해서는 연구개발(R&D)을 통한 기술주도 성장이 필수",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-026,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-026,1,1,"□ 복원을 넘어, 연구자의 도전몰입이 성장으로 이어지는 연구생태계로 도약 필요",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-027,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-027,1,1,"⇨ 현장의 목소리를 중심으로, R&D 성과가 국가 성장으로 이어지기 위한 실질적 대책을 담은 ‘연구개발 생태계 혁신방안’ 마련 추진",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-028,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-028,1,1,2. 수립경과,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-029,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-029,1,1,3. 우리나라 R&D 생태계의 당면 과제,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-030,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-030,1,1,"◈ ‘과학기술자가 다시 꿈이 될 수 있는 나라’를 위한 네 가지 질문
+ 왜 우리는 늘 성공하는 R&D만 하고 있는가?
+ 왜 연구자들이 연구 외적인 것에 시간을 낭비하고 있는가?
+ 왜 대학과 출연연은 필요한 연구를 못 하는가?
+ 왜 기술개발이 경제적 성과로 이어지지 못하는가?",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-031,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-031,2,4,왜 | 우리는 늘 성공하는 R&D만 하고 있는가?,layout_false_positive,small_hwpx_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-032,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-032,1,1,"◆ “국가 연구에서 성공률을 따지지 말자... 성공률은 기업이 따지는 것”
+< VIP 주재 충청권 타운홀 미팅(7.4) 시 VIP 발언 中 >
+◆ “선정평가를 가면 항상 듣는 ‘목표 달성을 못하면 어떻게 할 것인가?’라는 질문”
+< R&D 혁신을 위한 3차 연구현장 간담회(UNIST, 8.6) 시 연구자 발언 中 >
+◆ “전문성 높은 교수들은 바쁜 일정으로",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-033,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-033,2,4,왜 | 연구자들이 연구 외적인 것에 시간을 낭비하고 있는가?,layout_false_positive,small_hwpx_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-034,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-034,1,1,"◆ “회의비 사전 결재 등 사전 통제 중심의 불필요한 행정절차들로 인하여 연구자의 행정부담 가중”
+◆ “IRIS와 연구비 시스템, 대학 자체 시스템이 연동되지 않아 중복 입력이 필요한 등 시스템 사용에 있어 비효율적 업무 다수”
+< R&D 혁신을 위한 2차 연구현장 간담회(경북대, 7.23) 시 연구자 발언 中 >",layout_false_positive,front_matter_table,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-035,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-035,2,4,왜 | 대학과 출연연은 필요한 연구를 못 하는가?,layout_false_positive,small_hwpx_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-036,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-036,1,1,"◆ “R&D 예산 삭감의 여파로 기초연구 생태계가 심각하게 훼손 되었으며, 생태계의 유지를 위해 기초연구 지원의 안정적 유지관리가 중요”
+< R&D 혁신을 위한 1차 연구현장 간담회(IBS, 7.17) 시 연구자 발언 中 >
+◆ “PBS 제도로 인해 출연(연) 연구자들이 인건비 확보 및 평가체제에 맞는 개인 과제 수주에 집중, 국가 임무를 위한 도전적 연",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-037,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-037,2,4,왜 | 기술개발이 경제적 성과로 이어지지 못하는가?,layout_false_positive,small_hwpx_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-038,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-038,1,1,"◆ “R&D 기획이 현장의 수요와 동떨어져 있어 성과의 확산에 한계가 있으며, 보다 개방적이고 민간주도적인 실질적 수요자 기반 R&D 기획 필요”
+< 민간 전문가 자문단 단체토론방 민간위원 발언 中 >
+◆ “우리나라의 기술개발 성과가 경제적 성과로 이어지지 않는 근본적 이유는 정부 R&D 지원대상에서 실증 및 상용화 단계가 소외된 것에서 비롯”
+< R&D ",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-039,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-039,1,1,4. 수립 방향,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-040,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-040,1,1,□ (연구자 중심) 연구가 가장 최우선시되는 연구몰입 환경 구축,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-041,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-041,1,1,"□ (혁신주체 역량 제고) 출연연, 대학, 기업 본연의 역할을 지원하는 체계",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-042,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-042,1,1,□ (R&D기반 강화) 연구자와 연구기관의 성장을 뒷받침하는 정부 시스템,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-043,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-043,1,1,"☞ 연구개발 생태계를 구성하는 Player인 연구자와 연구기관, 그리고 이를 지원하는 정부까지 각각의 혁신을 위해 ❶연구자를 위한 연구몰입환경 구축, ❷연구기관을 위한 맞춤형 지원체계 마련, ❸정부의 투자 시스템 혁신 추진",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-044,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-044,1,1,Ⅱ. R&D 생태계 혁신 방향,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-045,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-045,1,1,Ⅲ. R&D 생태계 혁신 추진전략 및 과제,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-046,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-046,1,1,(전략 1) 도전창의적 연구에 몰입하는 환경 조성,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-047,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-047,1,3,과감한 도전을 가능케 하는 평가제도 혁신,layout_false_positive,single_row_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-048,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-048,4,2,구 분 | 예시(안),structured_table,hwpx_grid_table,yes,,CTBL-DOC-POL-005-009,reviewed,1차 heuristic seed. 구조표 후보로 유지.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-049,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-049,4,5,구 분 | 기존(AS-IS) | ➡ | 개선(TO-BE),structured_table,hwpx_matrix_table,yes,,CTBL-DOC-POL-005-010,reviewed,1차 heuristic seed. 구조표 후보로 유지.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-050,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-050,3,2,구 분 | 예시(안),review_required,hwpx_needs_manual_review,yes,,CTBL-DOC-POL-005-019,reviewed,평가 보상체계 개선 예시 표로 유지.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-051,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-051,1,3,연구 외의 일로 방해받지 않도록 행정부담 완화,layout_false_positive,single_row_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-052,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-052,1,1,"◇ 높은 불확실성으로 유연성이 요구되는 R&D 사업의 특성을 반영하지 못한 회계연도 일치제도*가 평가예산집행 등에서 연구흐름 저해 및 과도한 행정부담 야기
+* (~'16년) 정부가 연도 내 연구자에게 1년치 예산을 교부하면 회계연도 일치로 인정 → ('17년~) 재정효율화 측면(국회지적)에서 과제착수(협약) 시점부터 연말까지 예산만 편성
+⇒ R&D사업에 ",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-053,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-053,1,1,"‣ 배정집행, 과제 공모선정, 연도별 협약 등 연초에 집중된 행정절차로 연구자들은 3월 이후에야 순차적으로 연구비 활용 가능
+→ 비정규직 인건비 지급지연, 연구착수 지연 등의 사례 발생 (연구실 보릿고개)
+‣ 신규과제 선정평가(매년 2~3만개)가 연초에 집중되며, 행정업무 집중으로 인한 평가 실효성 저해 및 평가자 섭외가 제한되어 평가의 전문성공정성 ",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-054,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-054,1,1,"◇ 現 분리 운영 중인 연구지원시스템(IRIS, Ezbaro, RCMS)의 정보차이로 인한 연구행정 비효율과 관리자 중심의 시스템 운영방식으로 현장 불편 지속
+* 정부R&D 수행 연구자 869명 중 700명(80.6%)이 시스템 분리 운영에 따른 불편 호소
+⇒ 연구자 중심의 연구비시스템 개편, 유관 시스템(연구개발기관, 전담기관 등) 간 정보연계 확대, 연",layout_false_positive,front_matter_table,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-055,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-055,5,5,As-is | To-be,structured_table,hwpx_matrix_table,yes,,CTBL-DOC-POL-005-011,reviewed,1차 heuristic seed. 구조표 후보로 유지.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-056,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-056,6,2,이용자 편의 개선 방향 예시,structured_table,hwpx_grid_table,yes,,CTBL-DOC-POL-005-012,reviewed,1차 heuristic seed. 구조표 후보로 유지.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-057,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-057,1,3,연구 몰입과 성과 제고를 돕는 연구지원인력장비활용 인프라 확충,layout_false_positive,single_row_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-058,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-058,4,3,주체 | 역할 | 비고,review_required,hwpx_needs_manual_review,yes,,CTBL-DOC-POL-005-020,reviewed,연구장비 공동활용 역할 분담 표로 유지.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-059,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-059,9,5,ZEUS 2.0 | ZEUS 3.0,structured_table,hwpx_matrix_table,yes,,CTBL-DOC-POL-005-013,reviewed,1차 heuristic seed. 구조표 후보로 유지.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-060,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-060,5,3,구축비용 | 기존 | 개선,structured_table,hwpx_grid_table,yes,,CTBL-DOC-POL-005-014,reviewed,1차 heuristic seed. 구조표 후보로 유지.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-061,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-061,1,1,(전략 2) 출연연대학기업에 맞는 지원체계,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-062,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-062,1,3,국가경쟁력 도약의 임무를 선도하는 출연연 시대,layout_false_positive,single_row_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-063,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-063,1,1,"󰋻(기본연구사업) 기관 고유임무 달성을 위한 중장기 기본연구로서 일정 규모를 유지하여 안정적 장기연구 기획수행 보장
+※ 기관의 중장기 역량 확보, 국가거점으로서 정책지원 등 장기간 기능 유지 필요 분야, 우수연구자 유치 및 청년·여성 등 인재양성, 연구성과의 스케일업 등
+󰋻(전략연구사업) ①정부 등의 수요를 반영하여 ②임무 달성을 목표로 ③출연연이 자율적",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-064,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-064,1,3,자율과 특성화 기반 대학 연구 생태계 강화,layout_false_positive,single_row_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-065,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-065,1,1,◇ 충분한 연구역량과 인적자원을 갖춘 대학들은 연구 중심으로 운영될 수 있도록 대학단위 지원사업(블록펀딩) 등을 통해 연구기반 확보 지원,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-066,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-066,1,3,맞춤형 기업 지원으로 민간 혁신 활성화,layout_false_positive,single_row_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-067,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-067,8,2,구분 | 도입(안),structured_table,hwpx_grid_table,yes,,CTBL-DOC-POL-005-015,reviewed,1차 heuristic seed. 구조표 후보로 유지.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-068,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-068,1,1,"➊ (운영방향 협의) 국가전략기술(기재부·과기부)에 포함해야 할 신규기술 발생 시 부처 간 협업을 통해 동시 등재 가능성 검토
+➋ (제도 간 연계) 12대 국가전략기술(｢국가전략기술육성법｣) 중 민간 연구·투자 지원이 필요한 단계에 도달한 기술 등에 대해 ｢조특법｣ 국가전략기술 포함 필요성 검토",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-069,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-069,1,1,(전략 3) 연구자연구기관의 성장을 뒷받침하는 시스템,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-070,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-070,1,3,수요자 중심의 안정적이고 예측 가능한 정부 R&D 투자,layout_false_positive,front_matter_table,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-071,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-071,1,1,"◇ R&D의 적시성유연성 제고*를 위해 R&D 예타 제도를 폐지하고 R&D 특성에 맞는 맞춤형 사전점검체계로 전환
+* (예타) 기획~착수에 평균 4년 이상 소요, 예타 통과 후 사업추진도 경직적
+⇒ 1천억원 이상의 대규모 R&D는 연구형신속하면서도 내실있게 추진하고, 구축형현장수요 기반의 대형 연구 인프라를 체계적으로 구축",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-072,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-072,1,9,"사업군 및 점검단 구성
+(10월) | ➜ | 1차 회의
+(기획안 검토 및 쟁점도출)
+(11~12월) | ➜",layout_false_positive,small_hwpx_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-073,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-073,3,3,참고 | 예타제도 대비 심사제도 비교,review_required,hwpx_needs_manual_review,no,,,reviewed,비교표의 제목 박스 조각으로 판단. 본 표 데이터는 별도 후보를 사용.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-074,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-074,1,3,전문성효율성 중심 R&D 프로세스 고도화,layout_false_positive,single_row_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-075,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-075,1,1,"◇ R&D기획관리는 방대한 자료를 토대로 객관적합리적 정책 결정 필요
+⇒ 빅데이터 기반 R&D 특화 AI를 도입,
+R&D 프로세스 효율화 및 정책 결정의 투명성전문성공정성 확보",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-076,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-076,1,3,연구성과의 확산과 개발기술의 사업화 촉진,layout_false_positive,single_row_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-077,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-077,3,3,< AI 기반 성과 확산 플랫폼(Apollo) 개발(안) >,layout_false_positive,heading_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-078,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-078,1,1,,layout_false_positive,empty_table_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,0,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-079,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-079,1,1,Ⅳ. 추진체계 및 이행계획,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-080,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-080,1,1,"◇ ｢연구개발 생태계 혁신방안｣의 충실한 이행과 연구현장 착근을 위해 R&D를 수행하는 정부 부처 간 범부처 추진체계 구축 필요
+⇒ 범부처 이행점검조정과학기술관계장관회의 운영, 전문성기반 정책수립조정국가과학기술자문회의 기능강화를 통해 R&D 생태계 혁신 정책 실행력 강화",layout_false_positive,front_matter_table,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-081,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-081,1,3,참고1 | 추진과제별 소관 부처기관 및 일정,layout_false_positive,single_row_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-082,DOC-POL-005,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-005-082,118,7,추진전략 및 과제 | 소관 | 일정 | 제도 제·개정사항,structured_table,hwpx_matrix_table,yes,,CTBL-DOC-POL-005-016,reviewed,1차 heuristic seed. 구조표 후보로 유지.,0,TOP_AND_BOTTOM
+TRV-DOC-POL-005-JS-083,DOC-POL-005,hwpx,section6,pymupdf_find_tables,TBL-DOC-POL-005-083,3,2,"과학기술정보통신부
+과학기술정책국 과학기술전략과",review_required,hwpx_needs_manual_review,no,,,reviewed,담당부서 연락처 박스. 대시보드 표 데이터로 사용하지 않음.,1,TOP_AND_BOTTOM

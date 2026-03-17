@@ -1,0 +1,184 @@
+review_item_id,figure_id,document_id,title,doc_role,include_status,location,figure_type,extraction_method,extraction_confidence,has_source_bbox,generic_caption,caption,summary,asset_path,suggested_class,rationale,keep_for_dashboard,review_status,quality_status,reviewer_notes
+FRV-DOC-POL-002-001,FIG-DOC-POL-002-001,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 1056pixel, 세로 1433pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image1.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-002,FIG-DOC-POL-002-002,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 1050pixel, 세로 494pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image2.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-003,FIG-DOC-POL-002-003,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section3,image,hwpx-xml-parser,medium,0,0,,,work/02_structured-extraction/figures/assets/DOC-POL-002/image3.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,메타데이터 크기 미확인
+FRV-DOC-POL-002-004,FIG-DOC-POL-002-004,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 1050pixel, 세로 446pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image5.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-005,FIG-DOC-POL-002-005,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 1074pixel, 세로 455pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image6.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-006,FIG-DOC-POL-002-006,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP0000108c0001.bmp
+원본 그림의 크기: 가로 251pixel, 세로 128pixel",CLP0000108c0001.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image7.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-007,FIG-DOC-POL-002-007,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00000cc80001.bmp
+원본 그림의 크기: 가로 252pixel, 세로 168pixel",CLP00000cc80001.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image8.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-008,FIG-DOC-POL-002-008,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: EU 마크.png
+원본 그림의 크기: 가로 78pixel, 세로 55pixel",EU 마크.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image9.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-009,FIG-DOC-POL-002-009,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP0000108c01a8.bmp
+원본 그림의 크기: 가로 186pixel, 세로 102pixel",CLP0000108c01a8.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image10.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-010,FIG-DOC-POL-002-010,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00000cc8bcab.bmp
+원본 그림의 크기: 가로 250pixel, 세로 161pixel",CLP00000cc8bcab.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image11.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-011,FIG-DOC-POL-002-011,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000079180007.bmp
+원본 그림의 크기: 가로 115pixel, 세로 30pixel",CLP000079180007.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image12.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-012,FIG-DOC-POL-002-012,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000049740016.bmp
+원본 그림의 크기: 가로 438pixel, 세로 138pixel",CLP000049740016.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image13.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-013,FIG-DOC-POL-002-013,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00004974000b.bmp
+원본 그림의 크기: 가로 501pixel, 세로 387pixel",CLP00004974000b.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image14.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-014,FIG-DOC-POL-002-014,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000087340003.bmp
+원본 그림의 크기: 가로 122pixel, 세로 32pixel",CLP000087340003.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image15.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-015,FIG-DOC-POL-002-015,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000049740017.bmp
+원본 그림의 크기: 가로 313pixel, 세로 161pixel",CLP000049740017.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image16.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-016,FIG-DOC-POL-002-016,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000079180005.bmp
+원본 그림의 크기: 가로 310pixel, 세로 82pixel",CLP000079180005.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image17.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-017,FIG-DOC-POL-002-017,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000049740008.bmp
+원본 그림의 크기: 가로 1920pixel, 세로 1047pixel",CLP000049740008.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image18.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-018,FIG-DOC-POL-002-018,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000049740009.bmp
+원본 그림의 크기: 가로 1780pixel, 세로 325pixel",CLP000049740009.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image19.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-019,FIG-DOC-POL-002-019,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000049740011.bmp
+원본 그림의 크기: 가로 1920pixel, 세로 1005pixel",CLP000049740011.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image20.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-020,FIG-DOC-POL-002-020,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000087340002.bmp
+원본 그림의 크기: 가로 369pixel, 세로 94pixel",CLP000087340002.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image21.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-021,FIG-DOC-POL-002-021,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00004974000b.bmp
+원본 그림의 크기: 가로 501pixel, 세로 387pixel",CLP00004974000b.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image14.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,중복 추출 자산 경로
+FRV-DOC-POL-002-022,FIG-DOC-POL-002-022,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000087340001.bmp
+원본 그림의 크기: 가로 318pixel, 세로 77pixel",CLP000087340001.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image22.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-023,FIG-DOC-POL-002-023,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000049740013.bmp
+원본 그림의 크기: 가로 534pixel, 세로 94pixel",CLP000049740013.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image23.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-024,FIG-DOC-POL-002-024,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00003a100008.bmp
+원본 그림의 크기: 가로 960pixel, 세로 502pixel",CLP00003a100008.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image24.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-025,FIG-DOC-POL-002-025,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000079180001.bmp
+원본 그림의 크기: 가로 96pixel, 세로 28pixel",CLP000079180001.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image25.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-026,FIG-DOC-POL-002-026,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 넓은화살표new_2.png
+원본 그림의 크기: 가로 1092pixel, 세로 411pixel",넓은화살표new_2.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image26.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-027,FIG-DOC-POL-002-027,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 1056pixel, 세로 1433pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image1.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,중복 추출 자산 경로
+FRV-DOC-POL-002-028,FIG-DOC-POL-002-028,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 850pixel, 세로 280pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image27.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-029,FIG-DOC-POL-002-029,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 1475pixel, 세로 440pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image28.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-030,FIG-DOC-POL-002-030,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,그림입니다.,그림입니다.,work/02_structured-extraction/figures/assets/DOC-POL-002/image29.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,메타데이터 크기 미확인
+FRV-DOC-POL-002-031,FIG-DOC-POL-002-031,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,그림입니다.,그림입니다.,work/02_structured-extraction/figures/assets/DOC-POL-002/image30.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,메타데이터 크기 미확인
+FRV-DOC-POL-002-032,FIG-DOC-POL-002-032,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000009f801aa.bmp
+원본 그림의 크기: 가로 600pixel, 세로 298pixel",CLP000009f801aa.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image31.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-033,FIG-DOC-POL-002-033,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000093c80002.bmp
+원본 그림의 크기: 가로 315pixel, 세로 160pixel",CLP000093c80002.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image32.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-034,FIG-DOC-POL-002-034,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000058d8260e.bmp
+원본 그림의 크기: 가로 1400pixel, 세로 629pixel",CLP000058d8260e.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image33.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-035,FIG-DOC-POL-002-035,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 1062pixel, 세로 361pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image34.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-036,FIG-DOC-POL-002-036,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 1099pixel, 세로 452pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image35.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-037,FIG-DOC-POL-002-037,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 964pixel, 세로 304pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image36.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-038,FIG-DOC-POL-002-038,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00000f34083d.bmp
+원본 그림의 크기: 가로 622pixel, 세로 229pixel",CLP00000f34083d.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image37.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-039,FIG-DOC-POL-002-039,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 74pixel, 세로 74pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image38.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-040,FIG-DOC-POL-002-040,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000064e87615.bmp
+원본 그림의 크기: 가로 1500pixel, 세로 1000pixel",CLP000064e87615.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image39.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-041,FIG-DOC-POL-002-041,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 450pixel, 세로 112pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image40.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-042,FIG-DOC-POL-002-042,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: mem000064e80002.png
+원본 그림의 크기: 가로 1200pixel, 세로 600pixel
+프로그램 이름 : Adobe ImageReady",mem000064e80002.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image41.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-043,FIG-DOC-POL-002-043,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 74pixel, 세로 74pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image42.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-044,FIG-DOC-POL-002-044,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: mem000039b8bdf8.png
+원본 그림의 크기: 가로 250pixel, 세로 27pixel
+사진 찍은 날짜: 2024년 08월 23일 오후 11:21",mem000039b8bdf8.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image43.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-045,FIG-DOC-POL-002-045,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00007918b331.bmp
+원본 그림의 크기: 가로 436pixel, 세로 91pixel",CLP00007918b331.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image44.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-046,FIG-DOC-POL-002-046,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 520pixel, 세로 424pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image45.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-047,FIG-DOC-POL-002-047,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: mem000039b80001.png
+원본 그림의 크기: 가로 300pixel, 세로 180pixel",mem000039b80001.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image46.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-048,FIG-DOC-POL-002-048,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: mem000039b80004.png
+원본 그림의 크기: 가로 555pixel, 세로 330pixel",mem000039b80004.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image47.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-049,FIG-DOC-POL-002-049,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 71pixel, 세로 71pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image48.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-050,FIG-DOC-POL-002-050,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00002fac0002.bmp
+원본 그림의 크기: 가로 152pixel, 세로 62pixel",CLP00002fac0002.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image49.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-051,FIG-DOC-POL-002-051,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: mem000039b80007.png
+원본 그림의 크기: 가로 1200pixel, 세로 372pixel
+사진 찍은 날짜: 2024년 07월 22일 오후 2:38",mem000039b80007.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image50.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-052,FIG-DOC-POL-002-052,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 69pixel, 세로 69pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image51.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-053,FIG-DOC-POL-002-053,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000039b80004.bmp
+원본 그림의 크기: 가로 238pixel, 세로 112pixel",CLP000039b80004.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image52.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-054,FIG-DOC-POL-002-054,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000064e80002.bmp
+원본 그림의 크기: 가로 3840pixel, 세로 1097pixel",CLP000064e80002.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image53.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-055,FIG-DOC-POL-002-055,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 1050pixel, 세로 494pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image2.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,중복 추출 자산 경로
+FRV-DOC-POL-002-056,FIG-DOC-POL-002-056,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP0000108c0001.bmp
+원본 그림의 크기: 가로 251pixel, 세로 128pixel",CLP0000108c0001.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image7.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-057,FIG-DOC-POL-002-057,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP0000108c01a8.bmp
+원본 그림의 크기: 가로 186pixel, 세로 102pixel",CLP0000108c01a8.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image10.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-058,FIG-DOC-POL-002-058,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00000cc8bcab.bmp
+원본 그림의 크기: 가로 250pixel, 세로 161pixel",CLP00000cc8bcab.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image11.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-059,FIG-DOC-POL-002-059,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00000cc80001.bmp
+원본 그림의 크기: 가로 252pixel, 세로 168pixel",CLP00000cc80001.bmp,work/02_structured-extraction/figures/assets/DOC-POL-002/image8.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,저해상도/가로세로 비율이 작아 정보 밀도 낮음
+FRV-DOC-POL-002-060,FIG-DOC-POL-002-060,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 1068pixel, 세로 170pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image54.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-061,FIG-DOC-POL-002-061,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 1011pixel, 세로 175pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image55.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음
+FRV-DOC-POL-002-062,FIG-DOC-POL-002-062,DOC-POL-002,AI-바이오 국가전략,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 1105pixel, 세로 323pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-002/image56.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,자동규칙 통과: 해상도 충분 + 중복 없음

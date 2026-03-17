@@ -1,0 +1,87 @@
+review_item_id,document_id,source_format,page_no,candidate_source,candidate_id,rows,cols,preview_text,suggested_class,heuristic_reason,keep_for_dashboard,merge_group_hint,canonical_table_id,review_status,reviewer_notes,treat_as_char,text_wrap
+TRV-DOC-POL-013-JS-001,DOC-POL-013,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-013-001,1,1,,layout_false_positive,empty_table_box,no,,,review_required,,0,IN_FRONT_OF_TEXT
+TRV-DOC-POL-013-JS-002,DOC-POL-013,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-013-002,2,4,"의안번호 | 제 4 호 | 의결
+사항",layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-003,DOC-POL-013,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-013-003,1,1,"범부처 기술관리체계
+정비 및 협업 강화 방향(안)",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-004,DOC-POL-013,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-013-004,1,1,과학기술관계장관회의,layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-005,DOC-POL-013,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-013-005,3,5,제 출 자 | 재정경제부장관 | 구윤철 | 과학기술정보통신부장관,layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-006,DOC-POL-013,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-013-006,1,1,범부처 기술관리체계 정비 및 협업 강화 방향(안) (요약),layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-007,DOC-POL-013,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-013-007,1,1,Ⅰ. 추진 배경,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-008,DOC-POL-013,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-013-008,1,1,"◈ 기술패권 경쟁 대응을 위한 전략기술의 육성·보호체계 관련 선정‧개발‧활용 협업을 강화하여 정책 효과성 · 대국민 접근성 향상, 국가 역량 집중",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-009,DOC-POL-013,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-013-009,1,1,Ⅱ. 기술관리체계 현황,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-010,DOC-POL-013,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-013-010,5,3,기술명 | 법령/주무부처 | 목적 (현황),review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-011,DOC-POL-013,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-013-011,1,1,"☞ ‘기술패권 경쟁 대응’이라는 공동 목적 下 범부처 차원의 정책적 중요성, 대국민 영향력(혜택·의무)이 높은 4개 법령*(5개 체계) 內 513개 기술 대상 협업 우선 추진
+* 국가전략기술육성법, 조세특례제한법(국가전략기술, 신성장원천기술), 국가첨단전략산업법, 산업기술보호법",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-012,DOC-POL-013,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-013-012,1,1,Ⅲ. 연계·협업 강화 방향(안),layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-013,DOC-POL-013,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-013-013,1,1,1. 공통 기술분야 운영,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-014,DOC-POL-013,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-013-014,6,5,"국가전략기술
+육성법
+(국가전략기술) | 조세특례제한법
+(국가전략/
+신성장원천기술) | 국가첨단전략
+산업법
+(국가첨단전략기술)",structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-015,DOC-POL-013,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-013-015,1,1,2. 범부처 협업체계 강화,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-016,DOC-POL-013,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-013-016,1,1,"➊ 국가 기술관리체계의 큰 틀 : 부처 간 협의를 거쳐 과기장관회의에서 논의
+➋ ‘공통 기술분야’ 內 각 기술체계 운영 : 관계부처·기관이 참여하는 상설협의체 (실무WG)를 정기 개최 → 추가·변경 등 주요 운영계획, 협업방향 사전논의·공유
+➌ 체계별 분야·기술의 심의·확정 : 소관법령별 절차 및 심의기구에서 수행",layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-017,DOC-POL-013,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-013-017,1,1,3. 육성 또는 보호 대상에 대한 실질적 지원 강화,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-018,DOC-POL-013,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-013-018,1,1,Ⅳ. 향후 추진계획(안),layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-019,DOC-POL-013,hwpx,section4,pymupdf_find_tables,TBL-DOC-POL-013-019,7,1,"기술패권 경쟁 대응을 위한 국가 역량 집중
+범부처 기술관리체계
+정비 및 협업 강화 방향(안)",review_required,single_column_info_box,review,,,review_required,,0,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-020,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-020,1,1,Ⅰ. 추진 배경,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-021,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-021,6,3,기술명 | 법령/주무부처 | 목적 (현황),review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-022,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-022,1,1,"◈ 기술패권 경쟁 대응을 위한 전략기술의 육성·보호체계 관련 선정‧개발‧활용 협업을 강화하여 정책 효과성 · 대국민 접근성 향상, 국가 역량 집중",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-023,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-023,1,1,Ⅱ. 기술관리체계 현황,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-024,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-024,1,1,"☞ ‘기술패권 경쟁 대응’이라는 공동 목적 下 범부처 차원의 정책적 중요성, 대국민 영향력(혜택·의무)이 높은 4개 법령*(5개 체계) 內 513개 기술 대상 협업 우선 추진
+* 국가전략기술육성법, 조세특례제한법(국가전략기술, 신성장원천기술), 국가첨단전략산업법, 산업기술보호법",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-025,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-025,3,3,[참고 1] 기술관리체계 개요,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-026,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-026,1,1,Ⅲ. 연계·협업 강화 추진방향,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-027,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-027,1,1,1. ‘공통 기술분야’ 운영,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-028,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-028,1,1,"◈ 정부는 효율적 자원배분 및 체계적 관리를, 국민은 누구든지 기술관리체계의 혜택·의무를 쉽게 알 수 있는 ‘수요지향적 공통 기술분야’ 제시",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-029,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-029,1,2,"도출 과정
+(’26.1.~2.) | ▸범부처 기술관리체계 협업을 위한 관계부처·운영기관* Kick-Off 회의
+(1.8., 1.15. / 재경부, 과기정통부, 산업부, KISTEP, KIAT, KEIT, 조세재정연)
+→ 분석대상 체계(4개 법령, 5개 체계, 513개 기술) 및 ‘공통 기술분야’ 초안 도출
+▸‘공통 기술분야’별 관계부처·기관 및 산학연 전문",layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-030,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-030,6,5,"국가전략기술
+육성법
+(국가전략기술) | 조세특례제한법
+(국가전략/
+신성장원천기술) | 국가첨단전략
+산업법
+(국가첨단전략기술)",structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-031,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-031,1,1,,layout_false_positive,empty_table_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-032,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-032,3,3,[참고 2] 공통 기술분야(’26.2 기준),review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-033,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-033,1,1,2. 범부처 협업체계 강화,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-034,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-034,1,1,"◈ 장관급 회의체, 범부처·기관 상설협의체를 중심으로 지원 대상 · 검토 절차 연계 강화",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-035,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-035,4,4,구 분 | 예 시 | 역할 분담,structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-036,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-036,1,1,3. 육성·보호 대상에 대한 실질적 지원 강화,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-037,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-037,1,1,"◈ 선정된 기술에 대해서는 정책·투자를 강력하게 연계하고,
+누구든지 혜택·의무·대상을 쉽게 알 수 있도록 기술 코디네이팅 기능 강화",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-038,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-038,1,1,Ⅳ. 향후 추진 계획(안),layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-039,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-039,1,3,붙임 1 | 공통 기술분야·기술관리체계별 현황맵,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-040,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-040,1,1,"◈ 세부 범주별로 크기·색상을 통해 체계별 포함관계를 알기 쉽게 정리
+- 여러 체계에 공통적으로 포함된 기술의 경우, 색깔이 진할수록 교집합, 연할수록 합집합에 해당
+※ (예) 메모리반도체 중 DRAM : 국가전략기술(10나노급 목표)이 4개 체계의 교집합, 
+조특법, 첨단전략기술에 이어 국가핵심기술(30나노급)이 가장 적용범위가 넓음
+※ 체계별 포함관계 ",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-041,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-041,1,3,붙임 2 | 기술관리체계별 운영 현황,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-042,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-042,1,2,1 | <육성>「국가전략기술육성법」 국가전략기술 (과기정통부),layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-043,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-043,2,6,"반도체
+디스플레이 | 이차전지 | 첨단 모빌리티 | 차세대 원자력",layout_false_positive,small_hwpx_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-044,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-044,2,9,수요조사 | ➡ | 사전 검토 | ➡,layout_false_positive,small_hwpx_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-045,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-045,1,2,2 | <육성>「조세특례제한법」 국가전략기술·신성장원천기술 (재정경제부),layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-046,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-046,6,5,국가전략 | 반도체 | 이차전지 | 백신,structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-047,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-047,1,1,시설투자(%),layout_false_positive,single_cell_layout_box,no,,,review_required,,0,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-048,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-048,1,2,3 | <보호·육성>「국가첨단전략산업법」 국가첨단전략기술 (산업통상부),layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-049,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-049,1,6,반도체 | 디스플레이 | 이차전지 | 바이오,layout_false_positive,small_hwpx_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-050,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-050,2,9,수요조사 | ➡ | 사전 검토 | ➡,layout_false_positive,small_hwpx_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-051,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-051,1,2,4 | <보호>「산업기술보호법」 국가핵심기술 (산업통상부),layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-052,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-052,2,12,"반도체 | 디스플레이 | 전기전자
+(배터리 등) | 자동차·철도",layout_false_positive,small_hwpx_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-053,DOC-POL-013,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-013-053,2,7,수요조사 | ➡ | 사전 검토 | ➡,layout_false_positive,small_hwpx_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-013-JS-054,DOC-POL-013,hwpx,section9,pymupdf_find_tables,TBL-DOC-POL-013-054,5,2,"과학기술정보통신부 과학기술혁신본부
+과학기술정책국 전략기술육성과",review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM

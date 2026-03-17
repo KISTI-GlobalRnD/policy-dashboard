@@ -1,0 +1,208 @@
+{
+  "review_item_updates": {
+    "FRV-DOC-POL-010-001": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "문서 공통 태극마크 아이콘으로 정책 의미를 담는 figure가 아니라 제외."
+    },
+    "FRV-DOC-POL-010-002": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-003": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-004": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-005": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-006": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-007": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-008": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-009": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-010": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-011": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-012": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-013": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-014": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-015": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-016": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-017": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-018": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-019": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-020": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-021": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-022": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-023": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-024": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-025": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "출연연 기관 CI/logo로 정책 구조 정보가 없어 제외."
+    },
+    "FRV-DOC-POL-010-026": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "시대별 대표성과를 보여주는 사진 자료로 정책 구조 figure가 아니라 제외."
+    },
+    "FRV-DOC-POL-010-027": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "시대별 대표성과를 보여주는 사진 자료로 정책 구조 figure가 아니라 제외."
+    },
+    "FRV-DOC-POL-010-028": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "시대별 대표성과를 보여주는 사진 자료로 정책 구조 figure가 아니라 제외."
+    },
+    "FRV-DOC-POL-010-029": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "시대별 대표성과를 보여주는 사진 자료로 정책 구조 figure가 아니라 제외."
+    },
+    "FRV-DOC-POL-010-030": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "시대별 대표성과를 보여주는 사진 자료로 정책 구조 figure가 아니라 제외."
+    },
+    "FRV-DOC-POL-010-031": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "시대별 대표성과를 보여주는 사진 자료로 정책 구조 figure가 아니라 제외."
+    },
+    "FRV-DOC-POL-010-032": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "시대별 대표성과를 보여주는 사진 자료로 정책 구조 figure가 아니라 제외."
+    },
+    "FRV-DOC-POL-010-033": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "시대별 대표성과를 보여주는 사진 자료로 정책 구조 figure가 아니라 제외."
+    },
+    "FRV-DOC-POL-010-034": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "WMF 기반 장식성 자산으로 dashboard-ready figure로 쓰기 어려워 제외."
+    }
+  }
+}

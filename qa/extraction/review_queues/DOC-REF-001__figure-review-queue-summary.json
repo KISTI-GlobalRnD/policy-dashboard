@@ -1,0 +1,12 @@
+{
+  "document_id": "DOC-REF-001",
+  "review_item_count": 12,
+  "figure_type_counts": {
+    "pdf_page_image": 12
+  },
+  "suggested_class_counts": {
+    "support_render": 12
+  },
+  "generic_caption_count": 12,
+  "missing_bbox_count": 12
+}

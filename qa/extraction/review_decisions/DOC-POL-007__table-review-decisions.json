@@ -1,0 +1,742 @@
+{
+  "review_item_updates": {
+    "TRV-DOC-POL-007-JS-001": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-002": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-003": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-004": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-005": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-006": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-007": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-008": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-009": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "canonical_table_id": "CTBL-DOC-POL-007-001",
+      "reviewer_notes": "1차 heuristic seed. 구조표 후보로 유지."
+    },
+    "TRV-DOC-POL-007-JS-010": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-011": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-014": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-015": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-016": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-017": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-018": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-019": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-020": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-021": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-022": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-023": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-024": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-025": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-026": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-027": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-028": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-029": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-030": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-031": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-032": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-033": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-034": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-035": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-036": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-037": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-038": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-039": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-040": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-041": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-042": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-043": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-044": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-045": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-046": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-047": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-048": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-049": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-050": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-052": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-053": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-054": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-055": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-056": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-057": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-058": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-059": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-060": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-061": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-062": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-063": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-064": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-065": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-066": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-067": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "canonical_table_id": "CTBL-DOC-POL-007-002",
+      "reviewer_notes": "1차 heuristic seed. 구조표 후보로 유지."
+    },
+    "TRV-DOC-POL-007-JS-068": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-069": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-070": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "canonical_table_id": "CTBL-DOC-POL-007-003",
+      "reviewer_notes": "1차 heuristic seed. 구조표 후보로 유지."
+    },
+    "TRV-DOC-POL-007-JS-071": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "canonical_table_id": "CTBL-DOC-POL-007-004",
+      "reviewer_notes": "1차 heuristic seed. 구조표 후보로 유지."
+    },
+    "TRV-DOC-POL-007-JS-072": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-073": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-074": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-075": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-076": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-077": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "canonical_table_id": "CTBL-DOC-POL-007-005",
+      "reviewer_notes": "1차 heuristic seed. 구조표 후보로 유지."
+    },
+    "TRV-DOC-POL-007-JS-078": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-079": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-080": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-081": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "canonical_table_id": "CTBL-DOC-POL-007-006",
+      "reviewer_notes": "1차 heuristic seed. 구조표 후보로 유지."
+    },
+    "TRV-DOC-POL-007-JS-082": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-083": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-084": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-086": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "canonical_table_id": "CTBL-DOC-POL-007-007",
+      "reviewer_notes": "1차 heuristic seed. 구조표 후보로 유지."
+    },
+    "TRV-DOC-POL-007-JS-088": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-089": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-090": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-092": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-093": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-094": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-097": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-098": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-100": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-101": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-102": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-103": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-104": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-007-JS-105": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "canonical_table_id": "CTBL-DOC-POL-007-008",
+      "reviewer_notes": "1차 heuristic seed. 구조표 후보로 유지."
+    },
+    "TRV-DOC-POL-007-JS-106": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "canonical_table_id": "CTBL-DOC-POL-007-009",
+      "reviewer_notes": "1차 heuristic seed. 구조표 후보로 유지."
+    },
+    "TRV-DOC-POL-007-JS-012": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "투자지원 카드형 박스. 표보다 도식/설명 박스에 가까워 제외."
+    },
+    "TRV-DOC-POL-007-JS-013": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "표가 아니라 표지/메타데이터 박스 조각으로 판단."
+    },
+    "TRV-DOC-POL-007-JS-051": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "canonical_table_id": "CTBL-DOC-POL-007-010",
+      "reviewer_notes": "내부역량/외부환경 SWOT 매트릭스. 구조표로 유지."
+    },
+    "TRV-DOC-POL-007-JS-085": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "예산배분-연구개발 연결 도식. 표 데이터보다 다이어그램 성격이 강해 제외."
+    },
+    "TRV-DOC-POL-007-JS-087": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "canonical_table_id": "CTBL-DOC-POL-007-011",
+      "reviewer_notes": "3대 기본 추진 방향과 설명을 행 단위로 정리한 구조표."
+    },
+    "TRV-DOC-POL-007-JS-091": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "canonical_table_id": "CTBL-DOC-POL-007-012",
+      "reviewer_notes": "유형별 주요 지원내용 비교표로 판단."
+    },
+    "TRV-DOC-POL-007-JS-095": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "section2의 투자지원 카드 박스와 동일 계열. 표가 아니라 설명형 박스로 제외."
+    },
+    "TRV-DOC-POL-007-JS-096": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "canonical_table_id": "CTBL-DOC-POL-007-013",
+      "reviewer_notes": "금융지원 유형 비교표로 유지."
+    },
+    "TRV-DOC-POL-007-JS-099": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "canonical_table_id": "CTBL-DOC-POL-007-014",
+      "reviewer_notes": "AI반도체 인력양성 체계를 유형별로 정리한 구조표."
+    },
+    "TRV-DOC-POL-007-JS-107": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "담당부서 연락처 박스. 대시보드 표 데이터로 사용하지 않음."
+    },
+    "TRV-DOC-POL-007-JS-108": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "담당부서 연락처 박스. 대시보드 표 데이터로 사용하지 않음."
+    }
+  },
+  "canonical_tables": [
+    {
+      "canonical_table_id": "CTBL-DOC-POL-007-001",
+      "document_id": "DOC-POL-007",
+      "title_hint": "구분 / `25년 / `26년",
+      "page_start": "section2",
+      "page_end": "section2",
+      "preferred_candidate_source": "pymupdf_find_tables",
+      "preferred_candidate_id": "TBL-DOC-POL-007-009",
+      "canonical_status": "ready",
+      "dashboard_ready": "yes",
+      "source_review_item_ids": "TRV-DOC-POL-007-JS-009",
+      "notes": "1차 heuristic seed로 생성된 canonical table."
+    },
+    {
+      "canonical_table_id": "CTBL-DOC-POL-007-002",
+      "document_id": "DOC-POL-007",
+      "title_hint": "구분 / `25년 / `26년",
+      "page_start": "section8",
+      "page_end": "section8",
+      "preferred_candidate_source": "pymupdf_find_tables",
+      "preferred_candidate_id": "TBL-DOC-POL-007-067",
+      "canonical_status": "ready",
+      "dashboard_ready": "yes",
+      "source_review_item_ids": "TRV-DOC-POL-007-JS-067",
+      "notes": "1차 heuristic seed로 생성된 canonical table."
+    },
+    {
+      "canonical_table_id": "CTBL-DOC-POL-007-003",
+      "document_id": "DOC-POL-007",
+      "title_hint": "설계 SW / ⇨ / 제품 제작",
+      "page_start": "section8",
+      "page_end": "section8",
+      "preferred_candidate_source": "pymupdf_find_tables",
+      "preferred_candidate_id": "TBL-DOC-POL-007-070",
+      "canonical_status": "ready",
+      "dashboard_ready": "yes",
+      "source_review_item_ids": "TRV-DOC-POL-007-JS-070",
+      "notes": "1차 heuristic seed로 생성된 canonical table."
+    },
+    {
+      "canonical_table_id": "CTBL-DOC-POL-007-004",
+      "document_id": "DOC-POL-007",
+      "title_hint": "구 분 / 참여 기관(안)",
+      "page_start": "section8",
+      "page_end": "section8",
+      "preferred_candidate_source": "pymupdf_find_tables",
+      "preferred_candidate_id": "TBL-DOC-POL-007-071",
+      "canonical_status": "ready",
+      "dashboard_ready": "yes",
+      "source_review_item_ids": "TRV-DOC-POL-007-JS-071",
+      "notes": "1차 heuristic seed로 생성된 canonical table."
+    },
+    {
+      "canonical_table_id": "CTBL-DOC-POL-007-005",
+      "document_id": "DOC-POL-007",
+      "title_hint": "기업 / PIM R&D 개발 목표 / 해외 상용 온디바이스 AI반도체",
+      "page_start": "section8",
+      "page_end": "section8",
+      "preferred_candidate_source": "pymupdf_find_tables",
+      "preferred_candidate_id": "TBL-DOC-POL-007-077",
+      "canonical_status": "ready",
+      "dashboard_ready": "yes",
+      "source_review_item_ids": "TRV-DOC-POL-007-JS-077",
+      "notes": "1차 heuristic seed로 생성된 canonical table."
+    },
+    {
+      "canonical_table_id": "CTBL-DOC-POL-007-006",
+      "document_id": "DOC-POL-007",
+      "title_hint": "구분 / 1단계(’25~’27) / ⇒",
+      "page_start": "section8",
+      "page_end": "section8",
+      "preferred_candidate_source": "pymupdf_find_tables",
+      "preferred_candidate_id": "TBL-DOC-POL-007-081",
+      "canonical_status": "ready",
+      "dashboard_ready": "yes",
+      "source_review_item_ids": "TRV-DOC-POL-007-JS-081",
+      "notes": "1차 heuristic seed로 생성된 canonical table."
+    },
+    {
+      "canonical_table_id": "CTBL-DOC-POL-007-007",
+      "document_id": "DOC-POL-007",
+      "title_hint": "【 (예시) 광주 CCTV통합관제센터 AI서비스 실증 】",
+      "page_start": "section8",
+      "page_end": "section8",
+      "preferred_candidate_source": "pymupdf_find_tables",
+      "preferred_candidate_id": "TBL-DOC-POL-007-086",
+      "canonical_status": "ready",
+      "dashboard_ready": "yes",
+      "source_review_item_ids": "TRV-DOC-POL-007-JS-086",
+      "notes": "1차 heuristic seed로 생성된 canonical table."
+    },
+    {
+      "canonical_table_id": "CTBL-DOC-POL-007-008",
+      "document_id": "DOC-POL-007",
+      "title_hint": "세부 추진과제 / 주관 부처 (협조 부처) / 일정",
+      "page_start": "section8",
+      "page_end": "section8",
+      "preferred_candidate_source": "pymupdf_find_tables",
+      "preferred_candidate_id": "TBL-DOC-POL-007-105",
+      "canonical_status": "ready",
+      "dashboard_ready": "yes",
+      "source_review_item_ids": "TRV-DOC-POL-007-JS-105",
+      "notes": "1차 heuristic seed로 생성된 canonical table."
+    },
+    {
+      "canonical_table_id": "CTBL-DOC-POL-007-009",
+      "document_id": "DOC-POL-007",
+      "title_hint": "세부 추진과제 / 주관 부처 (협조 부처) / 일정",
+      "page_start": "section8",
+      "page_end": "section8",
+      "preferred_candidate_source": "pymupdf_find_tables",
+      "preferred_candidate_id": "TBL-DOC-POL-007-106",
+      "canonical_status": "ready",
+      "dashboard_ready": "yes",
+      "source_review_item_ids": "TRV-DOC-POL-007-JS-106",
+      "notes": "1차 heuristic seed로 생성된 canonical table."
+    },
+    {
+      "canonical_table_id": "CTBL-DOC-POL-007-010",
+      "document_id": "DOC-POL-007",
+      "title_hint": "AI반도체 산업 SWOT 분석",
+      "page_start": "section8",
+      "page_end": "section8",
+      "preferred_candidate_source": "pymupdf_find_tables",
+      "preferred_candidate_id": "TBL-DOC-POL-007-051",
+      "canonical_status": "ready",
+      "dashboard_ready": "yes",
+      "source_review_item_ids": "TRV-DOC-POL-007-JS-051",
+      "notes": "내부역량/외부환경을 강점·약점·기회·위협으로 정리한 표."
+    },
+    {
+      "canonical_table_id": "CTBL-DOC-POL-007-011",
+      "document_id": "DOC-POL-007",
+      "title_hint": "3대 기본 추진 방향",
+      "page_start": "section8",
+      "page_end": "section8",
+      "preferred_candidate_source": "pymupdf_find_tables",
+      "preferred_candidate_id": "TBL-DOC-POL-007-087",
+      "canonical_status": "ready",
+      "dashboard_ready": "yes",
+      "source_review_item_ids": "TRV-DOC-POL-007-JS-087",
+      "notes": "혁신 서비스 발굴, 에코시스템 구축, 유연한 실증환경을 행 단위로 정리한 표."
+    },
+    {
+      "canonical_table_id": "CTBL-DOC-POL-007-012",
+      "document_id": "DOC-POL-007",
+      "title_hint": "해외 진출 지원 유형별 주요 내용",
+      "page_start": "section8",
+      "page_end": "section8",
+      "preferred_candidate_source": "pymupdf_find_tables",
+      "preferred_candidate_id": "TBL-DOC-POL-007-091",
+      "canonical_status": "ready",
+      "dashboard_ready": "yes",
+      "source_review_item_ids": "TRV-DOC-POL-007-JS-091",
+      "notes": "초기 진출기업과 글로벌 성장기업 유형별 지원내용 비교표."
+    },
+    {
+      "canonical_table_id": "CTBL-DOC-POL-007-013",
+      "document_id": "DOC-POL-007",
+      "title_hint": "금융지원 유형 비교",
+      "page_start": "section8",
+      "page_end": "section8",
+      "preferred_candidate_source": "pymupdf_find_tables",
+      "preferred_candidate_id": "TBL-DOC-POL-007-096",
+      "canonical_status": "ready",
+      "dashboard_ready": "yes",
+      "source_review_item_ids": "TRV-DOC-POL-007-JS-096",
+      "notes": "계약 담보형과 IP평가 보증형의 내용 및 대상을 비교하는 표."
+    },
+    {
+      "canonical_table_id": "CTBL-DOC-POL-007-014",
+      "document_id": "DOC-POL-007",
+      "title_hint": "AI반도체 인력양성 체계",
+      "page_start": "section8",
+      "page_end": "section8",
+      "preferred_candidate_source": "pymupdf_find_tables",
+      "preferred_candidate_id": "TBL-DOC-POL-007-099",
+      "canonical_status": "ready",
+      "dashboard_ready": "yes",
+      "source_review_item_ids": "TRV-DOC-POL-007-JS-099",
+      "notes": "대학원 및 대학 유형별 인력양성 방향을 정리한 표."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "document_id": "DOC-BMK-002",
+  "review_item_count": 5,
+  "markdown_candidate_count": 5,
+  "json_candidate_count": 0,
+  "suggested_class_counts": {
+    "review_required": 2,
+    "structured_table": 3
+  }
+}

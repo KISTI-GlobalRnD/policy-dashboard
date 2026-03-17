@@ -1,0 +1,25 @@
+{
+  "review_item_updates": {
+    "TRV-DOC-CTX-008-MD-001": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "canonical_table_id": "CTBL-DOC-CTX-008-001",
+      "reviewer_notes": "차세대통신 분야의 대분류-중분류-기술 개요를 요약한 대표 표로 유지."
+    }
+  },
+  "canonical_tables": [
+    {
+      "canonical_table_id": "CTBL-DOC-CTX-008-001",
+      "document_id": "DOC-CTX-008",
+      "title_hint": "차세대통신 기술 분류 및 개요",
+      "page_start": 1,
+      "page_end": 1,
+      "preferred_candidate_source": "pymupdf4llm_markdown",
+      "preferred_candidate_id": "PAR-DOC-CTX-008-00003",
+      "canonical_status": "ready",
+      "dashboard_ready": "yes",
+      "source_review_item_ids": "TRV-DOC-CTX-008-MD-001",
+      "notes": "차세대 유무선통신, 위성통신, 네트워크 기반강화, 생태계 강화 하위 항목과 기술 개요를 정리한 표."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+paragraph_id,document_id,page_no,page_block_order,block_type,text,source_line_count,merged_block_count,normalization_actions,source_mode
+PAR-DOC-POL-003-00001,DOC-POL-003,section0,1,heading,Ⅰ. 의결주문,1,1,,hwpx
+PAR-DOC-POL-003-00002,DOC-POL-003,section0,2,bullet,ㅇ 「제조AX (M.AX) 추진방향(안)」을 별지와 같이 의결함,1,1,,hwpx
+PAR-DOC-POL-003-00003,DOC-POL-003,section0,3,heading,Ⅱ. 제안이유,1,1,,hwpx
+PAR-DOC-POL-003-00004,DOC-POL-003,section0,4,bullet,ㅇ 인공지능을 활용하여 우리 제조업의 DNA를 근본적으로 혁신하는 ‘제조AX(M.AX)’를 정책을 시행하고자 관련 추진 방향을 수립함,1,1,,hwpx
+PAR-DOC-POL-003-00005,DOC-POL-003,section0,5,heading,Ⅲ. 주요 내용,1,1,,hwpx
+PAR-DOC-POL-003-00006,DOC-POL-003,section0,6,bullet,□ 추진 배경,1,1,,hwpx
+PAR-DOC-POL-003-00007,DOC-POL-003,section0,7,bullet,"ㅇ 대내외 복합 위기에 처한 우리 제조업의 혁신이 시급한 시점에서, 풍부한 제조데이터 등 우리의 여건을 십분 활용하여 제조AX 추진",1,1,,hwpx
+PAR-DOC-POL-003-00008,DOC-POL-003,section0,8,bullet,□ 제조AX 3대 전략,1,1,,hwpx
+PAR-DOC-POL-003-00009,DOC-POL-003,section0,9,bullet,□ 3대 전략별 추진과제,1,1,,hwpx
+PAR-DOC-POL-003-00010,DOC-POL-003,section0,10,bullet,"ㅇ 1,000여개 산·학·연이 결집한 「M.AX 얼라이언스」를 중심으로, 데이터 공유부터 제품 개발까지 제조AX 全과정의 혁신 생태계 조성",1,1,,hwpx
+PAR-DOC-POL-003-00011,DOC-POL-003,section0,11,bullet,"ㅇ ｢AI 팩토리 선도사업｣(’30년까지 500개 구축)으로 ‘高품질 제조데이터’를 대량 확보하고, 이를 바탕으로 업종별 특화 제조 AI 모델 개발·확산",1,1,,hwpx
+PAR-DOC-POL-003-00012,DOC-POL-003,section0,12,bullet,"ㅇ 자동차 등 제조업 3대 주력 산업을 중심으로 제품+AI 융합을 집중 지원하고, AI 기술을 휴머노이드 등 미래 신산업으로도 확산",1,1,,hwpx
+PAR-DOC-POL-003-00013,DOC-POL-003,section0,13,note,"※ 정부는 자금, 인프라, 규제 개선 등 가용한 정책 수단을 총력 지원",1,1,,hwpx
+PAR-DOC-POL-003-00014,DOC-POL-003,section2,1,bullet,□ 대내외 복합적인 위기에 처한 우리 제조업의 혁신이 시급,1,1,,hwpx
+PAR-DOC-POL-003-00015,DOC-POL-003,section2,2,note,"* (대내) 생산가능인구 감소 / 노동생산성 하락(시간당, $ : (獨) 88.0, (美) 87.6, (韓) 49.4)",1,1,,hwpx
+PAR-DOC-POL-003-00016,DOC-POL-003,section2,3,note,* (대외) 중국의 위협(제조업경쟁력) / 미국 관세 등 자국산업 보호주의 확산,1,1,,hwpx
+PAR-DOC-POL-003-00017,DOC-POL-003,section2,4,bullet,□ 미래 산업 패권의 핵심인 제조업+AI 융합에 기업·국가간 경쟁 격화,1,1,,hwpx
+PAR-DOC-POL-003-00018,DOC-POL-003,section2,5,note,"* (기업) (테슬라) 제조공정 휴머노이드 투입, (샤오미) 24시간 무인공장 운영",1,1,,hwpx
+PAR-DOC-POL-003-00019,DOC-POL-003,section2,6,note,"* (국가) (美) 보조금·관세로 AI 기반 공장 유치, (中) 정부 주도 제조 AI 지원",1,1,,hwpx
+PAR-DOC-POL-003-00020,DOC-POL-003,section2,7,bullet,□ 제조AX의 최적 여건에도 불구하고 현장 확산은 기대보다 미흡,1,1,,hwpx
+PAR-DOC-POL-003-00021,DOC-POL-003,section2,8,note,* (여건) 세계적 제조기업과 숙련 노동자 및 양질의 제조 데이터 등 강점 보유,1,1,,hwpx
+PAR-DOC-POL-003-00022,DOC-POL-003,section2,9,note,"* (현황) 글로벌 수준의 제조 AI 기업이 없고, 이종산업(HW-SW)간 협력이 미진",1,1,,hwpx
+PAR-DOC-POL-003-00023,DOC-POL-003,section2,10,bullet,□ 제조AX 최강국을 달성하기 위해 3대 전략 목표를 수립,1,1,,hwpx
+PAR-DOC-POL-003-00024,DOC-POL-003,section2,11,bullet,□ 목표를 이행하기 위한 민간 주도 추진체계로 M.AX 얼라이언스 가동,1,1,,hwpx
+PAR-DOC-POL-003-00025,DOC-POL-003,section2,12,bullet,"□ 제조AX는 데이터-AI-HW의 결합이 필수적이나, 개별 기업 역량만으로 한계*가 있어 기업·업종 경계를 넘는 협업 생태계 구축 필수",1,1,,hwpx
+PAR-DOC-POL-003-00026,DOC-POL-003,section2,13,note,"* 예) 제조기업은 AI 전문인력·기술이 부족하고, AI 기업은 제조 현장을 모름",1,1,,hwpx
+PAR-DOC-POL-003-00027,DOC-POL-003,section2,14,bullet,"□ 1,000여개 산·학·연이 결집한 「M.AX 얼라이언스」를 중심으로, 데이터 공유부터 제품 개발까지 제조AX 全과정의 혁신 생태계 조성",1,1,,hwpx
+PAR-DOC-POL-003-00028,DOC-POL-003,section2,15,bullet,"ㅇ AI모델-HW-AI 활용제품 개발 등 각 얼라이언스내 협업과 함께, 온디바이스 AI반도체*, 표준 등 산업 공통 과제는 全얼라이언스 연대",1,1,,hwpx
+PAR-DOC-POL-003-00029,DOC-POL-003,section2,16,note,"* 반도체, 휴머노이드, 자동차, 방산 등 얼라이언스가 협업하여 개발 추진",1,1,,hwpx
+PAR-DOC-POL-003-00030,DOC-POL-003,section2,17,bullet,□ 핵심 프로젝트로 ｢AI 팩토리 선도사업*｣을 추진(’30년까지 500개 구축),1,1,,hwpx
+PAR-DOC-POL-003-00031,DOC-POL-003,section2,18,note,* (의의) 기계·로봇 등에 AI를 결합하여 제조생산성을 획기적으로 높이는 사업 (현황) 삼성전자·현대차·HD현대 등 대표 제조기업들과 102개 선도사업 추진중,2,1,split_multiline_structured_block,hwpx
+PAR-DOC-POL-003-00032,DOC-POL-003,section2,19,bullet,"ㅇ 우리만의 강점인 ‘高품질 제조 데이터’를 대량 확보, 이를 바탕으로 업종 내 범용 활용 가능한 업종별 특화 제조 AI 모델 개발·확산",1,1,,hwpx
+PAR-DOC-POL-003-00033,DOC-POL-003,section2,20,bullet,□ 유통·디자인 등 제조공정 전·후방 파급효과가 큰 분야까지 AI 도입,1,1,,hwpx
+PAR-DOC-POL-003-00034,DOC-POL-003,section2,21,bullet,"□ 제품+AI 융합을 통한 혁신은 선택이 아닌 생존의 문제*로, 이를 통해 새로운 가치를 창출해야 우리 산업의 글로벌 경쟁 우위 확보 가능",1,1,,hwpx
+PAR-DOC-POL-003-00035,DOC-POL-003,section2,22,note,* “AI를 도입하지 않는 기업은 도태될 것이다. 뛰어야 한다.” (엔비디아 젠슨황),1,1,,hwpx
+PAR-DOC-POL-003-00036,DOC-POL-003,section2,23,bullet,"□ 먼저, 우리 제조업 3대 주력 산업을 중심으로 정책 역량을 집중하여 산업 포트폴리오를 획기적으로 고도화하고 주력 제품 패러다임 전환",1,1,,hwpx
+PAR-DOC-POL-003-00037,DOC-POL-003,section2,24,bullet,ㅇ (자율주행차) 3대 핵심 기술 분야*에 대한 대규모 R&D와 펀드 등자금지원으로 자율주행차 SDV(Software Defined Vehicle) 전환 가속화,1,1,,hwpx
+PAR-DOC-POL-003-00038,DOC-POL-003,section2,25,note,"* 소프트웨어중심차, 자율주행 AI 모델, 차량용 반도체",1,1,,hwpx
+PAR-DOC-POL-003-00039,DOC-POL-003,section2,26,bullet,"ㅇ (자율운항선박) AI 완전자율운항선박 핵심기술 개발*과 실증·운항 데이터 확보를 추진하고, 테스트베드를 조성하여 맞춤형 규제 완화",1,1,,hwpx
+PAR-DOC-POL-003-00040,DOC-POL-003,section2,27,note,"* 6,000억원 규모 대형 R&D 추진(‘25.11월 예타면제 완료, '26∼'32)",1,1,,hwpx
+PAR-DOC-POL-003-00041,DOC-POL-003,section2,28,bullet,"ㅇ (가전·전자) 온디바이스 AI 기반 AI 가전 등 미래 시장을 주도할 킬러 제품을 육성하고, 핵심 센서 등 자립화로 안정적 공급망 확보",1,1,,hwpx
+PAR-DOC-POL-003-00042,DOC-POL-003,section2,29,note,"* 사용자 데이터셋 확보 및 기업 공동활용, 핵심부품·SW 국산화 및 실증 등",1,1,,hwpx
+PAR-DOC-POL-003-00043,DOC-POL-003,section2,30,bullet,□ 주력산업에서 파생·검증된 AI 기술을 휴머노이드 등 유사한 기술 구조를 가진 미래 신산업으로 확산하여 산업 전반의 혁신 가속화,1,1,,hwpx
+PAR-DOC-POL-003-00044,DOC-POL-003,section2,31,note,* 예) 테슬라가 자율주행차(FSD)에서 개발한 비전 AI를 휴머노이드(옵티머스)에 이식,1,1,,hwpx
+PAR-DOC-POL-003-00045,DOC-POL-003,section2,32,bullet,"ㅇ (휴머노이드) 산업 현장과 연계한 휴머노이드 개발 프로젝트를 확대하고, 실증 지원 인프라를 확충하여 안전 인증·표준 마련",1,1,,hwpx
+PAR-DOC-POL-003-00046,DOC-POL-003,section2,33,note,"* 물류·재난 분야 등 휴머노이드 플랫폼·솔루션, AI 휴머노이드 혁신센터 구축",1,1,,hwpx
+PAR-DOC-POL-003-00047,DOC-POL-003,section2,34,bullet,ㅇ (방산) 드론 등 민군 협력 R&D·실증으로 AI 방산 기술을 확보,1,1,,hwpx
+PAR-DOC-POL-003-00048,DOC-POL-003,section2,35,note,"* 「AI 방산 융합로드맵」 마련, 드론 등 新무기 AI 실증기반 구축 등",1,1,,hwpx
+PAR-DOC-POL-003-00049,DOC-POL-003,section2,36,bullet,ㅇ (바이오) 임상 진입 단축 AI 모델 개발 및 AI 제조장비 국산화,1,1,,hwpx
+PAR-DOC-POL-003-00050,DOC-POL-003,section2,37,bullet,"□ 주력업종을 중심으로, 제조AX의 성패를 좌우할 K-온디바이스 AI 반도체를 개발(1조원 규모, ’26~‘30)하여 우리의 기술 주권을 확보",1,1,,hwpx
+PAR-DOC-POL-003-00051,DOC-POL-003,section2,38,note,* 자동차 ‧로봇 등 수요기업이 국내 팹리스와 맞춤형 AI반도체‧SW 공동개발,1,1,,hwpx
+PAR-DOC-POL-003-00052,DOC-POL-003,section2,39,bullet,ㅇ AI 반도체 全주기 개발을 지원할‘판교 K-팹리스 밸리’를 조성,1,1,,hwpx
+PAR-DOC-POL-003-00053,DOC-POL-003,section2,40,note,"* AI 팹리스용 설계 툴 추가 구축, 검증지원센터 및 팹리스 첨단장비 지원 등",1,1,,hwpx
+PAR-DOC-POL-003-00054,DOC-POL-003,section2,41,bullet,"□ 정부는 자금, 인프라, 규제 개선 등 가용한 정책 수단을 총력 지원",1,1,,hwpx
+PAR-DOC-POL-003-00055,DOC-POL-003,section2,42,bullet,"ㅇ 제조 공정·제품 전반의 AI융합을 위한 창의적 혁신 활동에 정부 예산과 대규모 모험자본을 공급하고, 인재·인프라 등 기반도 조성",1,1,,hwpx
+PAR-DOC-POL-003-00056,DOC-POL-003,section2,43,bullet,ㅇ 과거에 묶여 신기술 도입 및 혁신의 장애물로 작용하는 규제 개선,1,1,,hwpx
+PAR-DOC-POL-003-00057,DOC-POL-003,section2,44,note,"* 예) 휴머노이드 산업현장 도입을 위한 데이터 확보차원 실증 허용(’25.9월), 인증소요기간 단축 등 실외이동로봇 운행 인증절차 일부 간소화(‘25.9월)",1,1,,hwpx
+PAR-DOC-POL-003-00058,DOC-POL-003,section2,45,bullet,ㅇ 산·학·연 현장 의견수렴을 통한 분야별 맞춤형 지원방안 고도화,1,1,,hwpx
+PAR-DOC-POL-003-00059,DOC-POL-003,section2,46,bullet,ㅇ M.AX 얼라이언스 중심 상시적 제도개선 과제 발굴 및 신속 개선,1,1,,hwpx
+PAR-DOC-POL-003-00060,DOC-POL-003,section2,47,bullet,ㅇ ｢AI 팩토리 선도사업*｣을 통해 ’30년까지 500개 AI 팩토리 구축,1,1,,hwpx
+PAR-DOC-POL-003-00061,DOC-POL-003,section2,48,note,* (의의) 기계·로봇 등에 AI를 결합하여 제조생산성을 획기적으로 높이는 사업 (현황) 삼성전자·현대차·HD현대 등 대표 제조기업들과 102개 선도사업 추진중,2,1,split_multiline_structured_block,hwpx
+PAR-DOC-POL-003-00062,DOC-POL-003,section2,49,bullet,"- AX 파급효과, 고품질 데이터 확보 등을 고려해 업종별 대표기업 중심으로 지원하여 효과적인 제조 생산성 향상 도모",1,1,,hwpx
+PAR-DOC-POL-003-00063,DOC-POL-003,section2,50,bullet,- 공급망 내 대·중·소 기업 공동 활용 AI 개발 과제도 지원,1,1,,hwpx
+PAR-DOC-POL-003-00064,DOC-POL-003,section2,51,heading,< 대·중·소 기업 공동 활용 AI 예시 >,1,1,,hwpx
+PAR-DOC-POL-003-00065,DOC-POL-003,section2,52,bullet,ㅇ 업종별 특화 제조 AI 모델 개발을 통한 제조 AI 본격 확산,1,1,,hwpx
+PAR-DOC-POL-003-00066,DOC-POL-003,section2,53,bullet,- 다양한 기업·현장 데이터(선도사업 등에서 발생)를 학습하여 업종 내 범용으로 활용이 가능한 업종별 특화 제조 AI 모델 개발·확산,1,1,,hwpx
+PAR-DOC-POL-003-00067,DOC-POL-003,section2,54,note,* ’25년 말까지 제조 AI 모델 개발 전문가그룹 구성 및 개발 착수,1,1,,hwpx
+PAR-DOC-POL-003-00068,DOC-POL-003,section2,55,bullet,ㅇ 제조AX 기반을 조성하기 위해 업종별로 시급성을 고려하여 6개 분야* AI 산업 융합 표준 개발 및 보급(’26~),1,1,,hwpx
+PAR-DOC-POL-003-00069,DOC-POL-003,section2,56,note,"* ① 자율제조, ② 자율주행, ③ 자율운항선박, ④ 로봇, ⑤ 드론, ⑥ 가전",1,1,,hwpx
+PAR-DOC-POL-003-00070,DOC-POL-003,section2,57,bullet,ㅇ 디자인 全 주기*에 필요한 AI 기술개발 및 서비스 제공,1,1,,hwpx
+PAR-DOC-POL-003-00071,DOC-POL-003,section2,58,note,* ① 기획 → ② 컨셉 디자인 → ③ 상세 디자인 → ④ 검증평가 및 생산 연동,1,1,,hwpx
+PAR-DOC-POL-003-00072,DOC-POL-003,section2,59,bullet,ㅇ 유통･물류 AX 과제 중 성공 시 파급효과가 크고 확산 가능성이 높은 과제를 단기과제로 우선 추진,1,1,,hwpx
+PAR-DOC-POL-003-00073,DOC-POL-003,section2,60,heading,< 우선 추진 과제(안) >,1,1,,hwpx
+PAR-DOC-POL-003-00074,DOC-POL-003,section2,61,bullet,ㅇ 유통･물류 현장 로봇 도입･활용 확대를 위한 기반 마련,1,1,,hwpx
+PAR-DOC-POL-003-00075,DOC-POL-003,section2,62,bullet,- 중소유통물류센터 내 HRIHuman Robot Interaction 실증 테스트베드를 구축*하여 자율이동로봇 등 AI 물류 로봇 도입을 위한 실증 데이터 수집,1,1,,hwpx
+PAR-DOC-POL-003-00076,DOC-POL-003,section2,63,note,* 첨단 글로벌 유통물류를 위한 AI 활용기술 실증기반 구축사업(’24∼‘28),1,1,,hwpx
+PAR-DOC-POL-003-00077,DOC-POL-003,section2,64,bullet,- 유통‧물류 현장에서 로봇 도입‧활용 시 필요한 가이드라인* 마련,1,1,,hwpx
+PAR-DOC-POL-003-00078,DOC-POL-003,section2,65,note,"* 예) 물류로봇 운영 시 위험 요소 평가, 예방 대책, 사고원인분석 방안 등",1,1,,hwpx
+PAR-DOC-POL-003-00079,DOC-POL-003,section2,66,bullet,ㅇ 자율주행차의 3대 핵심 기술인 ➊소프트웨어중심차(SDV)·➋자율주행AI 모델·➌車반도체 분야 대규모 R&D 추진,1,1,,hwpx
+PAR-DOC-POL-003-00080,DOC-POL-003,section2,67,note,"* ① SDV 양산 플랫폼(’25∼‘28, 190억원), ② E2E 자율주행(’25∼‘29, 270억원),",1,1,,hwpx
+PAR-DOC-POL-003-00081,DOC-POL-003,section2,68,heading,"③ AI가속기·AP, 통신반도체 개발(‘25∼’28, 580억) 등",1,1,,hwpx
+PAR-DOC-POL-003-00082,DOC-POL-003,section2,69,bullet,ㅇ 미래차 섹터펀드를 조성·운영하여 민간투자 마중물 공급,1,1,,hwpx
+PAR-DOC-POL-003-00083,DOC-POL-003,section2,70,note,"* 산업부 산업기술혁신펀드(총 3,700억원 규모) 內 500억 기조성(’25.5월)",1,1,,hwpx
+PAR-DOC-POL-003-00084,DOC-POL-003,section2,71,bullet,ㅇ 업계 수요가 높은 규제개선 과제* 우선 해결(~'26),1,1,,hwpx
+PAR-DOC-POL-003-00085,DOC-POL-003,section2,72,note,"* 예) ▴원본 영상데이터 활용, ▴임시운행 제한구역 완화, ▴자율주행 시범 운행지구 확대",1,1,,hwpx
+PAR-DOC-POL-003-00086,DOC-POL-003,section2,73,bullet,ㅇ 현장 연계 휴머노이드 개발 프로젝트 확대(’25년 10개 → ’26년 25개),1,1,,hwpx
+PAR-DOC-POL-003-00087,DOC-POL-003,section2,74,note,* ’25년 가전·조선·유통 등 10개 과제 → ’26년 자동차·철강 등 5개 이상 신규 추진,1,1,,hwpx
+PAR-DOC-POL-003-00088,DOC-POL-003,section2,75,bullet,"- AI기업, 로봇기업, 수요기업 등이 협력하는 공동개발 과제 지원",1,1,,hwpx
+PAR-DOC-POL-003-00089,DOC-POL-003,section2,76,bullet,- 물류·재난구조·농업 등 9대 분야 휴머노이드 플랫폼·솔루션 개발,1,1,,hwpx
+PAR-DOC-POL-003-00090,DOC-POL-003,section2,77,bullet,ㅇ AI 휴머노이드 로봇 기술혁신센터* 등 개발·실증 지원 인프라 확충,1,1,,hwpx
+PAR-DOC-POL-003-00091,DOC-POL-003,section2,78,note,"* (사업규모) ’25∼’29 5년간 총사업비 160억원(국비 100억원), (위치) 서울대",1,1,,hwpx
+PAR-DOC-POL-003-00092,DOC-POL-003,section2,79,bullet,ㅇ 휴머노이드 현장 실증결과*를 바탕으로 안전 인증·표준 마련(~'28),1,1,,hwpx
+PAR-DOC-POL-003-00093,DOC-POL-003,section2,80,note,* 제조현장 휴머노이드 활용을 위한 규제샌드박스 추진중(’25.9∼),1,1,,hwpx
+PAR-DOC-POL-003-00094,DOC-POL-003,section2,81,bullet,"ㅇ 국제해사기구(IMO) Lv.4* 수준으로 AI완전자율운항 핵심기술 개발('26~'32, 6,000억원(‘25.11월 예타면제))",1,1,,hwpx
+PAR-DOC-POL-003-00095,DOC-POL-003,section2,82,note,* Lv.1(운항보조) → Lv.2(원격제어) → Lv.3(원격제어+선원 미승선) → Lv.4(완전 자율운항),1,1,,hwpx
+PAR-DOC-POL-003-00096,DOC-POL-003,section2,83,bullet,- 산업부-해수부가 원팀을 이뤄 AI자율운항선박 초격차기술 확보*,1,1,,hwpx
+PAR-DOC-POL-003-00097,DOC-POL-003,section2,84,note,* 산업부-해수부 공동 ‘자율운항 M.AX 얼라이언스’ 전략회의(장관급) 개최(‘25.12),1,1,,hwpx
+PAR-DOC-POL-003-00098,DOC-POL-003,section2,85,bullet,"ㅇ 1단계 R&D('20~'25, 1,603억원)에서 개발한 자율운항 시스템을 국내 연안선에 탑재하여 대규모 실증·운항 데이터 확보('26~'29, 300억원)",1,1,,hwpx
+PAR-DOC-POL-003-00099,DOC-POL-003,section2,86,bullet,"- 세계 최대수준 실증 데이터 축적하여, 이를 기반으로 IMO 표준 선점",1,1,,hwpx
+PAR-DOC-POL-003-00100,DOC-POL-003,section2,87,note,* IMO는 ‘30∼‘32년 자율운항 국제표준 제정 예정,1,1,,hwpx
+PAR-DOC-POL-003-00101,DOC-POL-003,section2,88,bullet,ㅇ 자율운항선박 테스트베드를 조성하고 맞춤형으로 규제 완화*,1,1,,hwpx
+PAR-DOC-POL-003-00102,DOC-POL-003,section2,89,note,"* 예) ｢선박안전법｣ 선박시설 기준, ｢선박직원법｣ 승무정원 등 면제 특례 적용",1,1,,hwpx
+PAR-DOC-POL-003-00103,DOC-POL-003,section2,90,bullet,- 자율운항선박법('25.1 시행)상 운항해역 지정*('25년) 및 규제 특례,1,1,,hwpx
+PAR-DOC-POL-003-00104,DOC-POL-003,section2,91,note,"* 울산시, 울산항 앞 해역 신청(‘25.5) → 금년내 해수부 최종공고 예정",1,1,,hwpx
+PAR-DOC-POL-003-00105,DOC-POL-003,section2,92,bullet,ㅇ AI가전의 상용화 지원(‘AX 스프린트 사업’ 활용)을 통한 신속한 시장 출시,1,1,,hwpx
+PAR-DOC-POL-003-00106,DOC-POL-003,section2,93,bullet,ㅇ AI가전 개발을 위한 사용자 데이터 확보·정제 및 기업 공동활용,1,1,,hwpx
+PAR-DOC-POL-003-00107,DOC-POL-003,section2,94,note,"* 지능형 홈케어 데이터 수집·서비스 개발 기반구축: ‘23∼‘27, 총 169억원",1,1,,hwpx
+PAR-DOC-POL-003-00108,DOC-POL-003,section2,95,note,"* IoT가전 빅데이터활용 지원사업: ‘19∼계속, 133억원(’19∼‘25년간)",1,1,,hwpx
+PAR-DOC-POL-003-00109,DOC-POL-003,section2,96,bullet,ㅇ AI가전의 글로벌 시장진출 촉진을 위한 표준·인증제 마련('26~),1,1,,hwpx
+PAR-DOC-POL-003-00110,DOC-POL-003,section2,97,bullet,ㅇ AX전환을 위한 가전용 센서 등 핵심부품·SW 국산화 및 실증('26~),1,1,,hwpx
+PAR-DOC-POL-003-00111,DOC-POL-003,section2,98,note,"* 가전산업 AX전환을 위한 핵심모듈 및 제품화 기술개발: ’26∼‘30, 국비 283억원",1,1,,hwpx
+PAR-DOC-POL-003-00112,DOC-POL-003,section2,99,note,"* 스마트전자 AX전환을 위한 AI기반구축 및 실증지원: ‘26∼’30, 국비 100억원",1,1,,hwpx
+PAR-DOC-POL-003-00113,DOC-POL-003,section2,100,heading,< AI 가전 품목 예시 >,1,1,,hwpx
+PAR-DOC-POL-003-00114,DOC-POL-003,section2,101,bullet,ㅇ AI와 방산의 융합에 포커스를 맞춘 기술개발 수요 발굴,1,1,,hwpx
+PAR-DOC-POL-003-00115,DOC-POL-003,section2,102,bullet,- 민군겸용 기술협력사업*을 AI방산 기술개발 과제 중심으로 확대,1,1,,hwpx
+PAR-DOC-POL-003-00116,DOC-POL-003,section2,103,note,"* 민군기술협력사업 전체 투자현황(산업부) : (’25)1,134억(194억) → (’26)1,270억(190억)",1,1,,hwpx
+PAR-DOC-POL-003-00117,DOC-POL-003,section2,104,bullet,- 「AI 방산 융합로드맵」 마련으로 민군 공동 필요 하는 기술개발,1,1,,hwpx
+PAR-DOC-POL-003-00118,DOC-POL-003,section2,105,bullet,ㅇ 발굴된 수요 중 단기간에 AI 방산 융합 성과 창출이 가능한 분야를 대상으로 실증 사업 연계,1,1,,hwpx
+PAR-DOC-POL-003-00119,DOC-POL-003,section2,106,bullet,"- 군과의 협업을 통해 AX Sprint 사업 추진 및 드론 등 新무기의 embodied AI 실증 기반 구축(군은 부지 제공, 산업부는 실증시험장 구축)",1,1,,hwpx
+PAR-DOC-POL-003-00120,DOC-POL-003,section2,107,bullet,ㅇ 방산 수출기업 경쟁력 제고를 위해 수출 중인 무기체계에 AI 적용‧시스템 융합 등 ‘수출형 AI 방산 기술 개발’ 기획 추진,1,1,,hwpx
+PAR-DOC-POL-003-00121,DOC-POL-003,section2,108,bullet,"ㅇ 임상시험 승인 신청 서류*를 대체할 수 있는 의약품 후보물질의 유효성, 안전성 예측 AI 모델 개발",1,1,,hwpx
+PAR-DOC-POL-003-00122,DOC-POL-003,section2,109,note,* 비임상(동물실험)을 통해 유효성·안전성 관련 서류 구비 필요,1,1,,hwpx
+PAR-DOC-POL-003-00123,DOC-POL-003,section2,110,note,※ 의약품 개발 과정 : 후보물질 발굴 → 비임상 및 임상시험 승인 신청 → 임상 1·2·3상 → 신약 허가,1,1,,hwpx
+PAR-DOC-POL-003-00124,DOC-POL-003,section2,111,bullet,- 라이센스로 중소·중견 제약사에 저가로 공급해 사업화 신속 지원,1,1,,hwpx
+PAR-DOC-POL-003-00125,DOC-POL-003,section2,112,bullet,ㅇ 바이오의약품 배양 및 정제 공정의 디지털 트윈 AI 모델을 개발,1,1,,hwpx
+PAR-DOC-POL-003-00126,DOC-POL-003,section2,113,note,* 바이오의약품 제조공정 : 배양(세포 배양 및 단백질 생산) → 회수 → 정제(목표 단백질 분리) → 완제 ↳ 배양과 정제가 핵심 요소,1,1,,hwpx
+PAR-DOC-POL-003-00127,DOC-POL-003,section2,114,bullet,- 배양·정제 공정 모니터링 장비 등 AI 기술 탑재 장비 국산화 지원,1,1,,hwpx
+PAR-DOC-POL-003-00128,DOC-POL-003,section2,115,bullet,ㅇ 주력업종 중심 1조원 규모‘K-온디바이스 AI반도체’개발('26~'30),1,1,,hwpx
+PAR-DOC-POL-003-00129,DOC-POL-003,section2,116,note,* 자동차 ‧로봇 등 수요기업이 국내 팹리스와 맞춤형 AI반도체‧SW 공동개발,1,1,,hwpx
+PAR-DOC-POL-003-00130,DOC-POL-003,section2,117,heading,< K-온디바이스 AI 반도체 기술개발 구조 >,1,1,,hwpx
+PAR-DOC-POL-003-00131,DOC-POL-003,section2,118,bullet,"ㅇ AI반도체 全주기 개발을 지원할‘판교 K-팹리스 밸리’를 조성, AI 팹리스 설계 지원, AI칩 성능 검증이 가능한 공공 인프라 구축",1,1,,hwpx
+PAR-DOC-POL-003-00132,DOC-POL-003,section2,119,note,"* AI 팹리스용 설계 툴 추가 구축, 시제품 제작 지원 등 설계지원센터 기능 강화(‘26∼’30, 400억원), 검증지원센터(‘24∼’28, 150억원), 팹리스 첨단장비 지원(‘25∼’27, 322억원) 등",1,1,,hwpx

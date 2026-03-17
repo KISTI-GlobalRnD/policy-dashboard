@@ -1,0 +1,1 @@
+batch_id,policy_id,policy_name,bucket_label,batch_order,output_csv,item_count,with_suggestion_count,without_suggestion_count,max_suggested_score,min_suggested_score

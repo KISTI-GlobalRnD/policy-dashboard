@@ -1,0 +1,22 @@
+{
+  "status": "pass",
+  "pack_path": "work/04_ontology/sample_build/curated_content_sample/curated_content_sample_pack.json",
+  "contract_level": "manual_sample_reference",
+  "evidence_count": 40,
+  "matched_evidence_count": 40,
+  "mismatch_count": 0,
+  "missing_source_asset_count": 0,
+  "included_representation_types": [
+    "canonical_table",
+    "figure_or_diagram",
+    "normalized_paragraph"
+  ],
+  "included_taxonomy_types": [
+    "strategy",
+    "tech_domain",
+    "tech_subdomain"
+  ],
+  "warnings": [],
+  "mismatches": [],
+  "missing_source_assets": []
+}

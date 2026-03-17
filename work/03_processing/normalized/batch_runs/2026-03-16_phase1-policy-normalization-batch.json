@@ -1,0 +1,233 @@
+{
+  "run_date": "2026-03-16",
+  "registry_path": "work/01_scope-and-ia/requirements/04_document-registry.csv",
+  "completed_count": 25,
+  "failed_count": 0,
+  "documents": [
+    {
+      "document_id": "DOC-REF-001",
+      "title": "정책-항목 구성(안)",
+      "source_format": "pdf",
+      "run_status": "completed",
+      "paragraph_count": 24,
+      "page_count": 12,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-REF-002",
+      "title": "정책기술분야별 재구성(안)",
+      "source_format": "pdf",
+      "run_status": "completed",
+      "paragraph_count": 1,
+      "page_count": 1,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-001",
+      "title": "123대 국정과제",
+      "source_format": "pdf",
+      "run_status": "completed",
+      "paragraph_count": 2179,
+      "page_count": 195,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-002",
+      "title": "AI-바이오 국가전략",
+      "source_format": "hwpx",
+      "run_status": "completed",
+      "paragraph_count": 239,
+      "page_count": 3,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-003",
+      "title": "제조AX 추진방향",
+      "source_format": "hwpx",
+      "run_status": "completed",
+      "paragraph_count": 132,
+      "page_count": 2,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-004",
+      "title": "과학기술xAI 국가전략",
+      "source_format": "hwpx",
+      "run_status": "completed",
+      "paragraph_count": 195,
+      "page_count": 2,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-005",
+      "title": "연구개발 생태계 혁신방안",
+      "source_format": "hwpx",
+      "run_status": "completed",
+      "paragraph_count": 485,
+      "page_count": 3,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-006",
+      "title": "초혁신경제 15대 프로젝트 추진계획",
+      "source_format": "pdf",
+      "run_status": "completed",
+      "paragraph_count": 496,
+      "page_count": 38,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-007",
+      "title": "AI반도체 산업 도약 전략",
+      "source_format": "hwpx",
+      "run_status": "completed",
+      "paragraph_count": 261,
+      "page_count": 3,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-008",
+      "title": "민간투자연계, 팁스 R&D 확산방안",
+      "source_format": "hwpx",
+      "run_status": "completed",
+      "paragraph_count": 100,
+      "page_count": 3,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-009",
+      "title": "기초연구 생태계 육성 방안",
+      "source_format": "hwpx",
+      "run_status": "completed",
+      "paragraph_count": 292,
+      "page_count": 4,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-010",
+      "title": "과학기술분야 출연(연) 정책방향",
+      "source_format": "hwpx",
+      "run_status": "completed",
+      "paragraph_count": 185,
+      "page_count": 3,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-011",
+      "title": "AI시대 대한민국 네트워크 전략",
+      "source_format": "hwpx",
+      "run_status": "completed",
+      "paragraph_count": 65,
+      "page_count": 3,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-012",
+      "title": "정부 AX사업 전주기 원스톱 지원방안",
+      "source_format": "hwpx",
+      "run_status": "completed",
+      "paragraph_count": 98,
+      "page_count": 3,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-CTX-001",
+      "title": "기술분야 개요 국방",
+      "source_format": "pdf",
+      "run_status": "completed",
+      "paragraph_count": 5,
+      "page_count": 1,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-CTX-002",
+      "title": "기술분야 개요 사이버보안",
+      "source_format": "pdf",
+      "run_status": "completed",
+      "paragraph_count": 2,
+      "page_count": 1,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-CTX-003",
+      "title": "기술분야 개요 소재",
+      "source_format": "pdf",
+      "run_status": "completed",
+      "paragraph_count": 3,
+      "page_count": 1,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-CTX-004",
+      "title": "기술분야 개요 양자",
+      "source_format": "pdf",
+      "run_status": "completed",
+      "paragraph_count": 2,
+      "page_count": 1,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-CTX-005",
+      "title": "기술분야 개요 에너지",
+      "source_format": "pdf",
+      "run_status": "completed",
+      "paragraph_count": 5,
+      "page_count": 1,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-CTX-006",
+      "title": "기술분야 개요 우주항공",
+      "source_format": "pdf",
+      "run_status": "completed",
+      "paragraph_count": 3,
+      "page_count": 1,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-CTX-007",
+      "title": "기술분야 개요 이차전지",
+      "source_format": "pdf",
+      "run_status": "completed",
+      "paragraph_count": 12,
+      "page_count": 1,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-CTX-008",
+      "title": "기술분야 개요 차세대통신",
+      "source_format": "pdf",
+      "run_status": "completed",
+      "paragraph_count": 3,
+      "page_count": 1,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-CTX-009",
+      "title": "기술분야 개요 첨단모빌리티",
+      "source_format": "pdf",
+      "run_status": "completed",
+      "paragraph_count": 15,
+      "page_count": 1,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-CTX-010",
+      "title": "기술분야 개요 첨단바이오",
+      "source_format": "pdf",
+      "run_status": "completed",
+      "paragraph_count": 8,
+      "page_count": 1,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-CTX-011",
+      "title": "기술분야 개요 해양",
+      "source_format": "pdf",
+      "run_status": "completed",
+      "paragraph_count": 4,
+      "page_count": 1,
+      "notes": ""
+    }
+  ]
+}

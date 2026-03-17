@@ -1,0 +1,14 @@
+[
+  {
+    "paragraph_id": "PAR-DOC-REF-002-00001",
+    "document_id": "DOC-REF-002",
+    "page_no": 1,
+    "page_block_order": 1,
+    "block_type": "paragraph",
+    "text": "정책·기술분야별 재구성[안] 울운H(<02)( ) ()",
+    "source_line_count": 2,
+    "merged_block_count": 2,
+    "normalization_actions": "merged_continuation",
+    "source_mode": "bbox_text"
+  }
+]

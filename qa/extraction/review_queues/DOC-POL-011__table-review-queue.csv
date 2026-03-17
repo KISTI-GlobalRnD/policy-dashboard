@@ -1,0 +1,30 @@
+review_item_id,document_id,source_format,page_no,candidate_source,candidate_id,rows,cols,preview_text,suggested_class,heuristic_reason,keep_for_dashboard,merge_group_hint,canonical_table_id,review_status,reviewer_notes,treat_as_char,text_wrap
+TRV-DOC-POL-011-JS-001,DOC-POL-011,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-011-001,1,1,,layout_false_positive,empty_table_box,no,,,review_required,,0,IN_FRONT_OF_TEXT
+TRV-DOC-POL-011-JS-002,DOC-POL-011,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-011-002,2,4,"의안번호 | 제 9 호 | 의결
+사항",layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-011-JS-003,DOC-POL-011,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-011-003,1,1,"AI시대 대한민국
+네트워크 전략(안)",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-011-JS-004,DOC-POL-011,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-011-004,1,1,과학기술관계장관회의,layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-011-JS-005,DOC-POL-011,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-011-005,2,3,제 출 자 | 과학기술정보통신부장관 | 배경훈,layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-011-JS-006,DOC-POL-011,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-011-006,1,1,AI시대 대한민국 네트워크 전략(안) (요약),layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-011-JS-007,DOC-POL-011,hwpx,section3,pymupdf_find_tables,TBL-DOC-POL-011-007,7,1,"AI시대 대한민국
+네트워크 전략(안)",review_required,single_column_info_box,review,,,review_required,,0,TOP_AND_BOTTOM
+TRV-DOC-POL-011-JS-008,DOC-POL-011,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-011-008,3,1,"- AI G3 강국 도약을 견인할 -
+｢Hyper AI네트워크 전략(안)｣
+미래 AI의 연결과 확산을 뒷받침하는, 극도로 진보된 성능(Hyper)의 네트워크",review_required,single_column_info_box,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-011-JS-009,DOC-POL-011,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-011-009,1,2,Ⅰ | 추진 배경,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-011-JS-010,DOC-POL-011,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-011-010,1,2,"Ⅱ | AI시대, 네트워크의 당면과제와 전략 추진방향",layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-011-JS-011,DOC-POL-011,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-011-011,1,2,"□ 네트워크 진화미래 AI에이전트·피지컬AI의 발전과 확산은 이전과 차원이 다른 네트워크를 요구
+• 혼합현실(XR)글래스·AI에이전트: 대규모·지속적 트래픽 발생 • 피지컬AI: 정밀제어를 위해 대용량 데이터 실시간·초저지연 통신
+☞ 국내 백본망 용량은 ‘29년 이후 포화 예상 | < 국내 무선백본망 트래픽 예측 >",layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-011-JS-012,DOC-POL-011,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-011-012,1,2,Ⅴ | 세부 추진전략,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-011-JS-013,DOC-POL-011,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-011-013,3,4,As-Is | 중간 목표 | 최종 목표,structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-011-JS-014,DOC-POL-011,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-011-014,3,4,As-Is | 중간 목표 | 최종 목표,structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-011-JS-015,DOC-POL-011,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-011-015,1,1,"“6G는 표준기술 경쟁, AI네트워크는 각국의 독자적 AI기술 기반 초격차 기술 경쟁”
+⇒ 6G·AI네트워크 연구 성과를 결집, 全영역 완전자율·지능형 네트워크 기술력 확보",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-011-JS-016,DOC-POL-011,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-011-016,3,5,"“기존 통신망을 활용한 소규모 AI서비스(법률·행정 등), 가상 공간 중심 실증을 탈피
+→ 초지능·초성능(Hyper) ‘AI네트워크’ 인프라 기반, 종합적·물리적 대규모 AI실증”",structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-011-JS-017,DOC-POL-011,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-011-017,2,4,As-Is | 중간 목표 | 최종 목표,layout_false_positive,small_hwpx_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-011-JS-018,DOC-POL-011,hwpx,section5,pymupdf_find_tables,TBL-DOC-POL-011-018,1,2,Ⅴ | 재원 투자계획,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-011-JS-019,DOC-POL-011,hwpx,section6,pymupdf_find_tables,TBL-DOC-POL-011-019,3,2,"과학기술정보통신부 네트워크정책실
+정보보호네트워크정책관 네트워크정책과",review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM

@@ -1,0 +1,10 @@
+{
+  "decision_item_count": 30,
+  "active_in_queue_count": 0,
+  "inactive_preserved_count": 30,
+  "status_counts": {
+    "revised": 20,
+    "rejected": 5,
+    "approved": 5
+  }
+}

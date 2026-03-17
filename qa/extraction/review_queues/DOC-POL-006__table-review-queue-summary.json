@@ -1,0 +1,13 @@
+{
+  "document_id": "DOC-POL-006",
+  "review_item_count": 30,
+  "markdown_candidate_count": 10,
+  "json_candidate_count": 20,
+  "suggested_class_counts": {
+    "fragment_or_broken": 3,
+    "layout_false_positive": 7,
+    "multi_page_fragment": 2,
+    "review_required": 2,
+    "structured_table": 16
+  }
+}

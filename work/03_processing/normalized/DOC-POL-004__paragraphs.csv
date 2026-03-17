@@ -1,0 +1,196 @@
+paragraph_id,document_id,page_no,page_block_order,block_type,text,source_line_count,merged_block_count,normalization_actions,source_mode
+PAR-DOC-POL-004-00001,DOC-POL-004,section0,1,heading,Ⅰ. 의결주문,1,1,,hwpx
+PAR-DOC-POL-004-00002,DOC-POL-004,section0,2,bullet,ㅇ 「과학기술×AI 국가전략(안)」을 별지와 같이 의결함,1,1,,hwpx
+PAR-DOC-POL-004-00003,DOC-POL-004,section0,3,heading,Ⅱ. 제안이유,1,1,,hwpx
+PAR-DOC-POL-004-00004,DOC-POL-004,section0,4,bullet,ㅇ 과학기술 R&D와 AI의 융합을 통해 연구개발의 혁신성‧질적수준을 획기적으로 높이기 위해 「과학기술×AI 국가전략(안)」 수립·시행,1,1,,hwpx
+PAR-DOC-POL-004-00005,DOC-POL-004,section0,5,heading,Ⅲ. 주요 내용,1,1,,hwpx
+PAR-DOC-POL-004-00006,DOC-POL-004,section0,6,bullet,□ 추진 배경,1,1,,hwpx
+PAR-DOC-POL-004-00007,DOC-POL-004,section0,7,bullet,ㅇ AI가 과학적 발견의 핵심 엔진으로 부상함에 따라 美‧中‧EU 등 주요국 및 글로벌 빅테크는 과학기술 AI 경쟁 본격화,1,1,,hwpx
+PAR-DOC-POL-004-00008,DOC-POL-004,section0,8,bullet,"☞ 지금은 과학기술 AI 경쟁의 주도권을 확보할 수 있는 골든타임, 기술‧인프라‧인재‧산업을 아우르는 전주기 전략을 통해 국가역량 총결집 필요",1,1,,hwpx
+PAR-DOC-POL-004-00009,DOC-POL-004,section0,9,bullet,□ 현황진단 및 추진방향,1,1,,hwpx
+PAR-DOC-POL-004-00010,DOC-POL-004,section0,10,bullet,"ㅇ (강점(S)) 바이오, 재료·화학, 반도체 등 강점분야 연구‧산업 역량 및 세계적 수준의 AI 경쟁력(3위권 그룹) 보유",1,1,,hwpx
+PAR-DOC-POL-004-00011,DOC-POL-004,section0,11,bullet,"ㅇ (약점(W)) 연구데이터 공유·활용 미흡, 과학기술+AI 융합인재 부족",1,1,,hwpx
+PAR-DOC-POL-004-00012,DOC-POL-004,section0,12,note,"※ (데이터) 23개 출연연 중 연구데이터 통합플랫폼(DataON) 연계율 30.4%로 저조(‘25) (인재) 연구자 77.0%가 과학기술+AI 융합인재 양성이 중요하다고 응답(‘25.2, KIST)",2,1,split_multiline_structured_block,hwpx
+PAR-DOC-POL-004-00013,DOC-POL-004,section0,13,bullet,"ㅇ (기회(O)) 글로벌 경쟁 초기 단계로 경쟁력 확보의 “골든타임” 도래, 국가 차원의 GPU 확충(’30년까지 GPU 26만장 확보) 등 인프라 여건 개선",1,1,,hwpx
+PAR-DOC-POL-004-00014,DOC-POL-004,section0,14,bullet,"ㅇ (위기(T)) 美·中, 빅테크의 폭발적 속도에 따른 기술격차 심화 우려",1,1,,hwpx
+PAR-DOC-POL-004-00015,DOC-POL-004,section0,15,note,"※ (Google) AlphaFold 3(’24.5.), AI Co-Scientist(‘25.2.), (Microsoft) MatterGen(’25.1.) 등",1,1,,hwpx
+PAR-DOC-POL-004-00016,DOC-POL-004,section0,16,bullet,□ 추진과제,1,1,,hwpx
+PAR-DOC-POL-004-00017,DOC-POL-004,section0,17,bullet,"ㅇ (파운데이션 모델) 바이오, 재료‧화학 등 학문적·산업적 파급력이 큰 6대 분야* 과학기술 AI 파운데이션 모델을 개발해 난제해결 가속화",1,1,,hwpx
+PAR-DOC-POL-004-00018,DOC-POL-004,section0,18,note,"* ① 바이오, ② 지구과학, ③ 수학, ④ 재료‧화학, ⑤ 반도체‧디스플레이, ⑥ 이차전지",1,1,,hwpx
+PAR-DOC-POL-004-00019,DOC-POL-004,section0,19,bullet,ㅇ (AI 연구동료) 가설생성부터 결과분석까지 연구자와 함께 연구를 수행하는 AI 연구동료(AI Co-Scientist)를 개발‧확산해 창의성‧생산성 극대화,1,1,,hwpx
+PAR-DOC-POL-004-00020,DOC-POL-004,section0,20,note,"※ ▲ 다학제 박사급 연구동료 플랫폼 구축‧확산, ▲ “1人 연구자 多 Agent 활용” 연구지원 체계 구축, ▲ 연구자 행정부담 완화를 위한 AI 도입 등",1,1,,hwpx
+PAR-DOC-POL-004-00021,DOC-POL-004,section0,21,bullet,ㅇ (자동화/자율실험실) AI와 로보틱스 기술을 결합하여 실험설계 - 수행 - 결과분석 - 최적화 등 실험 전 주기를 24시간 - 365일 수행,1,1,,hwpx
+PAR-DOC-POL-004-00022,DOC-POL-004,section0,22,note,"※ ▲ (바이오) 감염병, 약물 분야 등(‘26년 6개), ▲ (소재) 화학(화학연)‧금속(재료연) 소재(’26~‘31)",1,1,,hwpx
+PAR-DOC-POL-004-00023,DOC-POL-004,section0,23,bullet,"ㅇ (양손잡이 인재) 과학고‧영재학교, 4대 과기원, 대학 등 과학기술 인재 산실에 AI 교육과정을 결합해 미래 핵심인재 조기육성",1,1,,hwpx
+PAR-DOC-POL-004-00024,DOC-POL-004,section0,24,note,"※ ▲ AI/AX 과학영재학교 신설, ▲ 과기원 AI 단과대 신설 등 ▲ AI 중심대학 및 거점국립대 중심 AI 필수 교육과정 도입",1,1,,hwpx
+PAR-DOC-POL-004-00025,DOC-POL-004,section0,25,bullet,"ㅇ (연구자 주도 AI 전환) 기초연구 AI 허브 구축, AI 융합 박사후연구원 양성, 출연연‧AI 연구자간 공동 프로젝트 지원 등 AI 기반 연구혁신 촉진",1,1,,hwpx
+PAR-DOC-POL-004-00026,DOC-POL-004,section0,26,note,"※ ▲ 대학 기초연구AI 센터 설치(’28년까지 40개), ▲ AX 분야 InnoCORE 연구단 지원,▲ (가칭)국가과학AI연구소 중심 연구자-AI 전문가 간 협업 촉진",1,1,,hwpx
+PAR-DOC-POL-004-00027,DOC-POL-004,section0,27,bullet,"ㅇ (GPU) 전용 GPU 8,000개 이상*을 확보‧지원하고, 출연연의 흩어져있는 GPU를 공동활용할 수 있도록 하여 접근성‧효율성 강화",1,1,,hwpx
+PAR-DOC-POL-004-00028,DOC-POL-004,section0,28,note,"* ▲ 슈퍼컴 6호기 8,500개의 약 30%(‘26.上~), ▲ 첨단GPU확보사업 2.8만개 중 정부 활용분의 15~20%(’26~), ▲ 대학 기초연구 전용 GPU 약 300개(’26.下) 등",1,1,,hwpx
+PAR-DOC-POL-004-00029,DOC-POL-004,section0,29,bullet,"ㅇ (데이터) 국가 연구데이터 축적‧확산‧관리*, 저작권 침해우려 해소",1,1,,hwpx
+PAR-DOC-POL-004-00030,DOC-POL-004,section0,30,note,"* ▲ 연구데이터법 제정, ▲ 가칭국가연구데이터플랫폼 연계(국가연구데이터댐 구축), ▲ 데이터관리계획(DMP) 적용 확대, ▲ AI 학습데이터 구축·변환 기술개발 지원 등",1,1,,hwpx
+PAR-DOC-POL-004-00031,DOC-POL-004,section0,31,bullet,"ㅇ (산학연 협력) (가칭)국가과학AI연구소, AI 바이오 허브 중심 협력 활성화",1,1,,hwpx
+PAR-DOC-POL-004-00032,DOC-POL-004,section0,32,bullet,"ㅇ (윤리‧문화) AI 연구윤리 기준 제시, 경진대회 개최*, 교육 콘텐츠 확산",1,1,,hwpx
+PAR-DOC-POL-004-00033,DOC-POL-004,section0,33,note,* 과학기술 AI Agent 개발 및 AI가 논문 1저자인 경진대회로서 ‘ASK 2026’ 개최('25.11~),1,1,,hwpx
+PAR-DOC-POL-004-00034,DOC-POL-004,section0,34,bullet,"ㅇ (시장진입 촉진) 수요발굴 지원단 등을 활용해 정부R&D-수요기업 연계, 바이오 중소기업 등과 AI 기업 매칭을 통해 초기수요 확보 지원",1,1,,hwpx
+PAR-DOC-POL-004-00035,DOC-POL-004,section0,35,bullet,"ㅇ (창업‧스케일업 활성화) 창업단계부터 스케일업까지 전주기 투자 지원, 4대 과기원을 주축으로 지역 AX 창업 전진기지 구축",1,1,,hwpx
+PAR-DOC-POL-004-00036,DOC-POL-004,section0,36,note,"※ KAIST 실리콘밸리 IDIS 캠퍼스, KAIST 뉴욕 캠퍼스 등을 통한 글로벌 진출 지원 병행",1,1,,hwpx
+PAR-DOC-POL-004-00037,DOC-POL-004,section0,37,bullet,"ㅇ (산-학‧연-관 삼각 협력) 기업‧대학‧출연연 원팀, 정부가 지원하는 협력모델 창출",1,1,,hwpx
+PAR-DOC-POL-004-00038,DOC-POL-004,section0,38,heading,Ⅳ. 향후계획,1,1,,hwpx
+PAR-DOC-POL-004-00039,DOC-POL-004,section0,39,bullet,ㅇ ‘ASK 2025’ 개최를 통해 과학기술 AI 생태계 활성화('25.11~‘26.4.),1,1,,hwpx
+PAR-DOC-POL-004-00040,DOC-POL-004,section0,40,bullet,ㅇ 바이오·소재 등 분야별 AI 혁신 전략 수립('25.12~),1,1,,hwpx
+PAR-DOC-POL-004-00041,DOC-POL-004,section1,1,bullet,"ㅇ 과학기술은 실험, 과학적 이론, 계산기법 등의 축적을 통해 발전, 지금은 AI가 과학기술의 탐구방식을 근본적으로 바꾸는 새로운 엔진",1,1,,hwpx
+PAR-DOC-POL-004-00042,DOC-POL-004,section1,2,note,※ ‘24년 노벨화학상은 단백질 구조 예측 AI모델인 ‘알파폴드’ 연구자가 수상,1,1,,hwpx
+PAR-DOC-POL-004-00043,DOC-POL-004,section1,3,note,"※ 전 세계 연구자 대상 설문조사 결과, ‘23년 출판 논문의 30%가 AI 활용(Nature 2023)",1,1,,hwpx
+PAR-DOC-POL-004-00044,DOC-POL-004,section1,4,heading,< 과학 패러다임의 변화 >,1,1,,hwpx
+PAR-DOC-POL-004-00045,DOC-POL-004,section1,5,bullet,ㅇ 美‧中 등 주요국은 국가 차원에서 과학기술 AI 이니셔티브 선점에 박차,1,1,,hwpx
+PAR-DOC-POL-004-00046,DOC-POL-004,section1,6,heading,< 주요국의 과학기술 AI 정책 동향 >,1,1,,hwpx
+PAR-DOC-POL-004-00047,DOC-POL-004,section1,7,bullet,"ㅇ 구글, MS 등 글로벌 빅테크는 과학기술 AI의 성장 잠재력에 주목하고, 막강한 기술력‧자본력을 바탕으로 시장 진입 본격화",1,1,,hwpx
+PAR-DOC-POL-004-00048,DOC-POL-004,section1,8,note,"※ (Google) AlphaFold 3(’24.5.), AI Co-Scientist(‘25.2.), (Microsoft) MatterGen(’25.1.) 등",1,1,,hwpx
+PAR-DOC-POL-004-00049,DOC-POL-004,section1,9,bullet,"ㅇ 과학 패러다임이 AI로 전환되고 글로벌 선도국이 고착되지 않은 지금은, 대한민국이 글로벌 주도권을 확보할 수 있는 결정적 시점",1,1,,hwpx
+PAR-DOC-POL-004-00050,DOC-POL-004,section1,10,bullet,"ㅇ 우리나라는 우수한 연구역량과 AI경쟁력, 인적자원을 갖춘 ‘준비된 국가’",1,1,,hwpx
+PAR-DOC-POL-004-00051,DOC-POL-004,section1,11,paragraph,→ 과학기술 AI 선도국 도약을 위해 국가적 차원의 총력 대응 시급,1,1,,hwpx
+PAR-DOC-POL-004-00052,DOC-POL-004,section1,12,bullet,- 강점분야 과학기술 AI 파운데이션 모델 개발,1,1,,hwpx
+PAR-DOC-POL-004-00053,DOC-POL-004,section1,13,bullet,"ㅇ (파운데이션 모델) 바이오, 재료‧화학 등 학문적·산업적 파급력이 큰 6대 분야 ‘과학기술 AI 파운데이션 모델*’을 개발하여 연구혁신 가속화",1,1,,hwpx
+PAR-DOC-POL-004-00054,DOC-POL-004,section1,14,note,"* 분야별 지식에 기반해 설계된 AI를 대규모 연구데이터로 학습시켜 공통 연구기반 제공→ 세부 분야 파인튜닝, 관련분야 응용 모델 등을 통해 과학기술 적용범위 확산",1,1,,hwpx
+PAR-DOC-POL-004-00055,DOC-POL-004,section1,15,heading,< 주요 분야별 과학기술 AI 파운데이션 개발 예시 >,1,1,,hwpx
+PAR-DOC-POL-004-00056,DOC-POL-004,section1,16,bullet,- 한국형 AI 연구동료 (AI Co-Scientist) 개발·확산,1,1,,hwpx
+PAR-DOC-POL-004-00057,DOC-POL-004,section1,17,bullet,ㅇ (박사급 AI 연구동료) 가설생성부터 결과분석까지 연구자와 함께 연구를 수행하는 AI Co-Scientist 개발‧적용을 통해 초격차 성과 창출,1,1,,hwpx
+PAR-DOC-POL-004-00058,DOC-POL-004,section1,18,bullet,- 강점 분야의 과학기술 AI 파운데이션 모델과 연계하여 다학제 박사급 AI 연구동료 플랫폼 구축‧확산*,1,1,,hwpx
+PAR-DOC-POL-004-00059,DOC-POL-004,section1,19,note,* 공공형 연구 인프라 제공 + 민간 서비스 육성 Two-track 전략 추진,1,1,,hwpx
+PAR-DOC-POL-004-00060,DOC-POL-004,section1,20,bullet,ㅇ (연구개발 AI+) 기획·수행·성과관리 등 R&D 단계별 AI Agent를 활용하는 ‘1人 연구자 多 Agent’ 연구모델 등 지능형 연구지원 체계 확산,1,1,,hwpx
+PAR-DOC-POL-004-00061,DOC-POL-004,section1,21,bullet,- 출연연 등 연구현장의 AI 도입 우수사례를 고도화·확산하기 위해 연구기관에 축적된 데이터 등을 활용하여 AI Agent 개발 지원,1,1,,hwpx
+PAR-DOC-POL-004-00062,DOC-POL-004,section1,22,bullet,"- 연구자의 연구이력, 협력 네트워크 데이터(공동연구, 논문 공저 등)를 바탕으로 협력 연구자 매칭, 평가위원 추천 등 과학적 연구지원 서비스 제공",1,1,,hwpx
+PAR-DOC-POL-004-00063,DOC-POL-004,section1,23,heading,< 출연연의 AI 기반 연구지원 우수사례 >,1,1,,hwpx
+PAR-DOC-POL-004-00064,DOC-POL-004,section1,24,bullet,ㅇ (연구행정 혁신) 범부처통합연구시스템(IRIS)의 AI 기능 시범 도입*과 맞춤형 서비스 등 편의 기능 제공을 통해 이용자 중심으로 전면 개선,1,1,,hwpx
+PAR-DOC-POL-004-00065,DOC-POL-004,section1,25,note,"* 우수보고서·분야별 용어 학습을 통한 보고서 생성, 회의결과 요약 등",1,1,,hwpx
+PAR-DOC-POL-004-00066,DOC-POL-004,section1,26,bullet,"- 他 연구기관, 전담기관 시스템 연계 등을 통해 연구자의 행정부담 완화",1,1,,hwpx
+PAR-DOC-POL-004-00067,DOC-POL-004,section1,27,bullet,- 자동화/자율실험실 구축으로 고속·고효율 연구환경 조성,1,1,,hwpx
+PAR-DOC-POL-004-00068,DOC-POL-004,section1,28,bullet,ㅇ (자동화/자율실험실) AI와 로보틱스 기술을 결합하여 실험설계 - 수행 - 결과분석 - 최적화 등 실험 전 주기를 24시간 - 365일 수행,1,1,,hwpx
+PAR-DOC-POL-004-00069,DOC-POL-004,section1,29,bullet,"- 바이오, 재료‧화학 분야를 중심으로 우선 구축하고 他분야로 확산",1,1,,hwpx
+PAR-DOC-POL-004-00070,DOC-POL-004,section1,30,heading,< 자동화/자율실험실 구축에 따른 변화상 >,1,1,,hwpx
+PAR-DOC-POL-004-00071,DOC-POL-004,section1,31,bullet,"ㅇ (대형연구시설) 기초과학, 첨단 전략기술 연구를 뒷받침하는 대형연구시설*의 연구 생산성 극대화를 위해 자율운영 AI Agent 개발‧적용",1,1,,hwpx
+PAR-DOC-POL-004-00072,DOC-POL-004,section1,32,note,"* 대형 가속기(PLS-II, PAL-XFEL, RAON, KOMAC 등), 핵융합로(KSTAR), 연구로(HANARO) 등",1,1,,hwpx
+PAR-DOC-POL-004-00073,DOC-POL-004,section1,33,bullet,"- AI를 통한 데이터 기반 의사결정, 시설운영 최적화 및 안전성 확보 촉진",1,1,,hwpx
+PAR-DOC-POL-004-00074,DOC-POL-004,section1,34,heading,< 대형연구시설 자동화에 따른 변화상 >,1,1,,hwpx
+PAR-DOC-POL-004-00075,DOC-POL-004,section1,35,bullet,- 과학기술-AI 양손잡이 인재 육성,1,1,,hwpx
+PAR-DOC-POL-004-00076,DOC-POL-004,section1,36,bullet,ㅇ (AI 과학고‧영재학교) 과학‧수학 등 이공계 최우수 역량을 보유한 과학인재의 AI 역량을 강화하여 미래 핵심인재로 육성,1,1,,hwpx
+PAR-DOC-POL-004-00077,DOC-POL-004,section1,37,bullet,"- 과학 기초소양‧전공교육에 더해 AI/AX 교과를 정규 편성하는 과기원 부설 과학영재학교 신설*, 과기원 연계 AI 박사 단기 취득 경로 제시**",1,1,,hwpx
+PAR-DOC-POL-004-00078,DOC-POL-004,section1,38,note,"* (현재) KAIST한국과학영재학교 → (확대) KAIST충북 AI-BIO 영재학교, GIST광주 AI 영재학교",1,1,,hwpx
+PAR-DOC-POL-004-00079,DOC-POL-004,section1,39,note,** (영재학교) 대학과정 先이수 + (과기원) 영재선발제도·통합과정 연계 등,1,1,,hwpx
+PAR-DOC-POL-004-00080,DOC-POL-004,section1,40,bullet,"- 과학고‧영재학교의 AI‧SW 특화교육과정 운영 등을 지원하고*, AI 융합역량을 보유한 인재를 선발할 수 있도록 AI 입학전형 확대**",1,1,,hwpx
+PAR-DOC-POL-004-00081,DOC-POL-004,section1,41,note,* AI‧SW 교육 지원사업 확대 : ‘25년 14교 → ’26년 27교,1,1,,hwpx
+PAR-DOC-POL-004-00082,DOC-POL-004,section1,42,note,"** (현행) 경기과학고(‘24년~, 120명 중 10명), 충북과학고(’23년~, 54명 중 3명)",1,1,,hwpx
+PAR-DOC-POL-004-00083,DOC-POL-004,section1,43,bullet,"ㅇ (과기원 AX) 과학기술 우수인재의 산실, 4대 과기원을 중심으로 학사 과정부터 과학기술 전문지식과 AI 융합 역량 내재화",1,1,,hwpx
+PAR-DOC-POL-004-00084,DOC-POL-004,section1,44,bullet,"- 과기원의 AI 기초교육 과정을 의무화하고, AI 단과대학을 신설하여 AI 바이오‧소재 등 융합인재 양성을 위한 교육 및 연구역량 결집",1,1,,hwpx
+PAR-DOC-POL-004-00085,DOC-POL-004,section1,45,note,"※ ('26년) KAIST 우선 설치 → ('27년) GIST, UNIST, DGIST 확산",1,1,,hwpx
+PAR-DOC-POL-004-00086,DOC-POL-004,section1,46,bullet,- 지역 특화 기술‧산업 분야와 연계하여 지역상생 도모 병행,1,1,,hwpx
+PAR-DOC-POL-004-00087,DOC-POL-004,section1,47,note,"※ (GIST-호남) 에너지‧모빌리티, (UNIST-동남) 제조‧해양, (DGIST-대경) 로봇‧헬스, (KAIST-중부) 국방‧바이오",1,1,,hwpx
+PAR-DOC-POL-004-00088,DOC-POL-004,section1,48,bullet,"ㅇ (대학 AX) 자연과학 등 다양한 전공의 학생이 AI 기초역량을 갖출 수 있도록 AI 중심대학, AI 거점대학을 중심으로 AI 교육 확산",1,1,,hwpx
+PAR-DOC-POL-004-00089,DOC-POL-004,section1,49,bullet,"- (AI 중심대학) 전교생 AI 기초교육 의무화, 非전공자 대상 AI 융합 교과목 신설, AI 관련 창업교육 등 추진(‘26년 10개교 → ’30년 30개교)",1,1,,hwpx
+PAR-DOC-POL-004-00090,DOC-POL-004,section1,50,bullet,"- (AI 거점대학) 지역산업 연계 AI 단과대 신설로 지역 AI 허브 육성, 전공 관계 없이 AI 기초역량을 갖추도록 AI 교육과정 도입('26년 3개교, 확대)",1,1,,hwpx
+PAR-DOC-POL-004-00091,DOC-POL-004,section1,51,bullet,ㅇ (전문연구요원) AI분야 핵심인재 양성・확보를 위해 AI 분야 전문연구요원 우선 배정((현행) 소부장·반도체 인원배정 우대 → (개선) AI분야 추가),1,1,,hwpx
+PAR-DOC-POL-004-00092,DOC-POL-004,section1,52,bullet,- 연구자 주도의 AI 전환 촉진,1,1,,hwpx
+PAR-DOC-POL-004-00093,DOC-POL-004,section1,53,bullet,ㅇ (대학 기초연구) 기초과학 분야 연구자가 AI를 활용해 새로운 연구 주제·방법론을 개척하고 혁신적 연구 성과를 창출하도록 지원,1,1,,hwpx
+PAR-DOC-POL-004-00094,DOC-POL-004,section1,54,bullet,"- 대학별 강점 분야에 맞춰 ｢기초연구AI 센터｣ 설치, 다학제(예: 이론물리학 + 데이터과학 등) 연구자 간 공동연구 등 협업 촉진",1,1,,hwpx
+PAR-DOC-POL-004-00095,DOC-POL-004,section1,55,note,"※ ‘26년 총 20개 대학 선정 및 연간 15억원 내외 지원, GPU 등 전용 인프라 구축 병행",1,1,,hwpx
+PAR-DOC-POL-004-00096,DOC-POL-004,section1,56,bullet,"ㅇ (AI 융합 신진연구자) 과학기술 AI 등 AX 분야 우수 박사급 인재 확보를 위해 박사후연구원, 신임교원 등의 AI 융합 연구지원",1,1,,hwpx
+PAR-DOC-POL-004-00097,DOC-POL-004,section1,57,bullet,- (InnoCORE) AI 바이오‧에너지 등 과기원 중심 AX 연구단을 통해 최고 수준의 처우*를 보장하고 산‧학‧연 AX 집단·융합연구 지원,1,1,,hwpx
+PAR-DOC-POL-004-00098,DOC-POL-004,section1,58,note,"* 박사후연구원 1인당 年 9,000만원의 보수 + 추가 인센티브(기업, 정부R&D 등 추가 매칭)",1,1,,hwpx
+PAR-DOC-POL-004-00099,DOC-POL-004,section1,59,bullet,- (AI 스타펠로우십) AI·융합 신진연구자가 주도하는 도전적 AI 연구프로젝트 수행을 안정적 지원하여 세계 석학급 연구자로 성장 지원,1,1,,hwpx
+PAR-DOC-POL-004-00100,DOC-POL-004,section1,60,bullet,ㅇ (출연연 AI 역량) 출연연 연구자와 AI 전문가가 AI를 중심으로 함께 협력하는 공동 프로젝트를 지원하여 분야별 핵심성과 창출,1,1,,hwpx
+PAR-DOC-POL-004-00101,DOC-POL-004,section1,61,note,"※ (가칭)국가과학AI연구소를 중심으로 연구자-AI 전문가 협업 촉진, AI 융합 과학연구 지원, 데이터 및 컴퓨팅 자원 지원 등",1,1,,hwpx
+PAR-DOC-POL-004-00102,DOC-POL-004,section1,62,bullet,- GPU 인프라 확충 및 공동활용 체계 구축,1,1,,hwpx
+PAR-DOC-POL-004-00103,DOC-POL-004,section1,63,bullet,"ㅇ (전용 GPU) 슈퍼컴 6호기 약 30% 배분, 첨단 GPU 학계‧연구계 약 20% 배정, 대학 기초연구 전용 GPU 구축 등 8,000개 이상 확보‧지원",1,1,,hwpx
+PAR-DOC-POL-004-00104,DOC-POL-004,section1,64,bullet,ㅇ (공동활용 체계) AI 연구 인프라 접근성 제고 및 효율성 강화를 위해 출연연의 흩어져 있는 GPU 자원을 연계하고 공동활용 촉진,1,1,,hwpx
+PAR-DOC-POL-004-00105,DOC-POL-004,section1,65,bullet,"- 주요 출연연, 전문센터 등의 GPU 자원을 하나의 플랫폼에서 통합 신청‧배정하고, 중장기적으로 물리적 연계체계 구축",1,1,,hwpx
+PAR-DOC-POL-004-00106,DOC-POL-004,section1,66,note,※ (단기) 주요 출연연-대학-전문센터간 GPU 현황판 구축 및 공동활용 시범사업 추진,1,1,,hwpx
+PAR-DOC-POL-004-00107,DOC-POL-004,section1,67,note,※ (중장기) 통합전산센터 및 통합플랫폼을 구축하여 연구자들의 실시간 자원예약 및 활용지원,1,1,,hwpx
+PAR-DOC-POL-004-00108,DOC-POL-004,section1,68,bullet,- GPU를 여러 과제에서 공동 구축‧활용할 수 있도록 명확한 근거 마련,1,1,,hwpx
+PAR-DOC-POL-004-00109,DOC-POL-004,section1,69,note,※ (현행) 과제별 구축‧활용 → (개선) 과제별 비용 분담을 통해 기관 단위 통합구매 및 관리‧활용,1,1,,hwpx
+PAR-DOC-POL-004-00110,DOC-POL-004,section1,70,note,※ 공동 구축‧활용 시 사용료를 직접비에서 사용할 수 있도록 허용,1,1,,hwpx
+PAR-DOC-POL-004-00111,DOC-POL-004,section1,71,bullet,ㅇ (연구장비 심의 개선) GPU 등 필요한 연구장비를 신속‧적시 도입할 수 있도록 연구장비 도입심의 기준 상향* 및 신속심의 도입‧추진,1,1,,hwpx
+PAR-DOC-POL-004-00112,DOC-POL-004,section1,72,note,* ▲ 국가연구시설장비심의위원회 심의기준 : (현행) 1억원 → (상향) 3억원 ▲ 연구기관별 자체심의(또는 과제평가단) 기준 : (현행) 3천만원 → (상향) 1억원,2,1,split_multiline_structured_block,hwpx
+PAR-DOC-POL-004-00113,DOC-POL-004,section1,73,bullet,- 국가연구데이터 생산·활용 체계 고도화,1,1,,hwpx
+PAR-DOC-POL-004-00114,DOC-POL-004,section1,74,bullet,ㅇ (법·거버넌스) 국가연구데이터에 대한 체계적인 생산·관리·공유‧활용체계를 구축하기 위해 연구데이터법* 제정 추진(의원입법),1,1,,hwpx
+PAR-DOC-POL-004-00115,DOC-POL-004,section1,75,note,* 『국가연구데이터 관리 및 활용 촉진에 관한 법률』,1,1,,hwpx
+PAR-DOC-POL-004-00116,DOC-POL-004,section1,76,bullet,"- 데이터 관리체계를 연구자에서 기관 중심으로 개편하고, 거버넌스 확립",1,1,,hwpx
+PAR-DOC-POL-004-00117,DOC-POL-004,section1,77,note,※ (예) 연구개발기관(저장소)-바이오·소재 등 분야별 전문센터(전문플랫폼)-국가연구데이터센터(통합플랫폼),1,1,,hwpx
+PAR-DOC-POL-004-00118,DOC-POL-004,section1,78,bullet,- 분야별 전문센터·출연연의 데이터를 가칭국가연구데이터플랫폼으로 연계하여 AI 연구혁신을 뒷받침하는 ’국가 연구데이터댐(Data Dam)‘ 구축,1,1,,hwpx
+PAR-DOC-POL-004-00119,DOC-POL-004,section1,79,bullet,"ㅇ (생산·관리) 연구데이터 생산·관리 및 공유를 촉진하기 위해 R&D 과제의 데이터관리계획(DMP, Data Management Plan) 적용 확대",1,1,,hwpx
+PAR-DOC-POL-004-00120,DOC-POL-004,section1,80,note,"※ 한국연구재단, 정보통신기획평가원 일부 연구과제 시범적용 후 대상기관 단계적 확대",1,1,,hwpx
+PAR-DOC-POL-004-00121,DOC-POL-004,section1,81,note,※ 혁신법 매뉴얼상 DMP 공통양식을 활용하여 분야별로 응용할 수 있도록 안내,1,1,,hwpx
+PAR-DOC-POL-004-00122,DOC-POL-004,section1,82,bullet,- 소재·바이오 등 분야별 전문센터를 중심으로 연구데이터 표준화,1,1,,hwpx
+PAR-DOC-POL-004-00123,DOC-POL-004,section1,83,bullet,- 국가연구데이터의 체계적 관리와 활용 수요에 대응하기 위한 전문인력을 양성하고 연구데이터 공유 촉진을 위한 연구자 인센티브 체계 마련,1,1,,hwpx
+PAR-DOC-POL-004-00124,DOC-POL-004,section1,84,note,"※ 출연연 연구자는 데이터 공유에 대해 긍정적(84.5%), 포괄적 성과인정 희망(65.4%) (’25.5, 설문조사)",1,1,,hwpx
+PAR-DOC-POL-004-00125,DOC-POL-004,section1,85,bullet,ㅇ (저작권) 일정 요건 충족시 저작권자의 허락 없이도 저작물을 이용할 수 있는 제도인 ‘공정이용’(저작권법 제35조의5) 판단에 대한 가이드*·상담** 제공,1,1,,hwpx
+PAR-DOC-POL-004-00126,DOC-POL-004,section1,86,note,* (가칭)「공정이용 가이드라인」 마련 후 현장의견수렴 등을 거쳐 법제화 추진 검토,1,1,,hwpx
+PAR-DOC-POL-004-00127,DOC-POL-004,section1,87,note,** 한국저작권위원회 법률지원센터 내 법률전문가의 AI 특화 상담·자문 제공,1,1,,hwpx
+PAR-DOC-POL-004-00128,DOC-POL-004,section1,88,bullet,- 저작권 권리정보 제공·유통시스템 등 학습데이터 거래체계 마련,1,1,,hwpx
+PAR-DOC-POL-004-00129,DOC-POL-004,section1,89,bullet,"- AI 모델의 공공저작물 이용 요건을 완화하는 규제샌드박스 실증 특례 시행, 공공누리 신유형 개발 등 공공저작물 개방 확대",1,1,,hwpx
+PAR-DOC-POL-004-00130,DOC-POL-004,section1,90,bullet,ㅇ (AI학습데이터) 다양한 형식의 연구데이터를 AI 학습데이터로 가공* 하는 등 연구데이터 활용을 촉진하는 기술개발 지원체계 마련,1,1,,hwpx
+PAR-DOC-POL-004-00131,DOC-POL-004,section1,91,note,"※ 메타데이터 자동 생성, 데이터 정제, 자동 레이블링, 비식별화 기술 등",1,1,,hwpx
+PAR-DOC-POL-004-00132,DOC-POL-004,section1,92,bullet,- 연구데이터를 AI학습데이터로 변환하기 위해 슈퍼컴 6호기 CPU 지원,1,1,,hwpx
+PAR-DOC-POL-004-00133,DOC-POL-004,section1,93,bullet,- 산·학·연 협력을 통한 혁신 가속화,1,1,,hwpx
+PAR-DOC-POL-004-00134,DOC-POL-004,section1,94,bullet,ㅇ (과학AI연구소) 과학기술 AI를 선도하는 허브로서 과학기술과 AI의 융합‧협력을 촉진하는 (가칭)국가과학AI연구소 구축(’26~),1,1,,hwpx
+PAR-DOC-POL-004-00135,DOC-POL-004,section1,95,note,"※ 인력 교류(파견, 겸직 등) 및 데이터 공유 활성화 등을 위한 제도개선 병행",1,1,,hwpx
+PAR-DOC-POL-004-00136,DOC-POL-004,section1,96,heading,< (가칭) 국가과학AI연구소 주요 기능(안) >,1,1,,hwpx
+PAR-DOC-POL-004-00137,DOC-POL-004,section1,97,bullet,ㅇ (AI바이오 허브) ‘30년까지 5개 AI 바이오 산‧학‧연‧병 협력 거점 조성,1,1,,hwpx
+PAR-DOC-POL-004-00138,DOC-POL-004,section1,98,bullet,"- 바이오 데이터 집적 및 규제 특례 적용, R&D·자동화/자율실험실, 인재양성 등 패키지 지원으로 성공사례 창출(’26년 1개 → ‘27년~ 4개 추가)",1,1,,hwpx
+PAR-DOC-POL-004-00139,DOC-POL-004,section1,99,bullet,- 책임있는 AI 활용을 위한 윤리 정립 및 문화 확산,1,1,,hwpx
+PAR-DOC-POL-004-00140,DOC-POL-004,section1,100,bullet,"ㅇ (AI시대 연구윤리) AI 사용에 따른 연구진실성‧신뢰성‧투명성* 확보 등 새로운 연구윤리, 성과평가 기준‧원칙 등을 제시하는 가이드라인 제공",1,1,,hwpx
+PAR-DOC-POL-004-00141,DOC-POL-004,section1,101,note,"* (진실성) AI 활용 목적 및 기여도 표시, 데이터 및 결과 조작‧표절 방지, (신뢰성) AI의 편향‧오류 점검, 연구재현성 확보, (투명성) AI 활용 정도‧방식에 대한 공개 등",1,1,,hwpx
+PAR-DOC-POL-004-00142,DOC-POL-004,section1,102,bullet,"- AI 활용시 개인정보·민감정보 침해, 전략기술 유출 및 이중용도(Dual-use) 가능성 등 국가안보 저해 위험성에 대한 윤리·보안 기준 제시",1,1,,hwpx
+PAR-DOC-POL-004-00143,DOC-POL-004,section1,103,note,"※ AI안전연구소 등과 협력, 바이오‧재료 등 분야별 특성을 반영한 세부 지침 마련 추진",1,1,,hwpx
+PAR-DOC-POL-004-00144,DOC-POL-004,section1,104,bullet,"- 국제 협력을 통해 글로벌 규범을 정립하고, 연구자 대상 윤리 교육 확대",1,1,,hwpx
+PAR-DOC-POL-004-00145,DOC-POL-004,section1,105,note,※ EU는 ’유럽의 AI in Science 전략‘에서 윤리적이고 신뢰할 수 있는 접근방식 강조('25.10.),1,1,,hwpx
+PAR-DOC-POL-004-00146,DOC-POL-004,section1,106,bullet,ㅇ (AI활용 저변확대) 연구자의 AI 활용 촉진 및 국민의 창의적 아이디어 발굴을 위해 과학기술 AI Agent 개발 및 AI가 1저자인 경진대회 개최,1,1,,hwpx
+PAR-DOC-POL-004-00147,DOC-POL-004,section1,107,note,"※ (구성) [track 1] AI agent 활용 연구 및 논문작성, [track 2] 과학기술 AI Agent 개발",1,1,,hwpx
+PAR-DOC-POL-004-00148,DOC-POL-004,section1,108,bullet,"ㅇ (교육콘텐츠 확산) 과학기술 AI 연구과정‧성과를 담은 영상 제작, 전시‧강연 등을 통해 과학기술 AI 이해도, 학생들의 탐구심 고취",1,1,,hwpx
+PAR-DOC-POL-004-00149,DOC-POL-004,section1,109,note,"※ (안) 대학 기초연구AI센터, 과학기술 AI 파운데이션 모델 사업 등 핵심사업을 중심으로 우선 추진",1,1,,hwpx
+PAR-DOC-POL-004-00150,DOC-POL-004,section1,110,bullet,- 수요 발굴·매칭을 통한 시장진입 촉진,1,1,,hwpx
+PAR-DOC-POL-004-00151,DOC-POL-004,section1,111,bullet,"ㅇ (초기 진입) 과학기술 AI 연구성과의 산업확산을 위한 수요 발굴‧매칭, R&D 연계 지원 등을 통해 초기 시장 창출 및 진입 촉진",1,1,,hwpx
+PAR-DOC-POL-004-00152,DOC-POL-004,section1,112,bullet,- 수요발굴지원단 등을 활용한 정부 R&D - 수요기업 매칭 지원 및 과학기술 AI R&D 및 챌린지 우수 성과에 대한 후속 사업 지원*,1,1,,hwpx
+PAR-DOC-POL-004-00153,DOC-POL-004,section1,113,note,"* 소규모 실증 지원, 연구개발특구육성(R&BD, 기술발굴 연계), 특구펀드 등과 연계한 맞춤형 지원",1,1,,hwpx
+PAR-DOC-POL-004-00154,DOC-POL-004,section1,114,bullet,"ㅇ (기업 수요연계) 바이오 등 주요 분야별 수요기업의 AI 기술수요를 발굴해 AI 기업과 매칭, 기술사업화 자금 및 개념검증(PoC) 등 지원",1,1,,hwpx
+PAR-DOC-POL-004-00155,DOC-POL-004,section1,115,bullet,- 과학기술 AI 창업·스케일업 가속화,1,1,,hwpx
+PAR-DOC-POL-004-00156,DOC-POL-004,section1,116,bullet,ㅇ (딥테크 창업 생태계) 정부 R&D를 통해 창출된 과학기술 AI 연구성과를 대상으로 창업 및 기술 스케일업* 등을 지원해 지속 가능한 생태계 구축,1,1,,hwpx
+PAR-DOC-POL-004-00157,DOC-POL-004,section1,117,note,"* 시장연계 창업탐색 지원, 연구개발서비스 개발 지원, 정책금융(공공기술사업화펀드(936억원, ‘24년 기준) 등)",1,1,,hwpx
+PAR-DOC-POL-004-00158,DOC-POL-004,section1,118,bullet,"- (지역 특화 지원) 연구개발특구를 중심으로 지역의 유망 과학기술 AI 연구성과를 산업으로 이어주기 위한 창업, 기술/기업스케일업 패키지* 지원",1,1,,hwpx
+PAR-DOC-POL-004-00159,DOC-POL-004,section1,119,note,"* 창업(기획형 창업지원 및 연구소기업 설립 연계) → 기술스케일업(공공연-기업 공동 연구지원 등 TRL 제고 ‧ 상용화 지원) → 기업스케일업(대형과제(年12.5~20억원), 특구펀드, 글로벌 진출 지원 등)",1,1,,hwpx
+PAR-DOC-POL-004-00160,DOC-POL-004,section1,120,bullet,"- (기업 R&D 지원) 과학기술 AI 기반의 기업 R&D 역량진단모델*을 활용한 컨설팅 지원‧R&D사업 후속지원 신설, 우수 활용사례 확산 및 홍보",1,1,,hwpx
+PAR-DOC-POL-004-00161,DOC-POL-004,section1,121,note,"* R&D자원, 혁신활동, 혁신산출, 혁신성과 등 26개의 지표를 활용해 R&D 역량의 질적 수준을 평가하는 기업부설 연구소의 혁신역량 평가 모델",1,1,,hwpx
+PAR-DOC-POL-004-00162,DOC-POL-004,section1,122,bullet,"ㅇ (과기원 창업) 4대 과기원을 주축으로 지역대학·기업과 함께 지역AX 창업 전진기지*를 구축하고, 민간 투자 연계를 통해 성장 지원",1,1,,hwpx
+PAR-DOC-POL-004-00163,DOC-POL-004,section1,123,note,"* KAIST–지식산업센터(‘24～‘28), UNIST–챌린지융합관(’23～‘27) 등",1,1,,hwpx
+PAR-DOC-POL-004-00164,DOC-POL-004,section1,124,bullet,"- AI 전문가·기술 매칭 및 멘토링, 연관기업-VC 파트너 참여 지원",1,1,,hwpx
+PAR-DOC-POL-004-00165,DOC-POL-004,section1,125,bullet,- 과기원이 보유한 글로벌 AI 거점*을 활용하여 현지 기업 연계 AI 실무교육을 강화하고 스타트업의 글로벌 진출 지원 병행,1,1,,hwpx
+PAR-DOC-POL-004-00166,DOC-POL-004,section1,126,note,"* KAIST 실리콘밸리 IDIS 캠퍼스, KAIST 뉴욕 캠퍼스 등",1,1,,hwpx
+PAR-DOC-POL-004-00167,DOC-POL-004,section1,127,bullet,ㅇ (대학-산업계 협력) 대학과 기업이 함께 AI 연계 교육과정 및 산학협력 프로그램을 개발‧운영하여 기업이 필요로 하는 AI 인재의 산업 진출 지원,1,1,,hwpx
+PAR-DOC-POL-004-00168,DOC-POL-004,section1,128,note,※ ‘26년 AI 부트캠프 37개 대학 및 AX 부트캠프 10개 대학 신규 선정,1,1,,hwpx
+PAR-DOC-POL-004-00169,DOC-POL-004,section1,129,bullet,ㅇ (유망기업 투자) ‘AI 혁신펀드*’ 등을 통해 AI 분야 초기 창업기업을 비롯한 유망기업에 대한 민간의 적극적 투자 유도,1,1,,hwpx
+PAR-DOC-POL-004-00170,DOC-POL-004,section1,130,note,"※ ‘25년 3,000억원(정부 1,500억원 + 민간 1,500억), 조성규모 지속 확대 추진",1,1,,hwpx
+PAR-DOC-POL-004-00171,DOC-POL-004,section1,131,bullet,- 과학기술 AI 기반 유망 신산업 육성 및 글로벌 협력 지원,1,1,,hwpx
+PAR-DOC-POL-004-00172,DOC-POL-004,section1,132,bullet,"ㅇ (산-학·연-관 삼각 협력) 기업‧대학‧출연연 원팀으로 기술개발‧비즈니스 모델을 도출, 시장에 신속히 진출할 수 있도록 정부가 지원하는 협력모델 창출",1,1,,hwpx
+PAR-DOC-POL-004-00173,DOC-POL-004,section1,133,note,※ 산업적으로 파급력 있는 기술개발을 위해 R&D 기획‧수행 全 단계에 산학연이 참여,1,1,,hwpx
+PAR-DOC-POL-004-00174,DOC-POL-004,section1,134,bullet,ㅇ (강점분야 산업육성) AI 기반으로 바이오‧소재 등 우리나라 강점 산업의 한계를 극복하고 새로운 성장동력 확보,1,1,,hwpx
+PAR-DOC-POL-004-00175,DOC-POL-004,section1,135,bullet,- (바이오) 산·학·연·병 협력 AI 바이오 혁신거점을 조성하여 원천기술 개발이 산업적 활용으로 이어질 수 있도록 지원*,1,1,,hwpx
+PAR-DOC-POL-004-00176,DOC-POL-004,section1,136,note,"* 신약개발 가속화, 뇌·역노화 산업 육성, 의료기기 혁신, 바이오 제조 고속·자동화 등",1,1,,hwpx
+PAR-DOC-POL-004-00177,DOC-POL-004,section1,137,bullet,"- (소재) 공정설계, 유망 소재 추천 등 AI 기반 서비스를 전문적으로 제공하는 소재 AI 기업 육성",1,1,,hwpx
+PAR-DOC-POL-004-00178,DOC-POL-004,section1,138,note,"※ ▲ 소재기업이 정부 R&D 수행시 AI 소재 전문기업 위탁연구 활성화, ▲ AI 전문기업, 소재기업 간 매칭 상담회 운영, ▲ 소재 데이터 및 AI 모델의 우수기업 이전 추진",1,1,,hwpx
+PAR-DOC-POL-004-00179,DOC-POL-004,section1,139,bullet,"ㅇ (글로벌 협력) 주요국과의 공동 연구개발, 글로벌 진출 협력 등 추진",1,1,,hwpx
+PAR-DOC-POL-004-00180,DOC-POL-004,section1,140,note,"※ 한-미 기술번영 MOU('25.10.), UAE 국빈방문 및 첨단산업 협력(’25.11.) 등 주요계기 활용",1,1,,hwpx
+PAR-DOC-POL-004-00181,DOC-POL-004,section1,141,bullet,□ ‘ASK 2026’ 개최를 통해 과학기술 AI 생태계 활성화('25.11~‘26.4.),1,1,,hwpx
+PAR-DOC-POL-004-00182,DOC-POL-004,section1,142,bullet,□ 바이오·소재 등 분야별 AI 혁신 전략 수립('25.12~),1,1,,hwpx
+PAR-DOC-POL-004-00183,DOC-POL-004,section1,143,bullet,□ 부총리·차관 주재 「과학기술AI 전략대화」 등 현장소통 지속,1,1,,hwpx
+PAR-DOC-POL-004-00184,DOC-POL-004,section1,144,bullet,□ 개요,1,1,,hwpx
+PAR-DOC-POL-004-00185,DOC-POL-004,section1,145,bullet,"ㅇ 과학기술 연구를 지원하는 AI Agent를 개발·활용하여, AI가 과학 연구를 수행하고 논문으로 정리하는 도전형 경연대회",1,1,,hwpx
+PAR-DOC-POL-004-00186,DOC-POL-004,section1,146,bullet,"⇒ ▲ AI와 함께하는 새로운 연구 생태계 모델 제시, ▲ AI의 과학적 지식·창의력·논리력 검증, ▲과학 연구자-AI 연구자 간 협업 촉진",1,1,,hwpx
+PAR-DOC-POL-004-00187,DOC-POL-004,section1,147,bullet,□ 주요 내용(안),1,1,,hwpx
+PAR-DOC-POL-004-00188,DOC-POL-004,section1,148,bullet,ㅇ (대회구성) 2개 트랙으로 구성,1,1,,hwpx
+PAR-DOC-POL-004-00189,DOC-POL-004,section1,149,bullet,"ㅇ (지원) AI 개발도구 및 GPU 인프라, 연구데이터 등 제공",1,1,,hwpx
+PAR-DOC-POL-004-00190,DOC-POL-004,section1,150,bullet,"ㅇ (리워드) 시상(부총리상, 기관장상 등) 및 인센티브* 제공",1,1,,hwpx
+PAR-DOC-POL-004-00191,DOC-POL-004,section1,151,note,"* 상금, GPU 이용 바우처 및 LLM 서비스 구독료, 과학기술AI 국가R&D 연구과제 참여 기회 부여, 후속 사업화 지원, 출연연 등 확산 등",1,1,,hwpx
+PAR-DOC-POL-004-00192,DOC-POL-004,section1,152,bullet,"ㅇ (기본원칙) AI 활용 과정과 산출물(AI 모델, 데이터, 프롬프트, 논문 등)은 공개(전용 플랫폼, GitHub 등)하여 연구 투명성 및 활용성 제고",1,1,,hwpx
+PAR-DOC-POL-004-00193,DOC-POL-004,section1,153,bullet,□ 추진 일정(안),1,1,,hwpx
+PAR-DOC-POL-004-00194,DOC-POL-004,section1,154,bullet,ㅇ 개최계획 발표('25.11.24) → 챌린지 및 평가('25.12~'26.3) → 시상·컨퍼런스('26.4),1,1,,hwpx
+PAR-DOC-POL-004-00195,DOC-POL-004,section1,155,note,※ ’25.12월중(잠정) 별도 과기정통부 공고문 및 사전설명회를 통해 상세 안내 예정,1,1,,hwpx

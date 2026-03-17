@@ -1,0 +1,12 @@
+{
+  "document_id": "DOC-POL-003",
+  "review_item_count": 10,
+  "figure_type_counts": {
+    "image": 10
+  },
+  "suggested_class_counts": {
+    "review_required": 10
+  },
+  "generic_caption_count": 9,
+  "missing_bbox_count": 10
+}

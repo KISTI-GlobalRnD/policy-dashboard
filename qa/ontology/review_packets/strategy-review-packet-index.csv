@@ -1,0 +1,7 @@
+policy_id,policy_name,output_csv,active_item_count,pending_count,reviewed_count,no_strategy_count,deferred_count,inactive_count,bucket_technology_count,bucket_infra_system_count,bucket_talent_count
+POL-002,AI-바이오 국가전략,POL-002__ai-바이오-국가전략__strategy-review.csv,0,0,1,0,0,1,0,1,0
+POL-007,기초연구 생태계 육성 방안,POL-007__기초연구-생태계-육성-방안__strategy-review.csv,0,0,21,99,0,120,103,4,13
+POL-008,"민간투자연계, 팁스 R&D 확산방안",POL-008__민간투자연계-팁스-r-d-확산방안__strategy-review.csv,0,0,4,45,0,49,34,15,0
+POL-009,과학기술분야 출연(연) 정책방향,POL-009__과학기술분야-출연-연-정책방향__strategy-review.csv,0,0,14,54,0,68,56,4,8
+POL-010,연구개발 생태계 혁신방안,POL-010__연구개발-생태계-혁신방안__strategy-review.csv,0,0,68,124,0,192,169,16,7
+POL-012,초혁신경제 15대 프로젝트 추진계획,POL-012__초혁신경제-15대-프로젝트-추진계획__strategy-review.csv,0,0,67,62,0,129,92,30,7

@@ -1,0 +1,38 @@
+[
+  {
+    "paragraph_id": "PAR-DOC-CTX-003-00001",
+    "document_id": "DOC-CTX-003",
+    "page_no": 1,
+    "page_block_order": 1,
+    "block_type": "paragraph",
+    "text": "참고 융 :그",
+    "source_line_count": 2,
+    "merged_block_count": 2,
+    "normalization_actions": "merged_continuation",
+    "source_mode": "bbox_text"
+  },
+  {
+    "paragraph_id": "PAR-DOC-CTX-003-00002",
+    "document_id": "DOC-CTX-003",
+    "page_no": 1,
+    "page_block_order": 2,
+    "block_type": "paragraph",
+    "text": "소재·나노분과",
+    "source_line_count": 1,
+    "merged_block_count": 1,
+    "normalization_actions": "",
+    "source_mode": "bbox_text"
+  },
+  {
+    "paragraph_id": "PAR-DOC-CTX-003-00003",
+    "document_id": "DOC-CTX-003",
+    "page_no": 1,
+    "page_block_order": 3,
+    "block_type": "heading",
+    "text": "<세부 기술(정책)분류체계>",
+    "source_line_count": 1,
+    "merged_block_count": 1,
+    "normalization_actions": "",
+    "source_mode": "bbox_text"
+  }
+]

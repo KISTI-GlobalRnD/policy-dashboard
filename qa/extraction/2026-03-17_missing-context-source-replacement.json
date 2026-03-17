@@ -1,0 +1,69 @@
+{
+  "run_date": "2026-03-17",
+  "official_source_url": "https://www.pacst.go.kr/jsp/common/download.jsp?param1=GcP08V2DuYJSEFxi1PB%2BJw%3D%3D&param2=xBT8RH4eVRh7O%2FDTVo1yBG8ojH6mw8v6TbkhoFu891SqjaxhSc23MfDTlR0De8vCuQDd3mbZ2vdb%0Ayrlad1GTDSZpRjHVq7kSbPr%2Bk2ADBn2TBrW4FFpsmZtcLxDUYj0Shp4lLObQXbtZ%2FgI0Pm8ullKi%0AfZgLWUPVUILqgQzfR3k%3D",
+  "official_source_rel_path": "data/2026-03-17_pacst_68-4_2025-implementation-plan.pdf",
+  "replacement_count": 3,
+  "replacements": [
+    {
+      "document_id": "DOC-CTX-012",
+      "section_title": "인공지능",
+      "page_no": 208,
+      "source_rel_path": "data/2026-03-17_missing-context-raw-sources/DOC-CTX-012__pacst-68-4-page-208.pdf",
+      "official_source_rel_path": "data/2026-03-17_pacst_68-4_2025-implementation-plan.pdf"
+    },
+    {
+      "document_id": "DOC-CTX-013",
+      "section_title": "첨단 로봇·제조",
+      "page_no": 235,
+      "source_rel_path": "data/2026-03-17_missing-context-raw-sources/DOC-CTX-013__pacst-68-4-page-235.pdf",
+      "official_source_rel_path": "data/2026-03-17_pacst_68-4_2025-implementation-plan.pdf"
+    },
+    {
+      "document_id": "DOC-CTX-014",
+      "section_title": "반도체·디스플레이",
+      "page_no": 232,
+      "source_rel_path": "data/2026-03-17_missing-context-raw-sources/DOC-CTX-014__pacst-68-4-page-232.pdf",
+      "official_source_rel_path": "data/2026-03-17_pacst_68-4_2025-implementation-plan.pdf"
+    }
+  ],
+  "registry_updates": [
+    {
+      "document_id": "DOC-CTX-012",
+      "source_rel_path": "data/2026-03-17_missing-context-raw-sources/DOC-CTX-012__pacst-68-4-page-208.pdf",
+      "page_no": 208,
+      "section_title": "인공지능"
+    },
+    {
+      "document_id": "DOC-CTX-013",
+      "source_rel_path": "data/2026-03-17_missing-context-raw-sources/DOC-CTX-013__pacst-68-4-page-235.pdf",
+      "page_no": 235,
+      "section_title": "첨단 로봇·제조"
+    },
+    {
+      "document_id": "DOC-CTX-014",
+      "source_rel_path": "data/2026-03-17_missing-context-raw-sources/DOC-CTX-014__pacst-68-4-page-232.pdf",
+      "page_no": 232,
+      "section_title": "반도체·디스플레이"
+    }
+  ],
+  "seed_updates": [
+    {
+      "document_id": "DOC-CTX-012",
+      "source_rel_path": "data/2026-03-17_missing-context-raw-sources/DOC-CTX-012__pacst-68-4-page-208.pdf",
+      "page_no": 208,
+      "section_title": "인공지능"
+    },
+    {
+      "document_id": "DOC-CTX-013",
+      "source_rel_path": "data/2026-03-17_missing-context-raw-sources/DOC-CTX-013__pacst-68-4-page-235.pdf",
+      "page_no": 235,
+      "section_title": "첨단 로봇·제조"
+    },
+    {
+      "document_id": "DOC-CTX-014",
+      "source_rel_path": "data/2026-03-17_missing-context-raw-sources/DOC-CTX-014__pacst-68-4-page-232.pdf",
+      "page_no": 232,
+      "section_title": "반도체·디스플레이"
+    }
+  ]
+}

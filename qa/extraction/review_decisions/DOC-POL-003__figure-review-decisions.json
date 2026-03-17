@@ -1,0 +1,64 @@
+{
+  "review_item_updates": {
+    "FRV-DOC-POL-003-001": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "문서 공통 태극마크 아이콘으로 정책 의미를 담는 figure가 아니라 제외."
+    },
+    "FRV-DOC-POL-003-002": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "M.AX 얼라이언스의 거버넌스와 분과 구성을 설명하는 핵심 추진체계 도식으로 유지."
+    },
+    "FRV-DOC-POL-003-003": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "제조AX 사례를 보여주는 제품 렌더 이미지로 정책 구조 정보가 약해 제외."
+    },
+    "FRV-DOC-POL-003-004": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "제조AX 사례를 보여주는 제품 렌더 이미지로 정책 구조 정보가 약해 제외."
+    },
+    "FRV-DOC-POL-003-005": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "제조AX 사례를 보여주는 제품 렌더 이미지로 정책 구조 정보가 약해 제외."
+    },
+    "FRV-DOC-POL-003-006": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "AI 기능을 상징하는 일반 아이콘 묶음으로 단독 의미가 약해 제외."
+    },
+    "FRV-DOC-POL-003-007": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "산업 분야를 상징하는 소형 아이콘으로 단독 의미가 약해 제외."
+    },
+    "FRV-DOC-POL-003-008": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "산업 분야를 상징하는 소형 아이콘으로 단독 의미가 약해 제외."
+    },
+    "FRV-DOC-POL-003-009": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "산업 분야를 상징하는 소형 아이콘으로 단독 의미가 약해 제외."
+    },
+    "FRV-DOC-POL-003-010": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "산업 분야를 상징하는 소형 아이콘으로 단독 의미가 약해 제외."
+    }
+  }
+}

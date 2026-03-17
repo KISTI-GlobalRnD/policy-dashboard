@@ -1,0 +1,63 @@
+review_item_id,document_id,source_format,page_no,candidate_source,candidate_id,rows,cols,preview_text,suggested_class,heuristic_reason,keep_for_dashboard,merge_group_hint,canonical_table_id,review_status,reviewer_notes,treat_as_char,text_wrap
+TRV-DOC-POL-012-JS-001,DOC-POL-012,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-012-001,1,1,,layout_false_positive,empty_table_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,0,IN_FRONT_OF_TEXT
+TRV-DOC-POL-012-JS-002,DOC-POL-012,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-012-002,2,4,"의안번호 | 제 3 호 | 의결
+사항",layout_false_positive,front_matter_table,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-003,DOC-POL-012,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-012-003,1,1,"성공적 국가 AI대전환을 위한
+정부 AX사업 全주기
+원스톱 지원방안(안)",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-004,DOC-POL-012,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-012-004,1,1,과학기술관계장관회의,layout_false_positive,front_matter_table,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-005,DOC-POL-012,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-012-005,2,5,제 출 자 | 과학기술정보통신부장관 | 배경훈 | 행정안전부장관,layout_false_positive,front_matter_table,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-006,DOC-POL-012,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-012-006,1,1,정부 AX사업 全주기 원스톱 지원방안(안) (요약),layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-007,DOC-POL-012,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-012-007,1,1,구분,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,0,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-008,DOC-POL-012,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-012-008,7,2,GPU | · 정부가 확보한 첨단GPU 1만장 중 일정량 할당 및 활용 지원,review_required,hwpx_needs_manual_review,yes,,CTBL-DOC-POL-012-004,reviewed,"GPU, 데이터, AI모델 등 지원자원을 정리한 구조표로 유지.",1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-009,DOC-POL-012,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-012-009,19,115,과학기술 관계장관회의(위원장 : 과기부총리),layout_false_positive,front_matter_table,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-010,DOC-POL-012,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-012-010,1,1,"· 민관 AX자원 통합정보 구축, AX 가이드라인 개발, AX 자원 메뉴판 구성 등
+· ’26년 AX 사업 기획 컨설팅 지원
+· ’26년 AX 사업 수행 지원(기술·인프라 지원, 규제 해소 등)",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,0,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-011,DOC-POL-012,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-012-011,7,1,"성공적 국가 AI대전환을 위한
+정부 AX사업 全주기
+원스톱 지원방안(안)",review_required,single_column_info_box,no,,,reviewed,표가 아니라 표지/제목 박스 반복 요소.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-012,DOC-POL-012,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-012-012,1,1,Ⅰ. 추진배경,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-013,DOC-POL-012,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-012-013,3,2,구분 | 주요내용,review_required,hwpx_needs_manual_review,no,,,reviewed,주요내용 설명 박스 성격이 강하고 행 머리글이 비어 있어 구조표로 쓰지 않음.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-014,DOC-POL-012,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-012-014,1,2,"* “AI혁신의 3대 필수조건인 SW, 과학기술 역량, 제조능력을 모두 갖춘 나라는 극소수인데, 한국은 그중 하나이며, AI로봇 공장, 자율주행, 의료로봇 등에서 한국이 선도적 역할을 할 것”(엔비디아 젠슨황 CEO, ‘25.10.)",layout_false_positive,single_row_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,0,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-015,DOC-POL-012,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-012-015,1,1,"⇨ 범정부 차원의 AX 협업체계를 구축하여, 全 부처가 대규모 AX예산과 보유 자원·역량을 효과적으로 연계·활용함으로써, 분야별 AX 성공사례를 조기에 창출하고 AI 기반의 성장과 혁신 주도 필요",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-016,DOC-POL-012,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-012-016,1,3,붙임1 | 부처별 AX사업 주요 현황,layout_false_positive,single_row_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-017,DOC-POL-012,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-012-017,6,8,"분야 | ∎ 중기제조, 보건복지, 국방, 환경, 농업, 식품의료기기, 국토·교통 등 분야 대상 생활밀접형 제품 246개의 신속한 AI적용 지원 | 공공 | 제조",structured_table,hwpx_matrix_table,yes,,CTBL-DOC-POL-012-001,reviewed,1차 heuristic seed. 구조표 후보로 유지.,0,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-018,DOC-POL-012,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-012-018,1,3,붙임2 | AX프로세스별 성공요인 및 정책지원 필요사항,layout_false_positive,single_row_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-019,DOC-POL-012,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-012-019,11,5,세부 절차 | 주요활동 | 핵심 성공요인 | 정책적 지원 필요사항,structured_table,hwpx_matrix_table,yes,,CTBL-DOC-POL-012-002,reviewed,1차 heuristic seed. 구조표 후보로 유지.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-020,DOC-POL-012,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-012-020,1,1,Ⅱ. 현황 및 문제점,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-021,DOC-POL-012,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-012-021,1,1,"◇ 정부 AX사업 프로세스(기획-수행-보급·확산) 8가지 주요 문제점 도출
+󰊱 (기획) ①범정부 AX종합전략 부재, ②AX·DX 기획역량 부족
+󰊲 (수행) ③AI인프라 부족, ④외산 AI 종속, ⑤규제 이슈 발생
+󰊳 (보급·확산) ⑥평가·환류체계 부족, ⑦소규모 실증 중심
+󰊴 (거버넌스) ⑧기관별 개별적 AX 추진구조 → 기관의 자원·역량을 효율적으로 연계",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,0,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-022,DOC-POL-012,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-012-022,1,1,󰊱 기획,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-023,DOC-POL-012,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-012-023,1,1,"∎ (현장사례1) 정부 AX사업 전담 A기관은 AX를 위한 학습데이터 구축부터 어려운 상황(대부분 데이터가 아날로그)으로, 사업 기획 시, 타부처 AX성공사례 벤치마킹 원하나 정보 접근이 어려움
+∎ (현장사례2) 정부 AX사업 전담 B기관은 AX사업기획에 큰 어려움이 있으며, 관련전문가·기업의 자문을 받는 것도 어려운 상황, 사업 추진과정에서의 AI적용가능",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,0,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-024,DOC-POL-012,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-012-024,1,1,"∎ (현장사례) 대부분의 지자체 AI사업은 단년도·소규모 예산 중심의 사업 구조, 지자체 간 재정 여건 및 역량 격차로 인해 AI 활용 경험이 축적되지 못하고 지역 간 불균형 심화",layout_false_positive,front_matter_table,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,0,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-025,DOC-POL-012,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-012-025,1,1,󰊲 수행,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-026,DOC-POL-012,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-012-026,1,1,"∎ (현장사례) 정부가 지원 중인 E분야 빅데이터 플랫폼은 GPU가 없는 환경이 많아 LLM기반 연구는 사실상 불가능(F위원회, 2025 국정감사 지적)",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,0,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-027,DOC-POL-012,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-012-027,1,1,"∎ (현장사례) 국내기업 44%는 국산·해외 AI솔루션을 병행 활용하고 있으며, 이 중 29%는 해외 AI솔루션만 사용 중(‘한국의 AI잠재력 실현’, AWS·스트랜드 파트너스 공동연구, ‘25.7.)",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,0,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-028,DOC-POL-012,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-012-028,1,1,∎ (현장사례) 기보유한 데이터를 AI Agent 서비스 개발·제공 목적으로 활용할 수 있는 범위 등 법적 불확실성 한계로 사업 수행 고민,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,0,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-029,DOC-POL-012,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-012-029,1,1,󰊳 보급·확산,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-030,DOC-POL-012,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-012-030,1,1,"∎ (현장사례) C부처는 교량·터널·댐 등 노후 기반시설의 안전점검 효율화를 위해 드론 영상과 AI분석을 결합하여 위험도를 평가하는 시스템 개발
+→ 후속 상용화 예산 삭감, 현행법 상 안전점검은 전문가 직접 수행 원칙으로 AI개발결과물 활용 한계 등으로 관련기술 사장",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,0,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-031,DOC-POL-012,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-012-031,1,1,"∎ (현장사례) D부처는 AI 구급활동 통합지원 플랫폼을 개발, 일부 지자체 시범 실증
+→ 기술적 완성도는 높았으나, 기존 119시스템과 연동 미비로 현장 확산 한계",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,0,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-032,DOC-POL-012,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-012-032,1,1,󰊴 거버넌스,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-033,DOC-POL-012,hwpx,section3,pymupdf_find_tables,TBL-DOC-POL-012-033,1,1,Ⅲ. 추진방안(안),layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-034,DOC-POL-012,hwpx,section3,pymupdf_find_tables,TBL-DOC-POL-012-034,3,19,GPU | · 정부가 확보한 첨단GPU 1만장 중 일정량 할당 및 활용 지원 | 󰊱기획 | 󰊲수행,structured_table,hwpx_matrix_table,yes,,CTBL-DOC-POL-012-003,reviewed,1차 heuristic seed. 구조표 후보로 유지.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-035,DOC-POL-012,hwpx,section3,pymupdf_find_tables,TBL-DOC-POL-012-035,1,1,󰊱 (기획) 범정부 AX통합 관리 및 분야·수준별 AX사업 기획 지원,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-036,DOC-POL-012,hwpx,section3,pymupdf_find_tables,TBL-DOC-POL-012-036,1,1,󰊲 (수행) 추가적인 AI인프라 지원과 기술·규제 컨설팅까지 일괄 지원,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-037,DOC-POL-012,hwpx,section3,pymupdf_find_tables,TBL-DOC-POL-012-037,1,1,󰊳 (보급·확산) 정부지원 AX성과의 지역·산업·공공 후속 확산 지원,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-038,DOC-POL-012,hwpx,section3,pymupdf_find_tables,TBL-DOC-POL-012-038,1,1,"∎클라우드 병원 정보시스템(PHIS) 기반의 병원 간 협진‧진료기록 연계, AI활용 질병예측, 예후관리 및 응급대응(AI앰뷸런스) 등 AI기반 차세대 의료서비스 실증",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-039,DOC-POL-012,hwpx,section3,pymupdf_find_tables,TBL-DOC-POL-012-039,1,1,󰊴 (거버넌스) 과기장관회의 중심 범정부 AX거버넌스 구축,layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-040,DOC-POL-012,hwpx,section3,pymupdf_find_tables,TBL-DOC-POL-012-040,19,115,과학기술 관계장관회의(위원장 : 과기부총리),layout_false_positive,front_matter_table,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-041,DOC-POL-012,hwpx,section3,pymupdf_find_tables,TBL-DOC-POL-012-041,1,1,Ⅳ. 향후계획(안),layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-042,DOC-POL-012,hwpx,section3,pymupdf_find_tables,TBL-DOC-POL-012-042,1,1,"· 민관 AX자원 통합정보 구축, AX 가이드라인 개발, AX 자원 메뉴판 구성 등
+· ’26년 AX 사업 기획 컨설팅 지원
+· ’26년 AX 사업 수행 지원(기술·인프라 지원, 규제 해소 등)",layout_false_positive,single_cell_layout_box,no,,,reviewed,1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외.,0,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-043,DOC-POL-012,hwpx,section4,pymupdf_find_tables,TBL-DOC-POL-012-043,3,2,"과학기술정보통신부 인공지능정책실
+인공지능정책기획관 인공지능정책기획과",review_required,hwpx_needs_manual_review,no,,,reviewed,연락처 메타데이터 표. dashboard 대상 아님.,1,TOP_AND_BOTTOM
+TRV-DOC-POL-012-JS-044,DOC-POL-012,hwpx,section4,pymupdf_find_tables,TBL-DOC-POL-012-044,3,2,"행정안전부 인공지능정부실
+인공지능정부정책국 인공지능정부정책과",review_required,hwpx_needs_manual_review,no,,,reviewed,연락처 메타데이터 표. dashboard 대상 아님.,1,TOP_AND_BOTTOM

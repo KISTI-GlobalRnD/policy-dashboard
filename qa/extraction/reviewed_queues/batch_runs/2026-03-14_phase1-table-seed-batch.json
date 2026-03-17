@@ -1,0 +1,130 @@
+{
+  "run_date": "2026-03-14",
+  "registry_path": "work/01_scope-and-ia/requirements/04_document-registry.csv",
+  "completed_count": 10,
+  "skipped_existing_count": 1,
+  "failed_count": 0,
+  "documents": [
+    {
+      "document_id": "DOC-POL-002",
+      "title": "AI-바이오 국가전략",
+      "run_status": "completed",
+      "reviewed_count": 71,
+      "review_required_count": 23,
+      "keep_yes_count": 11,
+      "keep_no_count": 60,
+      "canonical_table_count": 11,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-003",
+      "title": "제조AX 추진방향",
+      "run_status": "completed",
+      "reviewed_count": 35,
+      "review_required_count": 6,
+      "keep_yes_count": 2,
+      "keep_no_count": 33,
+      "canonical_table_count": 2,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-004",
+      "title": "과학기술xAI 국가전략",
+      "run_status": "completed",
+      "reviewed_count": 50,
+      "review_required_count": 4,
+      "keep_yes_count": 4,
+      "keep_no_count": 46,
+      "canonical_table_count": 4,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-005",
+      "title": "연구개발 생태계 혁신방안",
+      "run_status": "completed",
+      "reviewed_count": 77,
+      "review_required_count": 6,
+      "keep_yes_count": 16,
+      "keep_no_count": 61,
+      "canonical_table_count": 16,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-006",
+      "title": "초혁신경제 15대 프로젝트 추진계획",
+      "run_status": "skipped_existing",
+      "reviewed_count": "",
+      "review_required_count": "",
+      "keep_yes_count": "",
+      "keep_no_count": "",
+      "canonical_table_count": "",
+      "notes": "existing_decision_file"
+    },
+    {
+      "document_id": "DOC-POL-007",
+      "title": "AI반도체 산업 도약 전략",
+      "run_status": "completed",
+      "reviewed_count": 97,
+      "review_required_count": 11,
+      "keep_yes_count": 9,
+      "keep_no_count": 88,
+      "canonical_table_count": 9,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-008",
+      "title": "민간투자연계, 팁스 R&D 확산방안",
+      "run_status": "completed",
+      "reviewed_count": 24,
+      "review_required_count": 4,
+      "keep_yes_count": 4,
+      "keep_no_count": 20,
+      "canonical_table_count": 4,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-009",
+      "title": "기초연구 생태계 육성 방안",
+      "run_status": "completed",
+      "reviewed_count": 89,
+      "review_required_count": 5,
+      "keep_yes_count": 14,
+      "keep_no_count": 75,
+      "canonical_table_count": 14,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-010",
+      "title": "과학기술분야 출연(연) 정책방향",
+      "run_status": "completed",
+      "reviewed_count": 70,
+      "review_required_count": 6,
+      "keep_yes_count": 5,
+      "keep_no_count": 65,
+      "canonical_table_count": 5,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-011",
+      "title": "AI시대 대한민국 네트워크 전략",
+      "run_status": "completed",
+      "reviewed_count": 16,
+      "review_required_count": 3,
+      "keep_yes_count": 3,
+      "keep_no_count": 13,
+      "canonical_table_count": 3,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-012",
+      "title": "정부 AX사업 전주기 원스톱 지원방안",
+      "run_status": "completed",
+      "reviewed_count": 39,
+      "review_required_count": 5,
+      "keep_yes_count": 3,
+      "keep_no_count": 36,
+      "canonical_table_count": 3,
+      "notes": ""
+    }
+  ]
+}

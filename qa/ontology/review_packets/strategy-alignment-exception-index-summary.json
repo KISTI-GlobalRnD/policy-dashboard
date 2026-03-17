@@ -1,0 +1,24 @@
+{
+  "exception_packet_count": 1,
+  "total_item_count": 42,
+  "packets": [
+    {
+      "exception_id": "STX-STR-010-001",
+      "strategy_id": "STR-010",
+      "strategy_label": "디지털 헬스케어 서비스 혁신",
+      "output_csv": "STX-STR-010-001__디지털-헬스케어-서비스-혁신__alignment-review.csv",
+      "output_md": "STX-STR-010-001__디지털-헬스케어-서비스-혁신__alignment-review.md",
+      "item_count": 42,
+      "active_item_count": 0,
+      "pending_count": 0,
+      "reviewed_count": 23,
+      "no_strategy_count": 19,
+      "deferred_count": 0,
+      "policy_count": 3,
+      "bucket_technology_count": 23,
+      "bucket_infra_system_count": 17,
+      "bucket_talent_count": 2
+    }
+  ],
+  "removed_stale_files": []
+}

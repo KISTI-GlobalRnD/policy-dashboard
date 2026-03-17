@@ -1,0 +1,12 @@
+document_id,title,run_status,review_item_count,markdown_candidate_count,json_candidate_count,structured_table_count,layout_false_positive_count,review_required_count,notes
+DOC-POL-002,AI-바이오 국가전략,completed,94,0,94,11,60,23,
+DOC-POL-003,제조AX 추진방향,completed,41,0,41,2,33,6,
+DOC-POL-004,과학기술xAI 국가전략,completed,54,0,54,4,46,4,
+DOC-POL-005,연구개발 생태계 혁신방안,completed,83,0,83,16,61,6,
+DOC-POL-006,초혁신경제 15대 프로젝트 추진계획,completed,10,10,0,8,0,1,
+DOC-POL-007,AI반도체 산업 도약 전략,completed,108,0,108,9,88,11,
+DOC-POL-008,"민간투자연계, 팁스 R&D 확산방안",completed,28,0,28,4,20,4,
+DOC-POL-009,기초연구 생태계 육성 방안,completed,94,0,94,14,75,5,
+DOC-POL-010,과학기술분야 출연(연) 정책방향,completed,76,0,76,5,65,6,
+DOC-POL-011,AI시대 대한민국 네트워크 전략,completed,19,0,19,3,13,3,
+DOC-POL-012,정부 AX사업 전주기 원스톱 지원방안,completed,44,0,44,3,36,5,

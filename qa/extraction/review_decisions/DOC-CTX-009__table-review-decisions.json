@@ -1,0 +1,10 @@
+{
+  "review_item_updates": {
+    "TRV-DOC-CTX-009-MD-001": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "중분류 목록만 남고 두 번째 열이 비어 있는 broken markdown table이라 canonical table로 유지하지 않음."
+    }
+  },
+  "canonical_tables": []
+}

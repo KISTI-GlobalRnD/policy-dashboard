@@ -1,0 +1,12 @@
+{
+  "document_id": "DOC-POL-002",
+  "source_text_block_path": "work/02_structured-extraction/text/DOC-POL-002_blocks.json",
+  "page_count": 3,
+  "paragraph_count": 239,
+  "text_paragraph_count": 239,
+  "table_block_count": 0,
+  "removed_footer_count": 0,
+  "skipped_table_overlap_count": 0,
+  "skipped_noise_count": 0,
+  "merge_count": 0
+}

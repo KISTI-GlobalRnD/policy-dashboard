@@ -1,0 +1,13 @@
+{
+  "document_id": "DOC-POL-002",
+  "review_item_count": 62,
+  "reviewed_count": 62,
+  "review_required_count": 0,
+  "keep_yes_count": 32,
+  "keep_no_count": 30,
+  "keep_review_count": 0,
+  "quality_status_counts": {
+    "dashboard_ready": 32,
+    "decorative_excluded": 30
+  }
+}

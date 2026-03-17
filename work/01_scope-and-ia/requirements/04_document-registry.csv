@@ -1,0 +1,38 @@
+﻿registry_id,doc_role,scope_track,include_status,normalized_title,source_rel_path,internal_path,source_format,issuing_org,issued_date,region,notes
+DOC-REF-001,working_note,support,support,정책-항목 구성(안),data/260312_정책-항목 구성(안).pdf,,pdf,과기정통부 추정,2026-03-12,KR,정책별 항목 정리 초안; 이미지형 페이지 비중 높음
+DOC-REF-002,working_note,support,support,정책기술분야별 재구성(안),data/260312_정책기술분야별 재구성(안).pdf,,pdf,과기정통부 추정,2026-03-12,KR,15개 전략 축 재구성 초안
+DOC-TAX-001,taxonomy_source,support,support,중장기투자전략 세부기술분야별 중분류,data/260312_중장기투자전략_세부기술분야별_중분류.xlsx,,xlsx,미상,2026-03-12,KR,14개 기술 대분류와 중분류 기준표
+DOC-POL-001,policy_source,phase1,include,123대 국정과제,data/이재명정부_123대_국정과제_2025-09.pdf,,pdf,대한민국 정부,2025-09,KR,2026-03-16 공개 PDF 확보; phase1 분석 범위
+DOC-POL-002,policy_source,phase1,include,AI-바이오 국가전략,data/260312_12개 정책 문헌 자료.zip,1_251218 (5호) 제2회 과기장관회의_AI 바이오 국가전략(안)_과기정통부_최종.hwpx,hwpx,과기정통부,2025-12-18,KR,1차 분석 범위
+DOC-POL-003,policy_source,phase1,include,제조AX 추진방향,data/260312_12개 정책 문헌 자료.zip,251122 (3호) 제1회 과학기술관계장관회의 안건_제조AX 추진방향(안)_산업부_인쇄.hwpx,hwpx,산업통상자원부,2025-11-22,KR,1차 분석 범위; HWPX 우선 사용
+DOC-POL-004,policy_source,phase1,include,과학기술xAI 국가전략,data/260312_12개 정책 문헌 자료.zip,251122 (4호) 제1회 과학기술관계장관회의 안건_과학기술xAI 국가전략(안)_과기정통부_인쇄.hwpx,hwpx,과기정통부,2025-11-22,KR,1차 분석 범위
+DOC-POL-005,policy_source,phase1,include,연구개발 생태계 혁신방안,data/260312_12개 정책 문헌 자료.zip,251122 (7호) 제1회 과학기술관계장관회의 안건_연구개발 생태계 혁신방안(안)_과기정통부_인쇄.hwpx,hwpx,과기정통부,2025-11-22,KR,1차 분석 범위
+DOC-POL-006,policy_source,phase1,include,초혁신경제 15대 프로젝트 추진계획,data/260312_12개 정책 문헌 자료.zip,251216_(안건) 초혁신경제 15대 프로젝트 추진계획 IV.pdf,pdf,기획재정부,2025-12-16,KR,"1차 분석 범위; canonical 근거와 표는 PDF 유지, 변환 HWPX는 본문-only 참조본"
+DOC-POL-007,policy_source,phase1,include,AI반도체 산업 도약 전략,data/260312_12개 정책 문헌 자료.zip,251218 (4호) 제2회 과기장관회의_AI반도체 산업 도약 전략(안)_과기정통부_최종.hwpx,hwpx,과기정통부,2025-12-18,KR,1차 분석 범위
+DOC-POL-008,policy_source,phase1,include,"민간투자연계, 팁스 R&D 확산방안",data/260312_12개 정책 문헌 자료.zip,"251218 (6호) 제2회 과기장관회의_민간투자연계, 팁스 R&D 확산방안(안)_중기부_최종.hwpx",hwpx,중소벤처기업부,2025-12-18,KR,1차 분석 범위
+DOC-POL-009,policy_source,phase1,include,기초연구 생태계 육성 방안,data/260312_12개 정책 문헌 자료.zip,251218 (7호) 제2회 과기장관회의_기초연구 생태계 육성 방안(안)_과기정통부_최종.hwpx,hwpx,과기정통부,2025-12-18,KR,1차 분석 범위
+DOC-POL-010,policy_source,phase1,include,과학기술분야 출연(연) 정책방향,data/260312_12개 정책 문헌 자료.zip,251218 (8호) 제2회 과기장관회의_과학기술분야 출연(연) 정책방향(안)_과기정통부_최종.hwpx,hwpx,과기정통부,2025-12-18,KR,1차 분석 범위
+DOC-POL-011,policy_source,phase1,include,AI시대 대한민국 네트워크 전략,data/260312_12개 정책 문헌 자료.zip,251218 (9호) 제2회 과기장관회의_AI시대 대한민국 네트워크 전략(안)_과기정통부_최종.hwpx,hwpx,과기정통부,2025-12-18,KR,1차 분석 범위
+DOC-POL-012,policy_source,phase1,include,정부 AX사업 전주기 원스톱 지원방안,data/260312_12개 정책 문헌 자료.zip,260128 (3호) 제4회 과기장관회의 안건_정부 AX사업 전주기 원스톱 지원방안(안)_최종.hwpx,hwpx,과기정통부/행정안전부 추정,2026-01-28,KR,1차 분석 범위
+DOC-POL-013,policy_source,phase2,hold,범부처 기술관리체계 정비 및 협업 강화 방향,data/260312_12개 정책 문헌 자료/260305 (4호) 범부처 기술관리체계 정비 및 협업 강화 방향(안)_0305 1130.hwpx,,hwpx,미상,2026-03-05,KR,보류; 재구성 초안 직접 대상 여부 확인 필요; 2026-03-16 companion HWPX로 구조 추출 전환
+DOC-POL-014,policy_source,phase2,hold,더불어민주당 정책공약집,data/260312_12개 정책 문헌 자료.zip,[별첨2] 민주당_중앙공약_제21대_대통령선거_더불어민주당_정책공약집_중앙공약_배포용 (3).pdf,pdf,더불어민주당,미상,KR,보류; 성격이 정책 문헌과 다름
+DOC-BMK-001,benchmark_source,phase2,hold,일본 통합혁신전략 2025 본문 영어본,data/260312_해외 정책(원문).zip,일본_통합혁신전략2025_본문_영어.pdf,pdf,일본 내각부,2025-06-06,JP,해외 비교용
+DOC-BMK-002,benchmark_source,phase2,hold,EU Horizon Europe Regulation,data/260312_해외 정책(원문).zip,EU_horizon europe_regulation.pdf,pdf,European Union,2021-04-28,EU,해외 비교용
+DOC-BMK-003,benchmark_source,phase2,hold,EU Horizon Europe Strategic Plan 2025-2027,data/260312_해외 정책(원문).zip,EU_horizon europe strategic plan 2025-2027.pdf,pdf,European Commission,2024-03,EU,해외 비교용
+DOC-BMK-004,benchmark_source,phase2,hold,미국 Genesis Mission,data/260312_해외 정책(원문).zip,미국_Genesis Mission_원문.pdf,pdf,미상,미상,US,해외 비교용
+DOC-BMK-005,benchmark_source,phase2,hold,중국 제15차 5개년 규획 초안,data/260312_해외 정책(원문).zip,중국_제15차 5개년 규획_원문_초안.pdf,pdf,중국 정부,미상,CN,해외 비교용
+DOC-BMK-006,benchmark_source,phase2,hold,일본 통합혁신전략 2025 원문,data/260312_해외 정책(원문).zip,일본_통합혁신전략2025_원문.pdf,pdf,일본 내각부,2025-06-06,JP,해외 비교용
+DOC-CTX-001,context_note,support,support,기술분야 개요 국방,data/260313_기술분야 개요.zip,기술분야_개요_국방.pdf,pdf,미상,2026-03-13,KR,기술분야 설명 자료
+DOC-CTX-002,context_note,support,support,기술분야 개요 사이버보안,data/260313_기술분야 개요.zip,기술분야_개요_사이버보안_편집.pdf,pdf,미상,2026-03-13,KR,기술분야 설명 자료
+DOC-CTX-003,context_note,support,support,기술분야 개요 소재,data/260313_기술분야 개요.zip,기술분야_개요_소재.pdf,pdf,미상,2026-03-13,KR,기술분야 설명 자료
+DOC-CTX-004,context_note,support,support,기술분야 개요 양자,data/260313_기술분야 개요.zip,기술분야_개요_양자.pdf,pdf,미상,2026-03-13,KR,기술분야 설명 자료
+DOC-CTX-005,context_note,support,support,기술분야 개요 에너지,data/260313_기술분야 개요.zip,기술분야_개요_에너지.pdf,pdf,미상,2026-03-13,KR,기술분야 설명 자료
+DOC-CTX-006,context_note,support,support,기술분야 개요 우주항공,data/260313_기술분야 개요.zip,기술분야_개요_우주항공.pdf,pdf,미상,2026-03-13,KR,기술분야 설명 자료
+DOC-CTX-007,context_note,support,support,기술분야 개요 이차전지,data/260313_기술분야 개요.zip,기술분야_개요_이차전지.pdf,pdf,미상,2026-03-13,KR,기술분야 설명 자료
+DOC-CTX-008,context_note,support,support,기술분야 개요 차세대통신,data/260313_기술분야 개요.zip,기술분야_개요_차세대통신.pdf,pdf,미상,2026-03-13,KR,기술분야 설명 자료
+DOC-CTX-009,context_note,support,support,기술분야 개요 첨단모빌리티,data/260313_기술분야 개요.zip,기술분야_개요_첨단모빌리티.pdf,pdf,미상,2026-03-13,KR,기술분야 설명 자료
+DOC-CTX-010,context_note,support,support,기술분야 개요 첨단바이오,data/260313_기술분야 개요.zip,기술분야_개요_첨단바이오.pdf,pdf,미상,2026-03-13,KR,기술분야 설명 자료
+DOC-CTX-011,context_note,support,support,기술분야 개요 해양,data/260313_기술분야 개요.zip,기술분야_개요_해양.pdf,pdf,미상,2026-03-13,KR,기술분야 설명 자료
+DOC-CTX-012,context_note,support,support,기술분야 개요 인공지능,data/2026-03-17_missing-context-raw-sources/DOC-CTX-012__pacst-68-4-page-208.pdf,,pdf,국가과학기술자문회의,2025-03-13,KR,"PACST 68-4 공식 PDF에서 해당 기술분야 섹션을 발췌한 source-backed raw context note; 2026-03-17 raw source replacement (page 208, section 인공지능)"
+DOC-CTX-013,context_note,support,support,기술분야 개요 첨단로봇제조,data/2026-03-17_missing-context-raw-sources/DOC-CTX-013__pacst-68-4-page-235.pdf,,pdf,국가과학기술자문회의,2025-03-13,KR,"PACST 68-4 공식 PDF에서 해당 기술분야 섹션을 발췌한 source-backed raw context note; 2026-03-17 raw source replacement (page 235, section 첨단 로봇·제조)"
+DOC-CTX-014,context_note,support,support,기술분야 개요 반도체디스플레이,data/2026-03-17_missing-context-raw-sources/DOC-CTX-014__pacst-68-4-page-232.pdf,,pdf,국가과학기술자문회의,2025-03-13,KR,"PACST 68-4 공식 PDF에서 해당 기술분야 섹션을 발췌한 source-backed raw context note; 2026-03-17 raw source replacement (page 232, section 반도체·디스플레이)"

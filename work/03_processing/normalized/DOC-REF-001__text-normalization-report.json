@@ -1,0 +1,13 @@
+{
+  "document_id": "DOC-REF-001",
+  "source_page_chunk_path": "work/02_structured-extraction/text/DOC-REF-001_pages.json",
+  "source_bbox_block_path": "work/02_structured-extraction/text/DOC-REF-001_blocks.json",
+  "page_count": 12,
+  "paragraph_count": 24,
+  "text_paragraph_count": 24,
+  "table_block_count": 0,
+  "removed_footer_count": 6,
+  "skipped_table_overlap_count": 1044,
+  "skipped_noise_count": 2,
+  "merge_count": 23
+}

@@ -1,0 +1,269 @@
+{
+  "status": "pass",
+  "issues": [
+    {
+      "level": "warning",
+      "code": "policy_item_missing_primary_strategy",
+      "message": "Policy items without a primary strategy mapping exist.",
+      "details": [
+        {
+          "policy_item_id": "ITM-POL-001-00014",
+          "item_label": "4대강재자연화"
+        },
+        {
+          "policy_item_id": "ITM-POL-001-00055",
+          "item_label": "R&D 혁신(기술역량) →DX·AX(생산성) →중견기업성장(BM혁신) 및글로벌화로..."
+        },
+        {
+          "policy_item_id": "ITM-POL-001-00061",
+          "item_label": "‘경제안보점검회의’ 정례화로통상·경제안보컨트롤타워가동"
+        },
+        {
+          "policy_item_id": "ITM-POL-001-00072",
+          "item_label": "▴｢ 동포기업-국내기업｣ 연계를 통한국내중소기업의해외진출지원 ▴글로벌한인네트워크강..."
+        },
+        {
+          "policy_item_id": "ITM-POL-001-00085",
+          "item_label": "건강보험재정안정화"
+        },
+        {
+          "policy_item_id": "ITM-POL-001-00093",
+          "item_label": "경영비부담완화"
+        },
+        {
+          "policy_item_id": "ITM-POL-001-00094",
+          "item_label": "경제안보강화"
+        },
+        {
+          "policy_item_id": "ITM-POL-001-00095",
+          "item_label": "경제안보대응체계를정비하고민관소통을강화하여"
+        },
+        {
+          "policy_item_id": "ITM-POL-001-00096",
+          "item_label": "경제안보조정·통합기능강화및신흥·첨단기술분야과학기술외교적극 추진을 통해글로벌공급망재..."
+        },
+        {
+          "policy_item_id": "ITM-POL-001-00098",
+          "item_label": "경제적응력강화"
+        },
+        {
+          "policy_item_id": "ITM-POL-001-00101",
+          "item_label": "계열사지원이없는독립·중소기업의공정한경쟁기반회복"
+        },
+        {
+          "policy_item_id": "ITM-POL-001-00103",
+          "item_label": "계획입지발굴"
+        },
+        {
+          "policy_item_id": "ITM-POL-001-00130",
+          "item_label": "과학적기후변화감시·예측"
+        },
+        {
+          "policy_item_id": "ITM-POL-001-00135",
+          "item_label": "교권보호및정치기본권확대"
+        },
+        {
+          "policy_item_id": "ITM-POL-001-00143",
+          "item_label": "국가해상수송력20% 확충(1.2억톤)"
+        },
+        {
+          "policy_item_id": "ITM-POL-001-00162",
+          "item_label": "국제사회논의주도"
+        },
+        {
+          "policy_item_id": "ITM-POL-001-00182",
+          "item_label": "금융범죄단속강화"
+        },
+        {
+          "policy_item_id": "ITM-POL-001-00191",
+          "item_label": "기술혁신·생산기반확대"
+        },
+        {
+          "policy_item_id": "ITM-POL-001-00199",
+          "item_label": "기후공동대응과인도적상황개선을위한협력추진"
+        },
+        {
+          "policy_item_id": "ITM-POL-001-00200",
+          "item_label": "기후위기대응수산혁신"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "policy_count": 12,
+    "strategy_count": 15,
+    "policy_item_count": 1697,
+    "policy_item_group_count": 10,
+    "policy_item_content_count": 19,
+    "derived_representation_count": 5319,
+    "source_asset_count": 648,
+    "display_text_count": 1726,
+    "curation_assertion_count": 1003,
+    "taxonomy_counts": [
+      {
+        "taxonomy_type": "strategy",
+        "mapping_count": 801
+      },
+      {
+        "taxonomy_type": "tech_domain",
+        "mapping_count": 604
+      },
+      {
+        "taxonomy_type": "tech_subdomain",
+        "mapping_count": 548
+      }
+    ],
+    "paragraph_source_coverage": [
+      {
+        "document_id": "DOC-CTX-001",
+        "paragraph_count": 5,
+        "mapped_count": 5,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-002",
+        "paragraph_count": 2,
+        "mapped_count": 2,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-003",
+        "paragraph_count": 3,
+        "mapped_count": 3,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-004",
+        "paragraph_count": 2,
+        "mapped_count": 2,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-005",
+        "paragraph_count": 5,
+        "mapped_count": 5,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-006",
+        "paragraph_count": 3,
+        "mapped_count": 3,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-007",
+        "paragraph_count": 12,
+        "mapped_count": 12,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-008",
+        "paragraph_count": 3,
+        "mapped_count": 3,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-009",
+        "paragraph_count": 15,
+        "mapped_count": 15,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-010",
+        "paragraph_count": 8,
+        "mapped_count": 8,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-011",
+        "paragraph_count": 4,
+        "mapped_count": 4,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-001",
+        "paragraph_count": 2179,
+        "mapped_count": 2179,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-002",
+        "paragraph_count": 239,
+        "mapped_count": 236,
+        "coverage_ratio": 0.9874
+      },
+      {
+        "document_id": "DOC-POL-003",
+        "paragraph_count": 132,
+        "mapped_count": 132,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-004",
+        "paragraph_count": 195,
+        "mapped_count": 195,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-005",
+        "paragraph_count": 485,
+        "mapped_count": 482,
+        "coverage_ratio": 0.9938
+      },
+      {
+        "document_id": "DOC-POL-006",
+        "paragraph_count": 496,
+        "mapped_count": 496,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-007",
+        "paragraph_count": 261,
+        "mapped_count": 261,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-008",
+        "paragraph_count": 100,
+        "mapped_count": 100,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-009",
+        "paragraph_count": 292,
+        "mapped_count": 292,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-010",
+        "paragraph_count": 185,
+        "mapped_count": 185,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-011",
+        "paragraph_count": 65,
+        "mapped_count": 65,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-012",
+        "paragraph_count": 98,
+        "mapped_count": 98,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-REF-001",
+        "paragraph_count": 24,
+        "mapped_count": 24,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-REF-002",
+        "paragraph_count": 1,
+        "mapped_count": 1,
+        "coverage_ratio": 1.0
+      }
+    ]
+  }
+}

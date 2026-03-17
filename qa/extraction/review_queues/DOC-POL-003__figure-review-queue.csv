@@ -1,0 +1,29 @@
+review_item_id,figure_id,document_id,title,doc_role,include_status,location,figure_type,extraction_method,extraction_confidence,has_source_bbox,generic_caption,caption,summary,asset_path,suggested_class,rationale,keep_for_dashboard,review_status,quality_status,reviewer_notes
+FRV-DOC-POL-003-001,FIG-DOC-POL-003-001,DOC-POL-003,제조AX 추진방향,policy_source,include,section1,image,hwpx-xml-parser,medium,0,0,,,work/02_structured-extraction/figures/assets/DOC-POL-003/image1.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-003-002,FIG-DOC-POL-003-002,DOC-POL-003,제조AX 추진방향,policy_source,include,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 임바디드2.JPG
+원본 그림의 크기: 가로 1380pixel, 세로 245pixel",임바디드2.JPG,work/02_structured-extraction/figures/assets/DOC-POL-003/image2.JPG,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-003-003,FIG-DOC-POL-003-003,DOC-POL-003,제조AX 추진방향,policy_source,include,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00003bb80002.bmp
+원본 그림의 크기: 가로 319pixel, 세로 218pixel",CLP00003bb80002.bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image3.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-003-004,FIG-DOC-POL-003-004,DOC-POL-003,제조AX 추진방향,policy_source,include,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00003bb8333c.bmp
+원본 그림의 크기: 가로 206pixel, 세로 167pixel",CLP00003bb8333c.bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image4.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-003-005,FIG-DOC-POL-003-005,DOC-POL-003,제조AX 추진방향,policy_source,include,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00003bb80001.bmp
+원본 그림의 크기: 가로 614pixel, 세로 317pixel",CLP00003bb80001.bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image5.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-003-006,FIG-DOC-POL-003-006,DOC-POL-003,제조AX 추진방향,policy_source,include,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000010740005.bmp
+원본 그림의 크기: 가로 280pixel, 세로 92pixel",CLP000010740005.bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image6.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-003-007,FIG-DOC-POL-003-007,DOC-POL-003,제조AX 추진방향,policy_source,include,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000010740002.bmp
+원본 그림의 크기: 가로 72pixel, 세로 76pixel",CLP000010740002.bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image7.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-003-008,FIG-DOC-POL-003-008,DOC-POL-003,제조AX 추진방향,policy_source,include,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000010740001.bmp
+원본 그림의 크기: 가로 65pixel, 세로 80pixel",CLP000010740001.bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image8.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-003-009,FIG-DOC-POL-003-009,DOC-POL-003,제조AX 추진방향,policy_source,include,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000010740003.bmp
+원본 그림의 크기: 가로 68pixel, 세로 76pixel",CLP000010740003.bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image9.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-003-010,FIG-DOC-POL-003-010,DOC-POL-003,제조AX 추진방향,policy_source,include,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000010740004.bmp
+원본 그림의 크기: 가로 77pixel, 세로 76pixel",CLP000010740004.bmp,work/02_structured-extraction/figures/assets/DOC-POL-003/image10.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,

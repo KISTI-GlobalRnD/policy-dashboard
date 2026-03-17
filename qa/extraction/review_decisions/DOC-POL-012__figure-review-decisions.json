@@ -1,0 +1,22 @@
+{
+  "review_item_updates": {
+    "FRV-DOC-POL-012-001": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "문서 공통 태극마크 아이콘으로 정책 의미를 담는 figure가 아니라 제외."
+    },
+    "FRV-DOC-POL-012-002": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "주요국 동향 문단에 붙은 국가 식별용 소형 플래그 아이콘으로 단독 의미가 약해 제외."
+    },
+    "FRV-DOC-POL-012-003": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "주요국 동향 문단에 붙은 국가 식별용 소형 플래그 아이콘으로 단독 의미가 약해 제외."
+    }
+  }
+}

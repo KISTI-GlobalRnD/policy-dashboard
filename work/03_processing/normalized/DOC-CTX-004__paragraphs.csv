@@ -1,0 +1,3 @@
+paragraph_id,document_id,page_no,page_block_order,block_type,text,source_line_count,merged_block_count,normalization_actions,source_mode
+PAR-DOC-CTX-004-00001,DOC-CTX-004,1,1,paragraph,양자,1,1,,bbox_text
+PAR-DOC-CTX-004-00002,DOC-CTX-004,1,2,heading,<양자 분야 세부기술 분류체계>,1,1,,bbox_text

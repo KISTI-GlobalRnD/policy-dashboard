@@ -1,0 +1,17 @@
+{
+  "sample_workbench": "work/04_ontology/sample_build/review_workbench_samples/DOC-POL-006__policy-item-review-workbench-sample-reviewed.csv",
+  "target_workbench": "work/04_ontology/review_workbenches/DOC-POL-006__policy-item-review-workbench.csv",
+  "applied_count": 11,
+  "skipped_existing_count": 0,
+  "missing_target_count": 0,
+  "mismatched_count": 0,
+  "seeded_decision_counts": {
+    "drop": 3,
+    "keep": 3,
+    "attach_as_case_example": 2,
+    "keep_as_regulatory_delta": 3
+  },
+  "missing_target_ids": [],
+  "mismatched_ids": [],
+  "force": true
+}

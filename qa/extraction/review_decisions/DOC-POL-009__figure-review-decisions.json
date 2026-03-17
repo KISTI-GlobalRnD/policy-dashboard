@@ -1,0 +1,166 @@
+{
+  "review_item_updates": {
+    "FRV-DOC-POL-009-001": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "교원·전임교원·신진 전임교원 수혜율 추이를 정리한 핵심 지표 차트로 유지."
+    },
+    "FRV-DOC-POL-009-002": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "상위 논문 성과와 연구비 대비 생산성을 함께 보여주는 핵심 성과 차트로 유지."
+    },
+    "FRV-DOC-POL-009-003": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "문서 공통 태극마크 아이콘으로 정책 의미를 담는 figure가 아니라 제외."
+    },
+    "FRV-DOC-POL-009-004": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "정부 R&D 대비 기초연구 비중 추이를 보여주는 핵심 예산 차트로 유지."
+    },
+    "FRV-DOC-POL-009-005": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "전임·비전임 인력 구성 추이를 보여주는 생태계 인력 차트로 유지."
+    },
+    "FRV-DOC-POL-009-006": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "FRV-DOC-POL-009-001의 일부를 분리한 축약 차트로 보이며 정보가 중복되어 제외."
+    },
+    "FRV-DOC-POL-009-007": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "신진 전임교원 수와 수혜율 추이를 보여주는 핵심 차트로 유지."
+    },
+    "FRV-DOC-POL-009-008": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "JCR/피인용/NSP 논문 수와 단위 예산당 성과를 종합한 핵심 성과 차트로 유지."
+    },
+    "FRV-DOC-POL-009-009": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "국내 연구자 수와 기초연구 수행 연구자 수를 비교한 연구자 저변 차트로 유지."
+    },
+    "FRV-DOC-POL-009-010": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "상위 1% 연구자(HCR) 국가 비교 차트로 유지."
+    },
+    "FRV-DOC-POL-009-011": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "Nature Index Top 100 대학 국가 분포 비교 차트로 유지."
+    },
+    "FRV-DOC-POL-009-012": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "국내 주요 기관의 Nature Index 순위 추이를 보여주는 국제 비교 차트로 유지."
+    },
+    "FRV-DOC-POL-009-013": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "플랫폼 스크린샷으로 정책 구조 정보보다 예시 화면 성격이 강해 제외."
+    },
+    "FRV-DOC-POL-009-014": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "로봇 사진은 기초연구 생태계 정책 구조와 직접 연결되는 정보가 약해 제외."
+    },
+    "FRV-DOC-POL-009-015": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "개별 연구 사례 이미지로 정책 구조 정보가 약해 제외."
+    },
+    "FRV-DOC-POL-009-016": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "개별 연구 사례 이미지로 정책 구조 정보가 약해 제외."
+    },
+    "FRV-DOC-POL-009-017": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "개념적 일러스트 이미지로 정책 구조 정보가 약해 제외."
+    },
+    "FRV-DOC-POL-009-018": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "개별 연구 사례 도식으로 정책 구조 정보보다 사례 소개 성격이 강해 제외."
+    },
+    "FRV-DOC-POL-009-019": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "개별 연구 사례 도식으로 정책 구조 정보보다 사례 소개 성격이 강해 제외."
+    },
+    "FRV-DOC-POL-009-020": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "기초연구 선도연구센터 국제 비교 차트로 유지."
+    },
+    "FRV-DOC-POL-009-021": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "수도권-지방 대학 평균 과제 수 비교 차트로 유지."
+    },
+    "FRV-DOC-POL-009-022": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "전임교원 기초연구 수혜율의 장기 목표 추세를 보여주는 핵심 계획 차트로 유지."
+    },
+    "FRV-DOC-POL-009-023": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "행사 현장 사진으로 정책 구조 정보가 약해 제외."
+    },
+    "FRV-DOC-POL-009-024": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "회의 현장 사진으로 정책 구조 정보가 약해 제외."
+    },
+    "FRV-DOC-POL-009-025": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "BRL-NRL2.0-IRC-CRC-RLRC-SRC/ERC/MRC를 연결한 센터 체계 구조도로 유지."
+    },
+    "FRV-DOC-POL-009-026": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "중앙거점형 AI 인프라와 기초연구AI 센터 구조를 정리한 핵심 인프라 도식으로 유지."
+    },
+    "FRV-DOC-POL-009-027": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "2030년 기초연구 생태계 목표치를 집약한 최종 인포그래픽이라 유지."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+review_item_id,figure_id,document_id,title,doc_role,include_status,location,figure_type,extraction_method,extraction_confidence,has_source_bbox,generic_caption,caption,summary,asset_path,suggested_class,rationale,keep_for_dashboard,review_status,quality_status,reviewer_notes
+FRV-DOC-POL-011-001,FIG-DOC-POL-011-001,DOC-POL-011,AI시대 대한민국 네트워크 전략,policy_source,include,section3,image,hwpx-xml-parser,medium,0,0,,,work/02_structured-extraction/figures/assets/DOC-POL-011/image1.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-011-002,FIG-DOC-POL-011-002,DOC-POL-011,AI시대 대한민국 네트워크 전략,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000024985773.bmp
+원본 그림의 크기: 가로 411pixel, 세로 268pixel",CLP000024985773.bmp,work/02_structured-extraction/figures/assets/DOC-POL-011/image2.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-011-003,FIG-DOC-POL-011-003,DOC-POL-011,AI시대 대한민국 네트워크 전략,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: AINWRD.png
+원본 그림의 크기: 가로 1522pixel, 세로 190pixel",AINWRD.png,work/02_structured-extraction/figures/assets/DOC-POL-011/image3.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-011-004,FIG-DOC-POL-011-004,DOC-POL-011,AI시대 대한민국 네트워크 전략,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: P.png
+원본 그림의 크기: 가로 78pixel, 세로 78pixel",P.png,work/02_structured-extraction/figures/assets/DOC-POL-011/image4.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-011-005,FIG-DOC-POL-011-005,DOC-POL-011,AI시대 대한민국 네트워크 전략,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: H.png
+원본 그림의 크기: 가로 78pixel, 세로 78pixel",H.png,work/02_structured-extraction/figures/assets/DOC-POL-011/image5.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-011-006,FIG-DOC-POL-011-006,DOC-POL-011,AI시대 대한민국 네트워크 전략,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: Y.png
+원본 그림의 크기: 가로 78pixel, 세로 78pixel",Y.png,work/02_structured-extraction/figures/assets/DOC-POL-011/image6.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-011-007,FIG-DOC-POL-011-007,DOC-POL-011,AI시대 대한민국 네트워크 전략,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: E.png
+원본 그림의 크기: 가로 78pixel, 세로 78pixel",E.png,work/02_structured-extraction/figures/assets/DOC-POL-011/image7.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-011-008,FIG-DOC-POL-011-008,DOC-POL-011,AI시대 대한민국 네트워크 전략,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: R.png
+원본 그림의 크기: 가로 78pixel, 세로 78pixel",R.png,work/02_structured-extraction/figures/assets/DOC-POL-011/image8.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,

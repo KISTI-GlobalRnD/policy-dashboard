@@ -1,0 +1,6 @@
+decision_key,tech_domain_id,tech_domain_label,policy_id,policy_name,policy_item_group_id,group_label,reviewer_name,reviewer_notes,source_policy_item_ids
+TLR-TD-002-32f58df085a6,TD-002,에너지,POL-012,초혁신경제 15대 프로젝트 추진계획,PIG-SEED-TD-002-01,초전도체,codex_manual_technology_lens_review,초전도체는 에너지 응용이 포함되지만 소재·양자 성격이 더 강해 에너지 대표 그룹으로 확정하지 않는다.,
+TLR-TD-004-bdd639ad4cd4,TD-004,국방,POL-001,123대 국정과제,PIG-EXP-TD-004-05,군사법개혁,codex_manual_technology_lens_review,군사법개혁은 국방 기술축이 아니라 사법·거버넌스 개편 과제다.,
+TLR-TD-008-b0a7199c166f,TD-008,첨단로봇제조,POL-006,제조AX 추진방향,PIG-EXP-TD-008-12,1단계 R&D('20~'25,codex_manual_technology_lens_review,자율운항 선박 실증은 첨단로봇제조보다 해양·모빌리티 성격이 강하다.,
+TLR-TD-008-3a9a03ff49e9,TD-008,첨단로봇제조,POL-001,123대 국정과제,PIG-SEED-TD-008-07,고부가가치서비스업육성,codex_manual_technology_lens_review,교통·물류·안전 서비스 생산성 제고는 범용 AI 서비스 과제로 첨단로봇제조 대표 그룹으로는 범위가 너무 넓다.,
+TLR-TD-012-4881777fc9c4,TD-012,우주항공,POL-001,123대 국정과제,PIG-SEED-TD-012-09,첨단기술산업기반구축,codex_manual_technology_lens_review,AI·항공엔진·반도체·우주·드론·로봇이 결합된 범분야 산업 총론이라 우주항공 대표 그룹으로 확정하지 않는다.,

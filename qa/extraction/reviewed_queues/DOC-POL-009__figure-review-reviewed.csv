@@ -1,0 +1,80 @@
+review_item_id,figure_id,document_id,title,doc_role,include_status,location,figure_type,extraction_method,extraction_confidence,has_source_bbox,generic_caption,caption,summary,asset_path,suggested_class,rationale,keep_for_dashboard,review_status,quality_status,reviewer_notes
+FRV-DOC-POL-009-001,FIG-DOC-POL-009-001,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00004f680002.bmp
+원본 그림의 크기: 가로 470pixel, 세로 258pixel",CLP00004f680002.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image1.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,교원·전임교원·신진 전임교원 수혜율 추이를 정리한 핵심 지표 차트로 유지.
+FRV-DOC-POL-009-002,FIG-DOC-POL-009-002,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00004f68000c.bmp
+원본 그림의 크기: 가로 550pixel, 세로 288pixel",CLP00004f68000c.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image2.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,상위 논문 성과와 연구비 대비 생산성을 함께 보여주는 핵심 성과 차트로 유지.
+FRV-DOC-POL-009-003,FIG-DOC-POL-009-003,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section4,image,hwpx-xml-parser,medium,0,0,,,work/02_structured-extraction/figures/assets/DOC-POL-009/image3.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,문서 공통 태극마크 아이콘으로 정책 의미를 담는 figure가 아니라 제외.
+FRV-DOC-POL-009-004,FIG-DOC-POL-009-004,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000032cc1165.bmp
+원본 그림의 크기: 가로 501pixel, 세로 262pixel",CLP000032cc1165.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image5.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,정부 R&D 대비 기초연구 비중 추이를 보여주는 핵심 예산 차트로 유지.
+FRV-DOC-POL-009-005,FIG-DOC-POL-009-005,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00002e440006.bmp
+원본 그림의 크기: 가로 455pixel, 세로 265pixel",CLP00002e440006.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image6.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,전임·비전임 인력 구성 추이를 보여주는 생태계 인력 차트로 유지.
+FRV-DOC-POL-009-006,FIG-DOC-POL-009-006,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000009280003.bmp
+원본 그림의 크기: 가로 463pixel, 세로 241pixel",CLP000009280003.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image7.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,FRV-DOC-POL-009-001의 일부를 분리한 축약 차트로 보이며 정보가 중복되어 제외.
+FRV-DOC-POL-009-007,FIG-DOC-POL-009-007,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00004f680003.bmp
+원본 그림의 크기: 가로 455pixel, 세로 267pixel",CLP00004f680003.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image8.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,신진 전임교원 수와 수혜율 추이를 보여주는 핵심 차트로 유지.
+FRV-DOC-POL-009-008,FIG-DOC-POL-009-008,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000009280005.bmp
+원본 그림의 크기: 가로 751pixel, 세로 455pixel",CLP000009280005.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image9.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,JCR/피인용/NSP 논문 수와 단위 예산당 성과를 종합한 핵심 성과 차트로 유지.
+FRV-DOC-POL-009-009,FIG-DOC-POL-009-009,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000057f83115.bmp
+원본 그림의 크기: 가로 664pixel, 세로 373pixel",CLP000057f83115.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image10.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,국내 연구자 수와 기초연구 수행 연구자 수를 비교한 연구자 저변 차트로 유지.
+FRV-DOC-POL-009-010,FIG-DOC-POL-009-010,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000009280007.bmp
+원본 그림의 크기: 가로 433pixel, 세로 238pixel",CLP000009280007.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image11.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,상위 1% 연구자(HCR) 국가 비교 차트로 유지.
+FRV-DOC-POL-009-011,FIG-DOC-POL-009-011,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000042800003.bmp
+원본 그림의 크기: 가로 564pixel, 세로 288pixel",CLP000042800003.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image12.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,Nature Index Top 100 대학 국가 분포 비교 차트로 유지.
+FRV-DOC-POL-009-012,FIG-DOC-POL-009-012,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000035b04bce.bmp
+원본 그림의 크기: 가로 630pixel, 세로 434pixel",CLP000035b04bce.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image13.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,국내 주요 기관의 Nature Index 순위 추이를 보여주는 국제 비교 차트로 유지.
+FRV-DOC-POL-009-013,FIG-DOC-POL-009-013,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00002f980001.bmp
+원본 그림의 크기: 가로 172pixel, 세로 285pixel",CLP00002f980001.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image14.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,플랫폼 스크린샷으로 정책 구조 정보보다 예시 화면 성격이 강해 제외.
+FRV-DOC-POL-009-014,FIG-DOC-POL-009-014,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00003364ba3f.bmp
+원본 그림의 크기: 가로 666pixel, 세로 371pixel",CLP00003364ba3f.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image15.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,로봇 사진은 기초연구 생태계 정책 구조와 직접 연결되는 정보가 약해 제외.
+FRV-DOC-POL-009-015,FIG-DOC-POL-009-015,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP0000402c8e00.bmp
+원본 그림의 크기: 가로 1703pixel, 세로 782pixel",CLP0000402c8e00.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image16.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,개별 연구 사례 이미지로 정책 구조 정보가 약해 제외.
+FRV-DOC-POL-009-016,FIG-DOC-POL-009-016,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000058c800e5.bmp
+원본 그림의 크기: 가로 358pixel, 세로 153pixel",CLP000058c800e5.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image17.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,개별 연구 사례 이미지로 정책 구조 정보가 약해 제외.
+FRV-DOC-POL-009-017,FIG-DOC-POL-009-017,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림1.jpg
+원본 그림의 크기: 가로 3825pixel, 세로 3401pixel",그림1.jpg,work/02_structured-extraction/figures/assets/DOC-POL-009/image18.jpg,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,개념적 일러스트 이미지로 정책 구조 정보가 약해 제외.
+FRV-DOC-POL-009-018,FIG-DOC-POL-009-018,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000032840004.bmp
+원본 그림의 크기: 가로 523pixel, 세로 314pixel",CLP000032840004.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image19.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,개별 연구 사례 도식으로 정책 구조 정보보다 사례 소개 성격이 강해 제외.
+FRV-DOC-POL-009-019,FIG-DOC-POL-009-019,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000032840003.bmp
+원본 그림의 크기: 가로 779pixel, 세로 229pixel",CLP000032840003.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image20.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,개별 연구 사례 도식으로 정책 구조 정보보다 사례 소개 성격이 강해 제외.
+FRV-DOC-POL-009-020,FIG-DOC-POL-009-020,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP0000234006c2.bmp
+원본 그림의 크기: 가로 455pixel, 세로 283pixel",CLP0000234006c2.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image21.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,기초연구 선도연구센터 국제 비교 차트로 유지.
+FRV-DOC-POL-009-021,FIG-DOC-POL-009-021,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000063480001.bmp
+원본 그림의 크기: 가로 481pixel, 세로 288pixel",CLP000063480001.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image22.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,수도권-지방 대학 평균 과제 수 비교 차트로 유지.
+FRV-DOC-POL-009-022,FIG-DOC-POL-009-022,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00004f680007.bmp
+원본 그림의 크기: 가로 530pixel, 세로 227pixel",CLP00004f680007.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image23.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,전임교원 기초연구 수혜율의 장기 목표 추세를 보여주는 핵심 계획 차트로 유지.
+FRV-DOC-POL-009-023,FIG-DOC-POL-009-023,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000042800004.bmp
+원본 그림의 크기: 가로 523pixel, 세로 342pixel",CLP000042800004.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image24.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,행사 현장 사진으로 정책 구조 정보가 약해 제외.
+FRV-DOC-POL-009-024,FIG-DOC-POL-009-024,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000042800006.bmp
+원본 그림의 크기: 가로 693pixel, 세로 405pixel",CLP000042800006.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image25.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,회의 현장 사진으로 정책 구조 정보가 약해 제외.
+FRV-DOC-POL-009-025,FIG-DOC-POL-009-025,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00005a683e9e.bmp
+원본 그림의 크기: 가로 1050pixel, 세로 376pixel",CLP00005a683e9e.bmp,work/02_structured-extraction/figures/assets/DOC-POL-009/image26.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,BRL-NRL2.0-IRC-CRC-RLRC-SRC/ERC/MRC를 연결한 센터 체계 구조도로 유지.
+FRV-DOC-POL-009-026,FIG-DOC-POL-009-026,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 구조2.png
+원본 그림의 크기: 가로 1075pixel, 세로 402pixel",구조2.png,work/02_structured-extraction/figures/assets/DOC-POL-009/image27.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,중앙거점형 AI 인프라와 기초연구AI 센터 구조를 정리한 핵심 인프라 도식으로 유지.
+FRV-DOC-POL-009-027,FIG-DOC-POL-009-027,DOC-POL-009,기초연구 생태계 육성 방안,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 20251205 한국연구재단 기초연구 생태계 안건 인포그래픽_편집본ver6.jpg
+원본 그림의 크기: 가로 1240pixel, 세로 1754pixel",20251205 한국연구재단 기초연구 생태계 안건 인포그래픽_편집본ver6.jpg,work/02_structured-extraction/figures/assets/DOC-POL-009/image28.jpg,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,2030년 기초연구 생태계 목표치를 집약한 최종 인포그래픽이라 유지.

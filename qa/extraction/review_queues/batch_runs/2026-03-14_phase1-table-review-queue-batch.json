@@ -1,0 +1,140 @@
+{
+  "run_date": "2026-03-14",
+  "registry_path": "work/01_scope-and-ia/requirements/04_document-registry.csv",
+  "completed_count": 11,
+  "failed_count": 0,
+  "documents": [
+    {
+      "document_id": "DOC-POL-002",
+      "title": "AI-바이오 국가전략",
+      "run_status": "completed",
+      "review_item_count": 94,
+      "markdown_candidate_count": 0,
+      "json_candidate_count": 94,
+      "structured_table_count": 11,
+      "layout_false_positive_count": 60,
+      "review_required_count": 23,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-003",
+      "title": "제조AX 추진방향",
+      "run_status": "completed",
+      "review_item_count": 41,
+      "markdown_candidate_count": 0,
+      "json_candidate_count": 41,
+      "structured_table_count": 2,
+      "layout_false_positive_count": 33,
+      "review_required_count": 6,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-004",
+      "title": "과학기술xAI 국가전략",
+      "run_status": "completed",
+      "review_item_count": 54,
+      "markdown_candidate_count": 0,
+      "json_candidate_count": 54,
+      "structured_table_count": 4,
+      "layout_false_positive_count": 46,
+      "review_required_count": 4,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-005",
+      "title": "연구개발 생태계 혁신방안",
+      "run_status": "completed",
+      "review_item_count": 83,
+      "markdown_candidate_count": 0,
+      "json_candidate_count": 83,
+      "structured_table_count": 16,
+      "layout_false_positive_count": 61,
+      "review_required_count": 6,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-006",
+      "title": "초혁신경제 15대 프로젝트 추진계획",
+      "run_status": "completed",
+      "review_item_count": 10,
+      "markdown_candidate_count": 10,
+      "json_candidate_count": 0,
+      "structured_table_count": 8,
+      "layout_false_positive_count": 0,
+      "review_required_count": 1,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-007",
+      "title": "AI반도체 산업 도약 전략",
+      "run_status": "completed",
+      "review_item_count": 108,
+      "markdown_candidate_count": 0,
+      "json_candidate_count": 108,
+      "structured_table_count": 9,
+      "layout_false_positive_count": 88,
+      "review_required_count": 11,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-008",
+      "title": "민간투자연계, 팁스 R&D 확산방안",
+      "run_status": "completed",
+      "review_item_count": 28,
+      "markdown_candidate_count": 0,
+      "json_candidate_count": 28,
+      "structured_table_count": 4,
+      "layout_false_positive_count": 20,
+      "review_required_count": 4,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-009",
+      "title": "기초연구 생태계 육성 방안",
+      "run_status": "completed",
+      "review_item_count": 94,
+      "markdown_candidate_count": 0,
+      "json_candidate_count": 94,
+      "structured_table_count": 14,
+      "layout_false_positive_count": 75,
+      "review_required_count": 5,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-010",
+      "title": "과학기술분야 출연(연) 정책방향",
+      "run_status": "completed",
+      "review_item_count": 76,
+      "markdown_candidate_count": 0,
+      "json_candidate_count": 76,
+      "structured_table_count": 5,
+      "layout_false_positive_count": 65,
+      "review_required_count": 6,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-011",
+      "title": "AI시대 대한민국 네트워크 전략",
+      "run_status": "completed",
+      "review_item_count": 19,
+      "markdown_candidate_count": 0,
+      "json_candidate_count": 19,
+      "structured_table_count": 3,
+      "layout_false_positive_count": 13,
+      "review_required_count": 3,
+      "notes": ""
+    },
+    {
+      "document_id": "DOC-POL-012",
+      "title": "정부 AX사업 전주기 원스톱 지원방안",
+      "run_status": "completed",
+      "review_item_count": 44,
+      "markdown_candidate_count": 0,
+      "json_candidate_count": 44,
+      "structured_table_count": 3,
+      "layout_false_positive_count": 36,
+      "review_required_count": 5,
+      "notes": ""
+    }
+  ]
+}

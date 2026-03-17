@@ -1,0 +1,18 @@
+{
+  "decision_csv": "qa/ontology/review_workbench_seeds/DOC-POL-010__starter-decisions.csv",
+  "target_workbench": "work/04_ontology/review_workbenches/DOC-POL-010__policy-item-review-workbench.csv",
+  "decision_row_count": 29,
+  "applied_count": 29,
+  "skipped_existing_count": 0,
+  "missing_target_count": 0,
+  "mismatched_count": 0,
+  "applied_decision_counts": {
+    "attach_as_background": 11,
+    "drop": 1,
+    "keep": 17
+  },
+  "skipped_existing_ids": [],
+  "missing_target_ids": [],
+  "mismatched_rows": [],
+  "force": true
+}

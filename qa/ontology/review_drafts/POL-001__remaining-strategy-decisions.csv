@@ -1,0 +1,12 @@
+decision_key,policy_item_id,policy_id,policy_name,bucket_label,item_label,final_decision_status,final_primary_strategy_id,final_secondary_strategy_ids,final_confidence,reviewer_name,reviewer_notes
+SRD-POL-001-ab1c14a81c40,ITM-POL-001-00143,POL-001,123대 국정과제,기술,국가해상수송력20% 확충(1.2억톤),reviewed,STR-005,,medium,codex_manual_pol001_final,국가 해상수송력 확충과 쇄빙 컨테이너선 등 해양 선박 신기술 확보가 함께 적시되어 해양 기술주권 축으로 본다.
+SRD-POL-001-436176f287ab,ITM-POL-001-00191,POL-001,123대 국정과제,기술,기술혁신·생산기반확대,no_strategy,,,high,codex_manual_pol001_final,초격차기술 개발과 국내생산 확대를 묶은 산업 총론으로 특정 15대 전략 하나에 단일 귀속하기 어렵다.
+SRD-POL-001-5ac8d236b66a,ITM-POL-001-00232,POL-001,123대 국정과제,기술,단기,no_strategy,,,high,codex_manual_pol001_final,단기·중장기 로드맵 총괄 문장으로 여러 전략을 동시에 포괄해 단일 primary를 두지 않는다.
+SRD-POL-001-b658acfefab4,ITM-POL-001-00287,POL-001,123대 국정과제,기술,민관협업전략기술육성,no_strategy,,,high,codex_manual_pol001_final,전략기술 육성의 추진방식과 관리체계 설명으로 특정 기술전략의 직접 실행 항목은 아니다.
+SRD-POL-001-8f7f69aff899,ITM-POL-001-00320,POL-001,123대 국정과제,기술,북극항로선박·초격차디스플레이등경쟁국추격을따돌리는미래기술개발,no_strategy,,,high,codex_manual_pol001_final,북극항로 선박과 초격차 디스플레이를 한 문장에 묶은 복합 과제로 단일 primary를 고정하지 않는다.
+SRD-POL-001-07b2894d6a17,ITM-POL-001-00466,POL-001,123대 국정과제,기술,유무인복합체계고도화,no_strategy,,,high,codex_manual_pol001_final,유무인복합체계 고도화는 국방 전력 과제 성격이 강하며 현재 15대 전략 taxonomy에 직접 대응 축이 없다.
+SRD-POL-001-c339787f762d,ITM-POL-001-00522,POL-001,123대 국정과제,기술,전략적국제협력강화,no_strategy,,,high,codex_manual_pol001_final,첨단기술 분야 국제협력의 법적 기반과 연구안보 체계 정비는 거버넌스 과제로 특정 전략 primary를 두지 않는다.
+SRD-POL-001-21516e5f7e06,ITM-POL-001-00524,POL-001,123대 국정과제,기술,전력시장혁신,no_strategy,,,high,codex_manual_pol001_final,전력시장 제도 개편은 에너지 전환의 기반 정책이지만 수소·SMR·전력망 기술 자체의 직접 실행 항목은 아니다.
+SRD-POL-001-b4ae20fe8655,ITM-POL-001-00641,POL-001,123대 국정과제,기술,특허정보연계R&D,no_strategy,,,high,codex_manual_pol001_final,특허 빅데이터 기반 R&D 기획 지원은 범용 연구지원 기능으로 특정 전략기술 primary를 두기 어렵다.
+SRD-POL-001-0b8be7b63563,ITM-POL-001-00675,POL-001,123대 국정과제,기술,해운경쟁력제고,reviewed,STR-005,,medium,codex_manual_pol001_final,친환경 선박 중심 국가수송력 확충과 선박 경쟁력 제고는 해양 산업·선박 기술 축과 직접 연결된다.
+SRD-POL-001-0625b3b4d848,ITM-POL-001-00711,POL-001,123대 국정과제,인프라·제도,거점항만조성,no_strategy,,,high,codex_manual_pol001_final,"거점항만 육성과 스마트항만 조성은 해양 물류 인프라 정책으로, 현재 15대 전략 중 단일 primary로 고정하기는 어렵다."

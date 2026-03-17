@@ -1,0 +1,80 @@
+[
+  {
+    "document_id": "DOC-POL-002",
+    "paragraph_count": 239,
+    "mapped_count": 233,
+    "unmapped_count": 6
+  },
+  {
+    "document_id": "DOC-POL-003",
+    "paragraph_count": 132,
+    "mapped_count": 130,
+    "unmapped_count": 2
+  },
+  {
+    "document_id": "DOC-POL-004",
+    "paragraph_count": 195,
+    "mapped_count": 181,
+    "unmapped_count": 14
+  },
+  {
+    "document_id": "DOC-POL-005",
+    "paragraph_count": 485,
+    "mapped_count": 455,
+    "unmapped_count": 30
+  },
+  {
+    "document_id": "DOC-POL-006-DOCX",
+    "paragraph_count": 0,
+    "mapped_count": 0,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-POL-006-HWPX",
+    "paragraph_count": 490,
+    "mapped_count": 490,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-POL-006",
+    "paragraph_count": 504,
+    "mapped_count": 465,
+    "unmapped_count": 39
+  },
+  {
+    "document_id": "DOC-POL-007",
+    "paragraph_count": 261,
+    "mapped_count": 234,
+    "unmapped_count": 27
+  },
+  {
+    "document_id": "DOC-POL-008",
+    "paragraph_count": 100,
+    "mapped_count": 85,
+    "unmapped_count": 15
+  },
+  {
+    "document_id": "DOC-POL-009",
+    "paragraph_count": 292,
+    "mapped_count": 289,
+    "unmapped_count": 3
+  },
+  {
+    "document_id": "DOC-POL-010",
+    "paragraph_count": 185,
+    "mapped_count": 184,
+    "unmapped_count": 1
+  },
+  {
+    "document_id": "DOC-POL-011",
+    "paragraph_count": 65,
+    "mapped_count": 65,
+    "unmapped_count": 0
+  },
+  {
+    "document_id": "DOC-POL-012",
+    "paragraph_count": 98,
+    "mapped_count": 98,
+    "unmapped_count": 0
+  }
+]

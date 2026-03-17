@@ -1,0 +1,23 @@
+review_item_id,figure_id,document_id,title,doc_role,include_status,location,figure_type,extraction_method,extraction_confidence,has_source_bbox,generic_caption,caption,summary,asset_path,suggested_class,rationale,keep_for_dashboard,review_status,quality_status,reviewer_notes
+FRV-DOC-POL-011-001,FIG-DOC-POL-011-001,DOC-POL-011,AI시대 대한민국 네트워크 전략,policy_source,include,section3,image,hwpx-xml-parser,medium,0,0,,,work/02_structured-extraction/figures/assets/DOC-POL-011/image1.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,문서 공통 태극마크 아이콘으로 정책 의미를 담는 figure가 아니라 제외.
+FRV-DOC-POL-011-002,FIG-DOC-POL-011-002,DOC-POL-011,AI시대 대한민국 네트워크 전략,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000024985773.bmp
+원본 그림의 크기: 가로 411pixel, 세로 268pixel",CLP000024985773.bmp,work/02_structured-extraction/figures/assets/DOC-POL-011/image2.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,AI 에이전트·피지컬AI 확산에 따른 무선 백홀 용량 증가 추이를 보여주는 핵심 차트로 유지.
+FRV-DOC-POL-011-003,FIG-DOC-POL-011-003,DOC-POL-011,AI시대 대한민국 네트워크 전략,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: AINWRD.png
+원본 그림의 크기: 가로 1522pixel, 세로 190pixel",AINWRD.png,work/02_structured-extraction/figures/assets/DOC-POL-011/image3.png,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,6G 상용화와 완전자율 AI 네트워크 기술 로드맵을 요약한 대표 배너형 도식으로 유지.
+FRV-DOC-POL-011-004,FIG-DOC-POL-011-004,DOC-POL-011,AI시대 대한민국 네트워크 전략,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: P.png
+원본 그림의 크기: 가로 78pixel, 세로 78pixel",P.png,work/02_structured-extraction/figures/assets/DOC-POL-011/image4.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,배너형 도식에 삽입된 개별 아이콘 조각으로 단독 의미가 약해 제외.
+FRV-DOC-POL-011-005,FIG-DOC-POL-011-005,DOC-POL-011,AI시대 대한민국 네트워크 전략,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: H.png
+원본 그림의 크기: 가로 78pixel, 세로 78pixel",H.png,work/02_structured-extraction/figures/assets/DOC-POL-011/image5.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,배너형 도식에 삽입된 개별 아이콘 조각으로 단독 의미가 약해 제외.
+FRV-DOC-POL-011-006,FIG-DOC-POL-011-006,DOC-POL-011,AI시대 대한민국 네트워크 전략,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: Y.png
+원본 그림의 크기: 가로 78pixel, 세로 78pixel",Y.png,work/02_structured-extraction/figures/assets/DOC-POL-011/image6.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,배너형 도식에 삽입된 개별 아이콘 조각으로 단독 의미가 약해 제외.
+FRV-DOC-POL-011-007,FIG-DOC-POL-011-007,DOC-POL-011,AI시대 대한민국 네트워크 전략,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: E.png
+원본 그림의 크기: 가로 78pixel, 세로 78pixel",E.png,work/02_structured-extraction/figures/assets/DOC-POL-011/image7.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,배너형 도식에 삽입된 개별 아이콘 조각으로 단독 의미가 약해 제외.
+FRV-DOC-POL-011-008,FIG-DOC-POL-011-008,DOC-POL-011,AI시대 대한민국 네트워크 전략,policy_source,include,section5,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: R.png
+원본 그림의 크기: 가로 78pixel, 세로 78pixel",R.png,work/02_structured-extraction/figures/assets/DOC-POL-011/image8.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,배너형 도식에 삽입된 개별 아이콘 조각으로 단독 의미가 약해 제외.

@@ -1,0 +1,125 @@
+review_item_id,document_id,source_format,page_no,candidate_source,candidate_id,rows,cols,preview_text,suggested_class,heuristic_reason,keep_for_dashboard,merge_group_hint,canonical_table_id,review_status,reviewer_notes,treat_as_char,text_wrap
+TRV-DOC-POL-009-JS-001,DOC-POL-009,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-009-001,1,1,,layout_false_positive,empty_table_box,no,,,review_required,,0,IN_FRONT_OF_TEXT
+TRV-DOC-POL-009-JS-002,DOC-POL-009,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-009-002,2,4,"의안번호 | 제 7 호 | 의결
+사항",layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-003,DOC-POL-009,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-009-003,1,1,기초연구 생태계 육성 방안(안),layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-004,DOC-POL-009,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-009-004,1,1,과학기술관계장관회의,layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-005,DOC-POL-009,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-009-005,2,5,제 출 자 | 과학기술정보통신부장관 | 배경훈 | 교육부장관,layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-006,DOC-POL-009,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-009-006,1,1,기초연구 생태계 육성 방안(안) (요약),layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-007,DOC-POL-009,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-009-007,2,2,< 기초연구 수혜율 추세 > | < 기초연구 우수논문 실적 >,layout_false_positive,heading_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-008,DOC-POL-009,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-009-008,3,3,비전 | 다양성과 수월성의 두 날개로 미래를 여는 기초연구,layout_false_positive,heading_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-009,DOC-POL-009,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-009-009,1,1,(전략1) 안정적이고 지속 가능한 기초연구 투자시스템 확립,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-010,DOC-POL-009,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-009-010,1,1,(전략2) 청년·리더 등 수요 맞춤형 기초연구 지원체계 확충,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-011,DOC-POL-009,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-009-011,1,1,(전략3) 세계적 경쟁력을 갖춘 기초연구 기관 육성,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-012,DOC-POL-009,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-009-012,1,1,"‣(지원대상) 기본적인 연구경쟁력을 갖춘 총 20개 내외의 대학
+‣(지원분야) 대학의 발전 전략과 강점에 기반한 세부 연구 영역을 중심으로 지원
+‣(지원규모) 연구 규모·성과(정량), 발전 계획(정성) 등 Formula 기반 대학별 규모 차등화
+‣(지원내용) 연구 기초체력을 강화할 수 있는 연구 인력·시설·행정 등 ‘연구기반’에 투자
+- ➀전임연구원(Sta",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-013,DOC-POL-009,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-009-013,1,1,(전략4) 창의·도전적 연구에 전념할 수 있는 기반 구축,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-014,DOC-POL-009,hwpx,section4,pymupdf_find_tables,TBL-DOC-POL-009-014,7,1,기초연구 생태계 육성 방안(안),review_required,single_column_info_box,review,,,review_required,,0,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-015,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-015,1,1,Ⅰ. 추진배경,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-016,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-016,1,1,◈ 지속 발전해 온 기초연구 생태계는 R&D 예산삭감을 맞아 위축,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-017,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-017,1,1,◈ 생태계의 질적 고도화를 위해 새로운 접근이 요구되는 시점,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-018,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-018,1,1,"☞ R&D 예산삭감으로 인해 위축된 기초연구 생태계를 되살리고
+세계적 성과를 창출하는 생태계로 한 단계 도약하기 위한 방안 마련",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-019,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-019,1,1,Ⅱ. 기초연구 현황 진단,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-020,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-020,1,3,1 | 투입(Input),layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-021,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-021,2,2,< 기초연구 투자 및 비중 추세 > | < 대학 연구인력 추세* >,layout_false_positive,heading_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-022,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-022,2,2,< 수혜율 추이 > | < 신진(39세 이하) 전임교원 수혜율 >,layout_false_positive,heading_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-023,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-023,1,3,2 | 산출(Output),layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-024,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-024,2,1,< 기초연구 우수논문 실적 >,layout_false_positive,heading_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-025,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-025,2,2,< HCR 연구자 수 > | < 2025년 주요국 HCR 연구자 수 >,layout_false_positive,heading_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-026,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-026,2,2,< Nature Index TOP 200 연구기관 수 > | < 주요국 상위 10개 기관의 평균 순위 추세 >,layout_false_positive,heading_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-027,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-027,1,1,"[ 진 단 ]
+ 기초연구 투자가 지속 증가하였음에도 과제 수 감소로 인해 기초연구 수혜율 감소 → 저변 및 다양성 축소
+ 상위 10%, 1% 논문 등 우수 학술성과는 지속 증가하고 있지만, 
+투자 금액당 실적은 하락하고 있어 연구 생산성 정체 중
+ 세계 최고 권위의 학술상 수상자, 주요 단체의 석학회원, HCR 연구자 등 최상위 연구자 규모는 기초과학",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-028,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-028,3,3,"▪ 주요성과
+- (Nature 표지논문 게재) Three-Dimensional Electronic Microfliers Inspired by Wind-Dispersed Seeds(’21년 9월) | [참고 1] 기초연구 지원에 따른 대표 성과",review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-029,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-029,1,1,"▪ 주요성과
+- (Cell 게재) Prediction of efficiencies for diverse prime editing systems in multiple cell types(`23년 4월)",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-030,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-030,1,1,Ⅲ. 문제점 분석 및 시사점,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-031,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-031,1,1,"➊ (투자) 기본연구 폐지 등 지원과제 수 축소, 단기 지원 등으로 기초연구 투자의 주요 가치(안정성·지속성·예측 가능성)가 훼손",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-032,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-032,4,5,구분 | 생애기본연구 | 우수연구,structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-033,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-033,3,3,< 기초연구 생태계 훼손에 따른 현장 목소리 >,layout_false_positive,heading_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-034,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-034,1,1,"➋ (연구자) 연구 생산성이 높은 청년 및 리더 연구자들의 
+지속적인 성장과 도전을 지원하는 체계 부족",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-035,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-035,3,3,< 청년연구자들의 목소리 >,layout_false_positive,heading_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-036,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-036,3,5,구분 | 리더연구 | 중견연구 | 신진연구,structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-037,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-037,3,6,구분 | 자연과학 | 공학 | 임상의약학,structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-038,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-038,1,1,"➌ (연구기관) 글로벌 TOP 수준의 기초연구 기관이 부재하며,
+개인을 넘어선 연구기관 차원의 연구경쟁력도 정체",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-039,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-039,2,2,< Nature Index TOP 200 주요국 대학 수 > | < 수도권 TOP 9 vs 지방거점국립대 논문실적 >,layout_false_positive,heading_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-040,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-040,1,1,➍ (기반) 연구자들이 연구 外 업무에 대한 부담이 크고 기반 시스템이 미비하여 혁신·도전적 연구에 몰입하기 어려운 실정,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-041,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-041,5,2,불만족 사유 | 비중,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-042,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-042,2,5,구분 | 한국 | 일본 | 독일,layout_false_positive,small_hwpx_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-043,DOC-POL-009,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-009-043,3,3,< 기초연구 평가에 대한 현장 목소리 >,layout_false_positive,heading_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-044,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-044,1,1,Ⅳ. 목표 및 추진전략,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-045,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-045,14,17,비전 | 다양성과 수월성의 두 날개로 미래를 여는 기초연구,structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-046,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-046,1,1,Ⅴ. 세부 추진방안,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-047,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-047,1,1,(전략1) 안정적이고 지속 가능한 기초연구 투자시스템 확립,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-048,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-048,1,1,"◈ 소규모 장기 기본연구 복원, 연구기간 확대 및 후속연구 연계를 강화하여 연구자가 걱정 없이 장기·안정적으로 다양한 연구를 할 수 있는 환경 조성
+◈ 기초연구 과제 수를 점진적으로 확대하고 기초연구에 대한 안정적 투자를 법제화하여 더 많은 연구자에게 실질적인 지원이 되도록 수혜율 제고",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-049,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-049,1,1,󰊱 ‘머릿돌’ 기본연구 복원을 통한 연구 저변 및 다양성 확대,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-050,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-050,7,4,구분 | 기본연구 (과기정통부) | 기본연구 (교육부),structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-051,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-051,1,1,󰊲 긴 호흡의 장기연구 촉진 및 연구 연속성 제고,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-052,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-052,2,7,"후속연구 신청 및
+성과 요약문 제출 | ➡ | 성과검토 및 우선순위 부여 | ➡",layout_false_positive,small_hwpx_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-053,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-053,4,3,구분 | 도약형(유형1) | 도약형(유형2),structured_table,hwpx_grid_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-054,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-054,5,5,기존 | ‘26년 이후,structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-055,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-055,1,1,󰊳 수혜율 중심 관리로 안정성 및 예측가능성 확보,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-056,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-056,1,1,,layout_false_positive,empty_table_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-057,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-057,5,7,As-Is | To-Be,structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-058,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-058,1,1,(전략2) 청년·리더 등 수요 맞춤형 기초연구 지원체계 확충,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-059,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-059,1,1,"◈ 연구생태계의 묘목인 청년 연구자가 원활하게 정착·성장하고, 최우수 석학이 세계 최고 성과를 지속 창출할 수 있도록 맞춤형 지원을 강화
+◈ 학문 분야별 특성을 반영한 최적의 지원체계를 마련하고, 기존에 없던 新 학문 분야 개척을 지원하여 성과 극대화",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-060,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-060,1,1,󰊱 젊은 연구자를 위한 촘촘하고 넓은 성장사다리 마련,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-061,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-061,1,1,기본연구,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-062,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-062,1,1,󰊲 최우수 석학에 대한 지원과 사회적 책무를 동시에 강화,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-063,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-063,1,1,󰊳 학문 분야에 따른 맞춤형 지원체계 운영,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-064,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-064,2,9,2026년 | 2027년 | 2028년 | 2029년,layout_false_positive,small_hwpx_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-065,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-065,3,3," (목적) 국가·사회적으로 중요한 이슈에 대해 과학기술적 접근 강화 및 리더들의 지식 활용
+ (주제) 예시➀ 홍수 피해 예측 및 대응
+예시➁ 신종감염병 발생 시 대응
+예시➂ 고령화 사회 준비
+ (방식) 중요 이슈 발생 시 관계 전문가들 중심으로 수차례 회의를 진행하여 성명서 또는 정책 제안서 발표
+※ 필요시 리더연구 수행자 外 동 이슈와 관계된 분야 ",review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-066,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-066,1,1,(전략3) 세계적 경쟁력을 갖춘 기초연구 기관 육성,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-067,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-067,1,1,"◈ 연구기반(인력·행정·시설) 투자를 위한 블록펀딩 도입, 집단연구 역량 강화, 지역대학 혁신거점化 등을 통해 대학의 연구경쟁력을 글로벌 수준으로 향상
+◈ 기초연구 중심 연구기관의 글로벌 네트워크를 강화하여 재도약을 촉진하고 산·학·연·정 협의체, 기업계약연구소 등을 통해 민간기업의 기초연구 투자 촉진",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-068,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-068,1,1,󰊱 자율·협업 기반 대학 연구경쟁력 강화 및 혁신거점化 지원,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-069,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-069,1,1,가. 대학 연구기반 강화를 위한 블록펀딩 도입,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-070,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-070,3,3,< 연구중심대학 블록펀딩 추진방향(예시) >,layout_false_positive,heading_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-071,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-071,1,1,나. 선도연구센터의 대학 내 연구거점化 촉진,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-072,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-072,4,7,"기초연구실
+(BRL) | 선도연구센터
+(SRC, ERC, MRC) | 세계 선도연구센터
+(자립화 단계)",structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-073,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-073,1,1,다. 지방 소재 대학을 지역혁신의 중심으로 육성,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-074,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-074,6,5,권역 | 현재 | 향후계획(안),structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-075,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-075,1,1,󰊲 기초연구 중심 연구기관의 국제적 위상 강화,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-076,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-076,1,1,가. 기초과학연구원(IBS) 재도약,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-077,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-077,3,7,추진 방향 | 지원 대상 | 지원 방식 | 성과 공유,structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-078,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-078,1,1,나. 아태이론물리센터의 글로벌 허브化,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-079,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-079,1,1,󰊳 기초연구 혁신을 위한 산-학-연-정 협력 거버넌스 구축,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-080,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-080,1,1,(전략4) 창의·도전적 연구에 전념할 수 있는 기반 구축,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-081,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-081,1,1,"◈ 연구자가 AI를 활용하여 창의적 연구에 마음껏 도전할 수 있도록 인프라 및 융합연구를 지원하고, AI·데이터 기반 기초연구 네비게이션 시스템 구축
+◈ 연구자의 연구 外 부가업무 부담을 최소화하여 연구 생산성을 향상할 수 있도록 대학 내 연구지원인력의 역할을 강화하고 평가시스템을 혁신",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-082,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-082,1,1,󰊱 효과적 기초연구 수행을 위한 AI 활용 지원,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-083,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-083,1,1,가. AI 접목을 통한 혁신적 기초연구 성과 창출,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-084,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-084,1,1,,layout_false_positive,empty_table_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-085,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-085,1,1,나. AI·데이터 기반 기초연구 정책 수립,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-086,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-086,1,1,"⇒ ｢기초연구 정책센터｣ 중심으로 기초연구 정책이 나아갈 방향을 제시하는 AI·데이터 기반 ‘기초연구 네비게이션 시스템’ 구축
+※ 기초연구사업 內 기초연구 정책형 과제 지원(핵심연구, BRL 등) 및 관련 RB 신설",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-087,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-087,1,1,󰊲 연구 몰입환경을 위한 연구지원인력 역할 강화,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-088,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-088,3,4,등급 | 초급(담당자) | 중급(관리자) | 고급(리더),structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-089,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-089,1,1,󰊳 혁신적 연구가 인정받도록 평가시스템 고도화,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-090,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-090,5,5,"절차 | As-Is (현재) | ⇒
+⇒ | To-Be (AI 도입 시)",structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-091,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-091,1,1,Ⅵ. 기대효과,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-092,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-092,1,1,Ⅶ. 향후 추진계획,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-093,DOC-POL-009,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-009-093,24,6,추진전략 및 과제 | 소관부처 | 추진일정,structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-009-JS-094,DOC-POL-009,hwpx,section9,pymupdf_find_tables,TBL-DOC-POL-009-094,3,2,"과학기술정보통신부 연구개발정책실
+기초원천연구정책관 기초연구진흥과",review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM

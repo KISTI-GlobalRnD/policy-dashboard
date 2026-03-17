@@ -1,0 +1,376 @@
+{
+  "review_item_updates": {
+    "FRV-DOC-POL-002-001": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-002": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-003": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "메타데이터 크기 미확인"
+    },
+    "FRV-DOC-POL-002-004": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-005": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-006": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-007": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-008": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-009": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-010": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-011": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-012": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-013": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-014": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-015": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-016": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-017": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-018": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-019": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-020": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-021": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "중복 추출 자산 경로"
+    },
+    "FRV-DOC-POL-002-022": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-023": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-024": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-025": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-026": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-027": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "중복 추출 자산 경로"
+    },
+    "FRV-DOC-POL-002-028": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-029": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-030": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "메타데이터 크기 미확인"
+    },
+    "FRV-DOC-POL-002-031": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "메타데이터 크기 미확인"
+    },
+    "FRV-DOC-POL-002-032": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-033": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-034": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-035": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-036": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-037": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-038": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-039": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-040": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-041": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-042": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-043": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-044": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-045": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-046": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-047": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-048": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-049": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-050": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-051": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-052": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-053": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-054": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-055": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "중복 추출 자산 경로"
+    },
+    "FRV-DOC-POL-002-056": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-057": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-058": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-059": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/가로세로 비율이 작아 정보 밀도 낮음"
+    },
+    "FRV-DOC-POL-002-060": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-061": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-002-062": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    }
+  }
+}

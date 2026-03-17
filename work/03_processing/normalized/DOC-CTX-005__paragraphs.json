@@ -1,0 +1,62 @@
+[
+  {
+    "paragraph_id": "PAR-DOC-CTX-005-00001",
+    "document_id": "DOC-CTX-005",
+    "page_no": 1,
+    "page_block_order": 1,
+    "block_type": "heading",
+    "text": "<세부 기술(정책) 분류체계> 대분류 중분류 기술 개요 재생에너지 태양광, 풍력 등 재생에너지 변환·이용 및 원자력 활용 전력 생산 전 주기 기술",
+    "source_line_count": 7,
+    "merged_block_count": 3,
+    "normalization_actions": "merged_continuation|merged_continuation",
+    "source_mode": "bbox_text"
+  },
+  {
+    "paragraph_id": "PAR-DOC-CTX-005-00002",
+    "document_id": "DOC-CTX-005",
+    "page_no": 1,
+    "page_block_order": 2,
+    "block_type": "paragraph",
+    "text": "전력망 전기에너지를 안정적으로 공급･소비하기 위한 전력망, 에너지저장장 치(ESS) 등 전력기기 제반 기술",
+    "source_line_count": 3,
+    "merged_block_count": 1,
+    "normalization_actions": "",
+    "source_mode": "bbox_text"
+  },
+  {
+    "paragraph_id": "PAR-DOC-CTX-005-00003",
+    "document_id": "DOC-CTX-005",
+    "page_no": 1,
+    "page_block_order": 3,
+    "block_type": "paragraph",
+    "text": "에너지믹스 수소 청정수소의 생산, 저장 및 운송에서 활용까지의 전주기 기술 원자력 원자력(핵분열) 활용 전력 생산을 위한 발전 전주기 기술 산업공정 배출집약적 4대 주력산업(철강, 석유화학, 시멘트, 반도체·디스플레이) 과 산업 전반의 탄소중립을 위한 제반 기술 에너지 변환, 산업공정 과정 중 배출되는 CO2를 포집한 후 심부 지 층에 안전하게 저장하거나 유용한 전환과정을 통해 제품으로 활용하 는 기술",
+    "source_line_count": 11,
+    "merged_block_count": 5,
+    "normalization_actions": "merged_continuation|merged_continuation|merged_continuation|merged_continuation",
+    "source_mode": "bbox_text"
+  },
+  {
+    "paragraph_id": "PAR-DOC-CTX-005-00004",
+    "document_id": "DOC-CTX-005",
+    "page_no": 1,
+    "page_block_order": 4,
+    "block_type": "paragraph",
+    "text": "저탄소산업 CCUS 효율수요관리 에너지 수요관리 최적화 및 3대 소비(산업, 건물, 수송 등) 부문의 에 너지 효율 향상 기술 수송부문의 탈탄소화를 위해 동력원을 전기화하거나 친환경 연료(수 친환경모빌리티 소, 암모니아, e메탄올 등)를 사용하는 자동차 및 선박 구현 기술 자원의 순환이용성 향상을 위한 자원의 효율적 사용과 폐기물 발생 기반",
+    "source_line_count": 10,
+    "merged_block_count": 8,
+    "normalization_actions": "merged_continuation|merged_continuation|merged_continuation|merged_continuation|merged_continuation|merged_continuation|merged_continuation",
+    "source_mode": "bbox_text"
+  },
+  {
+    "paragraph_id": "PAR-DOC-CTX-005-00005",
+    "document_id": "DOC-CTX-005",
+    "page_no": 1,
+    "page_block_order": 5,
+    "block_type": "paragraph",
+    "text": "자원순환 을 감축하기 위한 재활용 및 재사용·재제조 기술 기후변화 및 기후위기 예측·모니터링, 수자원의 효율적 이용, 생태계 적응흡수 흡수 능력 강화를 위한 제반 기술",
+    "source_line_count": 5,
+    "merged_block_count": 5,
+    "normalization_actions": "merged_continuation|merged_continuation|merged_continuation|merged_continuation",
+    "source_mode": "bbox_text"
+  }
+]

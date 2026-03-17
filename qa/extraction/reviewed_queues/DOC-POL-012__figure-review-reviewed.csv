@@ -1,0 +1,8 @@
+review_item_id,figure_id,document_id,title,doc_role,include_status,location,figure_type,extraction_method,extraction_confidence,has_source_bbox,generic_caption,caption,summary,asset_path,suggested_class,rationale,keep_for_dashboard,review_status,quality_status,reviewer_notes
+FRV-DOC-POL-012-001,FIG-DOC-POL-012-001,DOC-POL-012,정부 AX사업 전주기 원스톱 지원방안,policy_source,include,section0,image,hwpx-xml-parser,medium,0,0,,,work/02_structured-extraction/figures/assets/DOC-POL-012/image1.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,문서 공통 태극마크 아이콘으로 정책 의미를 담는 figure가 아니라 제외.
+FRV-DOC-POL-012-002,FIG-DOC-POL-012-002,DOC-POL-012,정부 AX사업 전주기 원스톱 지원방안,policy_source,include,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000040540001.bmp
+원본 그림의 크기: 가로 983pixel, 세로 232pixel",CLP000040540001.bmp,work/02_structured-extraction/figures/assets/DOC-POL-012/image3.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,주요국 동향 문단에 붙은 국가 식별용 소형 플래그 아이콘으로 단독 의미가 약해 제외.
+FRV-DOC-POL-012-003,FIG-DOC-POL-012-003,DOC-POL-012,정부 AX사업 전주기 원스톱 지원방안,policy_source,include,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00004b80549c.bmp
+원본 그림의 크기: 가로 900pixel, 세로 600pixel",CLP00004b80549c.bmp,work/02_structured-extraction/figures/assets/DOC-POL-012/image4.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,주요국 동향 문단에 붙은 국가 식별용 소형 플래그 아이콘으로 단독 의미가 약해 제외.

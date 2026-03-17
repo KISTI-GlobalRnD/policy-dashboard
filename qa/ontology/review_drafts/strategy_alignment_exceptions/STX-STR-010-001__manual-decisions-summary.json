@@ -1,0 +1,19 @@
+{
+  "decision_count": 42,
+  "status_counts": {
+    "reviewed": 23,
+    "no_strategy": 19
+  },
+  "confidence_counts": {
+    "high": 32,
+    "medium": 10
+  },
+  "policy_counts": {
+    "POL-001 123대 국정과제": 22,
+    "POL-012 초혁신경제 15대 프로젝트 추진계획": 19,
+    "POL-002 AI-바이오 국가전략": 1
+  },
+  "master_decision_csv": "qa/ontology/review_queues/policy-item-strategy-review-decisions.csv",
+  "updated_master_rows": 22,
+  "appended_master_rows": 0
+}

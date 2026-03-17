@@ -1,0 +1,12 @@
+{
+  "document_id": "DOC-POL-008",
+  "review_item_count": 2,
+  "figure_type_counts": {
+    "image": 2
+  },
+  "suggested_class_counts": {
+    "review_required": 2
+  },
+  "generic_caption_count": 1,
+  "missing_bbox_count": 2
+}

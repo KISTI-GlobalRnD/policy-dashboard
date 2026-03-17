@@ -1,0 +1,205 @@
+{
+  "status": "pass",
+  "issues": [
+    {
+      "level": "warning",
+      "code": "paragraph_source_map_low_coverage",
+      "message": "Paragraph provenance coverage below 0.90.",
+      "details": {
+        "document_id": "DOC-POL-005",
+        "paragraph_count": 485,
+        "mapped_count": 311,
+        "coverage_ratio": 0.6412
+      }
+    },
+    {
+      "level": "warning",
+      "code": "paragraph_source_map_low_coverage",
+      "message": "Paragraph provenance coverage below 0.90.",
+      "details": {
+        "document_id": "DOC-POL-006",
+        "paragraph_count": 504,
+        "mapped_count": 452,
+        "coverage_ratio": 0.8968
+      }
+    },
+    {
+      "level": "warning",
+      "code": "policy_item_missing_primary_strategy",
+      "message": "Policy items without a primary strategy mapping exist.",
+      "details": [
+        {
+          "policy_item_id": "ITM-POL-007-00381",
+          "item_label": "AI 인프라"
+        },
+        {
+          "policy_item_id": "ITM-POL-007-00382",
+          "item_label": "AI에 대한 이해를 바탕으로 실제 연구에 적용하도록 교육과 연구를 통합 지원*하여..."
+        },
+        {
+          "policy_item_id": "ITM-POL-007-00383",
+          "item_label": "IBS"
+        },
+        {
+          "policy_item_id": "ITM-POL-007-00384",
+          "item_label": "IBS 단장의 책무 강화"
+        },
+        {
+          "policy_item_id": "ITM-POL-007-00385",
+          "item_label": "IRC"
+        },
+        {
+          "policy_item_id": "ITM-POL-007-00386",
+          "item_label": "‘86년 시작된 기초연구 사업은 40년이 지난 오늘날 이공계 분야학문적 다양성을..."
+        },
+        {
+          "policy_item_id": "ITM-POL-007-00387",
+          "item_label": "’4극 3특 전략‘에 맞춰 권역별 센터 수를 일정 규모 이상으로 확대"
+        },
+        {
+          "policy_item_id": "ITM-POL-007-00388",
+          "item_label": "⇒ 기초연구 본연의 목적과 특성에 부합하는 투자시스템 구축"
+        },
+        {
+          "policy_item_id": "ITM-POL-007-00389",
+          "item_label": "⇒ 세계 유수 연구기관과 경쟁할 수 있는 기초연구 기관 육성"
+        },
+        {
+          "policy_item_id": "ITM-POL-007-00390",
+          "item_label": "⇒ 우수 학술성과를 창출하는 연구자 맞춤형 지원체계 확충"
+        },
+        {
+          "policy_item_id": "ITM-POL-007-00391",
+          "item_label": "⇒ 창의성을 마음껏 펼치고 연구에 몰입할 수 있는 제반 환경 조성"
+        },
+        {
+          "policy_item_id": "ITM-POL-007-00392",
+          "item_label": "⇨ 기초연구 본연의 목적과 특성에 부합하는 투자시스템 구축"
+        },
+        {
+          "policy_item_id": "ITM-POL-007-00393",
+          "item_label": "⇨ 세계 유수 연구기관과 경쟁할 수 있는 기초연구 기관 육성"
+        },
+        {
+          "policy_item_id": "ITM-POL-007-00394",
+          "item_label": "⇨ 연구자가 창의성을 펼치고 연구에 몰입할 수 있는 제반 환경 조성"
+        },
+        {
+          "policy_item_id": "ITM-POL-007-00395",
+          "item_label": "⇨ 우수 학술성과를 창출토록 연구자 맞춤형 지원체계 확충"
+        },
+        {
+          "policy_item_id": "ITM-POL-007-00396",
+          "item_label": "☞ ’생애기본연구‘의 신진·지역 연구자 지원 비중이 ’우수연구‘ 대비 약 10%p..."
+        },
+        {
+          "policy_item_id": "ITM-POL-007-00397",
+          "item_label": "과학영재"
+        },
+        {
+          "policy_item_id": "ITM-POL-007-00398",
+          "item_label": "국가·사회적 수요에 기반하여 지원 분야 사전 도출(Middle-up 방식)"
+        },
+        {
+          "policy_item_id": "ITM-POL-007-00399",
+          "item_label": "국가대표급 연구자가 세계 최고 수준의 연구성과를 지속 창출하도록 리더연구(유형B)"
+        },
+        {
+          "policy_item_id": "ITM-POL-007-00400",
+          "item_label": "국가전략기술 개편과 연계"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "policy_count": 12,
+    "strategy_count": 15,
+    "policy_item_count": 1034,
+    "derived_representation_count": 2644,
+    "source_asset_count": 62,
+    "display_text_count": 1034,
+    "curation_assertion_count": 0,
+    "taxonomy_counts": [
+      {
+        "taxonomy_type": "strategy",
+        "mapping_count": 524
+      },
+      {
+        "taxonomy_type": "tech_domain",
+        "mapping_count": 555
+      },
+      {
+        "taxonomy_type": "tech_subdomain",
+        "mapping_count": 531
+      }
+    ],
+    "paragraph_source_coverage": [
+      {
+        "document_id": "DOC-POL-002",
+        "paragraph_count": 239,
+        "mapped_count": 236,
+        "coverage_ratio": 0.9874
+      },
+      {
+        "document_id": "DOC-POL-003",
+        "paragraph_count": 132,
+        "mapped_count": 132,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-004",
+        "paragraph_count": 195,
+        "mapped_count": 182,
+        "coverage_ratio": 0.9333
+      },
+      {
+        "document_id": "DOC-POL-005",
+        "paragraph_count": 485,
+        "mapped_count": 311,
+        "coverage_ratio": 0.6412
+      },
+      {
+        "document_id": "DOC-POL-006",
+        "paragraph_count": 504,
+        "mapped_count": 452,
+        "coverage_ratio": 0.8968
+      },
+      {
+        "document_id": "DOC-POL-007",
+        "paragraph_count": 261,
+        "mapped_count": 241,
+        "coverage_ratio": 0.9234
+      },
+      {
+        "document_id": "DOC-POL-008",
+        "paragraph_count": 100,
+        "mapped_count": 96,
+        "coverage_ratio": 0.96
+      },
+      {
+        "document_id": "DOC-POL-009",
+        "paragraph_count": 292,
+        "mapped_count": 292,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-010",
+        "paragraph_count": 185,
+        "mapped_count": 185,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-011",
+        "paragraph_count": 65,
+        "mapped_count": 65,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-012",
+        "paragraph_count": 98,
+        "mapped_count": 98,
+        "coverage_ratio": 1.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+review_item_id,figure_id,document_id,title,doc_role,include_status,location,figure_type,extraction_method,extraction_confidence,has_source_bbox,generic_caption,caption,summary,asset_path,suggested_class,rationale,keep_for_dashboard,review_status,quality_status,reviewer_notes
+FRV-DOC-POL-008-001,FIG-DOC-POL-008-001,DOC-POL-008,"민간투자연계, 팁스 R&D 확산방안",policy_source,include,section4,image,hwpx-xml-parser,medium,0,0,,,work/02_structured-extraction/figures/assets/DOC-POL-008/image1.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,문서 공통 태극마크 아이콘으로 정책 의미를 담는 figure가 아니라 제외.
+FRV-DOC-POL-008-002,FIG-DOC-POL-008-002,DOC-POL-008,"민간투자연계, 팁스 R&D 확산방안",policy_source,include,section6,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP0000302c2aac.bmp
+원본 그림의 크기: 가로 535pixel, 세로 584pixel",CLP0000302c2aac.bmp,work/02_structured-extraction/figures/assets/DOC-POL-008/image2.bmp,review_required,embedded image requires semantic figure review,yes,reviewed,dashboard_ready,팁스 R&D 추진단과 통합 BANK 시스템 연계를 설명하는 핵심 도식으로 유지.

@@ -1,0 +1,13 @@
+paragraph_id,document_id,page_no,page_block_order,block_type,text,source_line_count,merged_block_count,normalization_actions,source_mode
+PAR-DOC-CTX-007-00001,DOC-CTX-007,1,1,heading,<세부 기술(정책) 분류체계> 대분류 중분류 기술 개요,4,2,merged_continuation,bbox_text
+PAR-DOC-CTX-007-00002,DOC-CTX-007,1,2,bullet,▪ 현재 리튬이온전지의 에너지밀도 350 Wh/kg급 극대화,1,1,,bbox_text
+PAR-DOC-CTX-007-00003,DOC-CTX-007,1,3,bullet,▪ 가격경쟁력·공정 친환경화 확보를 위한 리튬이온전지용 소재·공정,1,1,,bbox_text
+PAR-DOC-CTX-007-00004,DOC-CTX-007,1,4,paragraph,리튬이온전지 기술 개발,2,2,merged_continuation,bbox_text
+PAR-DOC-CTX-007-00005,DOC-CTX-007,1,5,bullet,"▪ 전고체·리튬금속·리튬황(400 Wh/kg 목표), 나트륨이온(220 Wh/kg 차세대 이차전지",3,2,merged_continuation,bbox_text
+PAR-DOC-CTX-007-00006,DOC-CTX-007,1,6,paragraph,목표) 등 차세대 전지 소재 개발,1,1,,bbox_text
+PAR-DOC-CTX-007-00007,DOC-CTX-007,1,7,bullet,▪ 고에너지밀도·고안전성·가격경쟁력 확보와 응용분야별 맞춤형 특 이차전지,2,2,merged_continuation,bbox_text
+PAR-DOC-CTX-007-00008,DOC-CTX-007,1,8,paragraph,성 구현을 위한 소재·전지제조 기술,1,1,,bbox_text
+PAR-DOC-CTX-007-00009,DOC-CTX-007,1,9,paragraph,이차전지 모듈·시스템,2,1,,bbox_text
+PAR-DOC-CTX-007-00010,DOC-CTX-007,1,10,bullet,▪ 전기모빌리티·ESS의 성능·안전·수명 향상을 위한 모듈·팩·시스템 기 술 및 지능형 관리(BMS) 기술 개발,2,2,merged_continuation,bbox_text
+PAR-DOC-CTX-007-00011,DOC-CTX-007,1,11,paragraph,이차전지 재사용·재활용,2,1,,bbox_text
+PAR-DOC-CTX-007-00012,DOC-CTX-007,1,12,bullet,"▪ 사용후 배터리의 고안전·고효율 재사용, 고순도·친환경 자원회수·재 활용 기술 확보",2,2,merged_continuation,bbox_text

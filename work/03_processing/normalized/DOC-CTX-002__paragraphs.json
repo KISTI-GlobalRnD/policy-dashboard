@@ -1,0 +1,26 @@
+[
+  {
+    "paragraph_id": "PAR-DOC-CTX-002-00001",
+    "document_id": "DOC-CTX-002",
+    "page_no": 1,
+    "page_block_order": 1,
+    "block_type": "paragraph",
+    "text": "융 :",
+    "source_line_count": 1,
+    "merged_block_count": 1,
+    "normalization_actions": "",
+    "source_mode": "bbox_text"
+  },
+  {
+    "paragraph_id": "PAR-DOC-CTX-002-00002",
+    "document_id": "DOC-CTX-002",
+    "page_no": 1,
+    "page_block_order": 2,
+    "block_type": "paragraph",
+    "text": "어Y",
+    "source_line_count": 1,
+    "merged_block_count": 1,
+    "normalization_actions": "",
+    "source_mode": "bbox_text"
+  }
+]

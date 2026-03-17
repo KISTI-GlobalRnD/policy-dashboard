@@ -1,0 +1,167 @@
+review_item_id,figure_id,document_id,title,doc_role,include_status,location,figure_type,extraction_method,extraction_confidence,has_source_bbox,generic_caption,caption,summary,asset_path,suggested_class,rationale,keep_for_dashboard,review_status,quality_status,reviewer_notes
+FRV-DOC-POL-007-001,FIG-DOC-POL-007-001,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 비전표(반페이지)v4.jpg
+원본 그림의 크기: 가로 1532pixel, 세로 785pixel",비전표(반페이지)v4.jpg,work/02_structured-extraction/figures/assets/DOC-POL-007/image2.jpg,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-002,FIG-DOC-POL-007-002,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section2,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00003824621e.bmp
+원본 그림의 크기: 가로 1755pixel, 세로 553pixel",CLP00003824621e.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image3.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-003,FIG-DOC-POL-007-003,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section4,image,hwpx-xml-parser,medium,0,0,,,work/02_structured-extraction/figures/assets/DOC-POL-007/image4.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-004,FIG-DOC-POL-007-004,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000017600003.bmp
+원본 그림의 크기: 가로 1677pixel, 세로 400pixel",CLP000017600003.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image6.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-005,FIG-DOC-POL-007-005,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000047400003.bmp
+원본 그림의 크기: 가로 359pixel, 세로 197pixel",CLP000047400003.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image7.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-006,FIG-DOC-POL-007-006,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00000dd40003.bmp
+원본 그림의 크기: 가로 984pixel, 세로 452pixel",CLP00000dd40003.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image8.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-007,FIG-DOC-POL-007-007,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00004cd80007.bmp
+원본 그림의 크기: 가로 880pixel, 세로 120pixel",CLP00004cd80007.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image9.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-008,FIG-DOC-POL-007-008,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림1.png
+원본 그림의 크기: 가로 2564pixel, 세로 1053pixel",그림1.png,work/02_structured-extraction/figures/assets/DOC-POL-007/image10.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-009,FIG-DOC-POL-007-009,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00004cd80010.bmp
+원본 그림의 크기: 가로 810pixel, 세로 252pixel",CLP00004cd80010.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image11.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-010,FIG-DOC-POL-007-010,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 3p 맞춤형 칩.jpg
+원본 그림의 크기: 가로 1524pixel, 세로 130pixel",3p 맞춤형 칩.jpg,work/02_structured-extraction/figures/assets/DOC-POL-007/image12.jpg,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-011,FIG-DOC-POL-007-011,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000017600009.bmp
+원본 그림의 크기: 가로 1466pixel, 세로 136pixel",CLP000017600009.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image13.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-012,FIG-DOC-POL-007-012,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000062c00004.bmp
+원본 그림의 크기: 가로 254pixel, 세로 131pixel",CLP000062c00004.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image14.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-013,FIG-DOC-POL-007-013,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000062c00009.bmp
+원본 그림의 크기: 가로 146pixel, 세로 93pixel",CLP000062c00009.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image15.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-014,FIG-DOC-POL-007-014,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000062c00004.bmp
+원본 그림의 크기: 가로 254pixel, 세로 131pixel",CLP000062c00004.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image14.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-015,FIG-DOC-POL-007-015,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000062c00009.bmp
+원본 그림의 크기: 가로 146pixel, 세로 93pixel",CLP000062c00009.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image15.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-016,FIG-DOC-POL-007-016,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000062c00008.bmp
+원본 그림의 크기: 가로 149pixel, 세로 97pixel",CLP000062c00008.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image16.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-017,FIG-DOC-POL-007-017,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00004cd80009.bmp
+원본 그림의 크기: 가로 1156pixel, 세로 380pixel",CLP00004cd80009.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image17.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-018,FIG-DOC-POL-007-018,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 5p 기업 목록.jpg
+원본 그림의 크기: 가로 1916pixel, 세로 170pixel",5p 기업 목록.jpg,work/02_structured-extraction/figures/assets/DOC-POL-007/image18.jpg,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-019,FIG-DOC-POL-007-019,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 기업가치.jpg
+원본 그림의 크기: 가로 1237pixel, 세로 170pixel",기업가치.jpg,work/02_structured-extraction/figures/assets/DOC-POL-007/image19.jpg,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-020,FIG-DOC-POL-007-020,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 리벨, 퓨리 기업가치.jpg
+원본 그림의 크기: 가로 751pixel, 세로 397pixel","리벨, 퓨리 기업가치.jpg",work/02_structured-extraction/figures/assets/DOC-POL-007/image20.jpg,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-021,FIG-DOC-POL-007-021,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 6p 제품 목록.jpg
+원본 그림의 크기: 가로 1598pixel, 세로 597pixel",6p 제품 목록.jpg,work/02_structured-extraction/figures/assets/DOC-POL-007/image21.jpg,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-022,FIG-DOC-POL-007-022,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00004cd80015.bmp
+원본 그림의 크기: 가로 833pixel, 세로 114pixel",CLP00004cd80015.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image22.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-023,FIG-DOC-POL-007-023,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00001154000b.bmp
+원본 그림의 크기: 가로 831pixel, 세로 112pixel",CLP00001154000b.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image23.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-024,FIG-DOC-POL-007-024,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00001760000c.bmp
+원본 그림의 크기: 가로 1078pixel, 세로 194pixel",CLP00001760000c.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image24.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-025,FIG-DOC-POL-007-025,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 169pixel, 세로 119pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-007/image25.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-026,FIG-DOC-POL-007-026,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00004d14abf1.bmp
+원본 그림의 크기: 가로 233pixel, 세로 134pixel",CLP00004d14abf1.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image26.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-027,FIG-DOC-POL-007-027,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000050fc0008.bmp
+원본 그림의 크기: 가로 228pixel, 세로 120pixel",CLP000050fc0008.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image27.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-028,FIG-DOC-POL-007-028,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 169pixel, 세로 119pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-007/image25.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-029,FIG-DOC-POL-007-029,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00000ac40035.bmp
+원본 그림의 크기: 가로 594pixel, 세로 272pixel",CLP00000ac40035.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image28.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-030,FIG-DOC-POL-007-030,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000037fc0003.bmp
+원본 그림의 크기: 가로 570pixel, 세로 260pixel",CLP000037fc0003.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image29.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-031,FIG-DOC-POL-007-031,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 169pixel, 세로 119pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-007/image25.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-032,FIG-DOC-POL-007-032,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,0,,,work/02_structured-extraction/figures/assets/DOC-POL-007/image30.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-033,FIG-DOC-POL-007-033,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: AI반도체 시장 현황(재수정).jpg
+원본 그림의 크기: 가로 1990pixel, 세로 1092pixel",AI반도체 시장 현황(재수정).jpg,work/02_structured-extraction/figures/assets/DOC-POL-007/image31.jpg,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-034,FIG-DOC-POL-007-034,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000008280001.bmp
+원본 그림의 크기: 가로 745pixel, 세로 86pixel",CLP000008280001.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image32.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-035,FIG-DOC-POL-007-035,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000010100001.bmp
+원본 그림의 크기: 가로 119pixel, 세로 194pixel",CLP000010100001.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image33.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-036,FIG-DOC-POL-007-036,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000010100001.bmp
+원본 그림의 크기: 가로 119pixel, 세로 194pixel",CLP000010100001.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image33.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-037,FIG-DOC-POL-007-037,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000010100001.bmp
+원본 그림의 크기: 가로 119pixel, 세로 194pixel",CLP000010100001.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image33.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-038,FIG-DOC-POL-007-038,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 비전표(1p)v6.jpg
+원본 그림의 크기: 가로 1422pixel, 세로 1895pixel",비전표(1p)v6.jpg,work/02_structured-extraction/figures/assets/DOC-POL-007/image34.jpg,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-039,FIG-DOC-POL-007-039,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: NPU 테스트베드(수정).jpg
+원본 그림의 크기: 가로 1966pixel, 세로 853pixel",NPU 테스트베드(수정).jpg,work/02_structured-extraction/figures/assets/DOC-POL-007/image35.jpg,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-040,FIG-DOC-POL-007-040,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00005bc00004.bmp
+원본 그림의 크기: 가로 960pixel, 세로 289pixel",CLP00005bc00004.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image36.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-041,FIG-DOC-POL-007-041,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00002b341009.bmp
+원본 그림의 크기: 가로 1057pixel, 세로 417pixel",CLP00002b341009.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image37.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-042,FIG-DOC-POL-007-042,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: image1.png
+원본 그림의 크기: 가로 800pixel, 세로 600pixel",image1.png,work/02_structured-extraction/figures/assets/DOC-POL-007/image38.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-043,FIG-DOC-POL-007-043,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00002e0c02e6.bmp
+원본 그림의 크기: 가로 888pixel, 세로 289pixel",CLP00002e0c02e6.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image39.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-044,FIG-DOC-POL-007-044,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00002e0c0001.bmp
+원본 그림의 크기: 가로 629pixel, 세로 159pixel",CLP00002e0c0001.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image40.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-045,FIG-DOC-POL-007-045,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00002d900003.bmp
+원본 그림의 크기: 가로 151pixel, 세로 52pixel",CLP00002d900003.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image41.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-046,FIG-DOC-POL-007-046,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00002d900002.bmp
+원본 그림의 크기: 가로 448pixel, 세로 88pixel",CLP00002d900002.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image42.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-047,FIG-DOC-POL-007-047,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00002d900001.bmp
+원본 그림의 크기: 가로 199pixel, 세로 67pixel",CLP00002d900001.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image43.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-048,FIG-DOC-POL-007-048,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000011540008.bmp
+원본 그림의 크기: 가로 923pixel, 세로 205pixel",CLP000011540008.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image44.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-049,FIG-DOC-POL-007-049,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00003824621e.bmp
+원본 그림의 크기: 가로 1755pixel, 세로 553pixel",CLP00003824621e.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image3.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-050,FIG-DOC-POL-007-050,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: AX디바이스.jpg
+원본 그림의 크기: 가로 1411pixel, 세로 250pixel",AX디바이스.jpg,work/02_structured-extraction/figures/assets/DOC-POL-007/image45.jpg,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-051,FIG-DOC-POL-007-051,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+
+원본 그림의 이름: CLP0000316443d1.bmp
+
+원본 그림의 크기: 가로 620pixel, 세로 349pixel",CLP0000316443d1.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image46.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-052,FIG-DOC-POL-007-052,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 공공조달 체계.jpg
+원본 그림의 크기: 가로 1177pixel, 세로 291pixel",공공조달 체계.jpg,work/02_structured-extraction/figures/assets/DOC-POL-007/image47.jpg,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-053,FIG-DOC-POL-007-053,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00005bc00005.bmp
+원본 그림의 크기: 가로 1250pixel, 세로 839pixel",CLP00005bc00005.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image48.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-054,FIG-DOC-POL-007-054,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: AX스프린트.jpg
+원본 그림의 크기: 가로 1536pixel, 세로 551pixel",AX스프린트.jpg,work/02_structured-extraction/figures/assets/DOC-POL-007/image49.jpg,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-055,FIG-DOC-POL-007-055,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000011540004.bmp
+원본 그림의 크기: 가로 1019pixel, 세로 178pixel",CLP000011540004.bmp,work/02_structured-extraction/figures/assets/DOC-POL-007/image50.bmp,review_required,embedded image requires semantic figure review,review,review_required,review_required,
+FRV-DOC-POL-007-056,FIG-DOC-POL-007-056,DOC-POL-007,AI반도체 산업 도약 전략,policy_source,include,section8,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 민관전략협의회.png
+원본 그림의 크기: 가로 3744pixel, 세로 1939pixel",민관전략협의회.png,work/02_structured-extraction/figures/assets/DOC-POL-007/image51.png,review_required,embedded image requires semantic figure review,review,review_required,review_required,

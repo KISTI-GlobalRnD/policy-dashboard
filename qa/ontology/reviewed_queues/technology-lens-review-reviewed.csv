@@ -1,0 +1,31 @@
+decision_key,decision_status,resolved_group_id,applied_status,applied_group_status,applied_group_label,reviewer_name,reviewer_notes
+TLR-TD-002-4ce18cf6e771,revised,PIG-EXP-TD-002-01,applied,reviewed_curated,기후테크 육성,codex_manual_technology_lens_review,에너지 기술축의 대표 근거로 유지하되 raw 접두 표기와 압축 문장을 정리한다.
+TLR-TD-002-a67a4179bb8e,revised,PIG-EXP-TD-002-02,applied,reviewed_curated,미래전략산업·에너지 인프라 성장펀드,codex_manual_technology_lens_review,범용 펀드지만 에너지 인프라 투자가 명시되어 infra/institution 그룹으로 유지한다.
+TLR-TD-003-ce55f5599417,revised,PIG-EXP-TD-003-03,applied,reviewed_curated,동남권 항공·이차전지 국가산단 조성,codex_manual_technology_lens_review,이차전지 지역 거점 조성 근거가 직접적이라 유지하되 카드 라벨을 정리한다.
+TLR-TD-004-bd6fea254f33,revised,PIG-EXP-TD-004-04,applied,reviewed_curated,AI·첨단과학 기반 국방개혁 로드맵,codex_manual_technology_lens_review,국방 기술 전환의 직접 근거이므로 유지하되 카드 문구를 명시적으로 다듬는다.
+TLR-TD-004-bdd639ad4cd4,rejected,PIG-EXP-TD-004-05,applied,review_rejected,군사법개혁,codex_manual_technology_lens_review,군사법개혁은 국방 기술축이 아니라 사법·거버넌스 개편 과제다.
+TLR-TD-005-f653497af274,revised,PIG-EXP-TD-005-06,applied,reviewed_curated,바이오파운드리 기반 첨단바이오소재 구축,codex_manual_technology_lens_review,소재 기술축에서 바이오소재 생산 기반을 직접 설명하는 항목이다.
+TLR-TD-005-cb9b63d36b6e,approved,PIG-EXP-TD-005-07,applied,reviewed_curated,AI-그린바이오,codex_manual_technology_lens_review,지역특화 고부가가치 소재 연구·활용과 인프라 구축이 명시되어 소재 그룹으로 유지한다.
+TLR-TD-006-edab63e76ef2,revised,PIG-EXP-TD-006-08,applied,reviewed_curated,보안 사각지대 지원 강화,codex_manual_technology_lens_review,사이버보안 기술·산업 지원이 직접 드러나므로 유지하되 카드 문구를 정리한다.
+TLR-TD-007-d0feb1b8ba17,revised,PIG-EXP-TD-007-09,applied,reviewed_curated,6G·AI 네트워크 선도국 도약,codex_manual_technology_lens_review,차세대 통신 핵심 정책 문구이므로 유지하되 과도한 원문 수식을 압축한다.
+TLR-TD-007-ef19533c64dd,approved,PIG-EXP-TD-007-10,applied,reviewed_curated,고효율·친환경 기지국 인증제 도입(’26) 검토 등 저전력 통신망 구축 독려,codex_manual_technology_lens_review,기지국 효율화와 저전력 통신망 구축은 차세대 통신 인프라 정책으로 타당하다.
+TLR-TD-008-50137b46d117,revised,PIG-EXP-TD-008-11,applied,reviewed_curated,산업 AI 전환 촉진,codex_manual_technology_lens_review,첨단제조 축에서 가장 직접적인 산업 AI 전환 과제라 유지한다.
+TLR-TD-008-b0a7199c166f,rejected,PIG-EXP-TD-008-12,applied,review_rejected,1단계 R&D('20~'25,codex_manual_technology_lens_review,자율운항 선박 실증은 첨단로봇제조보다 해양·모빌리티 성격이 강하다.
+TLR-TD-010-3ec90a2c74f3,revised,PIG-EXP-TD-010-13,applied,reviewed_curated,양자과학기술 전략 중추기관 육성,codex_manual_technology_lens_review,양자 역량 확충 근거가 분명하지만 범주를 더 분명하게 보이도록 카드 문구를 조정한다.
+TLR-TD-012-76d0998377d3,revised,PIG-EXP-TD-012-14,applied,reviewed_curated,위성 기반 광역감시 정보체계 구축,codex_manual_technology_lens_review,우주항공 축에서 위성 기반 감시 체계 근거로 직접 읽힌다.
+TLR-TD-012-4a0f70917b9b,approved,PIG-EXP-TD-012-15,applied,reviewed_curated,우리기술로K-Space 도전,codex_manual_technology_lens_review,K-Space 클러스터와 재사용발사체 개발을 직접 다루는 대표 항목이라 그대로 승인한다.
+TLR-TD-013-d937ad4b82ee,revised,PIG-EXP-TD-013-16,applied,reviewed_curated,관할해역 감시체계 강화,codex_manual_technology_lens_review,해양 안보·감시 인프라 축으로 직접 연결되지만 원문 문장을 카드형으로 정리한다.
+TLR-TD-013-d5154b106a4e,revised,PIG-EXP-TD-013-17,applied,reviewed_curated,국가해상수송력·허브항만 확충,codex_manual_technology_lens_review,해양 물류·항만 기반을 직접 다루므로 해양 축에 유지한다.
+TLR-TD-014-4c38ed4205e2,revised,PIG-EXP-TD-014-18,applied,reviewed_curated,미래차 혁신 생태계 조성,codex_manual_technology_lens_review,첨단모빌리티 핵심 키워드가 직접 모여 있어 대표 그룹으로 유지한다.
+TLR-TD-014-8192cc2ff85b,revised,PIG-EXP-TD-014-19,applied,reviewed_curated,전기차·PM 안전대책 및 자율주행 질서 정비,codex_manual_technology_lens_review,첨단모빌리티의 제도·안전 축을 대표하는 인프라·제도 그룹으로 유지한다.
+TLR-TD-002-32f58df085a6,rejected,PIG-SEED-TD-002-01,applied,review_rejected,초전도체,codex_manual_technology_lens_review,초전도체는 에너지 응용이 포함되지만 소재·양자 성격이 더 강해 에너지 대표 그룹으로 확정하지 않는다.
+TLR-TD-003-3ef8a03e8dca,revised,PIG-SEED-TD-003-02,applied,reviewed_curated,이차전지 위기산업 특단대책,codex_manual_technology_lens_review,이차전지를 명시한 산업 지원 정책이어서 유지하되 요약을 정제한다.
+TLR-TD-004-cc9d6e3bfe9c,revised,PIG-SEED-TD-004-03,applied,reviewed_curated,국방 AI 신속개발·활용,codex_manual_technology_lens_review,국방 AI 활용 기반을 직접 설명하는 항목으로 유지한다.
+TLR-TD-005-05e9dec21247,revised,PIG-SEED-TD-005-04,applied,reviewed_curated,수소환원제철·스페셜티소재 전환,codex_manual_technology_lens_review,철강·화학 소재 고도화 맥락이 분명해 소재 기술축에 유지한다.
+TLR-TD-006-ad0e627cbfd6,approved,PIG-SEED-TD-006-05,applied,reviewed_curated,디지털보안·안전확보,codex_manual_technology_lens_review,AI 기반 사이버위협 대응과 정보보호 제도 개편이 직접 연결돼 있어 그대로 승인한다.
+TLR-TD-007-966edd842344,revised,PIG-SEED-TD-007-06,applied,reviewed_curated,초지능 네트워크 구축,codex_manual_technology_lens_review,원문이 잘린 카드라서 대표 라벨과 요약을 복원한다.
+TLR-TD-008-3a9a03ff49e9,rejected,PIG-SEED-TD-008-07,applied,review_rejected,고부가가치서비스업육성,codex_manual_technology_lens_review,교통·물류·안전 서비스 생산성 제고는 범용 AI 서비스 과제로 첨단로봇제조 대표 그룹으로는 범위가 너무 넓다.
+TLR-TD-010-ffc2d71e979f,revised,PIG-SEED-TD-010-08,applied,reviewed_curated,양자컴퓨터 하이브리드 활용,codex_manual_technology_lens_review,바이오 응용 사례를 담고 있지만 양자컴 활용 인프라 자체가 핵심이라 양자 축에 유지한다.
+TLR-TD-012-4881777fc9c4,rejected,PIG-SEED-TD-012-09,applied,review_rejected,첨단기술산업기반구축,codex_manual_technology_lens_review,AI·항공엔진·반도체·우주·드론·로봇이 결합된 범분야 산업 총론이라 우주항공 대표 그룹으로 확정하지 않는다.
+TLR-TD-013-08a589cbabe1,revised,PIG-SEED-TD-013-10,applied,reviewed_curated,해상풍력 설치선·전용항만 기반 강화,codex_manual_technology_lens_review,복합 문장 중 해상풍력 설치선·전용항만 부분을 해양 산업기반 대표 근거로 남긴다.
+TLR-TD-014-34e8cd14b230,approved,PIG-SEED-TD-014-11,applied,reviewed_curated,자율주행실현,codex_manual_technology_lens_review,레벨4 자율차 출시와 자율주행 AI 인프라 구축을 직접 설명하는 대표 정책이어서 그대로 승인한다.

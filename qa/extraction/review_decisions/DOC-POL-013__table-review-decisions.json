@@ -1,0 +1,334 @@
+{
+  "review_item_updates": {
+    "TRV-DOC-POL-013-JS-001": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-002": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-003": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-004": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-005": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-006": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-007": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-008": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-009": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-010": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "canonical_table_id": "CTBL-DOC-POL-013-001",
+      "reviewer_notes": "4개 법령·체계를 목적과 소관부처 기준으로 비교하는 핵심 요약표로 유지."
+    },
+    "TRV-DOC-POL-013-JS-011": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-012": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-013": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-014": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "canonical_table_id": "CTBL-DOC-POL-013-002",
+      "reviewer_notes": "공통 기술분야를 법령 체계별로 배치한 핵심 매핑표로 유지."
+    },
+    "TRV-DOC-POL-013-JS-015": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-016": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-017": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-018": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-019": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "표가 아니라 표지/표제 박스와 날짜 메타데이터를 담은 cover layout이라 제외."
+    },
+    "TRV-DOC-POL-013-JS-020": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-021": {
+      "keep_for_dashboard": "after_merge",
+      "review_status": "reviewed",
+      "canonical_table_id": "CTBL-DOC-POL-013-001",
+      "reviewer_notes": "section2 요약표와 동일한 비교표에 설명행만 덧붙인 중복본이라 CTBL-DOC-POL-013-001로 병합."
+    },
+    "TRV-DOC-POL-013-JS-022": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-023": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-024": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-025": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "단일 셀에 설명문을 담은 appendix note box라 canonical table로 유지하지 않음."
+    },
+    "TRV-DOC-POL-013-JS-026": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-027": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-028": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-029": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-030": {
+      "keep_for_dashboard": "after_merge",
+      "review_status": "reviewed",
+      "canonical_table_id": "CTBL-DOC-POL-013-002",
+      "reviewer_notes": "section2 공통 기술분야 배치표의 본문 재수록본이라 CTBL-DOC-POL-013-002로 병합."
+    },
+    "TRV-DOC-POL-013-JS-031": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-032": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "참고표 제목만 남고 셀이 비어 있어 실질 table artifact로 보기 어렵다."
+    },
+    "TRV-DOC-POL-013-JS-033": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-034": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-035": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "canonical_table_id": "CTBL-DOC-POL-013-003",
+      "reviewer_notes": "체계간 논의·심의 역할을 구분해 보여주는 운영 절차 예시표로 유지."
+    },
+    "TRV-DOC-POL-013-JS-036": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-037": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-038": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-039": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-040": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-041": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-042": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-043": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-044": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-045": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-046": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "canonical_table_id": "CTBL-DOC-POL-013-004",
+      "reviewer_notes": "공통 기술분야 현황맵 예시로서 전략기술 범주 분포를 보여주므로 유지."
+    },
+    "TRV-DOC-POL-013-JS-047": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-048": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-049": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-050": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-051": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-052": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-053": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "1차 heuristic seed. 레이아웃 박스/표 도구 기반 제목 요소로 판단해 제외."
+    },
+    "TRV-DOC-POL-013-JS-054": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "reviewer_notes": "연락처 메타데이터 표로 dashboard/canonical table 대상이 아님."
+    }
+  },
+  "canonical_tables": [
+    {
+      "canonical_table_id": "CTBL-DOC-POL-013-001",
+      "document_id": "DOC-POL-013",
+      "title_hint": "범부처 주요 기술육성·보호체계 비교",
+      "page_start": "section2",
+      "page_end": "section8",
+      "preferred_candidate_source": "pymupdf_find_tables",
+      "preferred_candidate_id": "TBL-DOC-POL-013-010",
+      "canonical_status": "ready",
+      "dashboard_ready": "yes",
+      "source_review_item_ids": "TRV-DOC-POL-013-JS-010|TRV-DOC-POL-013-JS-021",
+      "notes": "4개 법령·체계를 소관부처와 목적 기준으로 비교하는 핵심 표. section8 재수록본은 본 canonical에 병합."
+    },
+    {
+      "canonical_table_id": "CTBL-DOC-POL-013-002",
+      "document_id": "DOC-POL-013",
+      "title_hint": "공통 기술분야 도출 및 체계별 배치",
+      "page_start": "section2",
+      "page_end": "section8",
+      "preferred_candidate_source": "pymupdf_find_tables",
+      "preferred_candidate_id": "TBL-DOC-POL-013-014",
+      "canonical_status": "ready",
+      "dashboard_ready": "yes",
+      "source_review_item_ids": "TRV-DOC-POL-013-JS-014|TRV-DOC-POL-013-JS-030",
+      "notes": "공통 기술분야를 법령 체계별로 배치한 핵심 매핑표. 본문 재수록본은 동일 canonical로 병합."
+    },
+    {
+      "canonical_table_id": "CTBL-DOC-POL-013-003",
+      "document_id": "DOC-POL-013",
+      "title_hint": "공통 기술분야 운영 시 역할 분담 예시",
+      "page_start": "section8",
+      "page_end": "section8",
+      "preferred_candidate_source": "pymupdf_find_tables",
+      "preferred_candidate_id": "TBL-DOC-POL-013-035",
+      "canonical_status": "ready",
+      "dashboard_ready": "yes",
+      "source_review_item_ids": "TRV-DOC-POL-013-JS-035",
+      "notes": "공통 기술분야 변경, 체계별 운영, 세부기술 지정 단계별 논의·심의 주체를 설명하는 운영 예시표."
+    },
+    {
+      "canonical_table_id": "CTBL-DOC-POL-013-004",
+      "document_id": "DOC-POL-013",
+      "title_hint": "공통 기술분야 현황맵 예시",
+      "page_start": "section8",
+      "page_end": "section8",
+      "preferred_candidate_source": "pymupdf_find_tables",
+      "preferred_candidate_id": "TBL-DOC-POL-013-046",
+      "canonical_status": "ready",
+      "dashboard_ready": "yes",
+      "source_review_item_ids": "TRV-DOC-POL-013-JS-046",
+      "notes": "국가전략 및 신성장·원천 체계에서 다루는 대표 공통 기술분야를 예시로 정리한 현황맵 표."
+    }
+  ]
+}

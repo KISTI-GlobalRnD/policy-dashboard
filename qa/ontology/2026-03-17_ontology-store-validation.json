@@ -1,0 +1,223 @@
+{
+  "status": "pass",
+  "issues": [],
+  "stats": {
+    "policy_count": 12,
+    "strategy_count": 15,
+    "policy_item_count": 1697,
+    "policy_item_group_count": 40,
+    "policy_item_content_count": 49,
+    "derived_representation_count": 7810,
+    "source_asset_count": 1046,
+    "display_text_count": 1786,
+    "curation_assertion_count": 1186,
+    "taxonomy_counts": [
+      {
+        "taxonomy_type": "strategy",
+        "mapping_count": 815
+      },
+      {
+        "taxonomy_type": "tech_domain",
+        "mapping_count": 610
+      },
+      {
+        "taxonomy_type": "tech_subdomain",
+        "mapping_count": 550
+      }
+    ],
+    "paragraph_source_coverage": [
+      {
+        "document_id": "DOC-BMK-002",
+        "paragraph_count": 1025,
+        "mapped_count": 1025,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-BMK-005",
+        "paragraph_count": 247,
+        "mapped_count": 247,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-BMK-006",
+        "paragraph_count": 1033,
+        "mapped_count": 1033,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-001",
+        "paragraph_count": 5,
+        "mapped_count": 5,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-002",
+        "paragraph_count": 2,
+        "mapped_count": 2,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-003",
+        "paragraph_count": 3,
+        "mapped_count": 3,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-004",
+        "paragraph_count": 2,
+        "mapped_count": 2,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-005",
+        "paragraph_count": 5,
+        "mapped_count": 5,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-006",
+        "paragraph_count": 3,
+        "mapped_count": 3,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-007",
+        "paragraph_count": 12,
+        "mapped_count": 12,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-008",
+        "paragraph_count": 3,
+        "mapped_count": 3,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-009",
+        "paragraph_count": 15,
+        "mapped_count": 15,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-010",
+        "paragraph_count": 8,
+        "mapped_count": 8,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-011",
+        "paragraph_count": 4,
+        "mapped_count": 4,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-012",
+        "paragraph_count": 5,
+        "mapped_count": 5,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-013",
+        "paragraph_count": 3,
+        "mapped_count": 3,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-CTX-014",
+        "paragraph_count": 5,
+        "mapped_count": 5,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-001",
+        "paragraph_count": 2179,
+        "mapped_count": 2179,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-002",
+        "paragraph_count": 239,
+        "mapped_count": 236,
+        "coverage_ratio": 0.9874
+      },
+      {
+        "document_id": "DOC-POL-003",
+        "paragraph_count": 132,
+        "mapped_count": 132,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-004",
+        "paragraph_count": 195,
+        "mapped_count": 195,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-005",
+        "paragraph_count": 485,
+        "mapped_count": 482,
+        "coverage_ratio": 0.9938
+      },
+      {
+        "document_id": "DOC-POL-006",
+        "paragraph_count": 496,
+        "mapped_count": 496,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-007",
+        "paragraph_count": 261,
+        "mapped_count": 261,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-008",
+        "paragraph_count": 100,
+        "mapped_count": 100,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-009",
+        "paragraph_count": 292,
+        "mapped_count": 292,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-010",
+        "paragraph_count": 185,
+        "mapped_count": 185,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-011",
+        "paragraph_count": 65,
+        "mapped_count": 65,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-012",
+        "paragraph_count": 98,
+        "mapped_count": 98,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-POL-013",
+        "paragraph_count": 162,
+        "mapped_count": 162,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-REF-001",
+        "paragraph_count": 24,
+        "mapped_count": 24,
+        "coverage_ratio": 1.0
+      },
+      {
+        "document_id": "DOC-REF-002",
+        "paragraph_count": 1,
+        "mapped_count": 1,
+        "coverage_ratio": 1.0
+      }
+    ]
+  }
+}

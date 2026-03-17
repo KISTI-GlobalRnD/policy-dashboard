@@ -1,0 +1,14 @@
+policy_item_content_evidence_link_id,policy_item_content_id,derived_representation_id,link_role,evidence_strength,is_primary,sort_order,notes
+PCEL-SEED-TD-002-01-01-01,PIC-SEED-TD-002-01-01,DRV-PAR-DOC-POL-006-00041,primary_support,high,1,1,seed draft from PIC-PROV-ITM-POL-012-RV-00001
+PCEL-SEED-TD-002-01-01-02,PIC-SEED-TD-002-01-01,DRV-PAR-DOC-POL-006-00042,secondary_support,medium,0,2,seed draft from PIC-PROV-ITM-POL-012-RV-00001
+PCEL-SEED-TD-002-01-01-03,PIC-SEED-TD-002-01-01,DRV-PAR-DOC-POL-006-00043,secondary_support,medium,0,3,seed draft from PIC-PROV-ITM-POL-012-RV-00001
+PCEL-SEED-TD-003-02-01-01,PIC-SEED-TD-003-02-01,DRV-PAR-DOC-POL-001-00970,primary_support,medium,1,1,seed draft from PIC-PROV-ITM-POL-001-00012
+PCEL-SEED-TD-004-03-01-01,PIC-SEED-TD-004-03-01,DRV-PAR-DOC-POL-001-01932,primary_support,medium,1,1,seed draft from PIC-PROV-ITM-POL-001-00157
+PCEL-SEED-TD-005-04-01-01,PIC-SEED-TD-005-04-01,DRV-PAR-DOC-POL-001-00602,primary_support,medium,1,1,seed draft from PIC-PROV-ITM-POL-001-00386
+PCEL-SEED-TD-006-05-01-01,PIC-SEED-TD-006-05-01,DRV-PAR-DOC-POL-001-00461,primary_support,medium,1,1,seed draft from PIC-PROV-ITM-POL-001-00259
+PCEL-SEED-TD-007-06-01-01,PIC-SEED-TD-007-06-01,DRV-PAR-DOC-POL-001-00403,primary_support,medium,1,1,seed draft from PIC-PROV-ITM-POL-001-00614
+PCEL-SEED-TD-008-07-01-01,PIC-SEED-TD-008-07-01,DRV-PAR-DOC-POL-001-00650,primary_support,medium,1,1,seed draft from PIC-PROV-ITM-POL-001-00106
+PCEL-SEED-TD-010-08-01-01,PIC-SEED-TD-010-08-01,DRV-PAR-DOC-POL-002-00238,primary_support,medium,1,1,seed draft from PIC-PROV-ITM-POL-002-01155
+PCEL-SEED-TD-012-09-01-01,PIC-SEED-TD-012-09-01,DRV-PAR-DOC-POL-001-01988,primary_support,medium,1,1,seed draft from PIC-PROV-ITM-POL-001-00599
+PCEL-SEED-TD-013-10-01-01,PIC-SEED-TD-013-10-01,DRV-PAR-DOC-POL-001-00765,primary_support,medium,1,1,seed draft from PIC-PROV-ITM-POL-001-00351
+PCEL-SEED-TD-014-11-01-01,PIC-SEED-TD-014-11-01,DRV-PAR-DOC-POL-001-00613,primary_support,medium,1,1,seed draft from PIC-PROV-ITM-POL-001-00503

@@ -1,0 +1,113 @@
+decision_key,policy_item_id,policy_id,policy_name,bucket_label,item_label,final_decision_status,final_primary_strategy_id,final_secondary_strategy_ids,final_confidence,reviewer_name,reviewer_notes
+SRD-POL-001-44cb15cd92bc,ITM-POL-001-00014,POL-001,123대 국정과제,기술,4대강재자연화,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-6609742658c6,ITM-POL-001-00055,POL-001,123대 국정과제,기술,R&D 혁신(기술역량) →DX·AX(생산성) →중견기업성장(BM혁신) 및글로벌화로...,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-efb1ac6c525a,ITM-POL-001-00061,POL-001,123대 국정과제,기술,‘경제안보점검회의’ 정례화로통상·경제안보컨트롤타워가동,no_strategy,,,high,codex_manual_pol001_high_confidence,경제안보·외교·공급망 거버넌스 성격으로 15대 전략 primary에 직접 귀속하지 않는다.
+SRD-POL-001-159793020d91,ITM-POL-001-00072,POL-001,123대 국정과제,기술,▴｢ 동포기업-국내기업｣ 연계를 통한국내중소기업의해외진출지원 ▴글로벌한인네트워크강...,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-da68b3d0d096,ITM-POL-001-00085,POL-001,123대 국정과제,기술,건강보험재정안정화,no_strategy,,,high,codex_manual_pol001_high_confidence,보건의료 서비스·보상·전달체계 정비 성격으로 디지털헬스 기술전략의 직접 과제는 아니다.
+SRD-POL-001-32b9cc6f874c,ITM-POL-001-00093,POL-001,123대 국정과제,기술,경영비부담완화,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-cce63fb8f7ac,ITM-POL-001-00094,POL-001,123대 국정과제,기술,경제안보강화,no_strategy,,,high,codex_manual_pol001_high_confidence,경제안보·외교·공급망 거버넌스 성격으로 15대 전략 primary에 직접 귀속하지 않는다.
+SRD-POL-001-8a0ad69f6612,ITM-POL-001-00095,POL-001,123대 국정과제,기술,경제안보대응체계를정비하고민관소통을강화하여,no_strategy,,,high,codex_manual_pol001_high_confidence,경제안보·외교·공급망 거버넌스 성격으로 15대 전략 primary에 직접 귀속하지 않는다.
+SRD-POL-001-1a046a12cbc2,ITM-POL-001-00096,POL-001,123대 국정과제,기술,경제안보조정·통합기능강화및신흥·첨단기술분야과학기술외교적극 추진을 통해글로벌공급망재...,no_strategy,,,high,codex_manual_pol001_high_confidence,경제안보·외교·공급망 거버넌스 성격으로 15대 전략 primary에 직접 귀속하지 않는다.
+SRD-POL-001-29bbd810fda9,ITM-POL-001-00101,POL-001,123대 국정과제,기술,계열사지원이없는독립·중소기업의공정한경쟁기반회복,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-fb119c3ac91e,ITM-POL-001-00130,POL-001,123대 국정과제,기술,과학적기후변화감시·예측,reviewed,STR-005,,high,codex_manual_pol001_high_confidence,기후감시위성(천리안5호) 개발·발사가 직접 적시되어 우주항공 기술주권 축으로 본다.
+SRD-POL-001-c12bc6c6004d,ITM-POL-001-00135,POL-001,123대 국정과제,기술,교권보호및정치기본권확대,no_strategy,,,high,codex_manual_pol001_high_confidence,복지·교육·안전망 강화 성격의 일반 정책으로 특정 전략기술 primary를 두지 않는다.
+SRD-POL-001-b835bc49eb5d,ITM-POL-001-00162,POL-001,123대 국정과제,기술,국제사회논의주도,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-8048fd9014db,ITM-POL-001-00182,POL-001,123대 국정과제,기술,금융범죄단속강화,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-760df814547b,ITM-POL-001-00199,POL-001,123대 국정과제,기술,기후공동대응과인도적상황개선을위한협력추진,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-7b78b3d31875,ITM-POL-001-00200,POL-001,123대 국정과제,기술,기후위기대응수산혁신,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-7b9d00649f22,ITM-POL-001-00208,POL-001,123대 국정과제,기술,남북교류관련민-관협업체계,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-2be99885d610,ITM-POL-001-00217,POL-001,123대 국정과제,기술,노인·이주민인권보장강화,no_strategy,,,high,codex_manual_pol001_high_confidence,복지·교육·안전망 강화 성격의 일반 정책으로 특정 전략기술 primary를 두지 않는다.
+SRD-POL-001-c698fef34265,ITM-POL-001-00220,POL-001,123대 국정과제,기술,녹조피해예방,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-1cafbd1c7516,ITM-POL-001-00229,POL-001,123대 국정과제,기술,다자경제협의체의장국수임을 통해글로벌논의를선도하고재외공관 수출·수주지원네트워크강화를...,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-cafff14f3fee,ITM-POL-001-00268,POL-001,123대 국정과제,기술,먹거리물가안정,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-181583c7bc3a,ITM-POL-001-00277,POL-001,123대 국정과제,기술,물가관리체계강화,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-27192b4a2feb,ITM-POL-001-00288,POL-001,123대 국정과제,기술,민사적구제·집행확충,no_strategy,,,high,codex_manual_pol001_high_confidence,시장질서·법집행·제도정비 과제로서 15대 기술전략 primary를 두기 어렵다.
+SRD-POL-001-ea438f97992b,ITM-POL-001-00289,POL-001,123대 국정과제,기술,민생침해및금융범죄등다중피해사기대응체계를구축,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-c1ebf8db43f6,ITM-POL-001-00301,POL-001,123대 국정과제,기술,방산수출기업과중소·벤처기업집중지원을 통해국가안보에기여함과 동시에방위산업을국가경제의...,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-d97cf468e1f4,ITM-POL-001-00317,POL-001,123대 국정과제,기술,부패·공익신고자보호강화,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-d5bdfc9ea386,ITM-POL-001-00329,POL-001,123대 국정과제,기술,불공정거래로인한소비자·중소기업의피해회복및권익증진을위한기금조성,no_strategy,,,high,codex_manual_pol001_high_confidence,시장질서·법집행·제도정비 과제로서 15대 기술전략 primary를 두기 어렵다.
+SRD-POL-001-875086ef40f0,ITM-POL-001-00331,POL-001,123대 국정과제,기술,불공정행위에 대한민사적구제확충을 통해소비자·중소기업의권익신장,no_strategy,,,high,codex_manual_pol001_high_confidence,시장질서·법집행·제도정비 과제로서 15대 기술전략 primary를 두기 어렵다.
+SRD-POL-001-91bbd3911b63,ITM-POL-001-00343,POL-001,123대 국정과제,기술,사회적고립대응,no_strategy,,,high,codex_manual_pol001_high_confidence,복지·교육·안전망 강화 성격의 일반 정책으로 특정 전략기술 primary를 두지 않는다.
+SRD-POL-001-abe2a4d08d7d,ITM-POL-001-00344,POL-001,123대 국정과제,기술,사회적고립대응체계강화로일상회복지원및고독사예방,no_strategy,,,high,codex_manual_pol001_high_confidence,복지·교육·안전망 강화 성격의 일반 정책으로 특정 전략기술 primary를 두지 않는다.
+SRD-POL-001-b739bab231bb,ITM-POL-001-00349,POL-001,123대 국정과제,기술,산림재난총력대응,no_strategy,,,high,codex_manual_pol001_high_confidence,복지·교육·안전망 강화 성격의 일반 정책으로 특정 전략기술 primary를 두지 않는다.
+SRD-POL-001-d9968c005b89,ITM-POL-001-00389,POL-001,123대 국정과제,기술,수출통제협력,no_strategy,,,high,codex_manual_pol001_high_confidence,경제안보·외교·공급망 거버넌스 성격으로 15대 전략 primary에 직접 귀속하지 않는다.
+SRD-POL-001-88ee98575790,ITM-POL-001-00420,POL-001,123대 국정과제,기술,아동학대사망사건심층분석체계구축및예방적지원확대,no_strategy,,,high,codex_manual_pol001_high_confidence,복지·교육·안전망 강화 성격의 일반 정책으로 특정 전략기술 primary를 두지 않는다.
+SRD-POL-001-14a2697310ce,ITM-POL-001-00424,POL-001,123대 국정과제,기술,안전사고예방및신속대응,no_strategy,,,high,codex_manual_pol001_high_confidence,복지·교육·안전망 강화 성격의 일반 정책으로 특정 전략기술 primary를 두지 않는다.
+SRD-POL-001-b17adbf49b4d,ITM-POL-001-00436,POL-001,123대 국정과제,기술,업무상재해규범적판단명문화,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-40dcd235177b,ITM-POL-001-00450,POL-001,123대 국정과제,기술,외교다변화,no_strategy,,,high,codex_manual_pol001_high_confidence,경제안보·외교·공급망 거버넌스 성격으로 15대 전략 primary에 직접 귀속하지 않는다.
+SRD-POL-001-9e1e8cdb9eb2,ITM-POL-001-00457,POL-001,123대 국정과제,기술,우리외교의역할공간을확대함으로써국제사회와협력의폭과깊이를 심화시키고안보·경제·문화등다...,no_strategy,,,high,codex_manual_pol001_high_confidence,경제안보·외교·공급망 거버넌스 성격으로 15대 전략 primary에 직접 귀속하지 않는다.
+SRD-POL-001-c4956787d186,ITM-POL-001-00468,POL-001,123대 국정과제,기술,유출사고신속·엄정대응,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-c6fa8d0f98c0,ITM-POL-001-00477,POL-001,123대 국정과제,기술,의사의비공개대상을엄격하게규정하는등회의운영의공정성·투명성을 제고하고국민의알권리보장,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-4da1b8f6ed55,ITM-POL-001-00483,POL-001,123대 국정과제,기술,이행기반강화,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-c4bc97115ebe,ITM-POL-001-00510,POL-001,123대 국정과제,기술,재난대응체계강화,no_strategy,,,high,codex_manual_pol001_high_confidence,복지·교육·안전망 강화 성격의 일반 정책으로 특정 전략기술 primary를 두지 않는다.
+SRD-POL-001-5b454b7f2eb1,ITM-POL-001-00534,POL-001,123대 국정과제,기술,정의로운노동대전환지원,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-b9713baa54ca,ITM-POL-001-00559,POL-001,123대 국정과제,기술,지방공공기관대응성강화,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-6f886cd72d6e,ITM-POL-001-00562,POL-001,123대 국정과제,기술,지방의지속가능발전확산,no_strategy,,,high,codex_manual_pol001_high_confidence,지역·문화·생활 인프라 확충 과제로 15대 전략기술과 직접 대응하지 않는다.
+SRD-POL-001-fac3eaf87238,ITM-POL-001-00565,POL-001,123대 국정과제,기술,지방항공관문확대,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-bfa97bf1567a,ITM-POL-001-00570,POL-001,123대 국정과제,기술,지역·필수의료보상강화,no_strategy,,,high,codex_manual_pol001_high_confidence,보건의료 서비스·보상·전달체계 정비 성격으로 디지털헬스 기술전략의 직접 과제는 아니다.
+SRD-POL-001-b82f641d9f83,ITM-POL-001-00587,POL-001,123대 국정과제,기술,진료권중심의중증‧ 응급질환24시간전문의대응체계및야간‧ 휴일 소아환자진료협력체계* 구축,no_strategy,,,high,codex_manual_pol001_high_confidence,보건의료 서비스·보상·전달체계 정비 성격으로 디지털헬스 기술전략의 직접 과제는 아니다.
+SRD-POL-001-c06aea42f404,ITM-POL-001-00591,POL-001,123대 국정과제,기술,차세대고속열차도입,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-1fb46ae11cea,ITM-POL-001-00592,POL-001,123대 국정과제,기술,차세대배터리기술개발및충청·영남·호남을잇는배터리삼각벨트구축,reviewed,STR-002,,high,codex_manual_pol001_high_confidence,차세대 배터리 기술개발과 배터리 삼각벨트 구축은 초격차 전략기술 확보 축의 직접 과제다.
+SRD-POL-001-31292f567a07,ITM-POL-001-00659,POL-001,123대 국정과제,기술,한미동맹을미래형포괄적전략동맹으로발전,no_strategy,,,high,codex_manual_pol001_high_confidence,경제안보·외교·공급망 거버넌스 성격으로 15대 전략 primary에 직접 귀속하지 않는다.
+SRD-POL-001-372bbf288731,ITM-POL-001-00668,POL-001,123대 국정과제,기술,합동작전능력향상,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-be97f57dc944,ITM-POL-001-00674,POL-001,123대 국정과제,기술,해외위난및사건사고예방·대응체계선진화및국민편익증진을위한 영사서비스개선,no_strategy,,,high,codex_manual_pol001_high_confidence,경제안보·외교·공급망 거버넌스 성격으로 15대 전략 primary에 직접 귀속하지 않는다.
+SRD-POL-001-2b873241485c,ITM-POL-001-00689,POL-001,123대 국정과제,기술,획득체계혁신,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-6bb0063e3937,ITM-POL-001-00703,POL-001,123대 국정과제,인프라·제도,▴인구정책거버넌스강화▴생애주기별사회적고립대응정책▴양질의 돌봄일자리확대등을 통해인구...,no_strategy,,,high,codex_manual_pol001_high_confidence,복지·교육·안전망 강화 성격의 일반 정책으로 특정 전략기술 primary를 두지 않는다.
+SRD-POL-001-8833e88517e1,ITM-POL-001-00712,POL-001,123대 국정과제,인프라·제도,건강권,no_strategy,,,high,codex_manual_pol001_high_confidence,보건의료 서비스·보상·전달체계 정비 성격으로 디지털헬스 기술전략의 직접 과제는 아니다.
+SRD-POL-001-263e38904b9e,ITM-POL-001-00717,POL-001,123대 국정과제,인프라·제도,공공의료체계강화,no_strategy,,,high,codex_manual_pol001_high_confidence,보건의료 서비스·보상·전달체계 정비 성격으로 디지털헬스 기술전략의 직접 과제는 아니다.
+SRD-POL-001-3b98ebd44c9d,ITM-POL-001-00722,POL-001,123대 국정과제,인프라·제도,공정거래분쟁조정제도일괄정비(6개법률조항통합) 및조정제도신설·보강*,no_strategy,,,high,codex_manual_pol001_high_confidence,시장질서·법집행·제도정비 과제로서 15대 기술전략 primary를 두기 어렵다.
+SRD-POL-001-3617f5cbb836,ITM-POL-001-00723,POL-001,123대 국정과제,인프라·제도,공정한시장질서확립,no_strategy,,,high,codex_manual_pol001_high_confidence,시장질서·법집행·제도정비 과제로서 15대 기술전략 primary를 두기 어렵다.
+SRD-POL-001-7be40fb749bf,ITM-POL-001-00724,POL-001,123대 국정과제,인프라·제도,공정한임금체계확립,no_strategy,,,high,codex_manual_pol001_high_confidence,시장질서·법집행·제도정비 과제로서 15대 기술전략 primary를 두기 어렵다.
+SRD-POL-001-67ac41edc8ef,ITM-POL-001-00725,POL-001,123대 국정과제,인프라·제도,공정한조달시장구현,no_strategy,,,high,codex_manual_pol001_high_confidence,시장질서·법집행·제도정비 과제로서 15대 기술전략 primary를 두기 어렵다.
+SRD-POL-001-f673b0154bd8,ITM-POL-001-00726,POL-001,123대 국정과제,인프라·제도,공정한플랫폼생태계구축및중소기업·소상공인의공정경쟁기회보장,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-71a64585e7a7,ITM-POL-001-00727,POL-001,123대 국정과제,인프라·제도,공정한플랫폼생태계조성,no_strategy,,,high,codex_manual_pol001_high_confidence,시장질서·법집행·제도정비 과제로서 15대 기술전략 primary를 두기 어렵다.
+SRD-POL-001-2c2f99f18ff5,ITM-POL-001-00743,POL-001,123대 국정과제,인프라·제도,글로벌규제대응을위한자원효율등급제및재생원료인증제마련,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-4484cc13c205,ITM-POL-001-00754,POL-001,123대 국정과제,인프라·제도,기후금융공급확대및ESG 공시관련인프라제고,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-5f8777c87008,ITM-POL-001-00766,POL-001,123대 국정과제,인프라·제도,농촌재생지원,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-8b436e20a7ec,ITM-POL-001-00767,POL-001,123대 국정과제,인프라·제도,누구나누리는관광환경조성,no_strategy,,,high,codex_manual_pol001_high_confidence,지역·문화·생활 인프라 확충 과제로 15대 전략기술과 직접 대응하지 않는다.
+SRD-POL-001-174eff1c67cd,ITM-POL-001-00771,POL-001,123대 국정과제,인프라·제도,독립몰수제도입및기소전몰수보전활성화,no_strategy,,,high,codex_manual_pol001_high_confidence,시장질서·법집행·제도정비 과제로서 15대 기술전략 primary를 두기 어렵다.
+SRD-POL-001-54da060f79e8,ITM-POL-001-00772,POL-001,123대 국정과제,인프라·제도,동물복지정책기반강화,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-c3e32214496b,ITM-POL-001-00779,POL-001,123대 국정과제,인프라·제도,디지털자산혁신서비스를자유롭게테스트할수있는환경을조성하고 기업성장을위한지역인프라를확충...,no_strategy,,,high,codex_manual_pol001_high_confidence,디지털자산·블록체인 제도화 과제이나 현재 15대 전략 taxonomy에 대응 축이 없다.
+SRD-POL-001-d69ce2fa17b3,ITM-POL-001-00780,POL-001,123대 국정과제,인프라·제도,마약류중독대응체계확립,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-7c1946d13fad,ITM-POL-001-00781,POL-001,123대 국정과제,인프라·제도,메가특구신설,no_strategy,,,high,codex_manual_pol001_high_confidence,지역·문화·생활 인프라 확충 과제로 15대 전략기술과 직접 대응하지 않는다.
+SRD-POL-001-5b8181c425ca,ITM-POL-001-00784,POL-001,123대 국정과제,인프라·제도,무역금융확대,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-88479b483494,ITM-POL-001-00786,POL-001,123대 국정과제,인프라·제도,문화국가정책인프라마련,no_strategy,,,high,codex_manual_pol001_high_confidence,지역·문화·생활 인프라 확충 과제로 15대 전략기술과 직접 대응하지 않는다.
+SRD-POL-001-02b7d568221f,ITM-POL-001-00788,POL-001,123대 국정과제,인프라·제도,미디어사회적책임강화,no_strategy,,,high,codex_manual_pol001_high_confidence,지역·문화·생활 인프라 확충 과제로 15대 전략기술과 직접 대응하지 않는다.
+SRD-POL-001-8c295790879f,ITM-POL-001-00790,POL-001,123대 국정과제,인프라·제도,민간이공정거래위원회를거치지않고법원에직접불공정행위금지를 청구할수있는제도확대*,no_strategy,,,high,codex_manual_pol001_high_confidence,시장질서·법집행·제도정비 과제로서 15대 기술전략 primary를 두기 어렵다.
+SRD-POL-001-13585eab8189,ITM-POL-001-00795,POL-001,123대 국정과제,인프라·제도,민생경제활성화를위한규제를신속하게개선하되,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-53e92a9d5fd3,ITM-POL-001-00801,POL-001,123대 국정과제,인프라·제도,법령·제도·인프라개선으로국민이신뢰할수있는수사체계확립,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-d73aba3c150a,ITM-POL-001-00804,POL-001,123대 국정과제,인프라·제도,법원이상대방및공정위에게손해증명자료제출을명령하는제도확대·도입,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-248baa33ffc5,ITM-POL-001-00816,POL-001,123대 국정과제,인프라·제도,불공정·위법행위신속차단및실효적피해구제확대,no_strategy,,,high,codex_manual_pol001_high_confidence,시장질서·법집행·제도정비 과제로서 15대 기술전략 primary를 두기 어렵다.
+SRD-POL-001-a5b1ef39bab1,ITM-POL-001-00840,POL-001,123대 국정과제,인프라·제도,생산·유통일관출하체계를 위해스마트APC(산지유통센터) 확대(300개소) 등추진,reviewed,STR-012,,high,codex_manual_pol001_high_confidence,스마트APC 확대는 스마트 농업·유통 기술 확산 과제로 STR-012에 직접 대응한다.
+SRD-POL-001-286208d7b723,ITM-POL-001-00853,POL-001,123대 국정과제,인프라·제도,수사책임성·전문성강화,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-a0a1bc951f6e,ITM-POL-001-00857,POL-001,123대 국정과제,인프라·제도,스포츠인프라통한지역발전,no_strategy,,,high,codex_manual_pol001_high_confidence,지역·문화·생활 인프라 확충 과제로 15대 전략기술과 직접 대응하지 않는다.
+SRD-POL-001-303f50eb7175,ITM-POL-001-00858,POL-001,123대 국정과제,인프라·제도,식량안보강화,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-694cc47f79d9,ITM-POL-001-00860,POL-001,123대 국정과제,인프라·제도,신흥안보,no_strategy,,,high,codex_manual_pol001_high_confidence,경제안보·외교·공급망 거버넌스 성격으로 15대 전략 primary에 직접 귀속하지 않는다.
+SRD-POL-001-4402daf7b62c,ITM-POL-001-00873,POL-001,123대 국정과제,인프라·제도,예술인의자유로운창작환경조성,no_strategy,,,high,codex_manual_pol001_high_confidence,지역·문화·생활 인프라 확충 과제로 15대 전략기술과 직접 대응하지 않는다.
+SRD-POL-001-6296b4cc0016,ITM-POL-001-00874,POL-001,123대 국정과제,인프라·제도,외교인프라혁신및외교인력전문성증진,no_strategy,,,high,codex_manual_pol001_high_confidence,경제안보·외교·공급망 거버넌스 성격으로 15대 전략 primary에 직접 귀속하지 않는다.
+SRD-POL-001-6c260769649b,ITM-POL-001-00882,POL-001,123대 국정과제,인프라·제도,이에더해분산원장기반의효율적계좌관리,no_strategy,,,high,codex_manual_pol001_high_confidence,디지털자산·블록체인 제도화 과제이나 현재 15대 전략 taxonomy에 대응 축이 없다.
+SRD-POL-001-591d6a0db002,ITM-POL-001-00887,POL-001,123대 국정과제,인프라·제도,인구정책거버넌스혁신,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-4c1174653d0d,ITM-POL-001-00895,POL-001,123대 국정과제,인프라·제도,자산등공공기관이보유한자원을공개·활용할수있도록인프라구축,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-3558b19e63e6,ITM-POL-001-00899,POL-001,123대 국정과제,인프라·제도,재생거점마을(시군별1개소) 조성,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-986867006ca9,ITM-POL-001-00909,POL-001,123대 국정과제,인프라·제도,전문체육투자확대,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-9680dc6ecaf6,ITM-POL-001-00911,POL-001,123대 국정과제,인프라·제도,전통·유산보존및가치확산,no_strategy,,,high,codex_manual_pol001_high_confidence,복지·교육·안전망 강화 성격의 일반 정책으로 특정 전략기술 primary를 두지 않는다.
+SRD-POL-001-56a3c7aa2e1a,ITM-POL-001-00926,POL-001,123대 국정과제,인프라·제도,지방소멸대응기금확대,no_strategy,,,high,codex_manual_pol001_high_confidence,지역·문화·생활 인프라 확충 과제로 15대 전략기술과 직접 대응하지 않는다.
+SRD-POL-001-6cfcbdccb0f0,ITM-POL-001-00933,POL-001,123대 국정과제,인프라·제도,지역사회정신건강관리체계확립,no_strategy,,,high,codex_manual_pol001_high_confidence,복지·교육·안전망 강화 성격의 일반 정책으로 특정 전략기술 primary를 두지 않는다.
+SRD-POL-001-650eacd4777b,ITM-POL-001-00937,POL-001,123대 국정과제,인프라·제도,지역창업활성화,no_strategy,,,high,codex_manual_pol001_high_confidence,지역·문화·생활 인프라 확충 과제로 15대 전략기술과 직접 대응하지 않는다.
+SRD-POL-001-420b518088d9,ITM-POL-001-00941,POL-001,123대 국정과제,인프라·제도,창업국가실현,no_strategy,,,high,codex_manual_pol001_high_confidence,지역·문화·생활 인프라 확충 과제로 15대 전략기술과 직접 대응하지 않는다.
+SRD-POL-001-36ffe7bde7ad,ITM-POL-001-00942,POL-001,123대 국정과제,인프라·제도,철도·도로·항공등전국에균형잡힌교통인프라확충,no_strategy,,,high,codex_manual_pol001_high_confidence,지역·문화·생활 인프라 확충 과제로 15대 전략기술과 직접 대응하지 않는다.
+SRD-POL-001-822d2cb9729c,ITM-POL-001-00944,POL-001,123대 국정과제,인프라·제도,청년정책기반강화,no_strategy,,,high,codex_manual_pol001_high_confidence,복지·교육·안전망 강화 성격의 일반 정책으로 특정 전략기술 primary를 두지 않는다.
+SRD-POL-001-32015d8b2e63,ITM-POL-001-00956,POL-001,123대 국정과제,인프라·제도,플랫폼공정거래환경구축,no_strategy,,,high,codex_manual_pol001_high_confidence,시장질서·법집행·제도정비 과제로서 15대 기술전략 primary를 두기 어렵다.
+SRD-POL-001-3ef0f41030fd,ITM-POL-001-00958,POL-001,123대 국정과제,인프라·제도,피해구제제도화,no_strategy,,,high,codex_manual_pol001_high_confidence,시장질서·법집행·제도정비 과제로서 15대 기술전략 primary를 두기 어렵다.
+SRD-POL-001-fbde6603e2c4,ITM-POL-001-00959,POL-001,123대 국정과제,인프라·제도,필수서비스공급,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-e3530324d2e5,ITM-POL-001-00964,POL-001,123대 국정과제,인프라·제도,해외탄소규제대응,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-e4f7ed52bd11,ITM-POL-001-00976,POL-001,123대 국정과제,인프라·제도,화학제품사고예방·대응,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-6e487d954c3a,ITM-POL-001-01008,POL-001,123대 국정과제,인재,기대효과 ◦공정한시장질서하에서중소기업이더이상불공정행위로인해좌절하지 않고성장할수있는...,no_strategy,,,high,codex_manual_pol001_high_confidence,시장질서·법집행·제도정비 과제로서 15대 기술전략 primary를 두기 어렵다.
+SRD-POL-001-4566f2c9fecf,ITM-POL-001-01011,POL-001,123대 국정과제,인재,농업세대전환,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-d12a77b540f8,ITM-POL-001-01024,POL-001,123대 국정과제,인재,변화하는시대에대응하는적극적숙련인력지원으로성장동력확보,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-5c7c44818d30,ITM-POL-001-01031,POL-001,123대 국정과제,인재,생물다양성회복,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-03945f76247b,ITM-POL-001-01043,POL-001,123대 국정과제,인재,역사교육강화,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-92dffd789f12,ITM-POL-001-01048,POL-001,123대 국정과제,인재,융합인재양성,no_strategy,,,high,codex_manual_pol001_high_confidence,123대 국정과제의 총론·제도·지원 과제로서 15대 전략 primary를 직접 부여하기 어렵다.
+SRD-POL-001-3f1acb79e492,ITM-POL-001-01055,POL-001,123대 국정과제,인재,전문인력확충,no_strategy,,,high,codex_manual_pol001_high_confidence,복지·교육·안전망 강화 성격의 일반 정책으로 특정 전략기술 primary를 두지 않는다.
+SRD-POL-001-bc99ae7101d1,ITM-POL-001-01075,POL-001,123대 국정과제,인재,학령인구의급감및도움이필요한학생이급증하는추세에대응하여 기초학력지원,no_strategy,,,high,codex_manual_pol001_high_confidence,복지·교육·안전망 강화 성격의 일반 정책으로 특정 전략기술 primary를 두지 않는다.
+SRD-POL-001-1efa43c3fb24,ITM-POL-001-01076,POL-001,123대 국정과제,인재,학비) 기반이노베이션아카데미확대및AX대학원설립추진(15개),reviewed,STR-001,,high,codex_manual_pol001_high_confidence,이노베이션 아카데미 확대와 AX대학원 설립은 AI·AX 인재 기반 확충 과제로 STR-001에 직접 연결된다.

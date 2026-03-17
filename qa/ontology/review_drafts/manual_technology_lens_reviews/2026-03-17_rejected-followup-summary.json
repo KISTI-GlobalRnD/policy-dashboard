@@ -1,0 +1,18 @@
+{
+  "decision_csv": "qa/ontology/review_drafts/manual_technology_lens_reviews/2026-03-17_manual-decisions.csv",
+  "total_count": 30,
+  "status_counts": {
+    "revised": 20,
+    "rejected": 5,
+    "approved": 5
+  },
+  "rejected_count": 5,
+  "rejected_by_tech_domain": {
+    "에너지": 1,
+    "국방": 1,
+    "첨단로봇제조": 2,
+    "우주항공": 1
+  },
+  "rejected_csv": "qa/ontology/review_drafts/manual_technology_lens_reviews/2026-03-17_rejected-followup.csv",
+  "rejected_markdown": "qa/ontology/review_drafts/manual_technology_lens_reviews/2026-03-17_rejected-followup.md"
+}

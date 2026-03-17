@@ -1,0 +1,12 @@
+{
+  "reviewer_name": "codex_manual_pol001_final",
+  "decision_count": 11,
+  "status_counts": {
+    "reviewed": 2,
+    "no_strategy": 9
+  },
+  "confidence_counts": {
+    "medium": 2,
+    "high": 9
+  }
+}

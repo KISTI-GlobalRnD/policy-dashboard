@@ -1,0 +1,10 @@
+{
+  "decision_item_count": 1504,
+  "active_in_queue_count": 0,
+  "inactive_preserved_count": 1504,
+  "status_counts": {
+    "reviewed": 226,
+    "no_strategy": 1278
+  },
+  "auto_seeded_count": 1332
+}

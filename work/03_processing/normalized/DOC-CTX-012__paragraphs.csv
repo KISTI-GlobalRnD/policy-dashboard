@@ -1,0 +1,6 @@
+paragraph_id,document_id,page_no,page_block_order,block_type,text,source_line_count,merged_block_count,normalization_actions,source_mode
+PAR-DOC-CTX-012-00001,DOC-CTX-012,1,1,paragraph,인공지능,1,1,,bbox_text
+PAR-DOC-CTX-012-00002,DOC-CTX-012,1,2,bullet,"□ 현 AI 모델 한계를 극복하는 차세대 범용AI 및 AI Safety 등 미래 AI 시장을 선도하기 위한 핵심기술 및 AI컴퓨팅 경쟁력 제고 등 신시장 창출 지원 ○ (원천기술) 세계 최고 수준의 AGI 기술 선점 및 온디바이스AI 핵심기술 개발을 지원하고, AI의 기술적 한계 및 오용 등 잠재 위험을 극복한 AI 기술 개발",4,3,merged_continuation|merged_continuation,bbox_text
+PAR-DOC-CTX-012-00003,DOC-CTX-012,1,3,note,"※ △과기차세대생성AI기술개발 40억원, △과기사람중심인공지능핵심원천기술개발 429억원, △과기인간지향적차세대도전형AI기술개발 61억원, △과기공존가능한신뢰AI를위한AISafety 80억원 ○ (기반확충) AI 구현을 위한 네트워크 및 고성능 컴퓨팅 핵심기술과 AI 학습·적용에 필수적인 데이터 수집·분석 기술을 개발하고 K-클라우드 기반 AI서비스 확산",4,3,merged_continuation|merged_continuation,bbox_text
+PAR-DOC-CTX-012-00004,DOC-CTX-012,1,4,note,"※ △과기AI연구용컴퓨팅지원프로젝트 90억원, △과기AI 반도체를활용한K-클라우드기술개발 366억원 ○ (AX) 산업·공공분야 AI 적용·내제화를 통해 난제해결 및 효율성·생산성 혁신을 위한 핵심기술을 개발하고, AI 기술의 확산·활용성 향상 지원을 강화",4,3,merged_continuation|merged_continuation,bbox_text
+PAR-DOC-CTX-012-00005,DOC-CTX-012,1,5,note,"※ △해수‧산업자율운항선박기술개발 96억원, △중기‧과기스마트제조혁신기술개발 686억원, △경찰사이버범죄 수사단서통합분석및추론시스템개발 36억원, △기상기후위기대응국가기후예측시스템개발 48억원",2,2,merged_continuation,bbox_text

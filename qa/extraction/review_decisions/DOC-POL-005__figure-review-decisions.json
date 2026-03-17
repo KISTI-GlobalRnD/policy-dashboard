@@ -1,0 +1,766 @@
+{
+  "review_item_updates": {
+    "FRV-DOC-POL-005-001": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-005-002": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-005-003": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-005-004": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-005-005": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "메타데이터 크기 미확인"
+    },
+    "FRV-DOC-POL-005-006": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-005-007": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-005-008": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-005-009": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-005-010": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-005-011": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-005-012": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-005-013": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-005-014": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "중복 추출 자산"
+    },
+    "FRV-DOC-POL-005-015": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-016": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-017": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-018": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-019": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-020": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-021": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-022": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-023": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-024": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-025": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-026": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-027": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-028": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-029": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-030": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-031": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-032": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-033": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-034": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-035": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-036": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-037": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-038": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-039": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-040": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-041": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-042": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-043": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-044": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-045": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-046": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-047": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-048": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-049": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-050": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-051": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-052": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-053": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-054": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-055": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-056": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-057": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-058": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-059": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-060": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-061": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-062": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-063": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-064": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-065": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-066": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-067": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-068": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-069": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-070": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-071": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-072": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-073": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-074": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-075": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-076": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-077": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-078": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-079": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-080": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-081": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-082": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-083": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-084": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-085": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-086": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-087": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-088": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-089": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-090": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-091": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-092": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-093": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-094": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-005-095": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-096": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-097": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-098": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-099": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-100": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-101": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-102": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-103": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-104": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-105": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-106": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-107": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-108": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-109": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-110": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-111": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-112": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-113": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-114": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-115": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-116": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-117": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-118": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-119": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-120": {
+      "keep_for_dashboard": "yes",
+      "review_status": "reviewed",
+      "quality_status": "dashboard_ready",
+      "reviewer_notes": "자동규칙 통과: 해상도 충분 + 중복 없음"
+    },
+    "FRV-DOC-POL-005-121": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-122": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-123": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-124": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-125": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-126": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    },
+    "FRV-DOC-POL-005-127": {
+      "keep_for_dashboard": "no",
+      "review_status": "reviewed",
+      "quality_status": "decorative_excluded",
+      "reviewer_notes": "저해상도/박스 높이 낮음"
+    }
+  }
+}

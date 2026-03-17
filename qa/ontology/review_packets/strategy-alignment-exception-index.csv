@@ -1,0 +1,2 @@
+exception_id,strategy_id,strategy_label,output_csv,output_md,item_count,active_item_count,pending_count,reviewed_count,no_strategy_count,deferred_count,policy_count,bucket_technology_count,bucket_infra_system_count,bucket_talent_count
+STX-STR-010-001,STR-010,디지털 헬스케어 서비스 혁신,STX-STR-010-001__디지털-헬스케어-서비스-혁신__alignment-review.csv,STX-STR-010-001__디지털-헬스케어-서비스-혁신__alignment-review.md,42,0,0,23,19,0,3,23,17,2

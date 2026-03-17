@@ -1,0 +1,105 @@
+review_item_id,figure_id,document_id,title,doc_role,include_status,location,figure_type,extraction_method,extraction_confidence,has_source_bbox,generic_caption,caption,summary,asset_path,suggested_class,rationale,keep_for_dashboard,review_status,quality_status,reviewer_notes
+FRV-DOC-POL-010-001,FIG-DOC-POL-010-001,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section3,image,hwpx-xml-parser,medium,0,0,,,work/02_structured-extraction/figures/assets/DOC-POL-010/image1.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,문서 공통 태극마크 아이콘으로 정책 의미를 담는 figure가 아니라 제외.
+FRV-DOC-POL-010-002,FIG-DOC-POL-010-002,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 1-1. 국가과학기술연구회 국문(가로형).jpg
+원본 그림의 크기: 가로 1379pixel, 세로 388pixel",1-1. 국가과학기술연구회 국문(가로형).jpg,work/02_structured-extraction/figures/assets/DOC-POL-010/image3.jpg,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-003,FIG-DOC-POL-010-003,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림14.png
+원본 그림의 크기: 가로 4519pixel, 세로 1521pixel",그림14.png,work/02_structured-extraction/figures/assets/DOC-POL-010/image4.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-004,FIG-DOC-POL-010-004,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림14.png
+원본 그림의 크기: 가로 4519pixel, 세로 1521pixel",그림14.png,work/02_structured-extraction/figures/assets/DOC-POL-010/image5.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-005,FIG-DOC-POL-010-005,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림14.png
+원본 그림의 크기: 가로 4519pixel, 세로 1521pixel",그림14.png,work/02_structured-extraction/figures/assets/DOC-POL-010/image6.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-006,FIG-DOC-POL-010-006,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림14.png
+원본 그림의 크기: 가로 4519pixel, 세로 1521pixel",그림14.png,work/02_structured-extraction/figures/assets/DOC-POL-010/image7.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-007,FIG-DOC-POL-010-007,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림14.png
+원본 그림의 크기: 가로 4519pixel, 세로 1521pixel",그림14.png,work/02_structured-extraction/figures/assets/DOC-POL-010/image8.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-008,FIG-DOC-POL-010-008,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림14.png
+원본 그림의 크기: 가로 4519pixel, 세로 1521pixel",그림14.png,work/02_structured-extraction/figures/assets/DOC-POL-010/image9.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-009,FIG-DOC-POL-010-009,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림14.png
+원본 그림의 크기: 가로 4519pixel, 세로 1521pixel",그림14.png,work/02_structured-extraction/figures/assets/DOC-POL-010/image10.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-010,FIG-DOC-POL-010-010,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림14.png
+원본 그림의 크기: 가로 4519pixel, 세로 1521pixel",그림14.png,work/02_structured-extraction/figures/assets/DOC-POL-010/image11.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-011,FIG-DOC-POL-010-011,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림14.png
+원본 그림의 크기: 가로 4519pixel, 세로 1521pixel",그림14.png,work/02_structured-extraction/figures/assets/DOC-POL-010/image12.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-012,FIG-DOC-POL-010-012,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림14.png
+원본 그림의 크기: 가로 4519pixel, 세로 1521pixel",그림14.png,work/02_structured-extraction/figures/assets/DOC-POL-010/image13.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-013,FIG-DOC-POL-010-013,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림14.png
+원본 그림의 크기: 가로 4519pixel, 세로 1521pixel",그림14.png,work/02_structured-extraction/figures/assets/DOC-POL-010/image14.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-014,FIG-DOC-POL-010-014,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 국영문조합A_3색표현.jpg
+원본 그림의 크기: 가로 1240pixel, 세로 563pixel",국영문조합A_3색표현.jpg,work/02_structured-extraction/figures/assets/DOC-POL-010/image15.jpg,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-015,FIG-DOC-POL-010-015,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림1.jpg
+원본 그림의 크기: 가로 3523pixel, 세로 1290pixel",그림1.jpg,work/02_structured-extraction/figures/assets/DOC-POL-010/image16.jpg,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-016,FIG-DOC-POL-010-016,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: KICT_CI(한영병기).png
+원본 그림의 크기: 가로 531pixel, 세로 125pixel
+프로그램 이름 : Adobe ImageReady",KICT_CI(한영병기).png,work/02_structured-extraction/figures/assets/DOC-POL-010/image17.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-017,FIG-DOC-POL-010-017,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림14.png
+원본 그림의 크기: 가로 4519pixel, 세로 1521pixel",그림14.png,work/02_structured-extraction/figures/assets/DOC-POL-010/image18.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-018,FIG-DOC-POL-010-018,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: KRISS_로고_C타입.jpg
+원본 그림의 크기: 가로 3900pixel, 세로 600pixel
+사진 찍은 날짜: 2012년 06월 15일 오후 3:52
+프로그램 이름 : Adobe Photoshop CS3 Windows
+색 대표 : sRGB",KRISS_로고_C타입.jpg,work/02_structured-extraction/figures/assets/DOC-POL-010/image19.jpg,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-019,FIG-DOC-POL-010-019,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림14.png
+원본 그림의 크기: 가로 4519pixel, 세로 1521pixel",그림14.png,work/02_structured-extraction/figures/assets/DOC-POL-010/image20.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-020,FIG-DOC-POL-010-020,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: KIMM_logo.jpg
+원본 그림의 크기: 가로 1244pixel, 세로 236pixel",KIMM_logo.jpg,work/02_structured-extraction/figures/assets/DOC-POL-010/image21.jpg,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-021,FIG-DOC-POL-010-021,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: KIER(L).jpg
+원본 그림의 크기: 가로 2484pixel, 세로 456pixel",KIER(L).jpg,work/02_structured-extraction/figures/assets/DOC-POL-010/image22.jpg,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-022,FIG-DOC-POL-010-022,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림14.png
+원본 그림의 크기: 가로 4519pixel, 세로 1521pixel",그림14.png,work/02_structured-extraction/figures/assets/DOC-POL-010/image23.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-023,FIG-DOC-POL-010-023,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림14.png
+원본 그림의 크기: 가로 4519pixel, 세로 1521pixel",그림14.png,work/02_structured-extraction/figures/assets/DOC-POL-010/image24.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-024,FIG-DOC-POL-010-024,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: 그림14.png
+원본 그림의 크기: 가로 4519pixel, 세로 1521pixel",그림14.png,work/02_structured-extraction/figures/assets/DOC-POL-010/image25.png,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-025,FIG-DOC-POL-010-025,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: (한국핵융합에너지연구원)-CI.jpg
+원본 그림의 크기: 가로 362pixel, 세로 61pixel",(한국핵융합에너지연구원)-CI.jpg,work/02_structured-extraction/figures/assets/DOC-POL-010/image26.jpg,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,출연연 기관 CI/logo로 정책 구조 정보가 없어 제외.
+FRV-DOC-POL-010-026,FIG-DOC-POL-010-026,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00003fd40005.bmp
+원본 그림의 크기: 가로 153pixel, 세로 116pixel",CLP00003fd40005.bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image27.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,시대별 대표성과를 보여주는 사진 자료로 정책 구조 figure가 아니라 제외.
+FRV-DOC-POL-010-027,FIG-DOC-POL-010-027,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00003fd4000f.bmp
+원본 그림의 크기: 가로 147pixel, 세로 116pixel",CLP00003fd4000f.bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image28.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,시대별 대표성과를 보여주는 사진 자료로 정책 구조 figure가 아니라 제외.
+FRV-DOC-POL-010-028,FIG-DOC-POL-010-028,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00003fd40012.bmp
+원본 그림의 크기: 가로 150pixel, 세로 118pixel",CLP00003fd40012.bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image29.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,시대별 대표성과를 보여주는 사진 자료로 정책 구조 figure가 아니라 제외.
+FRV-DOC-POL-010-029,FIG-DOC-POL-010-029,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00003fd4000c.bmp
+원본 그림의 크기: 가로 152pixel, 세로 111pixel",CLP00003fd4000c.bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image30.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,시대별 대표성과를 보여주는 사진 자료로 정책 구조 figure가 아니라 제외.
+FRV-DOC-POL-010-030,FIG-DOC-POL-010-030,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP0000dedc118d.bmp
+원본 그림의 크기: 가로 151pixel, 세로 110pixel",CLP0000dedc118d.bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image31.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,시대별 대표성과를 보여주는 사진 자료로 정책 구조 figure가 아니라 제외.
+FRV-DOC-POL-010-031,FIG-DOC-POL-010-031,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00003fd40014.bmp
+원본 그림의 크기: 가로 153pixel, 세로 111pixel",CLP00003fd40014.bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image32.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,시대별 대표성과를 보여주는 사진 자료로 정책 구조 figure가 아니라 제외.
+FRV-DOC-POL-010-032,FIG-DOC-POL-010-032,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: img08_05.jpg
+원본 그림의 크기: 가로 940pixel, 세로 558pixel",img08_05.jpg,work/02_structured-extraction/figures/assets/DOC-POL-010/image33.jpg,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,시대별 대표성과를 보여주는 사진 자료로 정책 구조 figure가 아니라 제외.
+FRV-DOC-POL-010-033,FIG-DOC-POL-010-033,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP00003fd4000e.bmp
+원본 그림의 크기: 가로 153pixel, 세로 112pixel",CLP00003fd4000e.bmp,work/02_structured-extraction/figures/assets/DOC-POL-010/image34.bmp,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,시대별 대표성과를 보여주는 사진 자료로 정책 구조 figure가 아니라 제외.
+FRV-DOC-POL-010-034,FIG-DOC-POL-010-034,DOC-POL-010,과학기술분야 출연(연) 정책방향,policy_source,include,section7,image,hwpx-xml-parser,medium,0,1,"그림입니다.
+원본 그림의 이름: CLP000046bc01d5.wmf
+원본 그림의 크기: 가로 791pixel, 세로 437pixel",CLP000046bc01d5.wmf,work/02_structured-extraction/figures/assets/DOC-POL-010/image35.wmf,review_required,embedded image requires semantic figure review,no,reviewed,decorative_excluded,WMF 기반 장식성 자산으로 dashboard-ready figure로 쓰기 어려워 제외.

@@ -1,0 +1,88 @@
+{
+  "status": "applied",
+  "db_path": "work/04_ontology/ontology.sqlite",
+  "draft_pack_dir": "qa/ontology/review_drafts/technology_lens_expand_draft_pack",
+  "loaded_file_counts": {
+    "policy_item_groups_sample.csv": 19,
+    "policy_item_group_members_sample.csv": 19,
+    "policy_item_contents_sample.csv": 19,
+    "policy_item_content_evidence_links_sample.csv": 19,
+    "policy_item_group_taxonomy_map_sample.csv": 55,
+    "display_texts_curated_sample.csv": 38
+  },
+  "loaded_row_counts": {
+    "policy_item_groups": 19,
+    "policy_item_group_members": 19,
+    "policy_item_contents": 19,
+    "policy_item_content_evidence_links": 19,
+    "policy_item_group_taxonomy_map": 55,
+    "display_texts": 38
+  },
+  "auto_curated_group_counts_before": {
+    "auto_seed_curated": 11
+  },
+  "auto_curated_group_counts_after": {
+    "auto_expand_curated": 19,
+    "auto_seed_curated": 11
+  },
+  "auto_curated_group_count_before": 11,
+  "auto_curated_group_count_after": 30,
+  "auto_curated_group_count_delta": 19,
+  "auto_curated_content_counts_before": {
+    "auto_seed_curated": 11
+  },
+  "auto_curated_content_counts_after": {
+    "auto_expand_curated": 19,
+    "auto_seed_curated": 11
+  },
+  "auto_curated_content_count_before": 11,
+  "auto_curated_content_count_after": 30,
+  "auto_curated_content_count_delta": 19,
+  "auto_curated_domain_count_after": 11,
+  "auto_curated_domains_after": [
+    {
+      "tech_domain_id": "TD-002",
+      "tech_domain_label": "에너지"
+    },
+    {
+      "tech_domain_id": "TD-003",
+      "tech_domain_label": "이차전지"
+    },
+    {
+      "tech_domain_id": "TD-004",
+      "tech_domain_label": "국방"
+    },
+    {
+      "tech_domain_id": "TD-005",
+      "tech_domain_label": "소재"
+    },
+    {
+      "tech_domain_id": "TD-006",
+      "tech_domain_label": "사이버보안"
+    },
+    {
+      "tech_domain_id": "TD-007",
+      "tech_domain_label": "차세대통신"
+    },
+    {
+      "tech_domain_id": "TD-008",
+      "tech_domain_label": "첨단로봇제조"
+    },
+    {
+      "tech_domain_id": "TD-010",
+      "tech_domain_label": "양자"
+    },
+    {
+      "tech_domain_id": "TD-012",
+      "tech_domain_label": "우주항공"
+    },
+    {
+      "tech_domain_id": "TD-013",
+      "tech_domain_label": "해양"
+    },
+    {
+      "tech_domain_id": "TD-014",
+      "tech_domain_label": "첨단모빌리티"
+    }
+  ]
+}

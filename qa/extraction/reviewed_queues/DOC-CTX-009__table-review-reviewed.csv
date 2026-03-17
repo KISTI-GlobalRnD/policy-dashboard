@@ -1,0 +1,2 @@
+review_item_id,document_id,source_format,page_no,candidate_source,candidate_id,rows,cols,preview_text,suggested_class,heuristic_reason,keep_for_dashboard,merge_group_hint,canonical_table_id,review_status,reviewer_notes,treat_as_char,text_wrap
+TRV-DOC-CTX-009-MD-001,DOC-CTX-009,pdf,1,pymupdf4llm_markdown,PAR-DOC-CTX-009-00015,5,2,|중분류|Col2|,structured_table,markdown_table_detected,no,PAGE-01,,reviewed,중분류 목록만 남고 두 번째 열이 비어 있는 broken markdown table이라 canonical table로 유지하지 않음.,,

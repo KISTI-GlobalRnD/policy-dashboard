@@ -1,0 +1,108 @@
+review_item_id,document_id,source_format,page_no,candidate_source,candidate_id,rows,cols,preview_text,suggested_class,heuristic_reason,keep_for_dashboard,merge_group_hint,canonical_table_id,review_status,reviewer_notes,treat_as_char,text_wrap
+TRV-DOC-POL-002-JS-001,DOC-POL-002,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-002-001,1,1,,layout_false_positive,empty_table_box,no,,,review_required,,0,IN_FRONT_OF_TEXT
+TRV-DOC-POL-002-JS-002,DOC-POL-002,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-002-002,2,4,"의안번호 | 제 5 호 | 의결
+사항",layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-003,DOC-POL-002,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-002-003,1,1,AI 바이오 국가전략(안),layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-004,DOC-POL-002,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-002-004,1,1,과학기술관계장관회의,layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-005,DOC-POL-002,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-002-005,5,5,제 출 자 | 기획재정부장관 | 구윤철 | 과학기술정보통신부장관,layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-006,DOC-POL-002,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-002-006,1,1,AI 바이오 국가전략(안) (요약),layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-007,DOC-POL-002,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-002-007,2,3,"규제 | 정책
+▪ 바이오 분야 AI 활용 확산에 총력
+▪ 정부투자만으로 AI 바이오 연구개발 수요 충족에 한계 | 데이터·인프라
+▪ 바이오데이터 규모·개방성 ·활용성 측면에 한계
+▪ 바이오 분야에 활용가능한 컴퓨팅 인프라 부족",layout_false_positive,small_hwpx_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-008,DOC-POL-002,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-002-008,1,3,1 | 5대 분야 AI 바이오 모델 구축·개발 및 적용,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-009,DOC-POL-002,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-002-009,8,5,분야 | 추진방향 | 추진과제,structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-010,DOC-POL-002,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-002-010,1,3,2 | 산·학·연·병이 함께하는 ‘AI 바이오 혁신생태계 조성’,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-011,DOC-POL-002,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-002-011,3,3,’26년 | ⇨ | ’27년 이후,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-012,DOC-POL-002,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-002-012,9,3,구분 | 지원내용,structured_table,hwpx_grid_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-013,DOC-POL-002,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-002-013,7,3,참여주체 | 인센티브,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-014,DOC-POL-002,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-002-014,1,3,3 | 데이터 접근·활용성 제고 및 AI 컴퓨팅 인프라 구축·지원,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-015,DOC-POL-002,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-002-015,7,5,"구분 | 보안 가상클라우드(1단계, ‘25~’28) | 통합활용플랫폼(2단계, ‘28~)",structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-016,DOC-POL-002,hwpx,section3,pymupdf_find_tables,TBL-DOC-POL-002-016,7,1,AI 바이오 국가전략(안),review_required,single_column_info_box,review,,,review_required,,0,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-017,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-017,1,1,Ⅰ. 추진배경,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-018,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-018,1,3,최근 흐름 : AI 기반 바이오 연구·산업 대전환,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-019,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-019,1,3,혁신의 동력 : 지식인프라(Foundation Model)와 자율플랫폼(Agentic AI),layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-020,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-020,1,3,전략적 필요 : AI 바이오 선도국 진입의 골든타임,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-021,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-021,1,1,Ⅱ. 최근 AI 바이오 연구의 흐름,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-022,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-022,2,3,과거 | 현재,layout_false_positive,small_hwpx_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-023,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-023,1,1,,layout_false_positive,empty_table_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-024,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-024,1,1,Ⅲ. 글로벌 동향,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-025,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-025,1,3,국가 전략화 : AI 바이오 글로벌 주도권 확보를 위한 총력전,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-026,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-026,3,3,✔ 주요국의 과학기술 X AI 전략,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-027,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-027,3,3,✔ 주요국의 AI 바이오 투자 동향,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-028,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-028,1,3,"협력 생태계 : 글로벌 빅테크, 빅파마, AI 바이오텍의 파트너십 확대",layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-029,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-029,3,3,✔ AI 신약개발을 위한 전략적 파트너십 사례,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-030,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-030,1,1,,layout_false_positive,empty_table_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-031,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-031,1,1,기업,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-032,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-032,1,1,Ⅳ. 우리의 현주소 및 시사점,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-033,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-033,3,3, AI바이오 융합 인재에 대한 현장의 목소리,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-034,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-034,1,1,"급변하는 AI 바이오 환경 下 글로벌 강국으로 도약하기 위해
+AI모델·데이터·인프라를 아우르는 혁신적 생태계 구축",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-035,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-035,1,1,Ⅴ. 비전 및 추진전략,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-036,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-036,1,1,Ⅵ. 전략별 추진과제,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-037,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-037,1,2,전략1 | 5대 분야 핵심 AI 모델 개발 및 적용,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-038,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-038,1,1,분야,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-039,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-039,1,1,󰊱 AI 기반 연구개발 패러다임 전환 : 신약개발,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-040,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-040,1,1,목표,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-041,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-041,11,7,구분 | 필요요소 | 추진방향 | 활용,structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-042,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-042,2,3,RNA 구조 예측-설계 | mRNA 설계 | RNA 변형 스크리닝,layout_false_positive,small_hwpx_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-043,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-043,2,2,유전자 편집 | 세포 치료제,layout_false_positive,small_hwpx_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-044,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-044,3,3,✔ 해외의 연구실 AX 동향,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-045,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-045,1,1,"⇒ AI 기반 항체치료제* 개발로 국민 모두가 저렴한 가격으로 혜택을 누릴 수 있도록 하기 위한 ‘국민 체감형 AI 신약개발 선도 프로젝트’ 추진
+* 해외 수입에 의존하고, 개발비용이 높아 수백만원~수억원의 약가 형성",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-046,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-046,1,1,"󰊲 특화 AI 모델 개발·활용으로 연구개발 가속화 및 산업 생산성·경제성 제고 : 뇌·역노화, 의료기기, 바이오제조, 농식품",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-047,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-047,1,1,뇌·역노화,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-048,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-048,1,1,목표,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-049,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-049,3,3,구조적 뇌 지도 | 구조+기능 지도,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-050,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-050,2,2,"< (사례) 국제연구팀, 예쁜꼬마선충의 행동을 시뮬레이션화 >",layout_false_positive,heading_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-051,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-051,2,2,< (사례) 해마의 위치‧격자세포 원리 → 공간탐색 및 강화학습 AI 개발 >,layout_false_positive,heading_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-052,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-052,2,2,< (사례) 데이비드 싱클레어 하버드대 교수 노화역전 연구 >,layout_false_positive,heading_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-053,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-053,1,1,의료기기,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-054,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-054,1,1,목표,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-055,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-055,3,3,✔ AI 기반 진단 의료기기 개발 사례,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-056,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-056,3,3,✔ AI 기반 치료 의료기기 개발 사례,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-057,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-057,3,3,✔ AI 기반 원격의료 기술 예시,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-058,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-058,3,3,✔ AI 기반 질환예측 기술 예시,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-059,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-059,3,3,✔ 데이터 플랫폼 구축 사례,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-060,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-060,3,3,✔ 해외 사례,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-061,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-061,1,1,바이오 제조,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-062,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-062,1,1,분야,layout_false_positive,single_cell_layout_box,no,,,review_required,,0,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-063,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-063,3,3,✔ 해외 사례,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-064,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-064,3,3,✔ 해외 사례,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-065,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-065,1,1,< 바이오제조 전주기 지원 인프라 구축방향 >,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-066,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-066,1,1,농식품(그린바이오),layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-067,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-067,1,1,목표,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-068,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-068,1,1,구분,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-069,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-069,1,2,전략2 | 산·학·연·병이 함께하는 ‘AI 바이오 혁신 생태계’ 조성,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-070,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-070,1,1,,layout_false_positive,empty_table_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-071,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-071,3,3,’26년 | ⇨ | ’27년 이후,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-072,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-072,6,4,부처명 | 역할 | 부처명 | 역할,structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-073,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-073,1,1,거점명,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-074,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-074,1,2,전략3 | 데이터 접근·활용성 제고 및 AI 컴퓨팅 인프라 구축·지원,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-075,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-075,1,1,󰊱 고품질의 바이오 빅데이터 확보,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-076,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-076,1,1,구분,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-077,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-077,3,3,< 민간데이터 공유활용 지원 사업 개요(’26년 착수) >,layout_false_positive,heading_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-078,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-078,3,3,현행(As-Is) | ⇨ | 향후(To-Be),review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-079,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-079,3,3,✔ AI 기반 데이터 품질관리 기술 예시,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-080,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-080,1,1,󰊲 바이오 빅데이터 활용성 제고 및 규제 합리화,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-081,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-081,1,1,"◈ 현황 및 한계
+ㅇ 각 부처, 공공기관, 민간기관이 보유한 데이터가 각기 다른 데이터 플랫폼(K-BDS, CODA 등)에 산재되어 있어 통합 검색·활용 곤란
+ㅇ 보건의료데이터의 경우, 데이터 활용을 위한 심의체계(DRB/IRB 심의)가 기관별로 상이
+< 보건의료데이터 활용을 위한 심의체계(DRB/IRB 심의) >",layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-082,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-082,4,3,구분 | 多기관 관련 데이터 활용(1단계) | 매머드 셋(2단계),structured_table,hwpx_grid_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-083,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-083,3,3,< 매머드 셋 구축 개념도 (K-BDS 가상 보안클라우드 분석활용) >,layout_false_positive,heading_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-084,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-084,3,3,✔ 가칭「바이오데이터 활용 및 인공지능바이오 연구개발 촉진에 관한 법률」 주요내용,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-085,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-085,3,3,✔ 가칭「디지털 헬스케어법」 주요내용,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-086,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-086,12,5,항목 | 현행 | 개선방향,structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-087,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-087,1,1,󰊳 고성능 컴퓨팅 분석활용 자원 구축·제공,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-088,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-088,1,1,"◈ 현황 및 한계
+ㅇ 민감데이터의 안전한 활용, 바이오 분야 AI 분석모델 등을 지원하는 바이오 전용 고성능(GPU) 컴퓨팅 인프라가 절대적으로 부족
+ㅇ 양자컴퓨터는 상용화 초기 단계이나, ‘기존 슈퍼컴퓨터로도 어려운 분자 수준의 복잡한 계산’을 해결할 수 있어 신약개발 분야에서 주목",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-089,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-089,7,5,"구분 | 보안 가상클라우드(1단계, ’25~’28) | 통합활용플랫폼(2단계, ’28~)",structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-090,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-090,5,5,활용사례 | 양자컴퓨터의 역할 | 효과,structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-091,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-091,1,1,Ⅶ. 추진과제별 소관부처 및 일정,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-092,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-092,26,7,구분 | 추진 전략 및 과제 | 일정 | 주관,structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-093,DOC-POL-002,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-002-093,24,7,구분 | 추진 전략 및 과제 | 일정 | 주관,structured_table,hwpx_matrix_table,yes,,,review_required,,0,TOP_AND_BOTTOM
+TRV-DOC-POL-002-JS-094,DOC-POL-002,hwpx,section8,pymupdf_find_tables,TBL-DOC-POL-002-094,3,2,"과학기술정보통신부 연구개발정책실
+기초원천연구정책관 첨단바이오기술과",review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM

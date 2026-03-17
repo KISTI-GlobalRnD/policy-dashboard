@@ -1,0 +1,35 @@
+review_item_id,document_id,source_format,page_no,candidate_source,candidate_id,rows,cols,preview_text,suggested_class,heuristic_reason,keep_for_dashboard,merge_group_hint,canonical_table_id,review_status,reviewer_notes,treat_as_char,text_wrap
+TRV-DOC-POL-008-JS-001,DOC-POL-008,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-008-001,1,1,,layout_false_positive,empty_table_box,no,,,review_required,,0,IN_FRONT_OF_TEXT
+TRV-DOC-POL-008-JS-002,DOC-POL-008,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-008-002,2,4,"의안번호 | 제 6 호 | 보
+고
+사항",layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-003,DOC-POL-008,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-008-003,1,1,"민간투자연계, 팁스 R&D 확산방안(안)",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-004,DOC-POL-008,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-008-004,1,1,과학기술관계장관회의,layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-005,DOC-POL-008,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-008-005,2,3,제 출 자 | 중소벤처기업부장관 | 한성숙,layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-006,DOC-POL-008,hwpx,section2,pymupdf_find_tables,TBL-DOC-POL-008-006,1,1,"민간투자연계, 팁스 R&D 확산방안(안) (요약)",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-007,DOC-POL-008,hwpx,section4,pymupdf_find_tables,TBL-DOC-POL-008-007,7,1,"민간투자연계,
+팁스 R&D 확산방안(안)",review_required,single_column_info_box,review,,,review_required,,0,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-008,DOC-POL-008,hwpx,section6,pymupdf_find_tables,TBL-DOC-POL-008-008,3,1,"민간투자연계, 팁스 R&D 확산방안(안)",review_required,single_column_info_box,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-009,DOC-POL-008,hwpx,section6,pymupdf_find_tables,TBL-DOC-POL-008-009,1,2,I | 추진 배경,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-010,DOC-POL-008,hwpx,section6,pymupdf_find_tables,TBL-DOC-POL-008-010,1,1,"TIPS(Tech Incubator Program for Startup) : AC, VC 등 민간투자사가 혁신기업의 R&D 과제를 발굴, 先 투자하는 경우 정부는 R&D 출연금을 매칭 지원 (‘13년 도입)
+⇨ 정부 출연금 대비 약 10배(21.3조원)의 민간투자 유인, IPO 48개社, M&A 96개社 등",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-011,DOC-POL-008,hwpx,section6,pymupdf_find_tables,TBL-DOC-POL-008-011,1,2,II | 추진 방향,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-012,DOC-POL-008,hwpx,section6,pymupdf_find_tables,TBL-DOC-POL-008-012,1,1,"성장 全주기 지원 및 다양한 기술‧산업 분야, 지역으로의 성과확산을 위해 팁스 R&D 간 연계 강화 및 지원체계 재정립 추진",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-013,DOC-POL-008,hwpx,section6,pymupdf_find_tables,TBL-DOC-POL-008-013,1,2,III | 중점 추진 과제,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-014,DOC-POL-008,hwpx,section6,pymupdf_find_tables,TBL-DOC-POL-008-014,1,1,➊ 혁신 성과가 이어지는 ｢성장 全주기 지원체계｣ 확립,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-015,DOC-POL-008,hwpx,section6,pymupdf_find_tables,TBL-DOC-POL-008-015,4,7,(‘26년) | 팁스(창업) | 스케일업 팁스(성장) | 글로벌 팁스(글로벌),structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-016,DOC-POL-008,hwpx,section6,pymupdf_find_tables,TBL-DOC-POL-008-016,1,1,➋ ｢개방-경쟁-자율성｣ 강화 및 투자 운영사 확대,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-017,DOC-POL-008,hwpx,section6,pymupdf_find_tables,TBL-DOC-POL-008-017,1,1,➌ 범부처 협력체계를 바탕으로 ABCDEF 전략분야 혁신성과 창출,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-018,DOC-POL-008,hwpx,section6,pymupdf_find_tables,TBL-DOC-POL-008-018,9,11,DCP RFP | 부처 | 중기부,structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-019,DOC-POL-008,hwpx,section6,pymupdf_find_tables,TBL-DOC-POL-008-019,1,1,➍ 지역 혁신‧투자 촉진을 위해 팁스 R&D의 지역 우대 확대,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-020,DOC-POL-008,hwpx,section6,pymupdf_find_tables,TBL-DOC-POL-008-020,1,3,참고 1 | 2026년 팁스방식 R&D 개요,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-021,DOC-POL-008,hwpx,section6,pymupdf_find_tables,TBL-DOC-POL-008-021,8,4,구분 | 트랙 구분 | 지원조건 | 지원한도(기간),structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-022,DOC-POL-008,hwpx,section6,pymupdf_find_tables,TBL-DOC-POL-008-022,1,3,참고 2 | 팁스방식 R&D 지역기업 발굴·지원 성과,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-023,DOC-POL-008,hwpx,section6,pymupdf_find_tables,TBL-DOC-POL-008-023,6,5,(단위 : 억원),structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-024,DOC-POL-008,hwpx,section6,pymupdf_find_tables,TBL-DOC-POL-008-024,5,2,< 팁스 지역별 운영사 현황 >,review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-025,DOC-POL-008,hwpx,section6,pymupdf_find_tables,TBL-DOC-POL-008-025,3,2,< 스케일업 팁스 지역별 투자사 현황 >,layout_false_positive,heading_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-026,DOC-POL-008,hwpx,section6,pymupdf_find_tables,TBL-DOC-POL-008-026,1,3,참고 3 | 범부처 협력체계 추진방향(안),layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-027,DOC-POL-008,hwpx,section6,pymupdf_find_tables,TBL-DOC-POL-008-027,1,1,"협의조정위원회
+(중기부 국장 – 관계부처 과장급)",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-008-JS-028,DOC-POL-008,hwpx,section7,pymupdf_find_tables,TBL-DOC-POL-008-028,3,2,"중소벤처기업부 중소기업정책실
+기술혁신정책관 기술혁신정책과",review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM

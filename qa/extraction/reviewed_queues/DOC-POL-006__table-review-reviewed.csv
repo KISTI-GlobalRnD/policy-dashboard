@@ -1,0 +1,45 @@
+review_item_id,document_id,source_format,page_no,candidate_source,candidate_id,rows,cols,preview_text,suggested_class,heuristic_reason,keep_for_dashboard,merge_group_hint,canonical_table_id,review_status,reviewer_notes,treat_as_char,text_wrap
+TRV-DOC-POL-006-JS-001,DOC-POL-006,pdf,2,pymupdf_find_tables,TBL-DOC-POL-006-001,1,2,Ⅰ | 추진배경,layout_false_positive,single_row_small_box,no,PAGE-02,,reviewed,제목 박스형 레이아웃. 표 데이터로 사용하지 않음.,,
+TRV-DOC-POL-006-JS-002,DOC-POL-006,pdf,3,pymupdf_find_tables,TBL-DOC-POL-006-002,1,2,Ⅲ | 목표 및 추진,layout_false_positive,single_row_small_box,no,PAGE-03,,reviewed,제목 박스형 레이아웃. 표 데이터로 사용하지 않음.,,
+TRV-DOC-POL-006-MD-001,DOC-POL-006,pdf,8,pymupdf4llm_markdown,PAR-DOC-POL-006-00104,3,4,|Col1|국가전략첨단소재․부품 분야|기후․에너지․미래대응 분야|K-붐업 분야|,structured_table,markdown_table_detected,yes,PAGE-08,CTBL-DOC-POL-006-001,reviewed,page chunk 기준 표 후보. canonical table의 보조 근거로 유지.,,
+TRV-DOC-POL-006-JS-003,DOC-POL-006,pdf,8,pymupdf_find_tables,TBL-DOC-POL-006-003,3,4,국가전략첨단소재․부품 분야 | 기후․에너지․미래대응 분야 | K-붐업 분야,structured_table,shape_based,yes,PAGE-08,CTBL-DOC-POL-006-001,reviewed,선정기준 비교표의 구조화 셀 추출. preferred source.,,
+TRV-DOC-POL-006-MD-002,DOC-POL-006,pdf,9,pymupdf4llm_markdown,PAR-DOC-POL-006-00114,7,2,"|성장전략TF/관계부처 장관회의(경장, 산경장 등)|Col2|",structured_table,markdown_table_detected,no,PAGE-09,,reviewed,조직 체계도 성격. 표가 아니라 figure/diagram 경로로 보는 것이 맞음.,,
+TRV-DOC-POL-006-JS-004,DOC-POL-006,pdf,9,pymupdf_find_tables,TBL-DOC-POL-006-004,1,2,※ 現 기재부 신성장전략기획추진단을 “초혁신경제추진단”으로 개편 예 | 정,layout_false_positive,single_row_small_box,no,PAGE-09,,reviewed,문장 박스 조각. false positive.,,
+TRV-DOC-POL-006-JS-005,DOC-POL-006,pdf,9,pymupdf_find_tables,TBL-DOC-POL-006-005,7,2,"성장전략TF/관계부처 장관회의(경장, 산경장 등)",structured_table,shape_based,no,PAGE-09,,reviewed,조직 체계도 성격. 표 데이터로는 부적합.,,
+TRV-DOC-POL-006-JS-006,DOC-POL-006,pdf,10,pymupdf_find_tables,TBL-DOC-POL-006-006,1,12,이 | 질 | 적 | 인 성격,fragment_or_broken,wide_text_fragment,no,PAGE-10,,reviewed,문장 파편이 표로 오인된 사례.,,
+TRV-DOC-POL-006-MD-003,DOC-POL-006,pdf,13,pymupdf4llm_markdown,PAR-DOC-POL-006-00173,4,5,|Col1|솔레노이드|토로이드|레이스트랙|새들|,structured_table,markdown_table_detected,yes,PAGE-13,CTBL-DOC-POL-006-002,reviewed,page chunk 기준 표 후보. canonical table의 보조 근거로 유지.,,
+TRV-DOC-POL-006-JS-007,DOC-POL-006,pdf,13,pymupdf_find_tables,TBL-DOC-POL-006-007,4,5,솔레노이드 | 토로이드 | 레이스트랙 | 새들,structured_table,shape_based,yes,PAGE-13,CTBL-DOC-POL-006-002,reviewed,고온초전도자석 유형별 응용분야 표의 구조화 셀 추출. preferred source.,,
+TRV-DOC-POL-006-JS-008,DOC-POL-006,pdf,13,pymupdf_find_tables,TBL-DOC-POL-006-008,1,2,응용시 | 스템별,layout_false_positive,single_row_small_box,no,PAGE-13,,reviewed,표 제목/조각이 별도 표로 오인된 사례.,,
+TRV-DOC-POL-006-JS-009,DOC-POL-006,pdf,15,pymupdf_find_tables,TBL-DOC-POL-006-009,1,2,약 | 품,layout_false_positive,single_row_small_box,no,PAGE-15,,reviewed,본문 단어 조각이 표로 오인된 사례.,,
+TRV-DOC-POL-006-MD-004,DOC-POL-006,pdf,18,pymupdf4llm_markdown,PAR-DOC-POL-006-00239,5,4,|구분|‘24년|’30년 목표|비 고|,structured_table,markdown_table_detected,yes,PAGE-18,CTBL-DOC-POL-006-003,reviewed,page chunk 기준 표 후보. canonical table의 보조 근거로 유지.,,
+TRV-DOC-POL-006-JS-010,DOC-POL-006,pdf,18,pymupdf_find_tables,TBL-DOC-POL-006-010,5,4,구분 | ‘24년 | ’30년 목표 | 비 고,structured_table,shape_based,yes,PAGE-18,CTBL-DOC-POL-006-003,reviewed,바이오 의약 산업 현황 및 목표 표의 구조화 셀 추출. preferred source.,,
+TRV-DOC-POL-006-JS-011,DOC-POL-006,pdf,21,pymupdf_find_tables,TBL-DOC-POL-006-011,1,2,글 | 로벌,layout_false_positive,single_row_small_box,no,PAGE-21,,reviewed,본문 단어 조각이 표로 오인된 사례.,,
+TRV-DOC-POL-006-MD-005,DOC-POL-006,pdf,22,pymupdf4llm_markdown,PAR-DOC-POL-006-00301,7,3,|기업|명 국가|주요내용|,structured_table,markdown_table_detected,yes,PAGE-22,CTBL-DOC-POL-006-004,reviewed,page chunk 기준 표 후보. canonical table의 보조 근거로 유지.,,
+TRV-DOC-POL-006-JS-012,DOC-POL-006,pdf,22,pymupdf_find_tables,TBL-DOC-POL-006-012,7,3,기업 | 명 국가 | 주요내용,structured_table,shape_based,yes,PAGE-22,CTBL-DOC-POL-006-004,reviewed,주요 기업 사례 표의 구조화 셀 추출. preferred source.,,
+TRV-DOC-POL-006-MD-006,DOC-POL-006,pdf,24,pymupdf4llm_markdown,PAR-DOC-POL-006-00324,5,2,|Col1|【 ICT 기반 의료시스템 유형 】|,structured_table,markdown_table_detected,yes,PAGE-24,CTBL-DOC-POL-006-005,reviewed,page chunk 기준 표 후보. canonical table의 보조 근거로 유지.,,
+TRV-DOC-POL-006-JS-013,DOC-POL-006,pdf,24,pymupdf_find_tables,TBL-DOC-POL-006-013,1,3,디지 | 털 | 헬스,layout_false_positive,single_row_small_box,no,PAGE-24,,reviewed,표 제목 조각이 별도 표로 오인된 사례.,,
+TRV-DOC-POL-006-JS-014,DOC-POL-006,pdf,24,pymupdf_find_tables,TBL-DOC-POL-006-014,4,2,"병원정보시스템
+(Hospital Information
+System) | 병원에서 의료, 행정, 재정 등 모든 운영 정보를 통합적으로
+관리하는 시스템, 전자의무기록(EMR), 전자처방시스템(OCS),
+의료영상저장전송시스템(PACS) 등",structured_table,shape_based,yes,PAGE-24,CTBL-DOC-POL-006-005,reviewed,ICT 기반 의료시스템 유형 표의 구조화 셀 추출. preferred source.,,
+TRV-DOC-POL-006-MD-007,DOC-POL-006,pdf,25,pymupdf4llm_markdown,PAR-DOC-POL-006-00343,3,10,|Col1|2016 2017|2018|2019|2020 2|021|2022 20|23 2024|2025|총|,structured_table,markdown_table_detected,yes,PAGE-25,CTBL-DOC-POL-006-006,reviewed,PDF 원본 page 25 시각 검토 후 연도/수치 셀을 정규화한 canonical table로 승격.,,
+TRV-DOC-POL-006-JS-015,DOC-POL-006,pdf,25,pymupdf_find_tables,TBL-DOC-POL-006-015,3,10,2016 2017 | 2018 | 2019 | 2020 2,structured_table,shape_based,yes,PAGE-25,CTBL-DOC-POL-006-006,reviewed,PDF 원본 page 25 시각 검토 후 연도/수치 셀을 정규화한 canonical table로 승격.,,
+TRV-DOC-POL-006-JS-016,DOC-POL-006,pdf,26,pymupdf_find_tables,TBL-DOC-POL-006-016,1,9,"국
+내 | 연구개발 | 시험검사 사용 | 적합성평가",fragment_or_broken,wide_text_fragment,repair_required,PAGE-26,,reviewed,비교표 상단 1행 조각. 표 복원 전까지 canonical table로 확정하지 않음.,,
+TRV-DOC-POL-006-JS-017,DOC-POL-006,pdf,26,pymupdf_find_tables,TBL-DOC-POL-006-017,1,9,"미
+국 | 연구개발 | 사용
+*위
+시험검사
+제품
+현 | 적합성평가
+해 가능한
+대상, 미국
+※
+지 환경 요구",fragment_or_broken,wide_text_fragment,repair_required,PAGE-26,,reviewed,비교표 하단 1행 조각. 표 복원 전까지 canonical table로 확정하지 않음.,,
+TRV-DOC-POL-006-MD-008,DOC-POL-006,pdf,36,pymupdf4llm_markdown,PAR-DOC-POL-006-00501,2,2,|25년|12월|,review_required,needs_manual_review,yes,PAGE-36,CTBL-DOC-POL-006-007,reviewed,PDF 원본 pages 36-38 시각 검토 후 다중 페이지 일정표를 병합한 canonical table로 승격.,,
+TRV-DOC-POL-006-JS-018,DOC-POL-006,pdf,36,pymupdf_find_tables,TBL-DOC-POL-006-018,2,2,25년 | 12월,review_required,needs_manual_review,yes,PAGE-36,CTBL-DOC-POL-006-007,reviewed,PDF 원본 pages 36-38 시각 검토 후 다중 페이지 일정표를 병합한 canonical table로 승격.,,
+TRV-DOC-POL-006-MD-009,DOC-POL-006,pdf,37,pymupdf4llm_markdown,PAR-DOC-POL-006-00503,4,2,|시기|Col2|,multi_page_fragment,timeline_fragment,yes,PAGE-37,CTBL-DOC-POL-006-007,reviewed,PDF 원본 pages 36-38 시각 검토 후 다중 페이지 일정표를 병합한 canonical table로 승격.,,
+TRV-DOC-POL-006-JS-019,DOC-POL-006,pdf,37,pymupdf_find_tables,TBL-DOC-POL-006-019,4,2,시기,multi_page_fragment,timeline_fragment,yes,PAGE-37,CTBL-DOC-POL-006-007,reviewed,PDF 원본 pages 36-38 시각 검토 후 다중 페이지 일정표를 병합한 canonical table로 승격.,,
+TRV-DOC-POL-006-MD-010,DOC-POL-006,pdf,38,pymupdf4llm_markdown,PAR-DOC-POL-006-00504,12,3,|시기|Col2|세부 일정|,structured_table,markdown_table_detected,yes,PAGE-38,CTBL-DOC-POL-006-007,reviewed,PDF 원본 pages 36-38 시각 검토 후 다중 페이지 일정표를 병합한 canonical table로 승격.,,
+TRV-DOC-POL-006-JS-020,DOC-POL-006,pdf,38,pymupdf_find_tables,TBL-DOC-POL-006-020,12,3,시기 | 세부 일정,structured_table,shape_based,yes,PAGE-38,CTBL-DOC-POL-006-007,reviewed,PDF 원본 pages 36-38 시각 검토 후 다중 페이지 일정표를 병합한 canonical table로 승격.,,

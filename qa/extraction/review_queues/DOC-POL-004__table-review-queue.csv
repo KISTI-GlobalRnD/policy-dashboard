@@ -1,0 +1,77 @@
+review_item_id,document_id,source_format,page_no,candidate_source,candidate_id,rows,cols,preview_text,suggested_class,heuristic_reason,keep_for_dashboard,merge_group_hint,canonical_table_id,review_status,reviewer_notes,treat_as_char,text_wrap
+TRV-DOC-POL-004-JS-001,DOC-POL-004,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-004-001,1,1,,layout_false_positive,empty_table_box,no,,,review_required,,0,IN_FRONT_OF_TEXT
+TRV-DOC-POL-004-JS-002,DOC-POL-004,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-004-002,2,4,"의안번호 | 제 4 호 | 의결
+사항",layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-003,DOC-POL-004,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-004-003,1,1,"AI로 과학기술 패러다임 전환 가속화
+과학기술×AI 국가전략(안)",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-004,DOC-POL-004,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-004-004,1,1,과학기술관계장관회의,layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-005,DOC-POL-004,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-004-005,4,5,제 출 자 | 과학기술정보통신부장관 | 배경훈 | 교육부장관,layout_false_positive,front_matter_table,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-006,DOC-POL-004,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-004-006,1,1,과학기술×AI 국가전략(안) (요약),layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-007,DOC-POL-004,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-004-007,1,1,"☞ (추진방향) ➊ 기술·인재‧인프라‧산업을 아우르는 전 주기 지원
++ ➋ 정부-산업-연구계 원팀으로 국가적 역량 결집",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-008,DOC-POL-004,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-004-008,1,3,1 | 과학기술 AI 핵심기술 확보,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-009,DOC-POL-004,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-004-009,1,1,As-is,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-010,DOC-POL-004,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-004-010,1,3,2 | 과학기술 AI 융합인재 양성,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-011,DOC-POL-004,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-004-011,1,1,As-is,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-012,DOC-POL-004,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-004-012,1,3,3 | 핵심 인프라 및 산·학·연 협력 생태계 구축,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-013,DOC-POL-004,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-004-013,1,1,As-is,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-014,DOC-POL-004,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-004-014,1,3,4 | 과학기술 AI 산업 생태계 고도화,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-015,DOC-POL-004,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-004-015,1,1,As-is,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-016,DOC-POL-004,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-004-016,3,3,< 과학기술×AI 국가전략 비전 및 추진전략 >,layout_false_positive,heading_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-017,DOC-POL-004,hwpx,section0,pymupdf_find_tables,TBL-DOC-POL-004-017,7,1,"AI로 과학기술 패러다임 전환 가속화
+과학기술×AI 국가전략(안)",review_required,single_column_info_box,review,,,review_required,,0,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-018,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-018,1,1,Ⅰ. 추진 배경,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-019,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-019,1,1,"◇ AI 시대, 과학기술 패러다임 전환과 이노베이션 가속화",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-020,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-020,1,3,"구글 딥마인드 CEO 
+데미스 하사비스 (‘25.9.)
+“과학적 발견의 
+새로운 황금기, 
+새로운 르네상스의 시작점”",layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-021,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-021,1,1,◇ AI 강국‧빅테크를 중심으로 과학기술 AI 경쟁 본격화,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-022,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-022,3,2,"AI Action Plan의 핵심 내용으로 AI 기반 과학연구 투자 강조(’25.7, 백악관)",review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-023,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-023,1,1,◇ 과학기술 AI 글로벌 주도권을 확보할 전략적 골든타임,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-024,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-024,1,1,Ⅱ. 현황 진단,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-025,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-025,1,1,"◈ 강점 분야 연구역량, AI 경쟁력, 인프라 확충 등 기초 체력과 잠재력 보유
+- 다만, 핵심 인프라 접근성 및 과학기술×AI 융합인재 육성, 산·학·연 연계 미흡 등으로 혁신적 연구성과 창출과 산업 성장은 초기 단계",layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-026,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-026,6,6,"• AlphaFold 3(’24.5.), AlphaEvolve(’25.5.), AI Co-Scientist(’25.2.) | 강점(S)
+▪ 바이오, 재료·화학, 반도체 등 강점분야 연구‧산업 역량 보유
+※ (첨단바이오) 특허 증가율 세계１위, 논문 증가율 2위, 논문 영향력 3위,
+(소재‧나노) 미국 대비 기술 수준 
+(‘20) 80.8% → (’22) 8",structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-027,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-027,3,3,"☞ “R&D 패러다임 전환이라는 공격적 목표를 설정하고 융합 인력양성, 과학 AI 모델 개발, AI agent 기반 연구지원 등 추진 필요”(다시 과학기술인을 꿈꾸는 대한민국, 11.7.)
+☞ “AI를 활용하면 설계한 단백질을 실험으로 구현하는 성공률이 100배 향상, GPU가 부족하고 관리체계 애로사항도 존재”(제1차 과학기술AI전략대화, 9.4.)
+☞ ",review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-028,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-028,1,1,Ⅲ. 비전 및 추진전략,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-029,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-029,1,1,Ⅳ. 추진과제,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-030,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-030,1,3,1 | 과학기술 AI 핵심기술 확보,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-031,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-031,1,1,As-is,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-032,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-032,4,5,바이오 AI | 지구과학 AI | 수학 AI,structured_table,hwpx_matrix_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-033,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-033,1,1,,layout_false_positive,empty_table_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-034,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-034,1,3,,layout_false_positive,empty_table_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-035,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-035,1,3,,layout_false_positive,empty_table_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-036,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-036,2,3,바이오 | 재료·화학,layout_false_positive,small_hwpx_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-037,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-037,1,3,,layout_false_positive,empty_table_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-038,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-038,1,3,2 | 과학기술 AI 융합인재 양성,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-039,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-039,1,1,As-is,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-040,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-040,2,5,➊ 기초역량 | + | ➋ 독립연구 | +,layout_false_positive,small_hwpx_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-041,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-041,1,3,3 | 핵심 인프라 및 산·학·연 협력 생태계 구축,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-042,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-042,1,1,As-is,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-043,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-043,2,4,"슈퍼컴 
+6호기(‘26.上~) | 첨단 GPU 
+확보사업(‘26~) | 대학 기초연구 
+전용 GPU(‘26.下~) | 바이오·소재
+전용 인프라(‘27~)",layout_false_positive,small_hwpx_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-044,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-044,1,1,,layout_false_positive,empty_table_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-045,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-045,1,1,,layout_false_positive,empty_table_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-046,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-046,1,3,4 | 과학기술 AI 산업 생태계 고도화,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-047,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-047,1,1,As-is,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-048,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-048,1,2,"▶ (협력사례) 출연연‧대기업(KIST, LG AI 연구원, LG전자) 협력을 통해 국내 최초 한국형 AI 휴머노이드 플랫폼 ‘KAPEX'를 개발",layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-049,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-049,1,1,Ⅴ. 향후 계획,layout_false_positive,single_cell_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-050,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-050,1,3,붙임1 | 「ASK 2026 : AI Co-Scientist Challenge Korea」 계획(안),layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-051,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-051,5,3,"구분 | [track 1]
+AI Agent 활용 과학기술 연구·논문 작성 | [track 2]
+과학기술 AI Agent 개발",structured_table,hwpx_grid_table,yes,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-052,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-052,1,3,붙임2 | 추진과제별 소관부처 및 일정,layout_false_positive,single_row_layout_box,no,,,review_required,,1,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-053,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-053,56,7,구분 | 추진 전략 및 과제 | 일정 | 주관,structured_table,hwpx_matrix_table,yes,,,review_required,,0,TOP_AND_BOTTOM
+TRV-DOC-POL-004-JS-054,DOC-POL-004,hwpx,section1,pymupdf_find_tables,TBL-DOC-POL-004-054,3,2,"과학기술정보통신부 연구개발정책실
+기초원천연구정책관 과학기술AI확산팀",review_required,hwpx_needs_manual_review,review,,,review_required,,1,TOP_AND_BOTTOM

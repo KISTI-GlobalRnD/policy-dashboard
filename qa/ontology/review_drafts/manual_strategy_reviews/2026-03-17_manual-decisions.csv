@@ -1,0 +1,8 @@
+decision_key,policy_item_id,policy_id,policy_name,bucket_label,item_label,final_decision_status,final_primary_strategy_id,final_secondary_strategy_ids,final_confidence,reviewer_name,reviewer_notes
+SRD-POL-001-3d500d3e4f44,ITM-POL-001-00103,POL-001,123대 국정과제,기술,계획입지발굴,reviewed,STR-006,,high,codex_manual_strategy_review,서남해·제주 해상풍력단지 구축을 위한 계획입지 발굴·인허가 특례는 STR-006의 직접 실행 과제다.
+SRD-POL-001-fa0676e55344,ITM-POL-001-00281,POL-001,123대 국정과제,기술,민간·국제기구협업하영양·백신,reviewed,STR-015,,high,codex_manual_strategy_review,영양·백신·보건 지원은 감염병 대응 및 공중보건 축과 직접 연결된다.
+SRD-POL-001-b72144647fc9,ITM-POL-001-00098,POL-001,123대 국정과제,기술,경제적응력강화,no_strategy,,,high,codex_manual_strategy_review,"기후변화 대응, 식량안보, 반도체 초순수 공급이 결합된 복합 회복력 과제로 단일 15대 전략 primary를 두기 어렵다."
+SRD-POL-001-f37a87b79bb6,ITM-POL-001-00298,POL-001,123대 국정과제,기술,반도체실증팹,reviewed,STR-002,,high,codex_manual_strategy_review,반도체 실증팹 구축은 초격차 전략기술 확보 축의 직접 근거다.
+SRD-POL-001-7e8e706ea712,ITM-POL-001-00428,POL-001,123대 국정과제,기술,안전한물공급,no_strategy,,,high,codex_manual_strategy_review,반도체·RE100 산단 대상 안정적 물공급은 범용 산업 인프라 과제로 단일 전략 primary를 두기 어렵다.
+SRD-POL-001-11edb9c9fdaf,ITM-POL-001-00540,POL-001,123대 국정과제,기술,조선･방산･반도체등경쟁우위산업고도화를위한규제혁신,no_strategy,,,high,codex_manual_strategy_review,조선·방산·반도체를 함께 묶는 규제혁신 총론으로 특정 15대 전략에 단일 귀속하기 어렵다.
+SRD-POL-001-9d9ac7b2b560,ITM-POL-001-00844,POL-001,123대 국정과제,인프라·제도,선도적연구를위한대형연구인프라확충(가속기·핵융합·연구로등) 및 첨단장비국산화,no_strategy,,,high,codex_manual_strategy_review,가속기·핵융합·연구로·첨단장비를 포괄하는 범분야 연구인프라 확충 과제로 단일 전략 primary를 두기 어렵다.
