@@ -1,0 +1,167 @@
+@prefix po: <https://example.org/kr-msit-policy/ontology#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+po:PolicyShape a sh:NodeShape ;
+  sh:targetClass po:Policy ;
+  sh:property [
+    sh:path po:policyStatus ;
+    sh:datatype xsd:string ;
+    sh:minCount 1 ;
+    sh:maxCount 1
+  ] ;
+  sh:property [
+    sh:path po:hasBucket ;
+    sh:minCount 3
+  ] .
+
+po:PolicyBucketShape a sh:NodeShape ;
+  sh:targetClass po:PolicyBucket ;
+  sh:property [
+    sh:path po:belongsToPolicy ;
+    sh:minCount 1 ;
+    sh:maxCount 1
+  ] ;
+  sh:property [
+    sh:path po:hasResourceCategory ;
+    sh:minCount 1 ;
+    sh:maxCount 1
+  ] .
+
+po:PolicyItemShape a sh:NodeShape ;
+  sh:targetClass po:PolicyItem ;
+  sh:property [
+    sh:path po:belongsToBucket ;
+    sh:minCount 1 ;
+    sh:maxCount 1
+  ] ;
+  sh:property [
+    sh:path po:statementText ;
+    sh:datatype xsd:string ;
+    sh:minCount 1
+  ] ;
+  sh:property [
+    sh:path po:hasEvidence ;
+    sh:minCount 1
+  ] ;
+  sh:property [
+    sh:path po:hasDisplayText ;
+    sh:minCount 1
+  ] ;
+  sh:property [
+    sh:path po:hasStrategy ;
+    sh:maxCount 2
+  ] .
+
+po:PolicyItemGroupShape a sh:NodeShape ;
+  sh:targetClass po:PolicyItemGroup ;
+  sh:property [
+    sh:path po:belongsToPolicyBucket ;
+    sh:minCount 1 ;
+    sh:maxCount 1
+  ] ;
+  sh:property [
+    sh:path <http://www.w3.org/2004/02/skos/core#prefLabel> ;
+    sh:datatype xsd:string ;
+    sh:minCount 1 ;
+    sh:maxCount 1
+  ] ;
+  sh:property [
+    sh:path po:groupsPolicyItem ;
+    sh:minCount 1
+  ] ;
+  sh:property [
+    sh:path po:hasPolicyItemContent ;
+    sh:minCount 1
+  ] ;
+  sh:property [
+    sh:path po:groupStatus ;
+    sh:datatype xsd:string ;
+    sh:minCount 1 ;
+    sh:maxCount 1
+  ] .
+
+po:PolicyItemContentShape a sh:NodeShape ;
+  sh:targetClass po:PolicyItemContent ;
+  sh:property [
+    sh:path po:belongsToPolicyItemGroup ;
+    sh:minCount 1 ;
+    sh:maxCount 1
+  ] ;
+  sh:property [
+    sh:path po:contentStatementText ;
+    sh:datatype xsd:string ;
+    sh:minCount 1
+  ] ;
+  sh:property [
+    sh:path po:hasContentEvidence ;
+    sh:minCount 1
+  ] ;
+  sh:property [
+    sh:path po:contentStatus ;
+    sh:datatype xsd:string ;
+    sh:minCount 1 ;
+    sh:maxCount 1
+  ] .
+
+po:StrategyShape a sh:NodeShape ;
+  sh:targetClass po:Strategy ;
+  sh:property [
+    sh:path <http://www.w3.org/2004/02/skos/core#prefLabel> ;
+    sh:datatype xsd:string ;
+    sh:minCount 1 ;
+    sh:maxCount 1
+  ] .
+
+po:DerivedRepresentationShape a sh:NodeShape ;
+  sh:targetClass po:DerivedRepresentation ;
+  sh:property [
+    sh:path po:representationType ;
+    sh:datatype xsd:string ;
+    sh:minCount 1 ;
+    sh:maxCount 1
+  ] ;
+  sh:property [
+    sh:path po:locationType ;
+    sh:datatype xsd:string ;
+    sh:minCount 1 ;
+    sh:maxCount 1
+  ] ;
+  sh:property [
+    sh:path po:locationValue ;
+    sh:datatype xsd:string ;
+    sh:minCount 1 ;
+    sh:maxCount 1
+  ] ;
+  sh:property [
+    sh:path <http://www.w3.org/ns/prov#wasDerivedFrom> ;
+    sh:minCount 1
+  ] .
+
+po:DisplayTextShape a sh:NodeShape ;
+  sh:targetClass po:DisplayText ;
+  sh:property [
+    sh:path po:displayRole ;
+    sh:datatype xsd:string ;
+    sh:minCount 1 ;
+    sh:maxCount 1
+  ] ;
+  sh:property [
+    sh:path po:displayFor ;
+    sh:minCount 1 ;
+    sh:maxCount 1
+  ] ;
+  sh:property [
+    sh:path po:summaryText ;
+    sh:datatype xsd:string ;
+    sh:minCount 1
+  ] .
+
+po:SourceAssetShape a sh:NodeShape ;
+  sh:targetClass po:SourceAsset ;
+  sh:property [
+    sh:path po:assetPathOrUrl ;
+    sh:datatype xsd:string ;
+    sh:minCount 1 ;
+    sh:maxCount 1
+  ] .

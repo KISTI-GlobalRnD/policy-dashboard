@@ -1,0 +1,290 @@
+@prefix po: <https://example.org/kr-msit-policy/ontology#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+po: a owl:Ontology ;
+  dct:title "KR MSIT Policy Evidence Ontology"@en ;
+  dct:description "Policy, evidence, provenance, and taxonomy model for the science and technology policy dashboard workspace."@en .
+
+po:Policy a owl:Class ;
+  rdfs:label "Policy"@en .
+
+po:PolicyDocument a owl:Class ;
+  rdfs:label "Policy Document"@en .
+
+po:PolicyBucket a owl:Class ;
+  rdfs:label "Policy Bucket"@en .
+
+po:PolicyItem a owl:Class ;
+  rdfs:label "Policy Item"@en .
+
+po:PolicyItemGroup a owl:Class ;
+  rdfs:label "Policy Item Group"@en .
+
+po:PolicyItemContent a owl:Class ;
+  rdfs:label "Policy Item Content"@en .
+
+po:EvidenceObject a owl:Class ;
+  rdfs:label "Evidence Object"@en .
+
+po:EvidenceParagraph a owl:Class ;
+  rdfs:subClassOf po:EvidenceObject ;
+  rdfs:label "Evidence Paragraph"@en .
+
+po:EvidenceTable a owl:Class ;
+  rdfs:subClassOf po:EvidenceObject ;
+  rdfs:label "Evidence Table"@en .
+
+po:EvidenceFigure a owl:Class ;
+  rdfs:subClassOf po:EvidenceObject ;
+  rdfs:label "Evidence Figure"@en .
+
+po:SourceAsset a owl:Class ;
+  rdfs:subClassOf prov:Entity ;
+  rdfs:label "Source Asset"@en .
+
+po:DerivedRepresentation a owl:Class ;
+  rdfs:subClassOf prov:Entity ;
+  rdfs:label "Derived Representation"@en .
+
+po:DisplayText a owl:Class ;
+  rdfs:subClassOf prov:Entity ;
+  rdfs:label "Display Text"@en .
+
+po:ResourceCategory a owl:Class ;
+  rdfs:subClassOf skos:Concept ;
+  rdfs:label "Resource Category"@en .
+
+po:Strategy a owl:Class ;
+  rdfs:subClassOf skos:Concept ;
+  rdfs:label "Strategy"@en .
+
+po:TechnologyDomain a owl:Class ;
+  rdfs:subClassOf skos:Concept ;
+  rdfs:label "Technology Domain"@en .
+
+po:TechnologySubdomain a owl:Class ;
+  rdfs:subClassOf skos:Concept ;
+  rdfs:label "Technology Subdomain"@en .
+
+po:hasDocument a owl:ObjectProperty ;
+  rdfs:domain po:Policy ;
+  rdfs:range po:PolicyDocument ;
+  rdfs:label "has document"@en .
+
+po:forPolicy a owl:ObjectProperty ;
+  rdfs:domain po:PolicyDocument ;
+  rdfs:range po:Policy ;
+  rdfs:label "for policy"@en .
+
+po:hasBucket a owl:ObjectProperty ;
+  rdfs:domain po:Policy ;
+  rdfs:range po:PolicyBucket ;
+  rdfs:label "has bucket"@en .
+
+po:belongsToPolicy a owl:ObjectProperty ;
+  rdfs:domain po:PolicyBucket ;
+  rdfs:range po:Policy ;
+  rdfs:label "belongs to policy"@en .
+
+po:hasResourceCategory a owl:ObjectProperty ;
+  rdfs:domain po:PolicyBucket ;
+  rdfs:range po:ResourceCategory ;
+  rdfs:label "has resource category"@en .
+
+po:hasPolicyItem a owl:ObjectProperty ;
+  rdfs:domain po:PolicyBucket ;
+  rdfs:range po:PolicyItem ;
+  rdfs:label "has policy item"@en .
+
+po:hasPolicyItemGroup a owl:ObjectProperty ;
+  rdfs:domain po:PolicyBucket ;
+  rdfs:range po:PolicyItemGroup ;
+  rdfs:label "has policy item group"@en .
+
+po:belongsToBucket a owl:ObjectProperty ;
+  rdfs:domain po:PolicyItem ;
+  rdfs:range po:PolicyBucket ;
+  rdfs:label "belongs to bucket"@en .
+
+po:belongsToPolicyBucket a owl:ObjectProperty ;
+  rdfs:domain po:PolicyItemGroup ;
+  rdfs:range po:PolicyBucket ;
+  rdfs:label "belongs to policy bucket"@en .
+
+po:hasPolicyItemContent a owl:ObjectProperty ;
+  rdfs:domain po:PolicyItemGroup ;
+  rdfs:range po:PolicyItemContent ;
+  rdfs:label "has policy item content"@en .
+
+po:belongsToPolicyItemGroup a owl:ObjectProperty ;
+  rdfs:domain po:PolicyItemContent ;
+  rdfs:range po:PolicyItemGroup ;
+  rdfs:label "belongs to policy item group"@en .
+
+po:groupsPolicyItem a owl:ObjectProperty ;
+  rdfs:domain po:PolicyItemGroup ;
+  rdfs:range po:PolicyItem ;
+  rdfs:label "groups policy item"@en .
+
+po:groupedInPolicyItemGroup a owl:ObjectProperty ;
+  rdfs:domain po:PolicyItem ;
+  rdfs:range po:PolicyItemGroup ;
+  rdfs:label "grouped in policy item group"@en .
+
+po:hasEvidence a owl:ObjectProperty ;
+  rdfs:domain po:PolicyItem ;
+  rdfs:range po:DerivedRepresentation ;
+  rdfs:label "has evidence"@en .
+
+po:hasContentEvidence a owl:ObjectProperty ;
+  rdfs:domain po:PolicyItemContent ;
+  rdfs:range po:DerivedRepresentation ;
+  rdfs:label "has content evidence"@en .
+
+po:hasDisplayText a owl:ObjectProperty ;
+  rdfs:domain po:PolicyItem ;
+  rdfs:range po:DisplayText ;
+  rdfs:label "has display text"@en .
+
+po:hasGroupDisplayText a owl:ObjectProperty ;
+  rdfs:domain po:PolicyItemGroup ;
+  rdfs:range po:DisplayText ;
+  rdfs:label "has group display text"@en .
+
+po:hasContentDisplayText a owl:ObjectProperty ;
+  rdfs:domain po:PolicyItemContent ;
+  rdfs:range po:DisplayText ;
+  rdfs:label "has content display text"@en .
+
+po:representsEvidenceObject a owl:ObjectProperty ;
+  rdfs:domain po:DerivedRepresentation ;
+  rdfs:range po:EvidenceObject ;
+  rdfs:label "represents evidence object"@en .
+
+po:hasTechDomain a owl:ObjectProperty ;
+  rdfs:domain po:PolicyItem ;
+  rdfs:range po:TechnologyDomain ;
+  rdfs:label "has technology domain"@en .
+
+po:hasStrategy a owl:ObjectProperty ;
+  rdfs:domain po:PolicyItem ;
+  rdfs:range po:Strategy ;
+  rdfs:label "has strategy"@en .
+
+po:hasRepresentativeStrategy a owl:ObjectProperty ;
+  rdfs:domain po:PolicyItemGroup ;
+  rdfs:range po:Strategy ;
+  rdfs:label "has representative strategy"@en .
+
+po:hasTechSubdomain a owl:ObjectProperty ;
+  rdfs:domain po:PolicyItem ;
+  rdfs:range po:TechnologySubdomain ;
+  rdfs:label "has technology subdomain"@en .
+
+po:hasRepresentativeTechDomain a owl:ObjectProperty ;
+  rdfs:domain po:PolicyItemGroup ;
+  rdfs:range po:TechnologyDomain ;
+  rdfs:label "has representative technology domain"@en .
+
+po:hasRepresentativeTechSubdomain a owl:ObjectProperty ;
+  rdfs:domain po:PolicyItemGroup ;
+  rdfs:range po:TechnologySubdomain ;
+  rdfs:label "has representative technology subdomain"@en .
+
+po:primaryDocument a owl:ObjectProperty ;
+  rdfs:domain po:Policy ;
+  rdfs:range po:PolicyDocument ;
+  rdfs:label "primary document"@en .
+
+po:displayFor a owl:ObjectProperty ;
+  rdfs:domain po:DisplayText ;
+  rdfs:label "display for"@en .
+
+po:policyStatus a owl:DatatypeProperty ;
+  rdfs:domain po:Policy ;
+  rdfs:range xsd:string ;
+  rdfs:label "policy status"@en .
+
+po:itemStatus a owl:DatatypeProperty ;
+  rdfs:domain po:PolicyItem ;
+  rdfs:range xsd:string ;
+  rdfs:label "item status"@en .
+
+po:groupStatus a owl:DatatypeProperty ;
+  rdfs:domain po:PolicyItemGroup ;
+  rdfs:range xsd:string ;
+  rdfs:label "group status"@en .
+
+po:contentStatus a owl:DatatypeProperty ;
+  rdfs:domain po:PolicyItemContent ;
+  rdfs:range xsd:string ;
+  rdfs:label "content status"@en .
+
+po:contentType a owl:DatatypeProperty ;
+  rdfs:domain po:PolicyItemContent ;
+  rdfs:range xsd:string ;
+  rdfs:label "content type"@en .
+
+po:bucketStatus a owl:DatatypeProperty ;
+  rdfs:domain po:PolicyBucket ;
+  rdfs:range xsd:string ;
+  rdfs:label "bucket status"@en .
+
+po:representationType a owl:DatatypeProperty ;
+  rdfs:domain po:DerivedRepresentation ;
+  rdfs:range xsd:string ;
+  rdfs:label "representation type"@en .
+
+po:displayRole a owl:DatatypeProperty ;
+  rdfs:domain po:DisplayText ;
+  rdfs:range xsd:string ;
+  rdfs:label "display role"@en .
+
+po:locationType a owl:DatatypeProperty ;
+  rdfs:domain po:DerivedRepresentation ;
+  rdfs:range xsd:string ;
+  rdfs:label "location type"@en .
+
+po:locationValue a owl:DatatypeProperty ;
+  rdfs:domain po:DerivedRepresentation ;
+  rdfs:range xsd:string ;
+  rdfs:label "location value"@en .
+
+po:assetPathOrUrl a owl:DatatypeProperty ;
+  rdfs:domain po:SourceAsset ;
+  rdfs:range xsd:string ;
+  rdfs:label "asset path or URL"@en .
+
+po:pageNo a owl:DatatypeProperty ;
+  rdfs:range xsd:string ;
+  rdfs:label "page number"@en .
+
+po:sectionId a owl:DatatypeProperty ;
+  rdfs:range xsd:string ;
+  rdfs:label "section identifier"@en .
+
+po:summaryText a owl:DatatypeProperty ;
+  rdfs:domain po:DisplayText ;
+  rdfs:range xsd:string ;
+  rdfs:label "summary text"@en .
+
+po:descriptionText a owl:DatatypeProperty ;
+  rdfs:domain po:DisplayText ;
+  rdfs:range xsd:string ;
+  rdfs:label "description text"@en .
+
+po:statementText a owl:DatatypeProperty ;
+  rdfs:domain po:PolicyItem ;
+  rdfs:range xsd:string ;
+  rdfs:label "statement text"@en .
+
+po:contentStatementText a owl:DatatypeProperty ;
+  rdfs:domain po:PolicyItemContent ;
+  rdfs:range xsd:string ;
+  rdfs:label "content statement text"@en .
