@@ -10,6 +10,8 @@ type DashboardHeaderProps = {
   matchedContents: number;
   activePolicyName: string | null;
   packId: string;
+  mappingWorkbenchUrl: string;
+  mappingNetworkUrl: string;
 };
 
 export function DashboardHeader({
@@ -20,6 +22,8 @@ export function DashboardHeader({
   matchedContents,
   activePolicyName,
   packId,
+  mappingWorkbenchUrl,
+  mappingNetworkUrl,
 }: DashboardHeaderProps) {
   const signals = [
     {
@@ -64,6 +68,12 @@ export function DashboardHeader({
           <Chip>technology lens pack</Chip>
           <Chip>{packId}</Chip>
           <Chip>{activePolicyName ?? "정책 전체 범위"}</Chip>
+          <a href={mappingWorkbenchUrl} className={styles.headerLink}>
+            정책-기술 매트릭스
+          </a>
+          <a href={mappingNetworkUrl} className={styles.headerLink}>
+            정책-기술 네트워크
+          </a>
         </div>
       </div>
       <div className={styles.signalBoard}>

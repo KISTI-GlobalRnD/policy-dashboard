@@ -854,6 +854,137 @@
   line-height: 1.4;
 }
 
+.networkPanel {
+  min-width: 0;
+  padding: var(--space-5);
+}
+
+.networkHeader {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: var(--space-4);
+  align-items: end;
+  margin-bottom: var(--space-4);
+}
+
+.networkSummary {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: var(--space-3);
+  margin-bottom: var(--space-4);
+}
+
+.networkSummaryCell {
+  display: grid;
+  gap: 6px;
+  padding: 14px 16px;
+  border-radius: 16px;
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  background: rgba(255, 255, 255, 0.78);
+}
+
+.networkSummaryCell strong {
+  font-size: 1.1rem;
+}
+
+.networkSummaryCell span {
+  color: var(--color-text-soft);
+  font-size: 0.8rem;
+}
+
+.networkWrap {
+  overflow: auto;
+  padding: 14px;
+  border-radius: 24px;
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.94), rgba(245, 249, 252, 0.84));
+}
+
+.networkCanvas {
+  width: 100%;
+  min-width: 980px;
+  max-width: 1120px;
+  margin: 0 auto;
+  display: block;
+}
+
+.networkLabel {
+  fill: var(--color-text-soft);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+
+.networkNodeTitle {
+  fill: var(--color-text);
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.networkNodeMeta {
+  fill: var(--color-text-soft);
+  font-size: 0.74rem;
+}
+
+.networkNode {
+  user-select: none;
+}
+
+.policyNode {
+  fill: rgba(17, 163, 154, 0.18);
+}
+
+.policyNodeHighlighted {
+  fill: rgba(14, 165, 233, 0.28);
+}
+
+.policyNodeSelected {
+  fill: #0ea5e9;
+}
+
+.domainNode {
+  fill: rgba(37, 99, 235, 0.2);
+}
+
+.domainNodeHighlighted {
+  fill: rgba(37, 99, 235, 0.42);
+}
+
+.domainNodeSelected {
+  fill: #1d4ed8;
+}
+
+.networkLink {
+  transition: opacity 120ms ease;
+}
+
+.networkLinkLayer {
+  cursor: pointer;
+}
+
+.networkFooter {
+  margin: var(--space-3) 0 0;
+  color: var(--color-text-soft);
+  font-size: 0.8rem;
+}
+
+.networkLabel,
+.networkNodeTitle,
+.networkNodeMeta,
+.networkFooter {
+  pointer-events: none;
+}
+
+.networkNode:focus-visible circle {
+  stroke: #0f172a;
+  stroke-width: 2px;
+}
+
+.networkLink:focus-visible {
+  opacity: 1;
+}
+
 @media (max-width: 1440px) {
   .metricGrid {
     grid-template-columns: repeat(3, minmax(0, 1fr));

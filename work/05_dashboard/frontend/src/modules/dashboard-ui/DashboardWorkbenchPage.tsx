@@ -174,6 +174,22 @@ export function DashboardWorkbenchPage() {
     viewModel.suggestedTechDomainId !== "all" ||
     viewModel.suggestedProjectionStatus !== "all";
 
+  const dashboardLinks = (() => {
+    const params = new URLSearchParams(window.location.search);
+    params.set("view", "mapping");
+    params.delete("board");
+    const mappingWorkbenchHref = `${window.location.pathname}${params.toString() ? `?${params.toString()}` : ""}`;
+
+    const networkParams = new URLSearchParams(params);
+    networkParams.set("board", "network");
+    const mappingNetworkHref = `${window.location.pathname}?${networkParams.toString()}`;
+
+    return {
+      mappingWorkbenchHref,
+      mappingNetworkHref,
+    };
+  })();
+
   return (
     <main className={styles.shell}>
       <DashboardHeader
@@ -184,6 +200,8 @@ export function DashboardWorkbenchPage() {
         matchedContents={viewModel.matchedContentCount}
         activePolicyName={viewModel.activePolicyView?.policy.policy_name ?? null}
         packId={data.sample_scope.pack_id}
+        mappingWorkbenchUrl={dashboardLinks.mappingWorkbenchHref}
+        mappingNetworkUrl={dashboardLinks.mappingNetworkHref}
       />
       <PipelineStrip />
       <FilterBar

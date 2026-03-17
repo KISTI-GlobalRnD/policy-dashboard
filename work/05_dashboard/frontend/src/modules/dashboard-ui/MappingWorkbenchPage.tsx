@@ -11,12 +11,20 @@ import { MappingFilterBar } from "./MappingFilterBar";
 import { MappingHeader } from "./MappingHeader";
 import { PolicyLedgerPanel } from "./PolicyLedgerPanel";
 import { PolicyTechMatrixBoard } from "./PolicyTechMatrixBoard";
+import { PolicyTechNetworkMap } from "./PolicyTechNetworkMap";
 import styles from "./MappingWorkbenchPage.module.css";
 
-export function MappingWorkbenchPage() {
+type MappingBoardMode = "matrix" | "network";
+
+type MappingWorkbenchPageProps = {
+  initialMode?: MappingBoardMode;
+};
+
+export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenchPageProps) {
   const { data, error, isLoading } = useDashboardDataset();
   const [isOverviewOpen, setOverviewOpen] = useState(false);
   const [isFilterOpen, setFilterOpen] = useState(false);
+  const [boardMode, setBoardMode] = useState<MappingBoardMode>(initialMode);
   const {
     search,
     policyFilterId,
@@ -174,6 +182,26 @@ export function MappingWorkbenchPage() {
     selectContent(null);
   };
 
+  const syncBoardModeToUrl = (nextMode: MappingBoardMode) => {
+    const params = new URLSearchParams(window.location.search);
+    params.set("board", nextMode);
+
+    if (nextMode === "matrix") {
+      params.delete("board");
+    }
+
+    window.history.replaceState({}, "", `${window.location.pathname}${params.toString() ? `?${params.toString()}` : ""}`);
+    setBoardMode(nextMode);
+  };
+
+  const dashboardUrl = (() => {
+    const params = new URLSearchParams(window.location.search);
+    params.delete("view");
+    params.delete("board");
+    const query = params.toString();
+    return `${window.location.pathname}${query ? `?${query}` : ""}`;
+  })();
+
   if (isLoading) {
     return (
       <main className={styles.shell}>
@@ -224,6 +252,23 @@ export function MappingWorkbenchPage() {
             onClick={() => setFilterOpen((value) => !value)}
           >
             {isFilterOpen ? `필터 접기 (${formatNumber(activeFilterCount)})` : `필터 보기 (${formatNumber(activeFilterCount)})`}
+          </button>
+          <a href={dashboardUrl} className={styles.pageControlButton}>
+            대시보드로 이동
+          </a>
+          <button
+            type="button"
+            className={boardMode === "matrix" ? styles.tabButtonActive : styles.tabButton}
+            onClick={() => syncBoardModeToUrl("matrix")}
+          >
+            매트릭스
+          </button>
+          <button
+            type="button"
+            className={boardMode === "network" ? styles.tabButtonActive : styles.tabButton}
+            onClick={() => syncBoardModeToUrl("network")}
+          >
+            네트워크
           </button>
         </div>
       </section>
@@ -277,15 +322,27 @@ export function MappingWorkbenchPage() {
             onSelectPolicy={(policyId) => (policyId ? handleSelectPolicySummary(policyId) : clearInspector())}
           />
 
-          <PolicyTechMatrixBoard
-            rows={viewModel.matrixRows}
-            domains={viewModel.matrixDomains}
-            selectedPolicyId={viewModel.suggestedInspectorPolicyId}
-            selectedDomainId={viewModel.suggestedInspectorTechDomainId}
-            onSelectPolicy={(policyId) => (policyId ? handleSelectPolicySummary(policyId) : clearInspector())}
-            onSelectDomain={(domainId) => (domainId ? handleSelectDomainSummary(domainId) : clearInspector())}
-            onSelectCell={selectCell}
-          />
+          {boardMode === "matrix" ? (
+            <PolicyTechMatrixBoard
+              rows={viewModel.matrixRows}
+              domains={viewModel.matrixDomains}
+              selectedPolicyId={viewModel.suggestedInspectorPolicyId}
+              selectedDomainId={viewModel.suggestedInspectorTechDomainId}
+              onSelectPolicy={(policyId) => (policyId ? handleSelectPolicySummary(policyId) : clearInspector())}
+              onSelectDomain={(domainId) => (domainId ? handleSelectDomainSummary(domainId) : clearInspector())}
+              onSelectCell={selectCell}
+            />
+          ) : (
+            <PolicyTechNetworkMap
+              rows={viewModel.matrixRows}
+              domains={viewModel.matrixDomains}
+              selectedPolicyId={viewModel.suggestedInspectorPolicyId}
+              selectedDomainId={viewModel.suggestedInspectorTechDomainId}
+              onSelectPolicy={(policyId) => (policyId ? handleSelectPolicySummary(policyId) : clearInspector())}
+              onSelectDomain={(domainId) => (domainId ? handleSelectDomainSummary(domainId) : clearInspector())}
+              onSelectCell={selectCell}
+            />
+          )}
         </div>
 
         <div className={styles.detailColumn}>

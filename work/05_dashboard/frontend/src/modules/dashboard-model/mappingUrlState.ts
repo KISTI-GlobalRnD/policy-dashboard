@@ -41,7 +41,20 @@ export function readMappingUrlState(): Partial<MappingWorkbenchStoreSnapshot> {
 }
 
 export function writeMappingUrlState(state: MappingWorkbenchStoreSnapshot) {
-  const params = new URLSearchParams();
+  const params = new URLSearchParams(window.location.search);
+
+  [
+    "q",
+    "policyFilter",
+    "resource",
+    "strategy",
+    "tech",
+    "mapping",
+    "review",
+    "inspectPolicy",
+    "inspectDomain",
+    "content",
+  ].forEach((key) => params.delete(key));
 
   if (state.search) params.set("q", state.search);
   if (state.policyFilterId !== "all") params.set("policyFilter", state.policyFilterId);
