@@ -197,6 +197,21 @@ export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenc
     setBoardMode(nextMode);
   };
 
+  useEffect(() => {
+    const syncBoardModeFromUrl = () => {
+      const params = new URLSearchParams(window.location.search);
+      const normalizedBoard = (params.get("board") ?? "").trim().toLowerCase();
+      setBoardMode(normalizedBoard === "network" ? "network" : "matrix");
+    };
+
+    syncBoardModeFromUrl();
+    window.addEventListener("popstate", syncBoardModeFromUrl);
+
+    return () => {
+      window.removeEventListener("popstate", syncBoardModeFromUrl);
+    };
+  }, [setBoardMode]);
+
   if (isLoading) {
     return (
       <main className={styles.shell}>

@@ -14,12 +14,7 @@ function getViewMode(): "mapping-matrix" | "mapping-network" {
   if (
     normalizedView === "network" ||
     normalizedView === "mapping-network" ||
-    normalizedView === "ontology-network" ||
-    normalizedView === "ontology" ||
-    normalizedView === "mapping-ontology-network" ||
-    normalizedBoard === "network" ||
-    normalizedBoard === "ontology-network" ||
-    normalizedBoard === "ontology"
+    normalizedBoard === "network"
   ) {
     return "mapping-network";
   }
