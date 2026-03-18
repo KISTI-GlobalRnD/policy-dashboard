@@ -374,22 +374,20 @@ export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenc
           )}
         </div>
 
-        {boardMode !== "matrix" ? (
-          <div className={styles.detailColumn}>
-            <CellInspectorPanel
-              selectedCell={viewModel.selectedCell}
-              selectedPolicySummary={viewModel.selectedPolicySummary}
-              selectedDomainSummary={viewModel.selectedDomainSummary}
-              selectedCellGroups={viewModel.selectedCellGroups}
-              selectedPolicyUnmappedContents={viewModel.selectedPolicyUnmappedContents}
-              activeContentId={viewModel.suggestedActiveContentId}
-              onOpenCell={selectCell}
-              onSelectContent={selectContent}
-            />
+        <div className={styles.detailColumn}>
+          <CellInspectorPanel
+            selectedCell={viewModel.selectedCell}
+            selectedPolicySummary={viewModel.selectedPolicySummary}
+            selectedDomainSummary={viewModel.selectedDomainSummary}
+            selectedCellGroups={viewModel.selectedCellGroups}
+            selectedPolicyUnmappedContents={viewModel.selectedPolicyUnmappedContents}
+            activeContentId={viewModel.suggestedActiveContentId}
+            onOpenCell={selectCell}
+            onSelectContent={selectContent}
+          />
 
-            {viewModel.activeTrace ? <EvidenceTraceDrawer activeTrace={viewModel.activeTrace} onClose={() => selectContent(null)} /> : null}
-          </div>
-        ) : null}
+          {viewModel.activeTrace ? <EvidenceTraceDrawer activeTrace={viewModel.activeTrace} onClose={() => selectContent(null)} /> : null}
+        </div>
       </section>
     </main>
   );
