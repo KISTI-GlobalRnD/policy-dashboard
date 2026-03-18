@@ -7,4 +7,7 @@
 
 # Bytecode
 *.pyc
+*.pdf
+*.hwp
+*.hwpx
 *.zip
