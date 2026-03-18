@@ -241,7 +241,8 @@ export function PolicyTechNetworkMap({
           <h2 className={styles.sectionTitle}>정책-기술 대분류 네트워크</h2>
         </div>
         <p className={styles.sectionBody}>
-          노드를 클릭하면 기존 매핑 패널의 정책/기술 인스펙터로 이동하고, 엣지를 클릭하면 정책-기술 셀로 드릴다운됩니다.
+          연결 데이터 출처: 현재 화면의 정책×기술 매트릭스(내용 수/근거 수 집계) 기반으로 네트워크를 생성합니다.
+          노드를 클릭하면 인스펙터로 이동하고, 엣지를 클릭하면 해당 정책-기술 셀로 드릴다운됩니다.
         </p>
       </div>
 
