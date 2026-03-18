@@ -267,9 +267,19 @@ export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenc
   };
 
   const dashboardUrl = (() => {
-    const params = new URLSearchParams(window.location.search);
-    params.delete("view");
-    params.delete("board");
+    const params = new URLSearchParams();
+
+    const current = new URLSearchParams(window.location.search);
+
+    const preservedDashboardKeys = new Set(["q", "category", "projection", "strategy", "tech", "limit", "policy", "content"]);
+
+    current.forEach((value, key) => {
+      if (!preservedDashboardKeys.has(key)) {
+        return;
+      }
+      params.set(key, value);
+    });
+
     return buildAppUrl(params);
   })();
 
