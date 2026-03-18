@@ -27,6 +27,18 @@ export function PolicyTechMatrixBoard({
   onSelectCell,
 }: PolicyTechMatrixBoardProps) {
   const hasContent = rows.some((row) => row.cells.some((cell) => cell.contentCount > 0));
+  const matrixPolicyRows = rows;
+  const matrixPolicies = matrixPolicyRows.map((row) => row.policy);
+  const matrixPolicyCellsByPolicy = new Map(
+    matrixPolicyRows.map((row) => [
+      row.policy.policy_id,
+      new Map(row.cells.map((cell) => [cell.techDomainId, cell])),
+    ]),
+  );
+
+  const getCell = (policyId: string, domainId: string) =>
+    matrixPolicyCellsByPolicy.get(policyId)?.get(domainId);
+
   const getReviewPillClassName = (status: "reviewed" | "needs_review" | "mixed" | "empty") =>
     cn(
       styles.matrixReviewPill,
@@ -72,24 +84,30 @@ export function PolicyTechMatrixBoard({
           <table className={styles.matrixTable}>
             <thead>
               <tr>
-                <th className={styles.matrixCorner}>정책 / 기술대분류</th>
-                {domains.map((domain) => (
-                  <th key={domain.termId} className={styles.matrixHeaderCell}>
+                <th className={styles.matrixCorner}>기술대분류 / 정책</th>
+                {matrixPolicies.map((policy) => (
+                  <th key={policy.policy_id} className={styles.matrixHeaderCell}>
                     <button
                       type="button"
                       className={
-                        selectedPolicyId === null && selectedDomainId === domain.termId
+                        selectedDomainId === null && selectedPolicyId === policy.policy_id
                           ? styles.matrixHeaderButtonActive
                           : styles.matrixHeaderButton
                       }
-                      onClick={() => onSelectDomain(selectedPolicyId === null && selectedDomainId === domain.termId ? null : domain.termId)}
+                      onClick={() =>
+                        onSelectPolicy(
+                          selectedDomainId === null && selectedPolicyId === policy.policy_id ? null : policy.policy_id,
+                        )
+                      }
                     >
-                      <span className={styles.matrixHeaderCode}>{domain.shortLabel}</span>
-                      <strong>{domain.label}</strong>
+                      <span className={styles.matrixHeaderCode}>{policy.policy_id}</span>
+                      <strong>{policy.policy_name}</strong>
                       <span>
-                        {formatNumber(domain.mappedPolicyCount)}P / {formatNumber(domain.contentCount)}C
+                        {formatNumber(policy.mappedDomainCount)}개 대분류 / {formatNumber(policy.mappedContentCount)}C
                       </span>
-                      <span className={styles.matrixReviewMeta}>리뷰 완료 {formatNumber(domain.reviewedContentCount)}</span>
+                      <span className={styles.matrixReviewMeta}>
+                        완료 {formatNumber(policy.reviewedContentCount)} / 필요 {formatNumber(policy.needsReviewContentCount)}
+                      </span>
                     </button>
                   </th>
                 ))}
@@ -97,46 +115,82 @@ export function PolicyTechMatrixBoard({
             </thead>
 
             <tbody>
-              {rows.map((row) => (
-                <tr key={row.policy.policy_id}>
+              {domains.map((domain) => (
+                <tr key={domain.termId}>
                   <th className={styles.matrixPolicyCell}>
                     <button
                       type="button"
-                      className={selectedPolicyId === row.policy.policy_id ? styles.matrixPolicyButtonActive : styles.matrixPolicyButton}
-                      onClick={() => onSelectPolicy(selectedPolicyId === row.policy.policy_id ? null : row.policy.policy_id)}
+                      className={
+                        selectedPolicyId === null && selectedDomainId === domain.termId
+                          ? styles.matrixPolicyButtonActive
+                          : styles.matrixPolicyButton
+                      }
+                      onClick={() =>
+                        onSelectDomain(
+                          selectedPolicyId === null && selectedDomainId === domain.termId ? null : domain.termId,
+                        )
+                      }
                     >
-                      <strong>{row.policy.policy_name}</strong>
+                      <span className={styles.matrixHeaderCode}>{domain.shortLabel}</span>
+                      <strong>{domain.label}</strong>
                       <span>
-                        {formatNumber(row.mappedDomainCount)}개 대분류 / {formatNumber(row.mappedContentCount)}C
+                        {formatNumber(domain.mappedPolicyCount)}개 정책 / {formatNumber(domain.contentCount)}C
                       </span>
                       <span className={styles.matrixReviewMeta}>
-                        완료 {formatNumber(row.reviewedContentCount)} / 필요 {formatNumber(row.needsReviewContentCount)}
+                        리뷰 완료 {formatNumber(domain.reviewedContentCount)}
                       </span>
                     </button>
                   </th>
-                  {row.cells.map((cell) => (
-                    <td key={cell.key} className={styles.matrixDataCell}>
-                      <button
-                        type="button"
-                        className={cell.isSelected ? styles.matrixCellButtonActive : styles.matrixCellButton}
-                        onClick={() => onSelectCell(cell.policyId, cell.techDomainId)}
-                        disabled={cell.contentCount === 0}
-                        style={
-                          {
-                            "--cell-intensity": `${Math.max(cell.intensity, cell.contentCount > 0 ? 18 : 0)}%`,
-                          } as CSSProperties
-                        }
-                      >
-                        <strong>{formatNumber(cell.contentCount)}</strong>
-                        <span>
-                          {formatNumber(cell.groupCount)}G / {formatNumber(cell.evidenceCount)}E
-                        </span>
-                        <span className={getReviewPillClassName(cell.reviewStatus)}>
-                          {`${getReviewStateSummaryShortLabel(cell.reviewStatus)} ${formatNumber(cell.reviewedContentCount)}/${formatNumber(cell.contentCount)}`}
-                        </span>
-                      </button>
-                    </td>
-                  ))}
+                  {matrixPolicies.map((policy) => {
+                    const cell = getCell(policy.policy_id, domain.termId);
+                    if (!cell) {
+                      return (
+                        <td key={`${policy.policy_id}:${domain.termId}`} className={styles.matrixDataCell}>
+                          <button
+                            type="button"
+                            className={styles.matrixCellButton}
+                            disabled
+                            style={{ "--cell-intensity": "0%" } as CSSProperties}
+                          >
+                            <strong>0</strong>
+                            <span>0G / 0E</span>
+                            <span className={getReviewPillClassName("empty")}>
+                              {`${getReviewStateSummaryShortLabel("empty")} 0/0`}
+                            </span>
+                          </button>
+                        </td>
+                      );
+                    }
+
+                    return (
+                      <td key={cell.key} className={styles.matrixDataCell}>
+                        <button
+                          type="button"
+                          className={
+                            cell.isSelected ||
+                            (selectedPolicyId === cell.policyId && selectedDomainId === cell.techDomainId)
+                              ? styles.matrixCellButtonActive
+                              : styles.matrixCellButton
+                          }
+                          onClick={() => onSelectCell(cell.policyId, cell.techDomainId)}
+                          disabled={cell.contentCount === 0}
+                          style={
+                            {
+                              "--cell-intensity": `${Math.max(cell.intensity, cell.contentCount > 0 ? 18 : 0)}%`,
+                            } as CSSProperties
+                          }
+                        >
+                          <strong>{formatNumber(cell.contentCount)}</strong>
+                          <span>
+                            {formatNumber(cell.groupCount)}G / {formatNumber(cell.evidenceCount)}E
+                          </span>
+                          <span className={getReviewPillClassName(cell.reviewStatus)}>
+                            {`${getReviewStateSummaryShortLabel(cell.reviewStatus)} ${formatNumber(cell.reviewedContentCount)}/${formatNumber(cell.contentCount)}`}
+                          </span>
+                        </button>
+                      </td>
+                    );
+                  })}
                 </tr>
               ))}
             </tbody>
