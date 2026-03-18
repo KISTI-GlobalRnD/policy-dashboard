@@ -143,21 +143,10 @@ export function PolicyTechMatrixBoard({
                   </th>
                   {matrixPolicies.map((policy) => {
                     const cell = getCell(policy.policy_id, domain.termId);
-                    if (!cell) {
+                    if (!cell || cell.contentCount === 0) {
                       return (
                         <td key={`${policy.policy_id}:${domain.termId}`} className={styles.matrixDataCell}>
-                          <button
-                            type="button"
-                            className={styles.matrixCellButton}
-                            disabled
-                            style={{ "--cell-intensity": "0%" } as CSSProperties}
-                          >
-                            <strong>0</strong>
-                            <span>0G / 0E</span>
-                            <span className={getReviewPillClassName("empty")}>
-                              {`${getReviewStateSummaryShortLabel("empty")} 0/0`}
-                            </span>
-                          </button>
+                          <span className={styles.matrixCellEmpty} aria-hidden="true" />
                         </td>
                       );
                     }

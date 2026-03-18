@@ -533,6 +533,21 @@
   background-position: 0 0, 0 100%;
 }
 
+.matrixCellEmpty {
+  display: block;
+  min-height: 104px;
+  width: 100%;
+  border-radius: 14px;
+  background: repeating-linear-gradient(
+      180deg,
+      rgba(15, 23, 42, 0.07),
+      rgba(15, 23, 42, 0.07) 2px,
+      rgba(15, 23, 42, 0.02) 2px,
+      rgba(15, 23, 42, 0.02) 4px
+    ),
+    rgba(248, 250, 251, 0.7);
+}
+
 .matrixCellButton strong,
 .matrixCellButtonActive strong {
   font-family: var(--font-mono);
