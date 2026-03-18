@@ -23,72 +23,6 @@ type MappingWorkbenchPageProps = {
   initialMode?: MappingBoardMode;
 };
 
-type MappingMode = "matrix" | "network" | "ontology-network";
-
-function buildMappingModeHref(mode: MappingMode, state: {
-  search: string;
-  policyFilterId: string;
-  resourceCategoryId: string;
-  strategyTermId: string;
-  techDomainFilterId: string;
-  mappingStatus: string;
-  reviewStatus: string;
-  inspectorPolicyId: string | null;
-  inspectorTechDomainId: string | null;
-  activeContentId: string | null;
-}) {
-  const params = new URLSearchParams();
-
-  if (state.search) {
-    params.set("q", state.search);
-  }
-
-  if (state.policyFilterId !== "all") {
-    params.set("policyFilter", state.policyFilterId);
-  }
-
-  if (state.resourceCategoryId !== "all") {
-    params.set("resource", state.resourceCategoryId);
-  }
-
-  if (state.strategyTermId !== "all") {
-    params.set("strategy", state.strategyTermId);
-  }
-
-  if (state.techDomainFilterId !== "all") {
-    params.set("tech", state.techDomainFilterId);
-  }
-
-  if (state.mappingStatus !== "all") {
-    params.set("mapping", state.mappingStatus);
-  }
-
-  if (state.reviewStatus !== "all") {
-    params.set("review", state.reviewStatus);
-  }
-
-  if (state.inspectorPolicyId) {
-    params.set("inspectPolicy", state.inspectorPolicyId);
-  }
-
-  if (state.inspectorTechDomainId) {
-    params.set("inspectDomain", state.inspectorTechDomainId);
-  }
-
-  if (state.activeContentId) {
-    params.set("content", state.activeContentId);
-  }
-
-  if (mode !== "matrix") {
-    params.set("view", "mapping");
-    params.set("board", mode);
-  } else {
-    params.set("view", "mapping");
-  }
-
-  return buildAppUrl(params);
-}
-
 export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenchPageProps) {
   const { data, error, isLoading } = useDashboardDataset();
   const { data: ontologyNetworkData, error: ontologyNetworkError, isLoading: isOntologyNetworkLoading } = useOntologyNetworkDataset();
@@ -272,19 +206,6 @@ export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenc
     return buildAppUrl(params);
   })();
 
-  const networkShareUrl = buildMappingModeHref("network", {
-    search,
-    policyFilterId,
-    resourceCategoryId,
-    strategyTermId,
-    techDomainFilterId,
-    mappingStatus,
-    reviewStatus,
-    inspectorPolicyId,
-    inspectorTechDomainId,
-    activeContentId,
-  });
-
   const isOntologyModeLoading = boardMode === "ontology-network" && isOntologyNetworkLoading;
 
   if (isLoading || isOntologyModeLoading) {
@@ -374,9 +295,6 @@ export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenc
           >
             온톨로지 네트워크
           </button>
-          <a href={networkShareUrl} className={styles.pageControlButton}>
-            네트워크 뷰 바로가기
-          </a>
         </div>
       </section>
 
