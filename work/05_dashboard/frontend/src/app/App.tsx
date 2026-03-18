@@ -34,7 +34,7 @@ function getViewMode(): "dashboard" | "mapping-matrix" | "mapping-network" | "ma
     return "mapping-matrix";
   }
 
-  return "dashboard";
+  return "mapping-matrix";
 }
 
 export function App() {
