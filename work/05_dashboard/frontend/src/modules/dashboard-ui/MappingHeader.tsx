@@ -29,11 +29,10 @@ export function MappingHeader({
   return (
     <header className={styles.header}>
       <div className={styles.headerCopy}>
-        <p className={styles.eyebrow}>Policy-Tech Mapping Workbench</p>
-        <h1 className={styles.headerTitle}>정책별 세부 내용을 14개 기술 대분류에 매핑해 읽는 작업면</h1>
+        <p className={styles.eyebrow}>정책-기술 매핑 작업면</p>
+        <h1 className={styles.headerTitle}>정책과 기술 대분류의 매핑 집중도를 빠르게 확인하는 작업면</h1>
         <p className={styles.headerBody}>
-          첫 화면은 더 이상 content table이 아니다. 정책과 기술 대분류의 연결 강도, 공백, 매핑 누락을 먼저 읽고,
-          필요한 경우에만 대표 내용과 원문 근거로 내려간다.
+          정책-기술 연결 강도와 공백을 먼저 확인하고, 필요한 경우에만 대표 내용과 원문 근거로 드릴다운합니다.
         </p>
         <div className={styles.headerChips}>
           <Chip tone="primary">{packId}</Chip>

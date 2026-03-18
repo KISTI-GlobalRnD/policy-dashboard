@@ -3,12 +3,12 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <meta http-equiv="refresh" content="0; url=./frontend/dist/index.html?view=mapping" />
+      <meta http-equiv="refresh" content="0; url=./frontend/dist/index.html?view=matrix" />
     <title>과기부 대시보드로 이동 중</title>
     <script>
       (function () {
-        const next = new URL("./frontend/dist/index.html?view=mapping", window.location.href);
-        next.search = "view=mapping";
+        const next = new URL("./frontend/dist/index.html?view=matrix", window.location.href);
+        next.search = "view=matrix";
         if (next.href !== window.location.href) {
           window.location.replace(next.href);
         }

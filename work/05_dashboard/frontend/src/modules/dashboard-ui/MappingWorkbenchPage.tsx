@@ -185,12 +185,8 @@ export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenc
 
   const syncBoardModeToUrl = (nextMode: MappingBoardMode) => {
     const nextUrl = withCurrentSearch((params) => {
-      params.set("view", "mapping");
-      params.set("board", nextMode);
-
-      if (nextMode === "matrix") {
-        params.delete("board");
-      }
+      params.set("view", nextMode === "network" ? "network" : "matrix");
+      params.delete("board");
     });
 
     window.history.replaceState({}, "", nextUrl);
@@ -200,8 +196,16 @@ export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenc
   useEffect(() => {
     const syncBoardModeFromUrl = () => {
       const params = new URLSearchParams(window.location.search);
+      const normalizedView = (params.get("view") ?? "").trim().toLowerCase();
       const normalizedBoard = (params.get("board") ?? "").trim().toLowerCase();
-      setBoardMode(normalizedBoard === "network" ? "network" : "matrix");
+
+      setBoardMode(
+        normalizedView === "network" ||
+          normalizedBoard === "network" ||
+          normalizedBoard === "mapping-network"
+          ? "network"
+          : "matrix",
+      );
     };
 
     syncBoardModeFromUrl();
@@ -241,7 +245,7 @@ export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenc
       <section className={styles.pageControls}>
         <div className={styles.pageControlsCopy}>
           <p className={styles.eyebrow}>분석 모드</p>
-          <h1 className={styles.pageControlsTitle}>정책별 기술집중을 확인하고 증거로 바로 이동하세요</h1>
+          <h1 className={styles.pageControlsTitle}>정책×기술 집중도와 근거를 한 번에 확인하세요</h1>
           <p className={styles.sectionBody}>
             현재 범위는 정책 {formatNumber(viewModel.visiblePolicyCount)}개, 대표 내용 {formatNumber(viewModel.filteredRows.length)}개,
             활성 필터 {formatNumber(activeFilterCount)}개입니다.
@@ -277,7 +281,7 @@ export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenc
             className={boardMode === "network" ? styles.tabButtonActive : styles.tabButton}
             onClick={() => syncBoardModeToUrl("network")}
           >
-            정책-기술 네트워크
+            정책-기술 연결도
           </button>
         </div>
       </section>

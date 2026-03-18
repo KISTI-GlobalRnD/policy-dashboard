@@ -62,9 +62,9 @@ export function PolicyTechMatrixBoard({
 
   return (
     <Panel className={styles.matrixPanel}>
-      <div className={styles.panelHead}>
+        <div className={styles.panelHead}>
         <div>
-          <p className={styles.eyebrow}>Policy x Tech Domain</p>
+          <p className={styles.eyebrow}>정책×기술 집중도</p>
           <h2 className={styles.sectionTitle}>정책 x 기술 대분류 매트릭스</h2>
         </div>
         <p className={styles.sectionBody}>

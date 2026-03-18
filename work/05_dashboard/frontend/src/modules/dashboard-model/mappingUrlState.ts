@@ -17,6 +17,8 @@ export function readMappingUrlState(): Partial<MappingWorkbenchStoreSnapshot> {
   const resource = params.get("resource");
   const mapping = params.get("mapping");
   const review = params.get("review");
+  const legacyPolicyId = params.get("policy");
+  const legacyContentId = params.get("contentId");
 
   return {
     search: params.get("q") ?? "",
@@ -35,9 +37,9 @@ export function readMappingUrlState(): Partial<MappingWorkbenchStoreSnapshot> {
       review && VALID_REVIEW_STATUSES.has(review as ReviewStatusFilter)
         ? (review as ReviewStatusFilter)
         : "all",
-    inspectorPolicyId: params.get("inspectPolicy"),
+    inspectorPolicyId: params.get("inspectPolicy") ?? legacyPolicyId,
     inspectorTechDomainId: params.get("inspectDomain"),
-    activeContentId: params.get("content"),
+    activeContentId: params.get("content") ?? legacyContentId,
   };
 }
 

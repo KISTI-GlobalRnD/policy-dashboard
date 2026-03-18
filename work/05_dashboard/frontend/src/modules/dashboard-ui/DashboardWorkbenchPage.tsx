@@ -200,11 +200,12 @@ export function DashboardWorkbenchPage() {
       mappingParams.set("content", activeContentId);
     }
 
-    mappingParams.set("view", "mapping");
+    mappingParams.set("view", "matrix");
     const mappingWorkbenchHref = buildAppUrl(mappingParams);
 
     const networkParams = new URLSearchParams(mappingParams);
-    networkParams.set("board", "network");
+    networkParams.set("view", "network");
+    networkParams.delete("board");
     const mappingNetworkHref = buildAppUrl(networkParams);
 
     return {
