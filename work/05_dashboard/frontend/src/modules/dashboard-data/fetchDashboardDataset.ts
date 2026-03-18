@@ -1,12 +1,11 @@
 import curatedContentSamplePackJson from "../../../../../04_ontology/sample_build/curated_content_sample/curated_content_sample_pack.json";
 import curatedContentSampleSummaryJson from "../../../../../04_ontology/sample_build/curated_content_sample/curated_content_sample_summary.json";
+import runtimePackJson from "../../../public/data/mapping-workbench-pack.json";
+import runtimeSummaryJson from "../../../public/data/mapping-workbench-summary.json";
+import runtimeSupportJson from "../../../public/data/mapping-workbench-support.json";
+import fallbackSupportJson from "../../../public/data/mapping-support.json";
 import { adaptDashboardDataset } from "./dashboard.adapter";
 import { dashboardDatasetSchema, dashboardSummarySchema, mappingSupportSchema } from "./dashboard.schema";
-
-const RUNTIME_PACK_PATH = "./data/mapping-workbench-pack.json";
-const RUNTIME_SUMMARY_PATH = "./data/mapping-workbench-summary.json";
-const RUNTIME_SUPPORT_PATH = "./data/mapping-workbench-support.json";
-const FALLBACK_SUPPORT_PATH = "./data/mapping-support.json";
 
 const EMPTY_MAPPING_SUPPORT = mappingSupportSchema.parse({
   content_review_status_by_id: {},
@@ -14,42 +13,26 @@ const EMPTY_MAPPING_SUPPORT = mappingSupportSchema.parse({
   group_tech_review_status_by_key: {},
 });
 
-const buildDataUrl = (path: string) => new URL(path, window.location.href).toString();
+const STATIC_DASHBOARD_DATA = (() => {
+  try {
+    const parsedPack = dashboardDatasetSchema.parse(runtimePackJson);
+    const parsedSummary = dashboardSummarySchema.parse(runtimeSummaryJson);
+    const parsedSupport = mappingSupportSchema.parse(runtimeSupportJson);
+    return adaptDashboardDataset(parsedPack, parsedSummary, parsedSupport);
+  } catch {
+    return null;
+  }
+})();
+
+const EMPTY_SUPPORT = mappingSupportSchema.safeParse(fallbackSupportJson).data ?? EMPTY_MAPPING_SUPPORT;
 
 export async function fetchDashboardDataset() {
-  try {
-    const RUNTIME_PACK_URL = buildDataUrl(RUNTIME_PACK_PATH);
-    const RUNTIME_SUMMARY_URL = buildDataUrl(RUNTIME_SUMMARY_PATH);
-    const RUNTIME_SUPPORT_URL = buildDataUrl(RUNTIME_SUPPORT_PATH);
-    const [packResponse, summaryResponse, supportResponse] = await Promise.all([
-      fetch(RUNTIME_PACK_URL),
-      fetch(RUNTIME_SUMMARY_URL),
-      fetch(RUNTIME_SUPPORT_URL),
-    ]);
-
-    if (packResponse.ok && summaryResponse.ok && supportResponse.ok) {
-      const parsedPack = dashboardDatasetSchema.parse(await packResponse.json());
-      const parsedSummary = dashboardSummarySchema.parse(await summaryResponse.json());
-      const parsedSupport = mappingSupportSchema.parse(await supportResponse.json());
-
-      return adaptDashboardDataset(parsedPack, parsedSummary, parsedSupport);
-    }
-  } catch {
-    // Fall back to the curated in-repo sample when the generated runtime pack is unavailable.
+  if (STATIC_DASHBOARD_DATA) {
+    return STATIC_DASHBOARD_DATA;
   }
 
   const parsedPack = dashboardDatasetSchema.parse(curatedContentSamplePackJson);
   const parsedSummary = dashboardSummarySchema.parse(curatedContentSampleSummaryJson);
 
-  try {
-    const FALLBACK_SUPPORT_URL = buildDataUrl(FALLBACK_SUPPORT_PATH);
-    const response = await fetch(FALLBACK_SUPPORT_URL);
-    if (response.ok) {
-      return adaptDashboardDataset(parsedPack, parsedSummary, mappingSupportSchema.parse(await response.json()));
-    }
-  } catch {
-    return adaptDashboardDataset(parsedPack, parsedSummary, EMPTY_MAPPING_SUPPORT);
-  }
-
-  return adaptDashboardDataset(parsedPack, parsedSummary, EMPTY_MAPPING_SUPPORT);
+  return adaptDashboardDataset(parsedPack, parsedSummary, EMPTY_SUPPORT);
 }

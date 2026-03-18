@@ -57,10 +57,16 @@
 ## 정적 배포
 
 - 위치: `work/05_dashboard/frontend`
-- 동작 방식: 데이터는 `frontend/public/data/*.json`을 브라우저에서 직접 읽습니다. 백엔드 API가 필요 없습니다.
+- 동작 방식: 데이터는 `public/data/*.json`을 번들에 반영해 정적 페이지로만 동작합니다. 백엔드 API가 필요 없습니다.
 - 정적 번들 생성:
   - `npm run build`
   - 산출물: `work/05_dashboard/frontend/dist`
 - 배포:
-  - `dist/` 폴더를 정적 웹서버(예: Nginx, GitHub Pages, S3 + CloudFront)에 업로드합니다.
+  - `dist/` 폴더를 정적 웹서버(예: GitHub Pages, Nginx, S3 + CloudFront)에 업로드합니다.
   - 라우팅은 쿼리 파라미터(`?view=...`, `?board=...`)만 사용하므로 별도 서버 라우팅 규칙이 없습니다.
+- 주의:
+  - `work/05_dashboard/frontend/index.html`은 Vite 개발 진입점입니다. 배포/공유용 파일은 `work/05_dashboard/frontend/dist/index.html`만 사용합니다.
+  - GitHub Pages에서는 `dist/` 업로드 후 별도 서버 로직 없이 동작합니다.
+- 로컬 확인:
+  - `file:///.../dist/index.html`은 모듈 기반 번들(CORS)을 읽지 못해 실패할 수 있습니다.
+  - `npm run preview` 또는 `vite preview`로 `http://` 기반에서 열어 확인하세요.

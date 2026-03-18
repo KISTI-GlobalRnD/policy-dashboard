@@ -5,6 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>과기부 대시보드 워크벤치</title>
   </head>
+  <script>
+    if (
+      window.location.protocol === "file:" &&
+      window.location.pathname.indexOf("/dist/index.html") === -1
+    ) {
+      const next = new URL("./dist/index.html", window.location.href);
+      next.search = window.location.search;
+      if (next.href !== window.location.href) {
+        window.location.replace(next.href);
+      }
+    }
+  </script>
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>

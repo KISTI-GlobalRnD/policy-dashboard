@@ -2,20 +2,14 @@ import technologyLensProjectionJson from "../../../../data-contracts/technology-
 import { technologyLensProjectionSchema } from "./dashboard.schema";
 import type { TechnologyLensProjection } from "./dashboard.types";
 
-const RUNTIME_TECHNOLOGY_LENS_PATH = "./data/technology-lens.json";
-
-const buildDataUrl = (path: string) => new URL(path, window.location.href).toString();
+const STATIC_TECHNOLOGY_LENS_DATA = (() => {
+  try {
+    return technologyLensProjectionSchema.parse(technologyLensProjectionJson);
+  } catch {
+    return technologyLensProjectionSchema.parse({});
+  }
+})();
 
 export async function fetchOntologyNetworkDataset(): Promise<TechnologyLensProjection> {
-  try {
-    const runtimeResponse = await fetch(buildDataUrl(RUNTIME_TECHNOLOGY_LENS_PATH));
-    if (runtimeResponse.ok) {
-      return technologyLensProjectionSchema.parse(await runtimeResponse.json());
-    }
-  } catch {
-    // Continue with repository fallback when runtime JSON is unavailable.
-  }
-
-  return technologyLensProjectionSchema.parse(technologyLensProjectionJson);
+  return STATIC_TECHNOLOGY_LENS_DATA;
 }
-
