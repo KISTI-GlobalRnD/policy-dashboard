@@ -11,12 +11,7 @@
     <script>
       (function () {
         const next = new URL("./work/05_dashboard/frontend/dist/index.html?view=dashboard", window.location.href);
-        if (window.location.search) {
-          next.search = window.location.search || "?view=dashboard";
-        }
-        if (!window.location.search) {
-          next.search = "?view=dashboard";
-        }
+        next.search = "view=dashboard";
         window.location.replace(next.href);
       })();
     </script>

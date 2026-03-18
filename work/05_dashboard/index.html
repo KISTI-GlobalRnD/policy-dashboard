@@ -8,12 +8,7 @@
     <script>
       (function () {
         const next = new URL("./frontend/dist/index.html?view=dashboard", window.location.href);
-        if (window.location.search) {
-          next.search = window.location.search;
-        }
-        if (!next.search || next.search === "?") {
-          next.search = "?view=dashboard";
-        }
+        next.search = "view=dashboard";
         if (next.href !== window.location.href) {
           window.location.replace(next.href);
         }

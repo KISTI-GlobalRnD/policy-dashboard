@@ -179,17 +179,35 @@ export function DashboardWorkbenchPage() {
     viewModel.suggestedProjectionStatus !== "all";
 
   const dashboardLinks = (() => {
-    const params = new URLSearchParams(window.location.search);
-    params.set("view", "mapping");
-    params.delete("board");
-    const mappingWorkbenchHref = buildAppUrl(params);
+    const mappingParams = new URLSearchParams();
 
-    const networkParams = new URLSearchParams(params);
+    if (search) {
+      mappingParams.set("q", search);
+    }
+    if (resourceCategoryId !== "all") {
+      mappingParams.set("resource", resourceCategoryId);
+    }
+    if (strategyTermId !== "all") {
+      mappingParams.set("strategy", strategyTermId);
+    }
+    if (techDomainId !== "all") {
+      mappingParams.set("tech", techDomainId);
+    }
+    if (activePolicyId) {
+      mappingParams.set("inspectPolicy", activePolicyId);
+    }
+    if (activeContentId) {
+      mappingParams.set("content", activeContentId);
+    }
+
+    mappingParams.set("view", "mapping");
+    const mappingWorkbenchHref = buildAppUrl(mappingParams);
+
+    const networkParams = new URLSearchParams(mappingParams);
     networkParams.set("board", "network");
     const mappingNetworkHref = buildAppUrl(networkParams);
 
-    const ontologyNetworkParams = new URLSearchParams(params);
-    ontologyNetworkParams.set("view", "mapping");
+    const ontologyNetworkParams = new URLSearchParams(mappingParams);
     ontologyNetworkParams.set("board", "ontology-network");
     const ontologyNetworkHref = buildAppUrl(ontologyNetworkParams);
 
