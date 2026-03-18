@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>과기부 대시보드 워크벤치</title>
+    <script type="module" crossorigin src="./assets/index-TCH5pnqI.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-BhHbhag8.css">
+  </head>
+  <script>
+    if (
+      window.location.protocol === "file:" &&
+      window.location.pathname.indexOf("/dist/index.html") === -1
+    ) {
+      const next = new URL("./dist/index.html", window.location.href);
+      next.search = window.location.search;
+      if (next.href !== window.location.href) {
+        window.location.replace(next.href);
+      }
+    }
+  </script>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>

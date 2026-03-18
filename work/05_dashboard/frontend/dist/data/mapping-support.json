@@ -1,0 +1,50 @@
+{
+  "content_review_status_by_id": {
+    "PIC-POL-002-01-01": "reviewed",
+    "PIC-POL-002-01-02": "reviewed",
+    "PIC-POL-002-02-01": "reviewed",
+    "PIC-POL-002-02-02": "reviewed",
+    "PIC-POL-002-03-01": "reviewed",
+    "PIC-POL-002-03-02": "reviewed",
+    "PIC-POL-002-04-01": "reviewed",
+    "PIC-POL-011-01-01": "reviewed",
+    "PIC-POL-011-01-02": "reviewed",
+    "PIC-POL-011-02-01": "reviewed",
+    "PIC-POL-011-02-02": "reviewed",
+    "PIC-POL-011-03-01": "reviewed",
+    "PIC-POL-011-03-02": "reviewed",
+    "PIC-POL-005-01-01": "reviewed",
+    "PIC-POL-005-01-02": "reviewed",
+    "PIC-POL-005-02-01": "reviewed",
+    "PIC-POL-005-02-02": "reviewed",
+    "PIC-POL-005-03-01": "reviewed",
+    "PIC-POL-005-03-02": "reviewed"
+  },
+  "group_review_status_by_id": {
+    "PIG-POL-002-01": "reviewed",
+    "PIG-POL-002-02": "reviewed",
+    "PIG-POL-002-03": "reviewed",
+    "PIG-POL-002-04": "reviewed",
+    "PIG-POL-011-01": "reviewed",
+    "PIG-POL-011-02": "reviewed",
+    "PIG-POL-011-03": "reviewed",
+    "PIG-POL-005-01": "reviewed",
+    "PIG-POL-005-02": "reviewed",
+    "PIG-POL-005-03": "reviewed"
+  },
+  "group_tech_review_status_by_key": {
+    "PIG-POL-002-01::TD-001": "reviewed",
+    "PIG-POL-002-01::TD-011": "reviewed",
+    "PIG-POL-002-02::TD-001": "reviewed",
+    "PIG-POL-002-02::TD-011": "reviewed",
+    "PIG-POL-002-03::TD-011": "reviewed",
+    "PIG-POL-002-04::TD-001": "reviewed",
+    "PIG-POL-002-04::TD-011": "reviewed",
+    "PIG-POL-011-01::TD-001": "reviewed",
+    "PIG-POL-011-02::TD-001": "reviewed",
+    "PIG-POL-011-03::TD-001": "reviewed",
+    "PIG-POL-005-01::TD-009": "reviewed",
+    "PIG-POL-005-02::TD-009": "reviewed",
+    "PIG-POL-005-03::TD-009": "reviewed"
+  }
+}

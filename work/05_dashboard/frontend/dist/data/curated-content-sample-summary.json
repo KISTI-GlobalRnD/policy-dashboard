@@ -1,0 +1,43 @@
+{
+  "contract_level": "manual_sample_reference",
+  "policy_count": 3,
+  "group_count": 10,
+  "content_count": 19,
+  "group_member_count": 39,
+  "content_evidence_count": 40,
+  "group_taxonomy_count": 39,
+  "display_text_count": 29,
+  "included_representation_types": [
+    "canonical_table",
+    "figure_or_diagram",
+    "normalized_paragraph"
+  ],
+  "included_taxonomy_types": [
+    "strategy",
+    "tech_domain",
+    "tech_subdomain"
+  ],
+  "limitations": [
+    "This pack is a manual sample, not an authoritative full curation layer.",
+    "Current sample evidence is still paragraph-first; it includes one canonical_table example and one figure example.",
+    "Current sample taxonomy examples include strategy, tech_domain, and tech_subdomain, but not every group is exhaustively curated.",
+    "Use ontology master tables and validation outputs for strict traceability checks."
+  ],
+  "policies": [
+    {
+      "policy_id": "POL-002",
+      "policy_name": "AI-바이오 국가전략",
+      "bucket_count": 3
+    },
+    {
+      "policy_id": "POL-011",
+      "policy_name": "정부 AX사업 전주기 원스톱 지원방안",
+      "bucket_count": 2
+    },
+    {
+      "policy_id": "POL-005",
+      "policy_name": "AI반도체 산업 도약 전략",
+      "bucket_count": 3
+    }
+  ]
+}

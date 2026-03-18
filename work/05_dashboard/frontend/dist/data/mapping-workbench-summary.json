@@ -1,0 +1,41 @@
+{
+  "policy_count": 6,
+  "group_count": 35,
+  "content_count": 44,
+  "group_member_count": 64,
+  "content_evidence_count": 65,
+  "group_taxonomy_count": 116,
+  "display_text_count": 0,
+  "policies": [
+    {
+      "policy_id": "POL-001",
+      "policy_name": "123대 국정과제",
+      "bucket_count": 2
+    },
+    {
+      "policy_id": "POL-002",
+      "policy_name": "AI-바이오 국가전략",
+      "bucket_count": 3
+    },
+    {
+      "policy_id": "POL-004",
+      "policy_name": "AI시대 대한민국 네트워크 전략",
+      "bucket_count": 2
+    },
+    {
+      "policy_id": "POL-005",
+      "policy_name": "AI반도체 산업 도약 전략",
+      "bucket_count": 3
+    },
+    {
+      "policy_id": "POL-007",
+      "policy_name": "기초연구 생태계 육성 방안",
+      "bucket_count": 1
+    },
+    {
+      "policy_id": "POL-011",
+      "policy_name": "정부 AX사업 전주기 원스톱 지원방안",
+      "bucket_count": 2
+    }
+  ]
+}
