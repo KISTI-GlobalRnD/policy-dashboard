@@ -14,7 +14,7 @@ import { PolicyTechMatrixBoard } from "./PolicyTechMatrixBoard";
 import { PolicyTechNetworkMap } from "./PolicyTechNetworkMap";
 import { OntologyTechNetworkMap } from "./OntologyTechNetworkMap";
 import { useOntologyNetworkDataset } from "../dashboard-data/useOntologyNetworkDataset";
-import { buildAppUrl, withCurrentSearch } from "../../shared/lib/route";
+import { withCurrentSearch } from "../../shared/lib/route";
 import styles from "./MappingWorkbenchPage.module.css";
 
 type MappingBoardMode = "matrix" | "network" | "ontology-network";
@@ -200,12 +200,6 @@ export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenc
     setBoardMode(nextMode);
   };
 
-  const dashboardUrl = (() => {
-    const params = new URLSearchParams();
-    params.set("view", "dashboard");
-    return buildAppUrl(params);
-  })();
-
   const isOntologyModeLoading = boardMode === "ontology-network" && isOntologyNetworkLoading;
 
   if (isLoading || isOntologyModeLoading) {
@@ -262,38 +256,37 @@ export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenc
             className={isOverviewOpen ? styles.pageControlButtonActive : styles.pageControlButton}
             onClick={() => setOverviewOpen((value) => !value)}
           >
-            {isOverviewOpen ? "개요 접기" : "개요 보기"}
+            {isOverviewOpen ? "요약 패널 접기" : "요약 패널 보기"}
           </button>
           <button
             type="button"
             className={isFilterOpen ? styles.pageControlButtonActive : styles.pageControlButton}
             onClick={() => setFilterOpen((value) => !value)}
           >
-            {isFilterOpen ? `필터 접기 (${formatNumber(activeFilterCount)})` : `필터 보기 (${formatNumber(activeFilterCount)})`}
+            {isFilterOpen
+              ? `필터 패널 접기 (${formatNumber(activeFilterCount)})`
+              : `필터 패널 보기 (${formatNumber(activeFilterCount)})`}
           </button>
-          <a href={dashboardUrl} className={styles.pageControlButton}>
-            대시보드로 이동
-          </a>
           <button
             type="button"
             className={boardMode === "matrix" ? styles.tabButtonActive : styles.tabButton}
             onClick={() => syncBoardModeToUrl("matrix")}
           >
-            매트릭스
+            정책 × 기술 매트릭스
           </button>
           <button
             type="button"
             className={boardMode === "network" ? styles.tabButtonActive : styles.tabButton}
             onClick={() => syncBoardModeToUrl("network")}
           >
-            네트워크
+            정책-기술 네트워크
           </button>
           <button
             type="button"
             className={boardMode === "ontology-network" ? styles.tabButtonActive : styles.tabButton}
             onClick={() => syncBoardModeToUrl("ontology-network")}
           >
-            온톨로지 네트워크
+            온톨로지 기반 네트워크
           </button>
         </div>
       </section>
