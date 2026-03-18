@@ -1,9 +1,15 @@
 /tmp/
 /scripts/__pycache__/
 /work/releases/
-/work/05_dashboard/frontend/dist/
 /work/05_dashboard/frontend/dist-snapshots/
 /work/05_dashboard/frontend/node_modules/
+
+# Keep deployment bundle for GitHub Pages, but avoid unneeded source assets.
+/work/05_dashboard/frontend/dist/*
+!/work/05_dashboard/frontend/dist/index.html
+!/work/05_dashboard/frontend/dist/assets/
+!/work/05_dashboard/frontend/dist/data/
+/work/05_dashboard/frontend/dist/source-assets/
 
 # Bytecode
 *.pyc
