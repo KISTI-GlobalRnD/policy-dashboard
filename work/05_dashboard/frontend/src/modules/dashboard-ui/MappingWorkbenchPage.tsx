@@ -268,18 +268,7 @@ export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenc
 
   const dashboardUrl = (() => {
     const params = new URLSearchParams();
-
-    const current = new URLSearchParams(window.location.search);
-
-    const preservedDashboardKeys = new Set(["q", "category", "projection", "strategy", "tech", "limit", "policy", "content"]);
-
-    current.forEach((value, key) => {
-      if (!preservedDashboardKeys.has(key)) {
-        return;
-      }
-      params.set(key, value);
-    });
-
+    params.set("view", "dashboard");
     return buildAppUrl(params);
   })();
 
