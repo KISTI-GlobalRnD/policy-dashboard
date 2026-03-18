@@ -313,16 +313,6 @@ export function buildOntologyNetworkBoard(
     };
   }
 
-  const rowGap = 132;
-  const chartWidth = (() => {
-    const maxNodesInRow = Math.max(visiblePolicyNodes.length, visibleDomainNodes.length, 1);
-    return Math.max(680, Math.min(1320, maxNodesInRow * 150 + 140));
-  })();
-  const chartHeight = Math.max(300, Math.min(460, rowGap + 190));
-  const xPadding = 72;
-  const policyY = chartHeight * 0.34;
-  const domainY = chartHeight * 0.74;
-
   const activePolicyIds = new Set(
     [...filteredPolicyIds].filter((policyId) => {
       const policyNode = policyNodeList.find((entry) => entry.policyId === policyId);
@@ -334,6 +324,15 @@ export function buildOntologyNetworkBoard(
     .filter((node) => activePolicyIds.has(node.policyId!))
     .sort((left, right) => right.contentCount - left.contentCount);
   const visibleDomainNodes = domainNodeList.sort((left, right) => right.contentCount - left.contentCount);
+  const rowGap = 132;
+  const chartWidth = (() => {
+    const maxNodesInRow = Math.max(visiblePolicyNodes.length, visibleDomainNodes.length, 1);
+    return Math.max(680, Math.min(1320, maxNodesInRow * 150 + 140));
+  })();
+  const chartHeight = Math.max(300, Math.min(460, rowGap + 190));
+  const xPadding = 72;
+  const policyY = chartHeight * 0.34;
+  const domainY = chartHeight * 0.74;
   const maxConnections = Math.max(
     1,
     ...visiblePolicyNodes.flatMap((policyNode) =>
