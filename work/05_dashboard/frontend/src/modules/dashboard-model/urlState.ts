@@ -55,8 +55,6 @@ export function writeDashboardUrlState(state: DashboardStoreSnapshot) {
   if (state.techDomainId !== "all") params.set("tech", state.techDomainId);
   if (state.projectionStatus !== "all") params.set("projection", state.projectionStatus);
   if (state.rowLimit !== 12) params.set("limit", String(state.rowLimit));
-  if (state.activePolicyId) params.set("policy", state.activePolicyId);
-  if (state.activeContentId) params.set("content", state.activeContentId);
 
   const next = buildAppUrl(params);
   window.history.replaceState({}, "", next);
