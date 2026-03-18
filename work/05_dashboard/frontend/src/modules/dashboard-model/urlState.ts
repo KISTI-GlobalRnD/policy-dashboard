@@ -1,5 +1,6 @@
 import type { ProjectionFilterId, ResourceCategoryId } from "../dashboard-data/dashboard.types";
 import type { DashboardStoreSnapshot } from "./dashboardStore";
+import { buildAppUrl } from "../../shared/lib/route";
 
 const VALID_RESOURCE_CATEGORIES = new Set<ResourceCategoryId>([
   "all",
@@ -57,6 +58,6 @@ export function writeDashboardUrlState(state: DashboardStoreSnapshot) {
   if (state.activePolicyId) params.set("policy", state.activePolicyId);
   if (state.activeContentId) params.set("content", state.activeContentId);
 
-  const next = `${window.location.pathname}${params.toString() ? `?${params.toString()}` : ""}`;
+  const next = buildAppUrl(params);
   window.history.replaceState({}, "", next);
 }

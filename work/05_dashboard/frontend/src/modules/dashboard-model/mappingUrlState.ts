@@ -1,5 +1,6 @@
 import type { ResourceCategoryId } from "../dashboard-data/dashboard.types";
 import type { MappingWorkbenchStoreSnapshot, MappingStatusFilter, ReviewStatusFilter } from "./mappingWorkbenchStore";
+import { buildAppUrl } from "../../shared/lib/route";
 
 const VALID_RESOURCE_CATEGORIES = new Set<ResourceCategoryId>([
   "all",
@@ -67,6 +68,6 @@ export function writeMappingUrlState(state: MappingWorkbenchStoreSnapshot) {
   if (state.inspectorTechDomainId) params.set("inspectDomain", state.inspectorTechDomainId);
   if (state.activeContentId) params.set("content", state.activeContentId);
 
-  const next = `${window.location.pathname}${params.toString() ? `?${params.toString()}` : ""}`;
+  const next = buildAppUrl(params);
   window.history.replaceState({}, "", next);
 }

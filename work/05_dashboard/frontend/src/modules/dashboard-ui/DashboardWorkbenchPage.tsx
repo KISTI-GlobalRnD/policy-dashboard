@@ -4,6 +4,7 @@ import { useDashboardDataset } from "../dashboard-data/useDashboardDataset";
 import { buildDashboardViewModel } from "../dashboard-model/dashboardSelectors";
 import { useDashboardStore } from "../dashboard-model/dashboardStore";
 import { readDashboardUrlState, writeDashboardUrlState } from "../dashboard-model/urlState";
+import { buildAppUrl } from "../../shared/lib/route";
 import { DashboardHeader } from "./DashboardHeader";
 import { EvidenceBoard } from "./EvidenceBoard";
 import { FilterBar } from "./FilterBar";
@@ -181,16 +182,16 @@ export function DashboardWorkbenchPage() {
     const params = new URLSearchParams(window.location.search);
     params.set("view", "mapping");
     params.delete("board");
-    const mappingWorkbenchHref = `${window.location.pathname}${params.toString() ? `?${params.toString()}` : ""}`;
+    const mappingWorkbenchHref = buildAppUrl(params);
 
     const networkParams = new URLSearchParams(params);
     networkParams.set("board", "network");
-    const mappingNetworkHref = `${window.location.pathname}?${networkParams.toString()}`;
+    const mappingNetworkHref = buildAppUrl(networkParams);
 
     const ontologyNetworkParams = new URLSearchParams(params);
     ontologyNetworkParams.set("view", "mapping");
     ontologyNetworkParams.set("board", "ontology-network");
-    const ontologyNetworkHref = `${window.location.pathname}?${ontologyNetworkParams.toString()}`;
+    const ontologyNetworkHref = buildAppUrl(ontologyNetworkParams);
 
     return {
       mappingWorkbenchHref,

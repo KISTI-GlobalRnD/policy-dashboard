@@ -5,20 +5,32 @@ function getViewMode(): "dashboard" | "mapping-matrix" | "mapping-network" | "ma
   const params = new URLSearchParams(window.location.search);
   const view = params.get("view");
   const board = params.get("board");
+  const normalizedView = (view ?? "").trim().toLowerCase();
+  const normalizedBoard = (board ?? "").trim().toLowerCase();
 
-  if (view === "dashboard") {
+  if (normalizedView === "dashboard") {
     return "dashboard";
   }
 
-  if (view === "network" || board === "network") {
+  if (
+    normalizedView === "network" ||
+    normalizedView === "mapping-network" ||
+    normalizedBoard === "network"
+  ) {
     return "mapping-network";
   }
 
-  if (board === "ontology-network" || board === "ontology") {
+  if (
+    normalizedView === "ontology-network" ||
+    normalizedView === "ontology" ||
+    normalizedView === "mapping-ontology-network" ||
+    normalizedBoard === "ontology-network" ||
+    normalizedBoard === "ontology"
+  ) {
     return "mapping-ontology-network";
   }
 
-  if (view === "mapping") {
+  if (normalizedView === "mapping" || normalizedView === "matrix" || normalizedView === "mapping-matrix") {
     return "mapping-matrix";
   }
 

@@ -14,6 +14,7 @@ import { PolicyTechMatrixBoard } from "./PolicyTechMatrixBoard";
 import { PolicyTechNetworkMap } from "./PolicyTechNetworkMap";
 import { OntologyTechNetworkMap } from "./OntologyTechNetworkMap";
 import { useOntologyNetworkDataset } from "../dashboard-data/useOntologyNetworkDataset";
+import { buildAppUrl, withCurrentSearch } from "../../shared/lib/route";
 import styles from "./MappingWorkbenchPage.module.css";
 
 type MappingBoardMode = "matrix" | "network" | "ontology-network";
@@ -85,7 +86,7 @@ function buildMappingModeHref(mode: MappingMode, state: {
     params.set("view", "mapping");
   }
 
-  return `${window.location.pathname}${params.toString() ? `?${params.toString()}` : ""}`;
+  return buildAppUrl(params);
 }
 
 export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenchPageProps) {
@@ -252,14 +253,16 @@ export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenc
   };
 
   const syncBoardModeToUrl = (nextMode: MappingBoardMode) => {
-    const params = new URLSearchParams(window.location.search);
-    params.set("board", nextMode);
+    const nextUrl = withCurrentSearch((params) => {
+      params.set("view", "mapping");
+      params.set("board", nextMode);
 
-    if (nextMode === "matrix") {
-      params.delete("board");
-    }
+      if (nextMode === "matrix") {
+        params.delete("board");
+      }
+    });
 
-    window.history.replaceState({}, "", `${window.location.pathname}${params.toString() ? `?${params.toString()}` : ""}`);
+    window.history.replaceState({}, "", nextUrl);
     setBoardMode(nextMode);
   };
 
@@ -267,8 +270,7 @@ export function MappingWorkbenchPage({ initialMode = "matrix" }: MappingWorkbenc
     const params = new URLSearchParams(window.location.search);
     params.delete("view");
     params.delete("board");
-    const query = params.toString();
-    return `${window.location.pathname}${query ? `?${query}` : ""}`;
+    return buildAppUrl(params);
   })();
 
   const networkShareUrl = buildMappingModeHref("network", {
